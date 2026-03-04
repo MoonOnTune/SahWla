@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 14 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "أطعمة من حول العالم",
+      "name_en": "Food Around the World",
+      "questions": [
+        {
+          "id": "CAT14-200-001",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق ياباني يعتمد على أرز متبل وغالبًا مكونات بحرية؟",
+          "answer_ar": "السوشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-002",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق ياباني يعتمد على أرز متبل وغالبًا مكونات بحرية؟",
+          "answer_ar": "السوشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-003",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو حساء نودلز ياباني شهير؟",
+          "answer_ar": "الرامن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-004",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو حساء نودلز ياباني شهير؟",
+          "answer_ar": "الرامن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-005",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق إيطالي مخبوز بعجين دائري وصلصة طماطم؟",
+          "answer_ar": "البيتزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-006",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق إيطالي مخبوز بعجين دائري وصلصة طماطم؟",
+          "answer_ar": "البيتزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-007",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي فئة أطباق إيطالية تعتمد على المعكرونة؟",
+          "answer_ar": "الباستا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-008",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي فئة أطباق إيطالية تعتمد على المعكرونة؟",
+          "answer_ar": "الباستا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-009",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق إيطالي من الأرز الكريمي؟",
+          "answer_ar": "الريزوتو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-010",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق إيطالي من الأرز الكريمي؟",
+          "answer_ar": "الريزوتو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-011",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق إسباني من الأرز والزعفران؟",
+          "answer_ar": "الباييّا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-012",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق إسباني من الأرز والزعفران؟",
+          "answer_ar": "الباييّا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-013",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو معجن فرنسي مشهور بشكل هلال؟",
+          "answer_ar": "الكرواسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-014",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو معجن فرنسي مشهور بشكل هلال؟",
+          "answer_ar": "الكرواسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-015",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو فطيرة فرنسية رقيقة جدًا؟",
+          "answer_ar": "الكريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-016",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو فطيرة فرنسية رقيقة جدًا؟",
+          "answer_ar": "الكريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-017",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق مكسيكي يقدم داخل خبز تورتيلا؟",
+          "answer_ar": "التاكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-018",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق مكسيكي يقدم داخل خبز تورتيلا؟",
+          "answer_ar": "التاكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-019",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق مكسيكي أساسه الأفوكادو المهروس؟",
+          "answer_ar": "الغواكامولي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-020",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق مكسيكي أساسه الأفوكادو المهروس؟",
+          "answer_ar": "الغواكامولي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-021",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو حساء نودلز من المطبخ الفيتنامي؟",
+          "answer_ar": "الفو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-022",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو حساء نودلز من المطبخ الفيتنامي؟",
+          "answer_ar": "الفو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-023",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق نودلز تايلندي مقلي؟",
+          "answer_ar": "الباد تاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-024",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق نودلز تايلندي مقلي؟",
+          "answer_ar": "الباد تاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-025",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو حساء تايلندي حار وحامض؟",
+          "answer_ar": "التوم يوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-026",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو حساء تايلندي حار وحامض؟",
+          "answer_ar": "التوم يوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-027",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق كوري مخمّر غالبًا من الملفوف؟",
+          "answer_ar": "الكيمتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-028",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق كوري مخمّر غالبًا من الملفوف؟",
+          "answer_ar": "الكيمتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-029",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق كوري يجمع الأرز مع مكونات متنوعة؟",
+          "answer_ar": "البيبيمباب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-030",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق كوري يجمع الأرز مع مكونات متنوعة؟",
+          "answer_ar": "البيبيمباب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-031",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق أرز متبّل شائع في جنوب آسيا؟",
+          "answer_ar": "البرياني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-032",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق أرز متبّل شائع في جنوب آسيا؟",
+          "answer_ar": "البرياني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-033",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق من العدس أو البقول في المطبخ الهندي؟",
+          "answer_ar": "الدال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-034",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق من العدس أو البقول في المطبخ الهندي؟",
+          "answer_ar": "الدال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-035",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق كندي يجمع بطاطس مقلية وجبن وصوص؟",
+          "answer_ar": "البوتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-036",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق كندي يجمع بطاطس مقلية وجبن وصوص؟",
+          "answer_ar": "البوتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-037",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق بيروفي يعتمد على نقع السمك النيئ بعصير الحمضيات؟",
+          "answer_ar": "السيفيتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-038",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق بيروفي يعتمد على نقع السمك النيئ بعصير الحمضيات؟",
+          "answer_ar": "السيفيتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-039",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق برازيلي تقليدي من الفاصوليا واللحم؟",
+          "answer_ar": "الفيجوادا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-040",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق برازيلي تقليدي من الفاصوليا واللحم؟",
+          "answer_ar": "الفيجوادا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-041",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق نمساوي من شرائح لحم رفيعة مغطاة ومقلية؟",
+          "answer_ar": "الشنيتزل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-042",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق نمساوي من شرائح لحم رفيعة مغطاة ومقلية؟",
+          "answer_ar": "الشنيتزل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-043",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق مجري يعتمد على لحم مطهو مع بابريكا؟",
+          "answer_ar": "الغولاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-044",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق مجري يعتمد على لحم مطهو مع بابريكا؟",
+          "answer_ar": "الغولاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-045",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق بريطاني من سمك مقلي مع بطاطس؟",
+          "answer_ar": "فيش آند تشيبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-046",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق بريطاني من سمك مقلي مع بطاطس؟",
+          "answer_ar": "فيش آند تشيبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-047",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق مغاربي يعتمد على سميد مطهو بالبخار؟",
+          "answer_ar": "الكسكسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-048",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق مغاربي يعتمد على سميد مطهو بالبخار؟",
+          "answer_ar": "الكسكسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-049",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طبق من الحمص المهروس مع الطحينة؟",
+          "answer_ar": "الحمص",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-200-050",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طبق من الحمص المهروس مع الطحينة؟",
+          "answer_ar": "الحمص",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-001",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يقدم غالبًا مع واسابي وصلصة الصويا. ما هو؟",
+          "answer_ar": "السوشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-002",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يقدم غالبًا مع واسابي وصلصة الصويا»، ما الإجابة الأدق؟",
+          "answer_ar": "السوشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-003",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يقدم بمرق غني وتعلوه إضافات مثل البيض واللحم. ما هو؟",
+          "answer_ar": "الرامن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-004",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يقدم بمرق غني وتعلوه إضافات مثل البيض واللحم»، ما الإجابة الأدق؟",
+          "answer_ar": "الرامن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-005",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يشتهر بإضافة الجبن ومكونات متنوعة على السطح. ما هو؟",
+          "answer_ar": "البيتزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-006",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يشتهر بإضافة الجبن ومكونات متنوعة على السطح»، ما الإجابة الأدق؟",
+          "answer_ar": "البيتزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-007",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: لها أشكال كثيرة وتقدم بصلصات مختلفة. ما هو؟",
+          "answer_ar": "الباستا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-008",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «لها أشكال كثيرة وتقدم بصلصات مختلفة»، ما الإجابة الأدق؟",
+          "answer_ar": "الباستا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-009",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يطهى تدريجيًا بمرق ساخن حتى قوام ناعم. ما هو؟",
+          "answer_ar": "الريزوتو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-010",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يطهى تدريجيًا بمرق ساخن حتى قوام ناعم»، ما الإجابة الأدق؟",
+          "answer_ar": "الريزوتو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-011",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يرتبط بمدينة فالنسيا ويضم غالبًا مأكولات بحرية أو لحومًا. ما هو؟",
+          "answer_ar": "الباييّا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-012",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يرتبط بمدينة فالنسيا ويضم غالبًا مأكولات بحرية أو لحومًا»، ما الإجابة الأدق؟",
+          "answer_ar": "الباييّا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-013",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يصنع من عجين مورق متعدد الطبقات. ما هو؟",
+          "answer_ar": "الكرواسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-014",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يصنع من عجين مورق متعدد الطبقات»، ما الإجابة الأدق؟",
+          "answer_ar": "الكرواسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-015",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تقدم بحشوات حلوة أو مالحة. ما هو؟",
+          "answer_ar": "الكريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-016",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تقدم بحشوات حلوة أو مالحة»، ما الإجابة الأدق؟",
+          "answer_ar": "الكريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-017",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يحشى عادة بلحم أو خضار ويضاف له صلصات. ما هو؟",
+          "answer_ar": "التاكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-018",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يحشى عادة بلحم أو خضار ويضاف له صلصات»، ما الإجابة الأدق؟",
+          "answer_ar": "التاكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-019",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يضاف إليه عادة ليمون وبصل وكزبرة. ما هو؟",
+          "answer_ar": "الغواكامولي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-020",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يضاف إليه عادة ليمون وبصل وكزبرة»، ما الإجابة الأدق؟",
+          "answer_ar": "الغواكامولي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-021",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يعتمد على مرق عطري وأعشاب طازجة. ما هو؟",
+          "answer_ar": "الفو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-022",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يعتمد على مرق عطري وأعشاب طازجة»، ما الإجابة الأدق؟",
+          "answer_ar": "الفو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-023",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يشتهر بمزيج الحلاوة والحموضة وصلصة السمك. ما هو؟",
+          "answer_ar": "الباد تاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-024",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يشتهر بمزيج الحلاوة والحموضة وصلصة السمك»، ما الإجابة الأدق؟",
+          "answer_ar": "الباد تاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-025",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يشتهر بعشب الليمون وأوراق الكافير. ما هو؟",
+          "answer_ar": "التوم يوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-026",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يشتهر بعشب الليمون وأوراق الكافير»، ما الإجابة الأدق؟",
+          "answer_ar": "التوم يوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-027",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يرتبط بالمطبخ الكوري كناتج تخمير حار. ما هو؟",
+          "answer_ar": "الكيمتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-028",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يرتبط بالمطبخ الكوري كناتج تخمير حار»، ما الإجابة الأدق؟",
+          "answer_ar": "الكيمتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-029",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يقدم غالبًا مع صلصة غوتشوجانغ وبيضة. ما هو؟",
+          "answer_ar": "البيبيمباب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-030",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يقدم غالبًا مع صلصة غوتشوجانغ وبيضة»، ما الإجابة الأدق؟",
+          "answer_ar": "البيبيمباب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-031",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يحضّر بطبقات أرز ولحم أو دجاج وتوابل قوية. ما هو؟",
+          "answer_ar": "البرياني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-032",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يحضّر بطبقات أرز ولحم أو دجاج وتوابل قوية»، ما الإجابة الأدق؟",
+          "answer_ar": "البرياني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-033",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يطهى بالتوابل ويقدّم غالبًا مع الأرز أو الخبز. ما هو؟",
+          "answer_ar": "الدال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-034",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يطهى بالتوابل ويقدّم غالبًا مع الأرز أو الخبز»، ما الإجابة الأدق؟",
+          "answer_ar": "الدال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-035",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: نشأ في كيبك ويعد من أشهر أطباق الراحة الكندية. ما هو؟",
+          "answer_ar": "البوتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-036",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «نشأ في كيبك ويعد من أشهر أطباق الراحة الكندية»، ما الإجابة الأدق؟",
+          "answer_ar": "البوتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-037",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يشتهر بإضافة بصل وكزبرة وفلفل حار. ما هو؟",
+          "answer_ar": "السيفيتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-038",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يشتهر بإضافة بصل وكزبرة وفلفل حار»، ما الإجابة الأدق؟",
+          "answer_ar": "السيفيتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-039",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يعد طبقًا وطنيًا شائعًا في البرازيل. ما هو؟",
+          "answer_ar": "الفيجوادا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-040",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يعد طبقًا وطنيًا شائعًا في البرازيل»، ما الإجابة الأدق؟",
+          "answer_ar": "الفيجوادا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-041",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: نسخته المعروفة فيينا شنِتسل ترتبط بلحم العجل. ما هو؟",
+          "answer_ar": "الشنيتزل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-042",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «نسخته المعروفة فيينا شنِتسل ترتبط بلحم العجل»، ما الإجابة الأدق؟",
+          "answer_ar": "الشنيتزل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-043",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يقدَّم كحساء كثيف أو يخنة حسب المنطقة. ما هو؟",
+          "answer_ar": "الغولاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-044",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يقدَّم كحساء كثيف أو يخنة حسب المنطقة»، ما الإجابة الأدق؟",
+          "answer_ar": "الغولاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-045",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يرتبط بمحال الوجبات السريعة التقليدية في بريطانيا. ما هو؟",
+          "answer_ar": "فيش آند تشيبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-046",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يرتبط بمحال الوجبات السريعة التقليدية في بريطانيا»، ما الإجابة الأدق؟",
+          "answer_ar": "فيش آند تشيبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-047",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يقدم مع خضار ولحم أو حمص في بلدان شمال أفريقيا. ما هو؟",
+          "answer_ar": "الكسكسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-048",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يقدم مع خضار ولحم أو حمص في بلدان شمال أفريقيا»، ما الإجابة الأدق؟",
+          "answer_ar": "الكسكسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-049",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يرتبط بمطابخ بلاد الشام ويقدم كمقبل بارد. ما هو؟",
+          "answer_ar": "الحمص",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-400-050",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يرتبط بمطابخ بلاد الشام ويقدم كمقبل بارد»، ما الإجابة الأدق؟",
+          "answer_ar": "الحمص",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "food traditions and cultural culinary practices"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-001",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق ياباني يعتمد على أرز متبل وغالبًا مكونات بحرية. 2) يقدم غالبًا مع واسابي وصلصة الصويا. ما الجواب؟",
+          "answer_ar": "السوشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-002",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق ياباني يعتمد على أرز متبل وغالبًا مكونات بحرية، وكذلك يقدم غالبًا مع واسابي وصلصة الصويا؟",
+          "answer_ar": "السوشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-003",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو حساء نودلز ياباني شهير. 2) يقدم بمرق غني وتعلوه إضافات مثل البيض واللحم. ما الجواب؟",
+          "answer_ar": "الرامن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-004",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو حساء نودلز ياباني شهير، وكذلك يقدم بمرق غني وتعلوه إضافات مثل البيض واللحم؟",
+          "answer_ar": "الرامن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-005",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق إيطالي مخبوز بعجين دائري وصلصة طماطم. 2) يشتهر بإضافة الجبن ومكونات متنوعة على السطح. ما الجواب؟",
+          "answer_ar": "البيتزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-006",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق إيطالي مخبوز بعجين دائري وصلصة طماطم، وكذلك يشتهر بإضافة الجبن ومكونات متنوعة على السطح؟",
+          "answer_ar": "البيتزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-007",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي فئة أطباق إيطالية تعتمد على المعكرونة. 2) لها أشكال كثيرة وتقدم بصلصات مختلفة. ما الجواب؟",
+          "answer_ar": "الباستا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-008",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي فئة أطباق إيطالية تعتمد على المعكرونة، وكذلك لها أشكال كثيرة وتقدم بصلصات مختلفة؟",
+          "answer_ar": "الباستا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-009",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق إيطالي من الأرز الكريمي. 2) يطهى تدريجيًا بمرق ساخن حتى قوام ناعم. ما الجواب؟",
+          "answer_ar": "الريزوتو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-010",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق إيطالي من الأرز الكريمي، وكذلك يطهى تدريجيًا بمرق ساخن حتى قوام ناعم؟",
+          "answer_ar": "الريزوتو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-011",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق إسباني من الأرز والزعفران. 2) يرتبط بمدينة فالنسيا ويضم غالبًا مأكولات بحرية أو لحومًا. ما الجواب؟",
+          "answer_ar": "الباييّا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-012",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق إسباني من الأرز والزعفران، وكذلك يرتبط بمدينة فالنسيا ويضم غالبًا مأكولات بحرية أو لحومًا؟",
+          "answer_ar": "الباييّا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-013",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو معجن فرنسي مشهور بشكل هلال. 2) يصنع من عجين مورق متعدد الطبقات. ما الجواب؟",
+          "answer_ar": "الكرواسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-014",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو معجن فرنسي مشهور بشكل هلال، وكذلك يصنع من عجين مورق متعدد الطبقات؟",
+          "answer_ar": "الكرواسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-015",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو فطيرة فرنسية رقيقة جدًا. 2) تقدم بحشوات حلوة أو مالحة. ما الجواب؟",
+          "answer_ar": "الكريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-016",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو فطيرة فرنسية رقيقة جدًا، وكذلك تقدم بحشوات حلوة أو مالحة؟",
+          "answer_ar": "الكريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-017",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق مكسيكي يقدم داخل خبز تورتيلا. 2) يحشى عادة بلحم أو خضار ويضاف له صلصات. ما الجواب؟",
+          "answer_ar": "التاكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-018",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق مكسيكي يقدم داخل خبز تورتيلا، وكذلك يحشى عادة بلحم أو خضار ويضاف له صلصات؟",
+          "answer_ar": "التاكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-019",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق مكسيكي أساسه الأفوكادو المهروس. 2) يضاف إليه عادة ليمون وبصل وكزبرة. ما الجواب؟",
+          "answer_ar": "الغواكامولي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-020",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق مكسيكي أساسه الأفوكادو المهروس، وكذلك يضاف إليه عادة ليمون وبصل وكزبرة؟",
+          "answer_ar": "الغواكامولي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-021",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو حساء نودلز من المطبخ الفيتنامي. 2) يعتمد على مرق عطري وأعشاب طازجة. ما الجواب؟",
+          "answer_ar": "الفو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-022",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو حساء نودلز من المطبخ الفيتنامي، وكذلك يعتمد على مرق عطري وأعشاب طازجة؟",
+          "answer_ar": "الفو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-023",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق نودلز تايلندي مقلي. 2) يشتهر بمزيج الحلاوة والحموضة وصلصة السمك. ما الجواب؟",
+          "answer_ar": "الباد تاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-024",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق نودلز تايلندي مقلي، وكذلك يشتهر بمزيج الحلاوة والحموضة وصلصة السمك؟",
+          "answer_ar": "الباد تاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-025",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو حساء تايلندي حار وحامض. 2) يشتهر بعشب الليمون وأوراق الكافير. ما الجواب؟",
+          "answer_ar": "التوم يوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-026",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو حساء تايلندي حار وحامض، وكذلك يشتهر بعشب الليمون وأوراق الكافير؟",
+          "answer_ar": "التوم يوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-027",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق كوري مخمّر غالبًا من الملفوف. 2) يرتبط بالمطبخ الكوري كناتج تخمير حار. ما الجواب؟",
+          "answer_ar": "الكيمتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-028",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق كوري مخمّر غالبًا من الملفوف، وكذلك يرتبط بالمطبخ الكوري كناتج تخمير حار؟",
+          "answer_ar": "الكيمتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-029",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق كوري يجمع الأرز مع مكونات متنوعة. 2) يقدم غالبًا مع صلصة غوتشوجانغ وبيضة. ما الجواب؟",
+          "answer_ar": "البيبيمباب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-030",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق كوري يجمع الأرز مع مكونات متنوعة، وكذلك يقدم غالبًا مع صلصة غوتشوجانغ وبيضة؟",
+          "answer_ar": "البيبيمباب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-031",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق أرز متبّل شائع في جنوب آسيا. 2) يحضّر بطبقات أرز ولحم أو دجاج وتوابل قوية. ما الجواب؟",
+          "answer_ar": "البرياني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-032",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق أرز متبّل شائع في جنوب آسيا، وكذلك يحضّر بطبقات أرز ولحم أو دجاج وتوابل قوية؟",
+          "answer_ar": "البرياني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-033",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق من العدس أو البقول في المطبخ الهندي. 2) يطهى بالتوابل ويقدّم غالبًا مع الأرز أو الخبز. ما الجواب؟",
+          "answer_ar": "الدال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-034",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق من العدس أو البقول في المطبخ الهندي، وكذلك يطهى بالتوابل ويقدّم غالبًا مع الأرز أو الخبز؟",
+          "answer_ar": "الدال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-035",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق كندي يجمع بطاطس مقلية وجبن وصوص. 2) نشأ في كيبك ويعد من أشهر أطباق الراحة الكندية. ما الجواب؟",
+          "answer_ar": "البوتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-036",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق كندي يجمع بطاطس مقلية وجبن وصوص، وكذلك نشأ في كيبك ويعد من أشهر أطباق الراحة الكندية؟",
+          "answer_ar": "البوتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-037",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق بيروفي يعتمد على نقع السمك النيئ بعصير الحمضيات. 2) يشتهر بإضافة بصل وكزبرة وفلفل حار. ما الجواب؟",
+          "answer_ar": "السيفيتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-038",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق بيروفي يعتمد على نقع السمك النيئ بعصير الحمضيات، وكذلك يشتهر بإضافة بصل وكزبرة وفلفل حار؟",
+          "answer_ar": "السيفيتشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-039",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق برازيلي تقليدي من الفاصوليا واللحم. 2) يعد طبقًا وطنيًا شائعًا في البرازيل. ما الجواب؟",
+          "answer_ar": "الفيجوادا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-040",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق برازيلي تقليدي من الفاصوليا واللحم، وكذلك يعد طبقًا وطنيًا شائعًا في البرازيل؟",
+          "answer_ar": "الفيجوادا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-041",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق نمساوي من شرائح لحم رفيعة مغطاة ومقلية. 2) نسخته المعروفة فيينا شنِتسل ترتبط بلحم العجل. ما الجواب؟",
+          "answer_ar": "الشنيتزل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-042",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق نمساوي من شرائح لحم رفيعة مغطاة ومقلية، وكذلك نسخته المعروفة فيينا شنِتسل ترتبط بلحم العجل؟",
+          "answer_ar": "الشنيتزل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-043",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق مجري يعتمد على لحم مطهو مع بابريكا. 2) يقدَّم كحساء كثيف أو يخنة حسب المنطقة. ما الجواب؟",
+          "answer_ar": "الغولاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-044",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق مجري يعتمد على لحم مطهو مع بابريكا، وكذلك يقدَّم كحساء كثيف أو يخنة حسب المنطقة؟",
+          "answer_ar": "الغولاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-045",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق بريطاني من سمك مقلي مع بطاطس. 2) يرتبط بمحال الوجبات السريعة التقليدية في بريطانيا. ما الجواب؟",
+          "answer_ar": "فيش آند تشيبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-046",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق بريطاني من سمك مقلي مع بطاطس، وكذلك يرتبط بمحال الوجبات السريعة التقليدية في بريطانيا؟",
+          "answer_ar": "فيش آند تشيبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-047",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق مغاربي يعتمد على سميد مطهو بالبخار. 2) يقدم مع خضار ولحم أو حمص في بلدان شمال أفريقيا. ما الجواب؟",
+          "answer_ar": "الكسكسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-048",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق مغاربي يعتمد على سميد مطهو بالبخار، وكذلك يقدم مع خضار ولحم أو حمص في بلدان شمال أفريقيا؟",
+          "answer_ar": "الكسكسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-049",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طبق من الحمص المهروس مع الطحينة. 2) يرتبط بمطابخ بلاد الشام ويقدم كمقبل بارد. ما الجواب؟",
+          "answer_ar": "الحمص",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        },
+        {
+          "id": "CAT14-600-050",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طبق من الحمص المهروس مع الطحينة، وكذلك يرتبط بمطابخ بلاد الشام ويقدم كمقبل بارد؟",
+          "answer_ar": "الحمص",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "world cuisine and dish entries"
+            },
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "global food and culture features"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

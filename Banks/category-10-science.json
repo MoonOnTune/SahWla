@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 10 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "العلوم (الفضاء، جسم الإنسان، الاختراعات)",
+      "name_en": "Science",
+      "questions": [
+        {
+          "id": "CAT10-200-001",
+          "points": 200,
+          "question_ar": "ما أقرب كوكب إلى الشمس؟",
+          "answer_ar": "عطارد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-002",
+          "points": 200,
+          "question_ar": "ما الكوكب المعروف بالكوكب الأحمر؟",
+          "answer_ar": "المريخ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-003",
+          "points": 200,
+          "question_ar": "ما أكبر كوكب في النظام الشمسي؟",
+          "answer_ar": "المشتري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-004",
+          "points": 200,
+          "question_ar": "ما الكوكب الذي نعيش عليه؟",
+          "answer_ar": "الأرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-005",
+          "points": 200,
+          "question_ar": "ما النجم الذي يدور حوله كوكب الأرض؟",
+          "answer_ar": "الشمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-006",
+          "points": 200,
+          "question_ar": "ما القمر الطبيعي للأرض؟",
+          "answer_ar": "القمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-007",
+          "points": 200,
+          "question_ar": "ما القوة التي تُبقي الأجسام على سطح الأرض؟",
+          "answer_ar": "الجاذبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-008",
+          "points": 200,
+          "question_ar": "ما الغاز الذي نتنفسه ويحتاجه الجسم؟",
+          "answer_ar": "الأكسجين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-009",
+          "points": 200,
+          "question_ar": "ما العضو الذي يضخ الدم في الجسم؟",
+          "answer_ar": "القلب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-010",
+          "points": 200,
+          "question_ar": "ما العضو المسؤول عن التفكير والذاكرة؟",
+          "answer_ar": "الدماغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-011",
+          "points": 200,
+          "question_ar": "كم عدد عظام جسم الإنسان البالغ تقريبًا؟",
+          "answer_ar": "206",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-012",
+          "points": 200,
+          "question_ar": "ما أكبر عضو في جسم الإنسان؟",
+          "answer_ar": "الجلد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-013",
+          "points": 200,
+          "question_ar": "ما السائل الذي ينقل الأكسجين داخل الجسم؟",
+          "answer_ar": "الدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-014",
+          "points": 200,
+          "question_ar": "ما نوع الدم الذي لا يحمل مستضدات A ولا B؟",
+          "answer_ar": "O",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-015",
+          "points": 200,
+          "question_ar": "ما الجزء الذي يمتص معظم الغذاء المهضوم؟",
+          "answer_ar": "الأمعاء الدقيقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-016",
+          "points": 200,
+          "question_ar": "ما العضو الذي ينقّي الدم ويصنع البول؟",
+          "answer_ar": "الكليتان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-017",
+          "points": 200,
+          "question_ar": "ما الغاز الذي تطرده النباتات وتستفيد منه الكائنات للتنفس؟",
+          "answer_ar": "الأكسجين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-018",
+          "points": 200,
+          "question_ar": "ما العملية التي تصنع بها النباتات غذاءها؟",
+          "answer_ar": "البناء الضوئي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-019",
+          "points": 200,
+          "question_ar": "ما حالة الماء عند 0° مئوية غالبًا؟",
+          "answer_ar": "صلبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-020",
+          "points": 200,
+          "question_ar": "ما حالة الماء عند 100° مئوية (عند ضغط جوي عادي)؟",
+          "answer_ar": "غازية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-021",
+          "points": 200,
+          "question_ar": "ما اسم تحول الماء من سائل إلى غاز؟",
+          "answer_ar": "التبخر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-022",
+          "points": 200,
+          "question_ar": "ما اسم تحول الماء من غاز إلى سائل؟",
+          "answer_ar": "التكاثف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-023",
+          "points": 200,
+          "question_ar": "ما اسم الوحدة الأساسية لقياس القوة؟",
+          "answer_ar": "النيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-024",
+          "points": 200,
+          "question_ar": "ما اسم الوحدة الأساسية لقياس الطاقة؟",
+          "answer_ar": "الجول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-025",
+          "points": 200,
+          "question_ar": "ما العنصر الكيميائي رمزه O؟",
+          "answer_ar": "الأكسجين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-026",
+          "points": 200,
+          "question_ar": "ما العنصر الكيميائي رمزه H؟",
+          "answer_ar": "الهيدروجين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-027",
+          "points": 200,
+          "question_ar": "ما العنصر الكيميائي رمزه Fe؟",
+          "answer_ar": "الحديد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-028",
+          "points": 200,
+          "question_ar": "ما الكوكب المعروف بحلقاته الواضحة؟",
+          "answer_ar": "زحل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-029",
+          "points": 200,
+          "question_ar": "ما أقرب نجم للأرض بعد الشمس؟",
+          "answer_ar": "بروكسيما قنطورس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-030",
+          "points": 200,
+          "question_ar": "ما الجهاز الذي يستخدم لرؤية الأجرام البعيدة في السماء؟",
+          "answer_ar": "التلسكوب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-031",
+          "points": 200,
+          "question_ar": "من العالم المرتبط بقانون الجاذبية الكلاسيكي؟",
+          "answer_ar": "إسحاق نيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-032",
+          "points": 200,
+          "question_ar": "من العالم المرتبط بنظرية النسبية؟",
+          "answer_ar": "ألبرت أينشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-033",
+          "points": 200,
+          "question_ar": "من العالمة التي فازت بنوبل في أبحاث الإشعاع؟",
+          "answer_ar": "ماري كوري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-034",
+          "points": 200,
+          "question_ar": "ما المخترع المرتبط بالمصباح الكهربائي العملي؟",
+          "answer_ar": "توماس إديسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-035",
+          "points": 200,
+          "question_ar": "ما المخترع المرتبط بالهاتف؟",
+          "answer_ar": "ألكسندر غراهام بيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-036",
+          "points": 200,
+          "question_ar": "ما الحيوان الثديي الوحيد القادر على الطيران الحقيقي؟",
+          "answer_ar": "الخفاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-037",
+          "points": 200,
+          "question_ar": "ما الكوكب الثامن في النظام الشمسي؟",
+          "answer_ar": "نبتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-038",
+          "points": 200,
+          "question_ar": "ما الكوكب السابع في النظام الشمسي؟",
+          "answer_ar": "أورانوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-039",
+          "points": 200,
+          "question_ar": "ما الكوكب الثاني من الشمس؟",
+          "answer_ar": "الزهرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-040",
+          "points": 200,
+          "question_ar": "ما الكوكب الثالث من الشمس؟",
+          "answer_ar": "الأرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-041",
+          "points": 200,
+          "question_ar": "ما الكوكب الرابع من الشمس؟",
+          "answer_ar": "المريخ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-042",
+          "points": 200,
+          "question_ar": "ما الكوكب الخامس من الشمس؟",
+          "answer_ar": "المشتري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-043",
+          "points": 200,
+          "question_ar": "ما الكوكب السادس من الشمس؟",
+          "answer_ar": "زحل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-044",
+          "points": 200,
+          "question_ar": "ما اسم أقرب مجرة كبيرة إلى درب التبانة؟",
+          "answer_ar": "أندروميدا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-045",
+          "points": 200,
+          "question_ar": "ما اسم المجرة التي ينتمي إليها النظام الشمسي؟",
+          "answer_ar": "درب التبانة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-046",
+          "points": 200,
+          "question_ar": "ما اسم الآلة التي تقيس درجة الحرارة؟",
+          "answer_ar": "ميزان الحرارة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-047",
+          "points": 200,
+          "question_ar": "ما اسم الآلة التي تقيس الضغط الجوي؟",
+          "answer_ar": "البارومتر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-048",
+          "points": 200,
+          "question_ar": "ما الكوكب الذي يتميز بيوم أطول من سنته؟",
+          "answer_ar": "الزهرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-049",
+          "points": 200,
+          "question_ar": "ما الكوكب الأكثر كثافة في النظام الشمسي؟",
+          "answer_ar": "الأرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-200-050",
+          "points": 200,
+          "question_ar": "ما الغاز الأكثر وفرة في الغلاف الجوي للأرض؟",
+          "answer_ar": "النيتروجين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-001",
+          "points": 400,
+          "question_ar": "الكوكب الذي يملك أكبر عدد معروف من الأقمار الطبيعية حتى 2026؛ ما هو؟",
+          "answer_ar": "زحل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-002",
+          "points": 400,
+          "question_ar": "العنصر الأكثر وفرة في الكون المرئي؛ ما هو؟",
+          "answer_ar": "الهيدروجين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-003",
+          "points": 400,
+          "question_ar": "العضو الذي يصنع الأنسولين في جسم الإنسان؛ ما هو؟",
+          "answer_ar": "البنكرياس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-004",
+          "points": 400,
+          "question_ar": "الجزء من العين المسؤول عن التحكم بكمية الضوء الداخلة؛ ما هو؟",
+          "answer_ar": "القزحية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-005",
+          "points": 400,
+          "question_ar": "المادة الوراثية الأساسية داخل نواة الخلية؛ ما اسمها؟",
+          "answer_ar": "DNA",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-006",
+          "points": 400,
+          "question_ar": "المركب الكيميائي الذي صيغته H2O؛ ما هو؟",
+          "answer_ar": "الماء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-007",
+          "points": 400,
+          "question_ar": "العالم الذي وضع القوانين الثلاثة للحركة الكلاسيكية؛ من هو؟",
+          "answer_ar": "إسحاق نيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-008",
+          "points": 400,
+          "question_ar": "العالم الذي طوّر مفهوم النسبية الخاصة عام 1905؛ من هو؟",
+          "answer_ar": "ألبرت أينشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-009",
+          "points": 400,
+          "question_ar": "الجزء الذي يربط العظم بالعضلة؛ ما هو؟",
+          "answer_ar": "الوتر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-010",
+          "points": 400,
+          "question_ar": "الوحدة المستخدمة لقياس شدة التيار الكهربائي؛ ما هي؟",
+          "answer_ar": "الأمبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-011",
+          "points": 400,
+          "question_ar": "الوحدة المستخدمة لقياس الجهد الكهربائي؛ ما هي؟",
+          "answer_ar": "الفولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-012",
+          "points": 400,
+          "question_ar": "الوحدة المستخدمة لقياس المقاومة الكهربائية؛ ما هي؟",
+          "answer_ar": "الأوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-013",
+          "points": 400,
+          "question_ar": "المركبة الأولى التي حملت إنسانًا إلى القمر؛ ما المهمة؟",
+          "answer_ar": "أبولو 11",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-014",
+          "points": 400,
+          "question_ar": "أول إنسان سار على سطح القمر؛ من هو؟",
+          "answer_ar": "نيل أرمسترونغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-015",
+          "points": 400,
+          "question_ar": "الكوكب الأقرب في الحجم إلى الأرض ويُسمى توأمها أحيانًا؛ ما هو؟",
+          "answer_ar": "الزهرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-016",
+          "points": 400,
+          "question_ar": "الطبقة الجوية التي تحتوي على معظم الأوزون؛ ما هي؟",
+          "answer_ar": "الستراتوسفير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-017",
+          "points": 400,
+          "question_ar": "المجرة التي تنتمي إليها الشمس؛ ما هي؟",
+          "answer_ar": "درب التبانة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-018",
+          "points": 400,
+          "question_ar": "عملية تحويل النيتروجين الجوي إلى مركبات يستفيد منها النبات غالبًا عبر بكتيريا؛ ما اسمها؟",
+          "answer_ar": "تثبيت النيتروجين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-019",
+          "points": 400,
+          "question_ar": "العلم الذي يدرس الأحافير والكائنات المنقرضة؛ ما هو؟",
+          "answer_ar": "علم الحفريات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-020",
+          "points": 400,
+          "question_ar": "العلم الذي يدرس الوراثة وانتقال الصفات؛ ما هو؟",
+          "answer_ar": "علم الوراثة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-021",
+          "points": 400,
+          "question_ar": "أصغر وحدة بنائية للمادة تحتفظ بخواص العنصر؛ ما هي؟",
+          "answer_ar": "الذرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-022",
+          "points": 400,
+          "question_ar": "الجسيم ذو الشحنة السالبة داخل الذرة؛ ما هو؟",
+          "answer_ar": "الإلكترون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-023",
+          "points": 400,
+          "question_ar": "الجسيم ذو الشحنة الموجبة داخل النواة؛ ما هو؟",
+          "answer_ar": "البروتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-024",
+          "points": 400,
+          "question_ar": "الجسيم المتعادل كهربائيًا داخل النواة؛ ما هو؟",
+          "answer_ar": "النيوترون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-025",
+          "points": 400,
+          "question_ar": "القوة التي تربط البروتونات والنيوترونات في النواة؛ ما هي؟",
+          "answer_ar": "القوة النووية الشديدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-026",
+          "points": 400,
+          "question_ar": "السرعة التي ينتشر بها الضوء في الفراغ تقريبًا (كم/ث)؟",
+          "answer_ar": "300000",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-027",
+          "points": 400,
+          "question_ar": "العضية المسؤولة عن إنتاج الطاقة في الخلية؛ ما هي؟",
+          "answer_ar": "الميتوكوندريا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-028",
+          "points": 400,
+          "question_ar": "العضو المسؤول عن إزالة السموم بدرجة كبيرة في الجسم؛ ما هو؟",
+          "answer_ar": "الكبد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-029",
+          "points": 400,
+          "question_ar": "المقياس الشائع لقوة الزلازل في التقارير العلمية الحديثة؟",
+          "answer_ar": "مقياس العزم الزلزالي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-030",
+          "points": 400,
+          "question_ar": "الطبقة العليا الأكثر كثافة من الغلاف الجوي القريب من الأرض؛ ما هي؟",
+          "answer_ar": "التروبوسفير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-031",
+          "points": 400,
+          "question_ar": "العنصر الذي يكوّن الألماس والغرافيت؛ ما هو؟",
+          "answer_ar": "الكربون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-032",
+          "points": 400,
+          "question_ar": "العالم المرتبط بتفسير التطور بالانتقاء الطبيعي؛ من هو؟",
+          "answer_ar": "تشارلز داروين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-033",
+          "points": 400,
+          "question_ar": "العالم الذي وضع الجدول الدوري الحديث للعناصر في شكله الأول؛ من هو؟",
+          "answer_ar": "ديميتري مندليف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-034",
+          "points": 400,
+          "question_ar": "الجهاز الذي يستخدم لتكبير الأجسام الدقيقة جدًا؛ ما هو؟",
+          "answer_ar": "المجهر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-035",
+          "points": 400,
+          "question_ar": "نوع الإشعاع الكهرومغناطيسي المستخدم بكثرة في أفران الميكروويف؛ ما هو؟",
+          "answer_ar": "الموجات الميكروية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-036",
+          "points": 400,
+          "question_ar": "الحمض الموجود في المعدة ويساعد على الهضم؛ ما هو؟",
+          "answer_ar": "حمض الهيدروكلوريك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-037",
+          "points": 400,
+          "question_ar": "المركبة الفضائية التي نزلت أولًا على المريخ بنجاح عام 1976؛ ما اسم البرنامج؟",
+          "answer_ar": "فايكنغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-038",
+          "points": 400,
+          "question_ar": "العضو الذي يتحكم في توازن الجسم بالتعاون مع الأذن الداخلية؛ ما هو؟",
+          "answer_ar": "المخيخ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-039",
+          "points": 400,
+          "question_ar": "التلسكوب الفضائي الذي بدأ العمل 1990 وغيّر علم الفلك؛ ما هو؟",
+          "answer_ar": "هابل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-040",
+          "points": 400,
+          "question_ar": "التلسكوب الفضائي الذي أطلق في 2021 لدراسة الكون المبكر بالأشعة تحت الحمراء؛ ما هو؟",
+          "answer_ar": "جيمس ويب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-041",
+          "points": 400,
+          "question_ar": "القارة التي تضم أكبر صحراء حارة على الأرض؛ ما هي؟",
+          "answer_ar": "أفريقيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-042",
+          "points": 400,
+          "question_ar": "أعلى طبقة في الغلاف الجوي قبل الفضاء تقريبًا؛ ما هي؟",
+          "answer_ar": "الإكسوسفير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-043",
+          "points": 400,
+          "question_ar": "العنصر السائل المعدني في درجة حرارة الغرفة؛ ما هو؟",
+          "answer_ar": "الزئبق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-044",
+          "points": 400,
+          "question_ar": "المركب الشائع المسمى ملح الطعام؛ ما صيغته؟",
+          "answer_ar": "NaCl",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-045",
+          "points": 400,
+          "question_ar": "عدد الكروموسومات في الخلايا الجسدية البشرية عادة؟",
+          "answer_ar": "46",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-046",
+          "points": 400,
+          "question_ar": "العلم الذي يدرس الطقس على المدى القصير؛ ما هو؟",
+          "answer_ar": "الأرصاد الجوية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-047",
+          "points": 400,
+          "question_ar": "العلم الذي يدرس النجوم والكواكب والمجرات؛ ما هو؟",
+          "answer_ar": "علم الفلك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-048",
+          "points": 400,
+          "question_ar": "القمر الأكبر لكوكب زحل ويملك غلافًا جويًا كثيفًا؛ ما اسمه؟",
+          "answer_ar": "تيتان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-049",
+          "points": 400,
+          "question_ar": "المختبر الأوروبي الذي يدير مصادم الهادرونات الكبير؛ ما هو؟",
+          "answer_ar": "CERN",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "CERN",
+              "type": "official",
+              "reference": "particle physics and LHC references"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-400-050",
+          "points": 400,
+          "question_ar": "الجهاز المسؤول عن التنفس وتبادل الأكسجين في الجسم؛ ما هو؟",
+          "answer_ar": "الرئتان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-001",
+          "points": 600,
+          "question_ar": "نجم قزم أصفر من النوع G2V يمثل مركز نظامنا الكوكبي؛ ما هو؟",
+          "answer_ar": "الشمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-002",
+          "points": 600,
+          "question_ar": "مهمة فضائية جمعت عينات من كويكب Bennu وتعيدها إلى الأرض؛ ما اسمها؟",
+          "answer_ar": "OSIRIS-REx",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-003",
+          "points": 600,
+          "question_ar": "مسبار ناسا الذي هبط في فوهة جيزيرو لدراسة آثار حياة قديمة محتملة؛ ما اسمه؟",
+          "answer_ar": "Perseverance",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-004",
+          "points": 600,
+          "question_ar": "التلسكوب الفضائي العامل بالأشعة تحت الحمراء عند نقطة L2 منذ 2022؛ ما هو؟",
+          "answer_ar": "جيمس ويب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-005",
+          "points": 600,
+          "question_ar": "أول جسيم مضاد اكتُشف للإلكترون وسمي بوزيترون؛ ما هو؟",
+          "answer_ar": "البوزيترون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-006",
+          "points": 600,
+          "question_ar": "المنطقة الزمنية-المكانية التي لا يفلت منها الضوء حول ثقب أسود؛ ما اسم حدها؟",
+          "answer_ar": "أفق الحدث",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-007",
+          "points": 600,
+          "question_ar": "الموجات التي تنبأت بها النسبية واكتُشفت مباشرة عام 2015؛ ما هي؟",
+          "answer_ar": "موجات الجاذبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-008",
+          "points": 600,
+          "question_ar": "القوة الأساسية المسؤولة عن تحلّل بيتا المشع؛ ما هي؟",
+          "answer_ar": "القوة النووية الضعيفة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-009",
+          "points": 600,
+          "question_ar": "المؤشر البيولوجي طويل الأمد لسكر الدم خلال 3 أشهر تقريبًا؛ ما هو؟",
+          "answer_ar": "HbA1c",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-010",
+          "points": 600,
+          "question_ar": "العضو الصمّاء الذي ينظّم الاستقلاب عبر هرموني T3 وT4؛ ما هو؟",
+          "answer_ar": "الغدة الدرقية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-011",
+          "points": 600,
+          "question_ar": "الحمض النووي الموجود في الميتوكوندريا ويورث غالبًا أموميًا؛ ما اسمه؟",
+          "answer_ar": "mtDNA",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-012",
+          "points": 600,
+          "question_ar": "الجزء من الدماغ المسؤول عن التنظيم التنفيذي واتخاذ القرار غالبًا؛ ما هو؟",
+          "answer_ar": "الفص الجبهي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-013",
+          "points": 600,
+          "question_ar": "الخلية المناعية التي تنتج الأجسام المضادة مباشرة بعد تمايزها؛ ما هي؟",
+          "answer_ar": "الخلية البلازمية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-014",
+          "points": 600,
+          "question_ar": "الهرمون الذي ينظم النوم واليقظة ويزداد ليلًا؛ ما هو؟",
+          "answer_ar": "الميلاتونين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-015",
+          "points": 600,
+          "question_ar": "العظم الأطول في جسم الإنسان؛ ما هو؟",
+          "answer_ar": "عظم الفخذ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-016",
+          "points": 600,
+          "question_ar": "العصب القحفي المسؤول عن حاسة الشم أساسًا؛ ما هو؟",
+          "answer_ar": "العصب الشمي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-017",
+          "points": 600,
+          "question_ar": "الحالة التي يصبح فيها السائل والغاز غير قابلين للتمييز بعد نقطة حرجة؛ ما هي؟",
+          "answer_ar": "المائع فوق الحرج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-018",
+          "points": 600,
+          "question_ar": "المبدأ الذي ينص على استحالة تحديد موضع وسرعة الجسيم بدقة مطلقة معًا؛ ما هو؟",
+          "answer_ar": "مبدأ عدم اليقين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-019",
+          "points": 600,
+          "question_ar": "الرقم الهيدروجيني الأقل من 7 يدل على ماذا؟",
+          "answer_ar": "الحمضية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-020",
+          "points": 600,
+          "question_ar": "العنصر الذي عدده الذري 79 ويعرف بالذهب؛ ما هو رمزه؟",
+          "answer_ar": "Au",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-021",
+          "points": 600,
+          "question_ar": "العملية التي تتحول فيها نواة ثقيلة إلى أخف مع إطلاق طاقة في المفاعلات؛ ما هي؟",
+          "answer_ar": "الانشطار النووي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-022",
+          "points": 600,
+          "question_ar": "العملية التي تدمج نوى خفيفة كما يحدث في الشمس؛ ما هي؟",
+          "answer_ar": "الاندماج النووي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-023",
+          "points": 600,
+          "question_ar": "الوحدة الفلكية (AU) تساوي تقريبًا المسافة بين الأرض و...؟",
+          "answer_ar": "الشمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-024",
+          "points": 600,
+          "question_ar": "الأقمار الجليدية التي يعتقد بوجود محيطات تحت سطحها حول المشتري/زحل تشمل أوروبا وتيتان؛ اذكر واحدًا",
+          "answer_ar": "أوروبا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-025",
+          "points": 600,
+          "question_ar": "أقرب كوكب خارج المجموعة اكتُشف في المنطقة الصالحة للسكن لنجم قزم أحمر شهير؛ ما اسمه؟",
+          "answer_ar": "Proxima b",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-026",
+          "points": 600,
+          "question_ar": "العالِم الذي قاس ثابت التناسب بين تمدد الكون وسرعة ابتعاد المجرات؛ من هو؟",
+          "answer_ar": "إدوين هابل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-027",
+          "points": 600,
+          "question_ar": "الخلفية الميكروية الكونية تُعد أثرًا لأي حدث كوني مبكر؟",
+          "answer_ar": "الانفجار العظيم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-028",
+          "points": 600,
+          "question_ar": "الاسم الذي يطلق على المادة غير المرئية التي تُستدل من تأثيرها الجذبي؟",
+          "answer_ar": "المادة المظلمة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-029",
+          "points": 600,
+          "question_ar": "الاسم الذي يطلق على الطاقة المسؤولة عن تسارع تمدد الكون؟",
+          "answer_ar": "الطاقة المظلمة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-030",
+          "points": 600,
+          "question_ar": "الجزء المسؤول عن إنتاج خلايا الدم الحمراء داخل العظام؛ ما هو؟",
+          "answer_ar": "نخاع العظم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-031",
+          "points": 600,
+          "question_ar": "الفص الدماغي المرتبط أساسًا بالرؤية؛ ما هو؟",
+          "answer_ar": "الفص القذالي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-032",
+          "points": 600,
+          "question_ar": "النوع الشائع من النسيج العضلي غير الإرادي في القلب؛ ما هو؟",
+          "answer_ar": "العضلة القلبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-033",
+          "points": 600,
+          "question_ar": "المستقبلات الضوئية في الشبكية المسؤولة عن الرؤية الليلية؛ ما هي؟",
+          "answer_ar": "العصي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-034",
+          "points": 600,
+          "question_ar": "الإنزيم الذي يفكك اللاكتوز في الأمعاء؛ ما هو؟",
+          "answer_ar": "اللاكتيز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-035",
+          "points": 600,
+          "question_ar": "المجهر الذي يستخدم حزمة إلكترونات بدل الضوء لرفع الدقة؛ ما هو؟",
+          "answer_ar": "المجهر الإلكتروني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-036",
+          "points": 600,
+          "question_ar": "الأداة العلمية في CERN التي تصادم البروتونات عند طاقات عالية جدًا؛ ما اسمها؟",
+          "answer_ar": "مصادم الهادرونات الكبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "CERN",
+              "type": "official",
+              "reference": "particle physics and LHC references"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-037",
+          "points": 600,
+          "question_ar": "مركبة الفضاء التي حملت أول إنسان إلى القمر في يوليو 1969؛ ما هي؟",
+          "answer_ar": "أبولو 11",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NASA",
+              "type": "official",
+              "reference": "space missions and solar system facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-038",
+          "points": 600,
+          "question_ar": "المعدن السائل المستخدم تاريخيًا في موازين الحرارة القديمة ورمزه Hg؛ ما هو؟",
+          "answer_ar": "الزئبق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-039",
+          "points": 600,
+          "question_ar": "الغاز النبيل المستخدم في الإضاءات الإعلانية الحمراء غالبًا؛ ما هو؟",
+          "answer_ar": "النيون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-040",
+          "points": 600,
+          "question_ar": "الفيتامين الذي يُنتج جلديًا بتأثير الشمس ويساعد امتصاص الكالسيوم؛ ما هو؟",
+          "answer_ar": "فيتامين د",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-041",
+          "points": 600,
+          "question_ar": "الهرمون البنكرياسي الذي يخفض سكر الدم؛ ما هو؟",
+          "answer_ar": "الإنسولين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-042",
+          "points": 600,
+          "question_ar": "المرض الناتج عن نقص الإنسولين أو ضعف فعاليته؛ ما هو؟",
+          "answer_ar": "السكري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "NIH",
+              "type": "official",
+              "reference": "human body and health science basics"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-043",
+          "points": 600,
+          "question_ar": "المقياس المستخدم لقياس شدة الضوضاء الصوتية؛ ما هو؟",
+          "answer_ar": "الديسيبل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-044",
+          "points": 600,
+          "question_ar": "المادة التي تعطي اللون الأخضر للنبات وتمتص الضوء للبناء الضوئي؛ ما هي؟",
+          "answer_ar": "الكلوروفيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-045",
+          "points": 600,
+          "question_ar": "الأيون السالب الشائع في ملح الطعام مع الصوديوم؛ ما هو؟",
+          "answer_ar": "الكلوريد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-046",
+          "points": 600,
+          "question_ar": "العالم الذي اكتشف البنسلين بالملاحظة في المختبر عام 1928؛ من هو؟",
+          "answer_ar": "ألكسندر فليمنغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-047",
+          "points": 600,
+          "question_ar": "الجائزة العلمية العالمية التي تُمنح سنويًا في الفيزياء والكيمياء والطب؛ ما هي؟",
+          "answer_ar": "جائزة نوبل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "major discoveries and laureates"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-048",
+          "points": 600,
+          "question_ar": "الوحدة المستخدمة لقياس النشاط الإشعاعي في النظام الدولي؛ ما هي؟",
+          "answer_ar": "البيكريل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-049",
+          "points": 600,
+          "question_ar": "المنطقة من الغلاف الجوي التي تحدث فيها معظم الظواهر الجوية؛ ما هي؟",
+          "answer_ar": "التروبوسفير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        },
+        {
+          "id": "CAT10-600-050",
+          "points": 600,
+          "question_ar": "العالم الذي صاغ قوانين الوراثة الكلاسيكية عبر تجارب البازلاء؛ من هو؟",
+          "answer_ar": "غريغور مندل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "general science concepts and inventions"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

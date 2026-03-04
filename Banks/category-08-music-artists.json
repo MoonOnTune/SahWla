@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 8 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "الموسيقى والفنانون (عربي + عالمي)",
+      "name_en": "Music & Artists",
+      "questions": [
+        {
+          "id": "CAT08-200-001",
+          "points": 200,
+          "question_ar": "من يُلقّب بـ«كوكب الشرق»؟",
+          "answer_ar": "أم كلثوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-002",
+          "points": 200,
+          "question_ar": "من الفنانة اللبنانية الشهيرة بأغنية «نسم علينا الهوا»؟",
+          "answer_ar": "فيروز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-003",
+          "points": 200,
+          "question_ar": "من الفنان المصري الملقب بـ«العندليب الأسمر»؟",
+          "answer_ar": "عبد الحليم حافظ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-004",
+          "points": 200,
+          "question_ar": "من المغني الأمريكي المعروف بلقب «ملك البوب»؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-005",
+          "points": 200,
+          "question_ar": "ما الفرقة البريطانية التي ضمت جون لينون وبول مكارتني؟",
+          "answer_ar": "The Beatles",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-006",
+          "points": 200,
+          "question_ar": "من مغنية أغنية «Rolling in the Deep»؟",
+          "answer_ar": "Adele",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-007",
+          "points": 200,
+          "question_ar": "من مغني أغنية «Shape of You»؟",
+          "answer_ar": "Ed Sheeran",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-008",
+          "points": 200,
+          "question_ar": "من الفنانة المعروفة بألبوم «21»؟",
+          "answer_ar": "Adele",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-009",
+          "points": 200,
+          "question_ar": "من الفرقة الكورية المعروفة عالميًا بأغنية «Dynamite»؟",
+          "answer_ar": "BTS",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-010",
+          "points": 200,
+          "question_ar": "من المغنية الأمريكية صاحبة أغنية «Bad Romance»؟",
+          "answer_ar": "Lady Gaga",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-011",
+          "points": 200,
+          "question_ar": "من المغنية الأمريكية صاحبة ألبوم «Lemonade»؟",
+          "answer_ar": "Beyoncé",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-012",
+          "points": 200,
+          "question_ar": "من مغني أغنية «Blinding Lights»؟",
+          "answer_ar": "The Weeknd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-013",
+          "points": 200,
+          "question_ar": "من المغني الكندي صاحب ألبوم «Purpose»؟",
+          "answer_ar": "Justin Bieber",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-014",
+          "points": 200,
+          "question_ar": "ما الآلة الموسيقية ذات 88 مفتاحًا غالبًا؟",
+          "answer_ar": "البيانو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-015",
+          "points": 200,
+          "question_ar": "ما الآلة الوترية الأكثر شيوعًا في موسيقى الروك؟",
+          "answer_ar": "الغيتار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-016",
+          "points": 200,
+          "question_ar": "ما اسم النمط الغنائي العربي المرتبط بالموشح والقدود في حلب؟",
+          "answer_ar": "القدود الحلبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-017",
+          "points": 200,
+          "question_ar": "من الفنان السعودي المعروف بلقب «فنان العرب»؟",
+          "answer_ar": "محمد عبده",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-018",
+          "points": 200,
+          "question_ar": "من الفنانة الكولومبية صاحبة أغنية «Hips Don't Lie»؟",
+          "answer_ar": "Shakira",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-019",
+          "points": 200,
+          "question_ar": "من المغنية الأمريكية صاحبة ألبوم «1989»؟",
+          "answer_ar": "Taylor Swift",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-020",
+          "points": 200,
+          "question_ar": "من مؤلف السيمفونية الخامسة الشهيرة؟",
+          "answer_ar": "بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-021",
+          "points": 200,
+          "question_ar": "من المؤلف النمساوي الشهير موزارت؟",
+          "answer_ar": "فولفغانغ أماديوس موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-022",
+          "points": 200,
+          "question_ar": "من المغنية الأمريكية صاحبة أغنية «Halo»؟",
+          "answer_ar": "Beyoncé",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-023",
+          "points": 200,
+          "question_ar": "من المغني البريطاني في فرقة Queen؟",
+          "answer_ar": "Freddie Mercury",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-024",
+          "points": 200,
+          "question_ar": "ما اسم فرقة الروك التي أصدرت ألبوم «The Dark Side of the Moon»؟",
+          "answer_ar": "Pink Floyd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-025",
+          "points": 200,
+          "question_ar": "من الفنان العربي صاحب أغنية «نور العين»؟",
+          "answer_ar": "عمرو دياب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-026",
+          "points": 200,
+          "question_ar": "ما النمط الموسيقي الذي يرتبط بالارتجال ويعود جذره لأمريكا؟",
+          "answer_ar": "الجاز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-027",
+          "points": 200,
+          "question_ar": "ما النمط الموسيقي الذي نشأ في جامايكا ويرتبط ببوب مارلي؟",
+          "answer_ar": "الريغي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-028",
+          "points": 200,
+          "question_ar": "من الفنان المعروف بلقب «King of Rock and Roll»؟",
+          "answer_ar": "Elvis Presley",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-029",
+          "points": 200,
+          "question_ar": "من الفرقة البريطانية صاحبة أغنية «Bohemian Rhapsody»؟",
+          "answer_ar": "Queen",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-030",
+          "points": 200,
+          "question_ar": "من المغنية الأمريكية صاحبة أغنية «Like a Prayer»؟",
+          "answer_ar": "Madonna",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-031",
+          "points": 200,
+          "question_ar": "من مغني أغنية «Someone You Loved»؟",
+          "answer_ar": "Lewis Capaldi",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-032",
+          "points": 200,
+          "question_ar": "من الفنانة الأمريكية صاحبة أغنية «Firework»؟",
+          "answer_ar": "Katy Perry",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-033",
+          "points": 200,
+          "question_ar": "من المغني الأمريكي صاحب أغنية «Uptown Funk» (بالتعاون مع مارك رونسون)؟",
+          "answer_ar": "Bruno Mars",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-034",
+          "points": 200,
+          "question_ar": "من الفنانة الأمريكية صاحبة ألبوم «Born This Way»؟",
+          "answer_ar": "Lady Gaga",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-035",
+          "points": 200,
+          "question_ar": "من المغني الأمريكي صاحب أغنية «Happy»؟",
+          "answer_ar": "Pharrell Williams",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-036",
+          "points": 200,
+          "question_ar": "من الفرقة الأيرلندية صاحبة أغنية «With or Without You»؟",
+          "answer_ar": "U2",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-037",
+          "points": 200,
+          "question_ar": "ما اسم الآلة التي تُعزف بالقوس في الأوركسترا وتُسمى Queen of Instruments؟",
+          "answer_ar": "الكمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-038",
+          "points": 200,
+          "question_ar": "من الفنانة العربية المعروفة بلقب «شادية العرب»؟",
+          "answer_ar": "وردة الجزائرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-039",
+          "points": 200,
+          "question_ar": "من الفنان العراقي الشهير بأغنية «زيديني عشقًا»؟",
+          "answer_ar": "كاظم الساهر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-040",
+          "points": 200,
+          "question_ar": "من المغنية الأمريكية صاحبة أغنية «Single Ladies»؟",
+          "answer_ar": "Beyoncé",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-041",
+          "points": 200,
+          "question_ar": "من المغنية الأمريكية صاحبة أغنية «Poker Face»؟",
+          "answer_ar": "Lady Gaga",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-042",
+          "points": 200,
+          "question_ar": "من الفنان العالمي صاحب ألبوم «Thriller»؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-043",
+          "points": 200,
+          "question_ar": "من المغني الكندي صاحب أغنية «Starboy»؟",
+          "answer_ar": "The Weeknd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-044",
+          "points": 200,
+          "question_ar": "من المغنية التي قدّمت «Hello» في 2015؟",
+          "answer_ar": "Adele",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-045",
+          "points": 200,
+          "question_ar": "ما نوع الصوت الأنثوي الأعلى غالبًا في التصنيف الكلاسيكي؟",
+          "answer_ar": "سوبرانو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-046",
+          "points": 200,
+          "question_ar": "ما اسم المقياس المستخدم لتحديد سرعة الإيقاع في الموسيقى؟",
+          "answer_ar": "BPM",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-047",
+          "points": 200,
+          "question_ar": "من الفرقة البريطانية صاحبة أغنية «Yellow»؟",
+          "answer_ar": "Coldplay",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-048",
+          "points": 200,
+          "question_ar": "من المغني الكندي صاحب أغنية «Blinding Lights»؟",
+          "answer_ar": "The Weeknd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-049",
+          "points": 200,
+          "question_ar": "من الفنانة الأمريكية صاحبة أغنية «Shake It Off»؟",
+          "answer_ar": "Taylor Swift",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-200-050",
+          "points": 200,
+          "question_ar": "من المغني البريطاني الراحل صاحب أغنية «Careless Whisper»؟",
+          "answer_ar": "George Michael",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-001",
+          "points": 400,
+          "question_ar": "فنانة عربية لُقبت بكوكب الشرق وقدمت «الأطلال»؛ من هي؟",
+          "answer_ar": "أم كلثوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-002",
+          "points": 400,
+          "question_ar": "فنانة لبنانية أيقونية ارتبط صوتها بالصباحات العربية؛ من هي؟",
+          "answer_ar": "فيروز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-003",
+          "points": 400,
+          "question_ar": "مطرب مصري اشتهر بأفلام غنائية وبلقب العندليب؛ من هو؟",
+          "answer_ar": "عبد الحليم حافظ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-004",
+          "points": 400,
+          "question_ar": "فنان عربي أصدر «نور العين» ولقب بالهضبة؛ من هو؟",
+          "answer_ar": "عمرو دياب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-005",
+          "points": 400,
+          "question_ar": "فنان سعودي يُعرف بلقب فنان العرب؛ من هو؟",
+          "answer_ar": "محمد عبده",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-006",
+          "points": 400,
+          "question_ar": "فنان عراقي قدم «أنا وليلى» و«زيديني عشقًا»؛ من هو؟",
+          "answer_ar": "كاظم الساهر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-007",
+          "points": 400,
+          "question_ar": "مغنٍ أمريكي أصدر Thriller ويعد الأكثر تأثيرًا في البوب؛ من هو؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-008",
+          "points": 400,
+          "question_ar": "مغنية أمريكية أصدرت «Lemonade» وفازت بعدة جوائز غرامي؛ من هي؟",
+          "answer_ar": "Beyoncé",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-009",
+          "points": 400,
+          "question_ar": "مغنية بريطانية صاحبة ألبومي 21 و25؛ من هي؟",
+          "answer_ar": "Adele",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-010",
+          "points": 400,
+          "question_ar": "مغنية أمريكية معروفة بأغنية Bad Romance؛ من هي؟",
+          "answer_ar": "Lady Gaga",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-011",
+          "points": 400,
+          "question_ar": "مغنية أمريكية معروفة بتحولاتها الفنية وبأغنية Like a Prayer؛ من هي؟",
+          "answer_ar": "Madonna",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-012",
+          "points": 400,
+          "question_ar": "مغنية أمريكية صاحبة ألبوم 1989 وأغنية Shake It Off؛ من هي؟",
+          "answer_ar": "Taylor Swift",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-013",
+          "points": 400,
+          "question_ar": "مغنٍ بريطاني في فرقة Queen اشتهر بطبقة صوت عالية؛ من هو؟",
+          "answer_ar": "Freddie Mercury",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-014",
+          "points": 400,
+          "question_ar": "فرقة بريطانية رباعية غيّرت تاريخ البوب في الستينيات؛ ما هي؟",
+          "answer_ar": "The Beatles",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-015",
+          "points": 400,
+          "question_ar": "فرقة روك بريطانية أصدرت The Dark Side of the Moon؛ ما هي؟",
+          "answer_ar": "Pink Floyd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-016",
+          "points": 400,
+          "question_ar": "فرقة بريطانية يقودها Chris Martin وقدمت Yellow؛ ما هي؟",
+          "answer_ar": "Coldplay",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-017",
+          "points": 400,
+          "question_ar": "فنان روك أند رول أمريكي لُقب بالملك؛ من هو؟",
+          "answer_ar": "Elvis Presley",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-018",
+          "points": 400,
+          "question_ar": "فنانة كولومبية قدمت Hips Don't Lie؛ من هي؟",
+          "answer_ar": "Shakira",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-019",
+          "points": 400,
+          "question_ar": "فنان كندي صاحب ألبوم Purpose؛ من هو؟",
+          "answer_ar": "Justin Bieber",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-020",
+          "points": 400,
+          "question_ar": "فنان كندي صاحب Starboy وBlinding Lights؛ من هو؟",
+          "answer_ar": "The Weeknd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-021",
+          "points": 400,
+          "question_ar": "فرقة كورية جنوبية وصلت عالميًا بأغنية Dynamite؛ ما هي؟",
+          "answer_ar": "BTS",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-022",
+          "points": 400,
+          "question_ar": "مؤلف ألماني أصم جزئيًا وكتب السيمفونية الخامسة؛ من هو؟",
+          "answer_ar": "بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-023",
+          "points": 400,
+          "question_ar": "مؤلف نمساوي عبقري توفي شابًا وكتب أوبرا The Magic Flute؛ من هو؟",
+          "answer_ar": "موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-024",
+          "points": 400,
+          "question_ar": "آلة موسيقية مفاتيحها 88 غالبًا وتستخدم في الكلاسيك والجاز؛ ما هي؟",
+          "answer_ar": "البيانو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-025",
+          "points": 400,
+          "question_ar": "آلة وترية أساسية في الفرق الغربية والروك؛ ما هي؟",
+          "answer_ar": "الغيتار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-026",
+          "points": 400,
+          "question_ar": "آلة وترية بقوس تُعد عماد الأوركسترا؛ ما هي؟",
+          "answer_ar": "الكمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-027",
+          "points": 400,
+          "question_ar": "نمط موسيقي يعتمد على الارتجال والهارموني المعقد؛ ما هو؟",
+          "answer_ar": "الجاز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-028",
+          "points": 400,
+          "question_ar": "نمط موسيقي جامايكي ارتبط ببوب مارلي؛ ما هو؟",
+          "answer_ar": "الريغي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-029",
+          "points": 400,
+          "question_ar": "مقياس سرعة الإيقاع في الموسيقى ويعني نبضات في الدقيقة؛ ما اسمه؟",
+          "answer_ar": "BPM",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-030",
+          "points": 400,
+          "question_ar": "التصنيف الصوتي النسائي الأعلى غالبًا في الأوبرا؛ ما هو؟",
+          "answer_ar": "سوبرانو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-031",
+          "points": 400,
+          "question_ar": "فرقة U2 تنتمي لأي دولة أوروبية؟",
+          "answer_ar": "أيرلندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-032",
+          "points": 400,
+          "question_ar": "أغنية Bohemian Rhapsody تعود لأي فرقة؟",
+          "answer_ar": "Queen",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-033",
+          "points": 400,
+          "question_ar": "أغنية Firework تعود لأي فنانة؟",
+          "answer_ar": "Katy Perry",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-034",
+          "points": 400,
+          "question_ar": "أغنية Poker Face تعود لأي فنانة؟",
+          "answer_ar": "Lady Gaga",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-035",
+          "points": 400,
+          "question_ar": "أغنية Halo تعود لأي فنانة؟",
+          "answer_ar": "Beyoncé",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-036",
+          "points": 400,
+          "question_ar": "أغنية Someone You Loved تعود لأي مغنٍ؟",
+          "answer_ar": "Lewis Capaldi",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-037",
+          "points": 400,
+          "question_ar": "أغنية Uptown Funk ارتبطت بصوت أي مغنٍ؟",
+          "answer_ar": "Bruno Mars",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-038",
+          "points": 400,
+          "question_ar": "أغنية Happy ارتبطت بأي فنان أمريكي؟",
+          "answer_ar": "Pharrell Williams",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-039",
+          "points": 400,
+          "question_ar": "أغنية Hello في 2015 أعادت أي فنانة للصدارة؟",
+          "answer_ar": "Adele",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-040",
+          "points": 400,
+          "question_ar": "أغنية Careless Whisper ارتبطت بأي فنان؟",
+          "answer_ar": "George Michael",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-041",
+          "points": 400,
+          "question_ar": "أغنية Yellow ارتبطت بأي فرقة؟",
+          "answer_ar": "Coldplay",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-042",
+          "points": 400,
+          "question_ar": "أغنية Single Ladies ارتبطت بأي فنانة؟",
+          "answer_ar": "Beyoncé",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-043",
+          "points": 400,
+          "question_ar": "أغنية Shape of You ارتبطت بأي فنان؟",
+          "answer_ar": "Ed Sheeran",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-044",
+          "points": 400,
+          "question_ar": "أغنية Rolling in the Deep ارتبطت بأي فنانة؟",
+          "answer_ar": "Adele",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-045",
+          "points": 400,
+          "question_ar": "أغنية Blinding Lights ارتبطت بأي فنان؟",
+          "answer_ar": "The Weeknd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-046",
+          "points": 400,
+          "question_ar": "أغنية Bad Romance ارتبطت بأي فنانة؟",
+          "answer_ar": "Lady Gaga",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-047",
+          "points": 400,
+          "question_ar": "فرقة Queen اشتهرت بقيادة أي مغنٍ؟",
+          "answer_ar": "Freddie Mercury",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-048",
+          "points": 400,
+          "question_ar": "فرقة Beatles نشأت في أي مدينة بريطانية؟",
+          "answer_ar": "ليفربول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-049",
+          "points": 400,
+          "question_ar": "المؤلف الذي كتب «Für Elise» المنسوبة إليه غالبًا؛ من هو؟",
+          "answer_ar": "بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-400-050",
+          "points": 400,
+          "question_ar": "الفنانة العربية المولودة في الجزائر والنجمة في مصر المعروفة بوردة؛ من هي؟",
+          "answer_ar": "وردة الجزائرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-001",
+          "points": 600,
+          "question_ar": "فنانة عربية غنّت قصائد طويلة مثل «الأطلال» و«إنت عمري» واشتهرت بالوقوف بمنديل؛ من هي؟",
+          "answer_ar": "أم كلثوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-002",
+          "points": 600,
+          "question_ar": "فنانة لبنانية ارتبط اسمها بالأخوين رحباني وبمسرحيات غنائية؛ من هي؟",
+          "answer_ar": "فيروز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-003",
+          "points": 600,
+          "question_ar": "مطرب مصري جمع السينما والغناء في الخمسينيات والستينيات بلقب العندليب؛ من هو؟",
+          "answer_ar": "عبد الحليم حافظ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-004",
+          "points": 600,
+          "question_ar": "مطرب عربي لُقب بالهضبة وبرز عالميًا في التسعينيات عبر نور العين؛ من هو؟",
+          "answer_ar": "عمرو دياب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-005",
+          "points": 600,
+          "question_ar": "مطرب سعودي مخضرم لُقب بفنان العرب ويمثل مدرسة الطرب الخليجي؛ من هو؟",
+          "answer_ar": "محمد عبده",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-006",
+          "points": 600,
+          "question_ar": "مطرب عراقي لُقب بقيصر الأغنية العربية واشتهر بقصائد نزار قباني؛ من هو؟",
+          "answer_ar": "كاظم الساهر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-007",
+          "points": 600,
+          "question_ar": "فنان أمريكي ألبومه Thriller الأعلى مبيعًا تاريخيًا عالميًا تقريبًا؛ من هو؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-008",
+          "points": 600,
+          "question_ar": "فنانة أمريكية حطمت أرقام غرامي وتعرف بصوت قوي وعروض ضخمة؛ من هي؟",
+          "answer_ar": "Beyoncé",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-009",
+          "points": 600,
+          "question_ar": "فنانة بريطانية كسرت الأرقام بألبوم 21 وبالاد عاطفية قوية؛ من هي؟",
+          "answer_ar": "Adele",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-010",
+          "points": 600,
+          "question_ar": "فنانة أمريكية مزجت البوب بالمسرحة البصرية واشتهرت بـBad Romance؛ من هي؟",
+          "answer_ar": "Lady Gaga",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-011",
+          "points": 600,
+          "question_ar": "فنانة أمريكية رسّخت مفهوم «ملكة البوب» منذ الثمانينيات؛ من هي؟",
+          "answer_ar": "Madonna",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-012",
+          "points": 600,
+          "question_ar": "فنانة وكاتبة أغانٍ أمريكية تحولت من الكانتري إلى البوب في ألبوم 1989؛ من هي؟",
+          "answer_ar": "Taylor Swift",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-013",
+          "points": 600,
+          "question_ar": "مغنٍ بريطاني قاد Queen وامتلك أداءً مسرحيًا استثنائيًا في Live Aid؛ من هو؟",
+          "answer_ar": "Freddie Mercury",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-014",
+          "points": 600,
+          "question_ar": "فرقة بريطانية رباعية انطلقت من ليفربول وأحدثت Beatlemania؛ ما هي؟",
+          "answer_ar": "The Beatles",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-015",
+          "points": 600,
+          "question_ar": "فرقة روك بريطانية مفاهيمية قدّمت The Wall وDark Side؛ ما هي؟",
+          "answer_ar": "Pink Floyd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-016",
+          "points": 600,
+          "question_ar": "فرقة بريطانية حديثة نسبيًا يقودها Chris Martin؛ ما هي؟",
+          "answer_ar": "Coldplay",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-017",
+          "points": 600,
+          "question_ar": "فنان أمريكي عُرف بالروكابيلي وحركة المسرح الفريدة في الخمسينيات؛ من هو؟",
+          "answer_ar": "Elvis Presley",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-018",
+          "points": 600,
+          "question_ar": "فنانة لاتينية دمجت البوب بالهوية الكولومبية ووصلت للعالمية بالإنجليزية والإسبانية؛ من هي؟",
+          "answer_ar": "Shakira",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-019",
+          "points": 600,
+          "question_ar": "فنان كندي بدأ مبكرًا عبر YouTube ثم قدّم Purpose؛ من هو؟",
+          "answer_ar": "Justin Bieber",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-020",
+          "points": 600,
+          "question_ar": "فنان كندي اسمه الفني مشتق من تعبير نهاية الأسبوع وصوته في Blinding Lights؛ من هو؟",
+          "answer_ar": "The Weeknd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-021",
+          "points": 600,
+          "question_ar": "فرقة كورية ساهمت في تعميم K-pop عالميًا وتصدرت Billboard؛ ما هي؟",
+          "answer_ar": "BTS",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-022",
+          "points": 600,
+          "question_ar": "مؤلف ألماني انتقل من الكلاسيكية إلى الرومانسية رغم فقدان السمع؛ من هو؟",
+          "answer_ar": "بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-023",
+          "points": 600,
+          "question_ar": "مؤلف نمساوي كتب «زواج فيغارو» و«دون جيوفاني»؛ من هو؟",
+          "answer_ar": "موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-024",
+          "points": 600,
+          "question_ar": "آلة ذات مفاتيح ومطارق داخلية وتُستخدم منفردة ومرافقة؛ ما هي؟",
+          "answer_ar": "البيانو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-025",
+          "points": 600,
+          "question_ar": "آلة وترية كهربائية أو صوتية تُبنى عليها معظم فرق الروك؛ ما هي؟",
+          "answer_ar": "الغيتار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-026",
+          "points": 600,
+          "question_ar": "آلة وترية بقوس تحمل اللحن الرئيسي غالبًا في الأوركسترا؛ ما هي؟",
+          "answer_ar": "الكمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-027",
+          "points": 600,
+          "question_ar": "نمط موسيقي نشأ في المجتمعات الأفرو-أمريكية ويعتمد على الارتجال؛ ما هو؟",
+          "answer_ar": "الجاز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-028",
+          "points": 600,
+          "question_ar": "نمط جامايكي بإيقاع Offbeat ورسائل اجتماعية؛ ما هو؟",
+          "answer_ar": "الريغي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-029",
+          "points": 600,
+          "question_ar": "مقياس إيقاعي يكتب كرقم ويعني عدد النبضات في الدقيقة؛ ما هو؟",
+          "answer_ar": "BPM",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-030",
+          "points": 600,
+          "question_ar": "تصنيف صوتي نسائي مرتفع يستخدم كثيرًا في الأوبرا؛ ما هو؟",
+          "answer_ar": "سوبرانو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-031",
+          "points": 600,
+          "question_ar": "أغنية Bohemian Rhapsody تمزج الروك والأوبرا وتعود إلى أي فرقة؟",
+          "answer_ar": "Queen",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-032",
+          "points": 600,
+          "question_ar": "أغنية Halo ذات الطابع البالادي تعود لأي فنانة؟",
+          "answer_ar": "Beyoncé",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-033",
+          "points": 600,
+          "question_ar": "أغنية Poker Face التي دعمت صعود بوب إلكتروني تعود لمن؟",
+          "answer_ar": "Lady Gaga",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-034",
+          "points": 600,
+          "question_ar": "أغنية Hello في 2015 عُرفت بعودة قوية بعد غياب؛ لمن؟",
+          "answer_ar": "Adele",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-035",
+          "points": 600,
+          "question_ar": "أغنية Shape of You تمثل البوب المعاصر وتعود لأي مغنٍ بريطاني؟",
+          "answer_ar": "Ed Sheeran",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-036",
+          "points": 600,
+          "question_ar": "أغنية Firework من بوب أمريكي تحفيزي تعود لأي فنانة؟",
+          "answer_ar": "Katy Perry",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-037",
+          "points": 600,
+          "question_ar": "أغنية Uptown Funk تعاون بين Mark Ronson ومغنٍ أمريكي؛ من هو؟",
+          "answer_ar": "Bruno Mars",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-038",
+          "points": 600,
+          "question_ar": "أغنية Happy انتشرت عالميًا مع فيلم رسوم؛ لمن؟",
+          "answer_ar": "Pharrell Williams",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-039",
+          "points": 600,
+          "question_ar": "أغنية Someone You Loved تعود لمغنٍ اسكتلندي؛ من هو؟",
+          "answer_ar": "Lewis Capaldi",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-040",
+          "points": 600,
+          "question_ar": "أغنية Careless Whisper الشهيرة في الثمانينيات تعود لمن؟",
+          "answer_ar": "George Michael",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-041",
+          "points": 600,
+          "question_ar": "أغنية Yellow إحدى علامات الألفية الجديدة لفرقة بريطانية؛ ما هي الفرقة؟",
+          "answer_ar": "Coldplay",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-042",
+          "points": 600,
+          "question_ar": "نور العين شكّلت اختراقًا عربيًا عالميًا في التسعينيات؛ صاحبها من؟",
+          "answer_ar": "عمرو دياب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-043",
+          "points": 600,
+          "question_ar": "مغنية عربية ارتبط اسمها بمسرحيات الرحابنة مثل «بياع الخواتم»؛ من هي؟",
+          "answer_ar": "فيروز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-044",
+          "points": 600,
+          "question_ar": "مطرب عربي عراقي قدّم «أنا وليلى» بأسلوب أوركسترالي عربي؛ من هو؟",
+          "answer_ar": "كاظم الساهر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-045",
+          "points": 600,
+          "question_ar": "فنانة أمريكية كسرت أرقام Billboard بأغنيات وإعادة تسجيل ألبوماتها؛ من هي؟",
+          "answer_ar": "Taylor Swift",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Recording Academy (GRAMMY)",
+              "type": "official",
+              "reference": "GRAMMY records and artist profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-046",
+          "points": 600,
+          "question_ar": "فنان كندي صاحب لقب XO ونجاح كبير في حقبة Synth-pop الحديثة؛ من هو؟",
+          "answer_ar": "The Weeknd",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Billboard",
+              "type": "reputable_media",
+              "reference": "charts and mainstream music references"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-047",
+          "points": 600,
+          "question_ar": "فرقة بريطانية من ليفربول غيّرت كتابة الأغنية الشعبية الحديثة؛ ما هي؟",
+          "answer_ar": "The Beatles",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-048",
+          "points": 600,
+          "question_ar": "المؤلف الذي كتب السيمفونية التاسعة و«أنشودة الفرح»؛ من هو؟",
+          "answer_ar": "بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-049",
+          "points": 600,
+          "question_ar": "الآلة التي تُستخدم كمرجع تدريبي للهارموني وتكوين الجمل اللحنية غالبًا؛ ما هي؟",
+          "answer_ar": "البيانو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        },
+        {
+          "id": "CAT08-600-050",
+          "points": 600,
+          "question_ar": "نوع الغناء العربي الطويل المرتبط بالطرب والمد الزمني المقامي؛ ما الاسم العام؟",
+          "answer_ar": "الطرب العربي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "music genres and artist biographies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

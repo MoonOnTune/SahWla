@@ -1,0 +1,48 @@
+{
+  "name": "sah-wala",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:deploy": "prisma migrate deploy",
+    "prisma:seed": "tsx prisma/seed.ts",
+    "questions:import": "tsx scripts/import-questions.ts",
+    "questions:verify": "tsx scripts/verify-game-picks.ts"
+  },
+  "dependencies": {
+    "@auth/prisma-adapter": "^2.8.0",
+    "@prisma/client": "^6.5.0",
+    "bcryptjs": "^2.4.3",
+    "lucide-react": "^0.511.0",
+    "motion": "^12.35.0",
+    "next": "^15.2.0",
+    "next-auth": "^5.0.0-beta.25",
+    "nodemailer": "^7.0.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^22.13.10",
+    "@types/react": "^18.3.19",
+    "@types/react-dom": "^18.3.5",
+    "eslint": "^9.22.0",
+    "eslint-config-next": "^15.2.0",
+    "prisma": "^6.5.0",
+    "tailwindcss": "^4.2.1",
+    "tsx": "^4.19.3",
+    "tw-animate-css": "^1.4.0",
+    "typescript": "^5.8.2"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  }
+}

@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 9 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "محطات تاريخية (أحداث كبرى، حضارات)",
+      "name_en": "History Highlights",
+      "questions": [
+        {
+          "id": "CAT09-200-001",
+          "points": 200,
+          "question_ar": "في أي قارة نشأت الحضارة المصرية القديمة؟",
+          "answer_ar": "أفريقيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-002",
+          "points": 200,
+          "question_ar": "ما النهر الذي قامت عليه الحضارة المصرية القديمة؟",
+          "answer_ar": "النيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-003",
+          "points": 200,
+          "question_ar": "أي حضارة اشتهرت بحدائق بابل المعلقة؟",
+          "answer_ar": "حضارة بلاد الرافدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-004",
+          "points": 200,
+          "question_ar": "من بنى سور الصين العظيم تاريخيًا؟",
+          "answer_ar": "الصينيون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-005",
+          "points": 200,
+          "question_ar": "ما اسم الحقبة الأوروبية التي تلت العصور الوسطى؟",
+          "answer_ar": "عصر النهضة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-006",
+          "points": 200,
+          "question_ar": "في أي مدينة وُلدت الديمقراطية المباشرة القديمة غالبًا؟",
+          "answer_ar": "أثينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-007",
+          "points": 200,
+          "question_ar": "ما الإمبراطورية التي كان مركزها روما؟",
+          "answer_ar": "الإمبراطورية الرومانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-008",
+          "points": 200,
+          "question_ar": "ما الحضارة التي بنت ماتشو بيتشو؟",
+          "answer_ar": "الإنكا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-009",
+          "points": 200,
+          "question_ar": "ما الحضارة المرتبطة بأهرامات تشيتشن إيتزا؟",
+          "answer_ar": "المايا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-010",
+          "points": 200,
+          "question_ar": "في أي سنة سقطت القسطنطينية؟",
+          "answer_ar": "1453",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-011",
+          "points": 200,
+          "question_ar": "من قاد رحلة بحرية أدت للوصول الأوروبي إلى الأمريكتين 1492؟",
+          "answer_ar": "كريستوفر كولومبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-012",
+          "points": 200,
+          "question_ar": "ما الثورة التي بدأت عام 1789 في فرنسا؟",
+          "answer_ar": "الثورة الفرنسية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-013",
+          "points": 200,
+          "question_ar": "ما الثورة الصناعية بدأت أولًا في أي دولة؟",
+          "answer_ar": "المملكة المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-014",
+          "points": 200,
+          "question_ar": "في أي سنة بدأت الحرب العالمية الأولى؟",
+          "answer_ar": "1914",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-015",
+          "points": 200,
+          "question_ar": "في أي سنة انتهت الحرب العالمية الأولى؟",
+          "answer_ar": "1918",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-016",
+          "points": 200,
+          "question_ar": "في أي سنة بدأت الحرب العالمية الثانية؟",
+          "answer_ar": "1939",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-017",
+          "points": 200,
+          "question_ar": "في أي سنة انتهت الحرب العالمية الثانية؟",
+          "answer_ar": "1945",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-018",
+          "points": 200,
+          "question_ar": "ما الجدار الذي سقط في أوروبا عام 1989؟",
+          "answer_ar": "جدار برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-019",
+          "points": 200,
+          "question_ar": "ما الحدث الذي هبط فيه الإنسان على القمر عام 1969؟",
+          "answer_ar": "أبولو 11",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-020",
+          "points": 200,
+          "question_ar": "ما اسم السفينة الشهيرة التي غرقت عام 1912؟",
+          "answer_ar": "تيتانيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Smithsonian Institution",
+              "type": "museum",
+              "reference": "historical collections and educational references"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-021",
+          "points": 200,
+          "question_ar": "ما الاسم الذي يُطلق على طريق التجارة القديم بين الشرق والغرب؟",
+          "answer_ar": "طريق الحرير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-022",
+          "points": 200,
+          "question_ar": "من المخترع المرتبط بالمطبعة الأوروبية الحديثة؟",
+          "answer_ar": "يوهان غوتنبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Smithsonian Institution",
+              "type": "museum",
+              "reference": "historical collections and educational references"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-023",
+          "points": 200,
+          "question_ar": "ما الدولة التي قامت فيها الثورة البلشفية 1917؟",
+          "answer_ar": "روسيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-024",
+          "points": 200,
+          "question_ar": "ما اسم الحضارة التي ازدهرت في جنوب العراق القديم؟",
+          "answer_ar": "السومرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-025",
+          "points": 200,
+          "question_ar": "ما اسم الكتابة المسمارية ارتبطت بأي منطقة قديمة؟",
+          "answer_ar": "بلاد الرافدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-026",
+          "points": 200,
+          "question_ar": "ما اسم الحضارة التي اشتهرت بالمدرجات والطرق في الأنديز؟",
+          "answer_ar": "الإنكا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-027",
+          "points": 200,
+          "question_ar": "من مؤسس الإمبراطورية المغولية في القرن 13؟",
+          "answer_ar": "جنكيز خان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-028",
+          "points": 200,
+          "question_ar": "ما الاتفاقية التي أنهت الحرب العالمية الأولى رسميًا؟",
+          "answer_ar": "معاهدة فرساي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-029",
+          "points": 200,
+          "question_ar": "ما المنظمة الدولية التي تأسست بعد الحرب العالمية الثانية؟",
+          "answer_ar": "الأمم المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-030",
+          "points": 200,
+          "question_ar": "في أي مدينة تقع الكولوسيوم الروماني؟",
+          "answer_ar": "روما",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-031",
+          "points": 200,
+          "question_ar": "في أي بلد قامت حضارة الأزتيك؟",
+          "answer_ar": "المكسيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-032",
+          "points": 200,
+          "question_ar": "ما اللغة التي استُخدمت في الكتابة الهيروغليفية؟",
+          "answer_ar": "المصرية القديمة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-033",
+          "points": 200,
+          "question_ar": "ما اسم العصر الذي سبق العصر البرونزي مباشرة؟",
+          "answer_ar": "العصر الحجري الحديث",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-034",
+          "points": 200,
+          "question_ar": "ما اسم العصر المعروف بالاستكشافات البحرية الأوروبية الكبرى؟",
+          "answer_ar": "عصر الكشوف الجغرافية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-035",
+          "points": 200,
+          "question_ar": "ما الاسم الذي يُطلق على وباء القرن 14 في أوروبا؟",
+          "answer_ar": "الموت الأسود",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-036",
+          "points": 200,
+          "question_ar": "من كان أول إمبراطور لروما؟",
+          "answer_ar": "أغسطس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-037",
+          "points": 200,
+          "question_ar": "ما اسم الإمبراطورية التي اتخذت القسطنطينية عاصمة لها؟",
+          "answer_ar": "الإمبراطورية البيزنطية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-038",
+          "points": 200,
+          "question_ar": "ما الدولة التي انطلقت منها النهضة الأوروبية أولًا؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-039",
+          "points": 200,
+          "question_ar": "من الزعيم الهندي المرتبط بفلسفة اللاعنف والاستقلال؟",
+          "answer_ar": "المهاتما غاندي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-040",
+          "points": 200,
+          "question_ar": "ما الاسم الذي يطلق على الصراع بين الولايات المتحدة والاتحاد السوفيتي بعد 1945؟",
+          "answer_ar": "الحرب الباردة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-041",
+          "points": 200,
+          "question_ar": "في أي سنة أُعلن استقلال الولايات المتحدة؟",
+          "answer_ar": "1776",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-042",
+          "points": 200,
+          "question_ar": "ما الوثيقة الإنجليزية الشهيرة الصادرة عام 1215؟",
+          "answer_ar": "الماجنا كارتا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-043",
+          "points": 200,
+          "question_ar": "ما الحضارة التي اشتهرت بمدينة البتراء؟",
+          "answer_ar": "النبطية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-044",
+          "points": 200,
+          "question_ar": "من القائد الذي توسع بمقدونيا حتى الهند؟",
+          "answer_ar": "الإسكندر الأكبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-045",
+          "points": 200,
+          "question_ar": "ما اسم الفترة التي ازدهرت فيها الفلسفة والدراما في اليونان؟",
+          "answer_ar": "العصر الكلاسيكي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-046",
+          "points": 200,
+          "question_ar": "ما الحضارة التي بنت الكولوسيوم والطرق المعبدة الواسعة؟",
+          "answer_ar": "الرومانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-047",
+          "points": 200,
+          "question_ar": "ما اسم السفينة التي قادها داروين في رحلته العلمية الشهيرة؟",
+          "answer_ar": "بيغل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Smithsonian Institution",
+              "type": "museum",
+              "reference": "historical collections and educational references"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-048",
+          "points": 200,
+          "question_ar": "في أي سنة بدأ سقوط جدار برلين؟",
+          "answer_ar": "1989",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-049",
+          "points": 200,
+          "question_ar": "ما الاسم الذي يُطلق على تقسيم ألمانيا بعد الحرب الثانية حتى 1990؟",
+          "answer_ar": "ألمانيا الشرقية والغربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-200-050",
+          "points": 200,
+          "question_ar": "أي حضارة قديمة ارتبطت بمدينة روما؟",
+          "answer_ar": "الرومانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-001",
+          "points": 400,
+          "question_ar": "حضارة قامت بين دجلة والفرات وطورت الكتابة المسمارية؛ ما هي؟",
+          "answer_ar": "حضارة بلاد الرافدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-002",
+          "points": 400,
+          "question_ar": "مدينة يونانية قديمة ارتبطت بولادة الديمقراطية؛ ما هي؟",
+          "answer_ar": "أثينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-003",
+          "points": 400,
+          "question_ar": "حدث سنة 1453 أنهى العصر البيزنطي في القسطنطينية؛ ما هو؟",
+          "answer_ar": "سقوط القسطنطينية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-004",
+          "points": 400,
+          "question_ar": "رحلة 1492 التي فتحت باب الاستعمار الأوروبي للأمريكيتين؛ قادها من؟",
+          "answer_ar": "كريستوفر كولومبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-005",
+          "points": 400,
+          "question_ar": "ثورة 1789 التي غيرت أوروبا سياسيًا بشعار الحرية والمساواة؛ ما هي؟",
+          "answer_ar": "الثورة الفرنسية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-006",
+          "points": 400,
+          "question_ar": "بلد انطلقت منه الثورة الصناعية الأولى بالقرن 18؛ ما هو؟",
+          "answer_ar": "المملكة المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-007",
+          "points": 400,
+          "question_ar": "حرب عالمية بدأت باغتيال في سراييفو عام 1914؛ ما هي؟",
+          "answer_ar": "الحرب العالمية الأولى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-008",
+          "points": 400,
+          "question_ar": "معاهدة 1919 التي فرضت شروطًا على ألمانيا بعد الحرب الأولى؛ ما هي؟",
+          "answer_ar": "معاهدة فرساي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-009",
+          "points": 400,
+          "question_ar": "حرب عالمية بدأت بغزو بولندا عام 1939؛ ما هي؟",
+          "answer_ar": "الحرب العالمية الثانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-010",
+          "points": 400,
+          "question_ar": "تحالف دولي تأسس 1945 لحفظ السلم العالمي؛ ما هو؟",
+          "answer_ar": "الأمم المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-011",
+          "points": 400,
+          "question_ar": "جدار بُني 1961 وسقط 1989 وأصبح رمزًا لانتهاء حقبة؛ ما هو؟",
+          "answer_ar": "جدار برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-012",
+          "points": 400,
+          "question_ar": "مهمة فضائية 1969 حملت أول إنسان إلى القمر؛ ما اسمها؟",
+          "answer_ar": "أبولو 11",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-013",
+          "points": 400,
+          "question_ar": "وباء اجتاح أوروبا في القرن 14 وأدى لانخفاض سكاني كبير؛ ما اسمه؟",
+          "answer_ar": "الموت الأسود",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-014",
+          "points": 400,
+          "question_ar": "وثيقة 1215 حدّت من سلطات الملك في إنجلترا؛ ما اسمها؟",
+          "answer_ar": "الماجنا كارتا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-015",
+          "points": 400,
+          "question_ar": "إمبراطورية مركزها روما وتشتهر بالقانون والطرق؛ ما هي؟",
+          "answer_ar": "الإمبراطورية الرومانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-016",
+          "points": 400,
+          "question_ar": "إمبراطورية عاصمتها القسطنطينية وعدّت امتدادًا لروما الشرقية؛ ما هي؟",
+          "answer_ar": "الإمبراطورية البيزنطية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-017",
+          "points": 400,
+          "question_ar": "قائد مقدوني هزم الفرس ووصل إلى الهند؛ من هو؟",
+          "answer_ar": "الإسكندر الأكبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-018",
+          "points": 400,
+          "question_ar": "إمبراطورية أسسها جنكيز خان في آسيا الوسطى؛ ما هي؟",
+          "answer_ar": "الإمبراطورية المغولية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-019",
+          "points": 400,
+          "question_ar": "حضارة أنديزية بنت ماتشو بيتشو قبل وصول الإسبان؛ ما هي؟",
+          "answer_ar": "الإنكا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-020",
+          "points": 400,
+          "question_ar": "حضارة أمريكية وسطى اشتهرت بتشيتشن إيتزا؛ ما هي؟",
+          "answer_ar": "المايا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-021",
+          "points": 400,
+          "question_ar": "حضارة ازدهرت في وسط المكسيك قبل الغزو الإسباني وعاصمتها تينوتشتيتلان؛ ما هي؟",
+          "answer_ar": "الأزتيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-022",
+          "points": 400,
+          "question_ar": "حضارة عربية قديمة جعلت البتراء مركزًا تجاريًا؛ ما هي؟",
+          "answer_ar": "النبطية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-023",
+          "points": 400,
+          "question_ar": "اختراع نشر المعرفة بسرعة في أوروبا بالقرن 15؛ ما هو؟",
+          "answer_ar": "المطبعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Smithsonian Institution",
+              "type": "museum",
+              "reference": "historical collections and educational references"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-024",
+          "points": 400,
+          "question_ar": "قائد هندي ارتبط بالمقاومة السلمية ضد الاستعمار البريطاني؛ من هو؟",
+          "answer_ar": "المهاتما غاندي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-025",
+          "points": 400,
+          "question_ar": "الصراع السياسي-العسكري الطويل بعد 1945 دون حرب مباشرة شاملة؛ ما هو؟",
+          "answer_ar": "الحرب الباردة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-026",
+          "points": 400,
+          "question_ar": "وثيقة 1776 التي أعلنت استقلال المستعمرات الأمريكية؛ ما هي؟",
+          "answer_ar": "إعلان الاستقلال الأمريكي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-027",
+          "points": 400,
+          "question_ar": "مدينة إيطالية ارتبطت ببداية النهضة مع فلورنسا؛ اذكر واحدة",
+          "answer_ar": "فلورنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-028",
+          "points": 400,
+          "question_ar": "طريق تجاري قديم ربط الصين بالمتوسط عبر آسيا؛ ما اسمه؟",
+          "answer_ar": "طريق الحرير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-029",
+          "points": 400,
+          "question_ar": "سفينة علمية أقلّت داروين في رحلته التأسيسية للتطور؛ ما اسمها؟",
+          "answer_ar": "بيغل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Smithsonian Institution",
+              "type": "museum",
+              "reference": "historical collections and educational references"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-030",
+          "points": 400,
+          "question_ar": "موقع أثري روماني حُفظ بعد ثوران فيزوف؛ ما هو؟",
+          "answer_ar": "بومبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-031",
+          "points": 400,
+          "question_ar": "الحدث الذي أنهى رسميًا الحرب العالمية الثانية في آسيا عام 1945؟",
+          "answer_ar": "استسلام اليابان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-032",
+          "points": 400,
+          "question_ar": "الحدث الذي أنهى الحرب العالمية الأولى على الجبهة الغربية في 11 نوفمبر 1918؟",
+          "answer_ar": "الهدنة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-033",
+          "points": 400,
+          "question_ar": "الدولة التي شهدت الثورة البلشفية 1917؟",
+          "answer_ar": "روسيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-034",
+          "points": 400,
+          "question_ar": "نظام سياسي أطاحت به الثورة الفرنسية 1789 في باريس؛ ما هو؟",
+          "answer_ar": "الملكية المطلقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-035",
+          "points": 400,
+          "question_ar": "إطار زمني يُسمّى عصر الكشوف وبرز فيه كولومبوس وفاسكو دا غاما؛ ما هو؟",
+          "answer_ar": "عصر الكشوف الجغرافية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-036",
+          "points": 400,
+          "question_ar": "حضارة السومريين نشأت في أي منطقة تاريخية عامة؟",
+          "answer_ar": "بلاد الرافدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-037",
+          "points": 400,
+          "question_ar": "المؤسسة التي سبقت الأمم المتحدة بعد الحرب الأولى؛ ما اسمها؟",
+          "answer_ar": "عصبة الأمم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-038",
+          "points": 400,
+          "question_ar": "الدولة الأوروبية التي قادها نابليون بونابرت؛ ما هي؟",
+          "answer_ar": "فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-039",
+          "points": 400,
+          "question_ar": "القائد الذي أصبح أول إمبراطور لفرنسا عام 1804؛ من هو؟",
+          "answer_ar": "نابليون بونابرت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-040",
+          "points": 400,
+          "question_ar": "حدث 1989 في ألمانيا ساعد لاحقًا على وحدة 1990؛ ما هو؟",
+          "answer_ar": "سقوط جدار برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-041",
+          "points": 400,
+          "question_ar": "المدينة التي كانت عاصمة الإمبراطورية البيزنطية وتُعرف اليوم بإسطنبول؛ ما هي؟",
+          "answer_ar": "القسطنطينية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-042",
+          "points": 400,
+          "question_ar": "القرن الذي يُنسب إليه غالبًا بدء عصر النهضة في إيطاليا؟",
+          "answer_ar": "القرن الرابع عشر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-043",
+          "points": 400,
+          "question_ar": "العصر الذي تميز ببناء الأهرامات الكبرى في مصر القديمة؛ ما اسمه؟",
+          "answer_ar": "عصر الدولة القديمة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-044",
+          "points": 400,
+          "question_ar": "العصر التاريخي الذي تلا العصور الوسطى مباشرة في أوروبا؛ ما هو؟",
+          "answer_ar": "العصر الحديث المبكر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-045",
+          "points": 400,
+          "question_ar": "المعاهدة التي أعادت رسم حدود أوروبا بعد الحروب النابليونية عام 1815؛ ما الحدث؟",
+          "answer_ar": "مؤتمر فيينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-046",
+          "points": 400,
+          "question_ar": "الحدث الأمريكي الذي أشعل الحرب الأهلية عام 1861 يتعلق بانفصال الولايات الجنوبية؛ ما هو؟",
+          "answer_ar": "الانفصال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-047",
+          "points": 400,
+          "question_ar": "الحرب التي استمرت بين 1861 و1865 داخل الولايات المتحدة؛ ما هي؟",
+          "answer_ar": "الحرب الأهلية الأمريكية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-048",
+          "points": 400,
+          "question_ar": "القارة التي نشأت فيها حضارتا المايا والأزتيك؟",
+          "answer_ar": "أمريكا الشمالية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-049",
+          "points": 400,
+          "question_ar": "المدينة التي احتضنت سقوط الباستيل عام 1789؛ ما هي؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-400-050",
+          "points": 400,
+          "question_ar": "الوثيقة التي قُدمت في فرنسا 1789 وتؤكد حقوق الإنسان والمواطن؛ ما هي؟",
+          "answer_ar": "إعلان حقوق الإنسان والمواطن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-001",
+          "points": 600,
+          "question_ar": "إمبراطورية شرقية اعتبرت نفسها رومانية حتى 1453 وعاصمتها القسطنطينية؛ ما هي؟",
+          "answer_ar": "الإمبراطورية البيزنطية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-002",
+          "points": 600,
+          "question_ar": "تحول أوروبي كبير من الاقتصاد الزراعي للمصانع بدأ ببريطانيا في القرن 18؛ ما اسمه؟",
+          "answer_ar": "الثورة الصناعية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-003",
+          "points": 600,
+          "question_ar": "معاهدة 1919 التي ارتبطت لاحقًا بتوترات ما بين الحربين؛ ما هي؟",
+          "answer_ar": "معاهدة فرساي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-004",
+          "points": 600,
+          "question_ar": "حدث 1789 الذي بدأ بسقوط الباستيل وألغى الامتيازات الإقطاعية لاحقًا؛ ما هو؟",
+          "answer_ar": "الثورة الفرنسية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-005",
+          "points": 600,
+          "question_ar": "تحالف دولي تأسس بعد الحرب الأولى وفشل بمنع الحرب الثانية؛ ما هو؟",
+          "answer_ar": "عصبة الأمم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-006",
+          "points": 600,
+          "question_ar": "حالة صراع بين قطبين نوويين بعد 1945 دون مواجهة مباشرة شاملة؛ ما هي؟",
+          "answer_ar": "الحرب الباردة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-007",
+          "points": 600,
+          "question_ar": "أول مهمة مأهولة هبطت على القمر وقائدها نيل أرمسترونغ؛ ما هي؟",
+          "answer_ar": "أبولو 11",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Smithsonian Institution",
+              "type": "museum",
+              "reference": "historical collections and educational references"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-008",
+          "points": 600,
+          "question_ar": "قانونيًّا: الوثيقة الإنجليزية 1215 التي قيّدت الملك جون؛ ما هي؟",
+          "answer_ar": "الماجنا كارتا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-009",
+          "points": 600,
+          "question_ar": "حدث 1453 غيّر مسارات التجارة الأوروبية نحو البحر؛ ما هو؟",
+          "answer_ar": "سقوط القسطنطينية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-010",
+          "points": 600,
+          "question_ar": "حضارة أمريكية وسطى تركت تقويمًا معقدًا ومدنًا مثل بالينكي؛ ما هي؟",
+          "answer_ar": "المايا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-011",
+          "points": 600,
+          "question_ar": "حضارة أنديزية بنت شبكة طرق واسعة وعاصمتها كوسكو؛ ما هي؟",
+          "answer_ar": "الإنكا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-012",
+          "points": 600,
+          "question_ar": "حضارة مكسيكية كانت عاصمتها تينوتشتيتلان قبل الغزو الإسباني؛ ما هي؟",
+          "answer_ar": "الأزتيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-013",
+          "points": 600,
+          "question_ar": "حضارة عراقية قديمة تنسب لها أقدم المدن والكتابة المسمارية؛ ما هي؟",
+          "answer_ar": "السومرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-014",
+          "points": 600,
+          "question_ar": "إمبراطورية ترابطت بطرق تجارية ضخمة عبر أوراسيا بقيادة جنكيز خان؛ ما هي؟",
+          "answer_ar": "الإمبراطورية المغولية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-015",
+          "points": 600,
+          "question_ar": "قائد هيليني نشر الثقافة اليونانية من مصر إلى الهند؛ من هو؟",
+          "answer_ar": "الإسكندر الأكبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-016",
+          "points": 600,
+          "question_ar": "العصر الأوروبي الذي ازدهرت فيه الفنون الإنسانية وبدأ من إيطاليا؛ ما هو؟",
+          "answer_ar": "عصر النهضة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-017",
+          "points": 600,
+          "question_ar": "العصر الذي شهد رحلات كولومبوس وماجلان وفاسكو دا غاما؛ ما اسمه؟",
+          "answer_ar": "عصر الكشوف الجغرافية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-018",
+          "points": 600,
+          "question_ar": "حدث 1914 الذي أشعل الحرب الأولى مرتبط باغتيال وريث العرش النمساوي؛ ما هو؟",
+          "answer_ar": "اغتيال فرانز فرديناند",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-019",
+          "points": 600,
+          "question_ar": "الهدنة التي أنهت القتال في الحرب الأولى وقعت في أي سنة؟",
+          "answer_ar": "1918",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-020",
+          "points": 600,
+          "question_ar": "الدولة التي اندلعت فيها الثورة البلشفية وقادت لقيام الاتحاد السوفيتي؛ ما هي؟",
+          "answer_ar": "روسيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-021",
+          "points": 600,
+          "question_ar": "الفترة 1861-1865 في أمريكا ارتبطت بالاتحاد والعبودية؛ ما اسم الحرب؟",
+          "answer_ar": "الحرب الأهلية الأمريكية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-022",
+          "points": 600,
+          "question_ar": "الوثيقة الفرنسية 1789 التي سبقت الدساتير الحديثة لحقوق الفرد؛ ما هي؟",
+          "answer_ar": "إعلان حقوق الإنسان والمواطن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-023",
+          "points": 600,
+          "question_ar": "حاكم فرنسي أصبح إمبراطورًا عام 1804 ثم هُزم نهائيًا في واترلو؛ من هو؟",
+          "answer_ar": "نابليون بونابرت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-024",
+          "points": 600,
+          "question_ar": "المؤتمر الأوروبي 1815 الذي رسخ توازن القوى بعد نابليون؛ ما هو؟",
+          "answer_ar": "مؤتمر فيينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-025",
+          "points": 600,
+          "question_ar": "المسار التجاري القديم الذي نقل الحرير والورق والبهارات بين الصين والمتوسط؛ ما هو؟",
+          "answer_ar": "طريق الحرير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-026",
+          "points": 600,
+          "question_ar": "السفينة التي حملت داروين ونتج عنها أفكار التطور بالانتقاء الطبيعي؛ ما هي؟",
+          "answer_ar": "بيغل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Smithsonian Institution",
+              "type": "museum",
+              "reference": "historical collections and educational references"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-027",
+          "points": 600,
+          "question_ar": "وباء القرن 14 الذي أدى إلى تحولات اقتصادية واجتماعية في أوروبا؛ ما هو؟",
+          "answer_ar": "الموت الأسود",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-028",
+          "points": 600,
+          "question_ar": "الإمبراطور الروماني الأول الذي تلا الجمهورية رسميًا؛ من هو؟",
+          "answer_ar": "أغسطس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-029",
+          "points": 600,
+          "question_ar": "الحدث الذي وقع في برلين 1989 ومهّد لتوحيد ألمانيا؛ ما هو؟",
+          "answer_ar": "سقوط جدار برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-030",
+          "points": 600,
+          "question_ar": "السنة التي توحدت فيها ألمانيا رسميًا بعد سقوط الجدار؟",
+          "answer_ar": "1990",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-031",
+          "points": 600,
+          "question_ar": "الدولة التي احتضنت المايا والأزتيك تاريخيًا ضمن أراضيها الحديثة؛ ما هي؟",
+          "answer_ar": "المكسيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-032",
+          "points": 600,
+          "question_ar": "المدينة التي كانت قلب الإمبراطورية الرومانية الغربية؛ ما هي؟",
+          "answer_ar": "روما",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-033",
+          "points": 600,
+          "question_ar": "العاصمة الفرنسية المرتبطة بالباستيل وبداية الثورة؛ ما هي؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-034",
+          "points": 600,
+          "question_ar": "الموقع المصري الذي يضم الهرم الأكبر آخر عجائب العالم القديم الباقية؛ ما هو؟",
+          "answer_ar": "هضبة الجيزة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-035",
+          "points": 600,
+          "question_ar": "المنطقة التاريخية بين دجلة والفرات التي شهدت حضارات مبكرة؛ ما هي؟",
+          "answer_ar": "بلاد الرافدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-036",
+          "points": 600,
+          "question_ar": "الحقبة التي سبقت الكتابة وتعرف بما قبل التاريخ؛ ما اسمها؟",
+          "answer_ar": "عصور ما قبل التاريخ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-037",
+          "points": 600,
+          "question_ar": "الحدث الذي أنهى الحرب الثانية في أوروبا يوم 8 مايو 1945؛ ما هو؟",
+          "answer_ar": "استسلام ألمانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-038",
+          "points": 600,
+          "question_ar": "الحدث الذي أنهى الحرب الثانية في آسيا في سبتمبر 1945؛ ما هو؟",
+          "answer_ar": "استسلام اليابان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-039",
+          "points": 600,
+          "question_ar": "الهيئة الدولية التي تأسست 1945 وخلفت عصبة الأمم؛ ما هي؟",
+          "answer_ar": "الأمم المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-040",
+          "points": 600,
+          "question_ar": "التحالف العسكري الغربي الذي تأسس 1949 في سياق الحرب الباردة؛ ما هو؟",
+          "answer_ar": "الناتو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-041",
+          "points": 600,
+          "question_ar": "التحالف الشرقي الذي تأسس 1955 ردًا على الناتو؛ ما هو؟",
+          "answer_ar": "حلف وارسو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-042",
+          "points": 600,
+          "question_ar": "الدولة التي بدأت فيها النهضة غالبًا عبر فلورنسا والبندقية؛ ما هي؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-043",
+          "points": 600,
+          "question_ar": "المدينة الإيطالية المرتبطة بأسرة ميديتشي ورعاية الفنون؛ ما هي؟",
+          "answer_ar": "فلورنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-044",
+          "points": 600,
+          "question_ar": "الثورة التي حولت فرنسا من ملكية إلى جمهورية وأثرت عالميًا؛ ما هي؟",
+          "answer_ar": "الثورة الفرنسية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-045",
+          "points": 600,
+          "question_ar": "الحضارة التي اشتهرت بالهيروغليفية وبناء الأهرامات؛ ما هي؟",
+          "answer_ar": "المصرية القديمة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-046",
+          "points": 600,
+          "question_ar": "الحضارة التي اشتهرت بالقانون الروماني واللاتينية الكلاسيكية؛ ما هي؟",
+          "answer_ar": "الرومانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "civilizations and heritage sites context"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-047",
+          "points": 600,
+          "question_ar": "المعاهدة التي أنهت رسميًا الحرب العالمية الأولى بين الحلفاء وألمانيا؛ ما هي؟",
+          "answer_ar": "معاهدة فرساي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-048",
+          "points": 600,
+          "question_ar": "الحدث الذي اعتُبر بداية العصر الحديث الأوروبي عند بعض المؤرخين سنة 1453؛ ما هو؟",
+          "answer_ar": "سقوط القسطنطينية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-049",
+          "points": 600,
+          "question_ar": "القائد السلمي للهند الذي قاد مسيرة الملح ضد الاستعمار؛ من هو؟",
+          "answer_ar": "المهاتما غاندي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT09-600-050",
+          "points": 600,
+          "question_ar": "الحالة الجيوسياسية بين واشنطن وموسكو بعد 1945 حتى 1991؛ ما هي؟",
+          "answer_ar": "الحرب الباردة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "historical events and civilization entries"
+            },
+            {
+              "title": "HISTORY",
+              "type": "reputable_media",
+              "reference": "history explainers and timelines"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+-- AlterTable
+ALTER TABLE "PaymentOrder"
+ADD COLUMN "requested_credits" INTEGER NOT NULL DEFAULT 0,
+ADD COLUMN "unit_price_kwd" DECIMAL(10,3) NOT NULL DEFAULT 0.000,
+ADD COLUMN "coupon_code" TEXT,
+ADD COLUMN "discount_kwd" DECIMAL(10,3) NOT NULL DEFAULT 0.000;

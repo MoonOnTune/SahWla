@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 3 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "الأكل الكويتي وثقافة الديوانية (أطباق، عادات، إتيكيت)",
+      "name_en": "Kuwaiti Food & Diwaniya Culture",
+      "questions": [
+        {
+          "id": "CAT03-200-001",
+          "points": 200,
+          "question_ar": "ما الطبق الكويتي الشهير المعتمد على الأرز واللحم أو الدجاج؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-002",
+          "points": 200,
+          "question_ar": "ما الاسم الشائع لليمون المجفف المستخدم في طبخات كويتية؟",
+          "answer_ar": "اللومي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-003",
+          "points": 200,
+          "question_ar": "ما السمك المرتبط تقليديًا بطبق «مطبق سمك» في الكويت؟",
+          "answer_ar": "الزبيدي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-004",
+          "points": 200,
+          "question_ar": "ما الطبق الحلو المالح من شعيرية وسكر ويعلوه البيض؟",
+          "answer_ar": "بلاليط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-005",
+          "points": 200,
+          "question_ar": "ما الطبق الرمضاني المصنوع من القمح واللحم بطهي طويل؟",
+          "answer_ar": "هريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-006",
+          "points": 200,
+          "question_ar": "ما الطبق الذي يجمع رقائق عجين رقيقة داخل مرق اللحم والخضار؟",
+          "answer_ar": "مرقوق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-007",
+          "points": 200,
+          "question_ar": "ما الطبق المعتمد على القمح المجروش في المطبخ الخليجي؟",
+          "answer_ar": "جريش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-008",
+          "points": 200,
+          "question_ar": "ما الحلوى الكروية المقلية التي تُقدّم مع الدبس؟",
+          "answer_ar": "لقيمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-009",
+          "points": 200,
+          "question_ar": "ما الشراب أو المُحلّي المستخرج من التمر ويستخدم مع الحلويات؟",
+          "answer_ar": "دبس التمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-010",
+          "points": 200,
+          "question_ar": "ما البهار الأكثر ارتباطًا بنكهة القهوة العربية؟",
+          "answer_ar": "الهيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-011",
+          "points": 200,
+          "question_ar": "ما المكوّن العطري الشهير في قرص العقيلي والقهوة أحيانًا؟",
+          "answer_ar": "الزعفران",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-012",
+          "points": 200,
+          "question_ar": "ما اسم الكعكة الكويتية التقليدية المنكّهة بالهيل والزعفران؟",
+          "answer_ar": "قرص عقيلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-013",
+          "points": 200,
+          "question_ar": "ما الطبق الذي يعتمد على خبز يُسقى بالمرق واللحم؟",
+          "answer_ar": "تشريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-014",
+          "points": 200,
+          "question_ar": "ما اسم المجلس الاجتماعي التقليدي في الكويت؟",
+          "answer_ar": "ديوانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-015",
+          "points": 200,
+          "question_ar": "ما المشروب الذي يُقدّم غالبًا أولًا للضيف في الديوانية؟",
+          "answer_ar": "قهوة عربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-016",
+          "points": 200,
+          "question_ar": "ما الضيافة التي ترافق القهوة غالبًا في الكويت؟",
+          "answer_ar": "التمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-017",
+          "points": 200,
+          "question_ar": "ما اسم كوب القهوة العربي الصغير؟",
+          "answer_ar": "فنجان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-018",
+          "points": 200,
+          "question_ar": "ما اسم وعاء صب القهوة العربية؟",
+          "answer_ar": "دلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-019",
+          "points": 200,
+          "question_ar": "ماذا يُسمّى من يقوم بصب القهوة للضيوف؟",
+          "answer_ar": "صباب القهوة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-020",
+          "points": 200,
+          "question_ar": "ما الحركة التي يقوم بها الضيف للدلالة على الاكتفاء من القهوة؟",
+          "answer_ar": "هز الفنجان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-021",
+          "points": 200,
+          "question_ar": "في أي شهر تزداد أطباق مثل الهريس والتشريب على موائد الكويت؟",
+          "answer_ar": "رمضان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-022",
+          "points": 200,
+          "question_ar": "ما المقبلات المثلثة الشائعة على سفرة رمضان؟",
+          "answer_ar": "سمبوسة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-023",
+          "points": 200,
+          "question_ar": "ما نوع الحساء الشائع كبداية على مائدة الإفطار؟",
+          "answer_ar": "شوربة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-024",
+          "points": 200,
+          "question_ar": "ما نوع الأرز الأكثر استخدامًا في أطباق المجبوس؟",
+          "answer_ar": "أرز بسمتي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-025",
+          "points": 200,
+          "question_ar": "ما نوع الحبوب الأساسي في الهريس؟",
+          "answer_ar": "القمح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-026",
+          "points": 200,
+          "question_ar": "ما نوع الحبوب الأساسي في الجريش؟",
+          "answer_ar": "القمح المجروش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-027",
+          "points": 200,
+          "question_ar": "ما المكوّن الأساسي في بلاليط قبل إضافة البيض؟",
+          "answer_ar": "الشعيرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-028",
+          "points": 200,
+          "question_ar": "ما طريقة الطهي التي تمنح الهريس قوامه المتماسك؟",
+          "answer_ar": "الطهي البطيء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-029",
+          "points": 200,
+          "question_ar": "ما اسم طبق الأرز بالسمك في المطبخ الكويتي؟",
+          "answer_ar": "مطبق سمك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-030",
+          "points": 200,
+          "question_ar": "ما الاسم الدارج لوجبة الفطور في الكويت؟",
+          "answer_ar": "ريوق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-031",
+          "points": 200,
+          "question_ar": "ما العبارة الأكثر شيوعًا عند دخول الديوانية للتحية؟",
+          "answer_ar": "السلام عليكم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-032",
+          "points": 200,
+          "question_ar": "بحسب الإتيكيت، أي يد تُستخدم غالبًا لتقديم الفنجان؟",
+          "answer_ar": "اليد اليمنى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-033",
+          "points": 200,
+          "question_ar": "عادةً، من يبدأ بالسلام عليه أولًا في الديوانية؟",
+          "answer_ar": "الأكبر سنًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-034",
+          "points": 200,
+          "question_ar": "بعد القهوة في الضيافة التقليدية، ما المشروب الذي يُقدّم كثيرًا؟",
+          "answer_ar": "الشاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-035",
+          "points": 200,
+          "question_ar": "ما الحلوى الصغيرة المقلية التي تُرش أحيانًا بالسمسم؟",
+          "answer_ar": "لقيمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-036",
+          "points": 200,
+          "question_ar": "ما الطبق الذي يُعرف بكونه «أرز متبّل بالبهارات واللومي»؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-037",
+          "points": 200,
+          "question_ar": "ما الفضاء الذي يجتمع فيه الرجال غالبًا للنقاش واستقبال الضيوف؟",
+          "answer_ar": "الديوانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-038",
+          "points": 200,
+          "question_ar": "ما العنصر العطري المستخدم لتعطير المجالس إلى جانب القهوة؟",
+          "answer_ar": "البخور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-039",
+          "points": 200,
+          "question_ar": "ما الطبق الذي يجمع الخبز والمرق بدل العجين المطهو داخله؟",
+          "answer_ar": "تشريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-040",
+          "points": 200,
+          "question_ar": "ما الصيغة الشائعة للترحيب بالضيف بعد السلام؟",
+          "answer_ar": "حياك الله",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-041",
+          "points": 200,
+          "question_ar": "ما الحلوى المرتبطة كثيرًا بوقت ما بعد الإفطار في رمضان؟",
+          "answer_ar": "لقيمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-042",
+          "points": 200,
+          "question_ar": "ما الطبق الذي يتميّز بإضافة اللومي الأسود لنكهة أعمق؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-043",
+          "points": 200,
+          "question_ar": "ما الاسم الذي يطلق على جلسة استقبال الضيوف في البيت الكويتي؟",
+          "answer_ar": "ديوانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-044",
+          "points": 200,
+          "question_ar": "ما الوعاء الذي تُحفظ فيه القهوة ساخنة أثناء الضيافة؟",
+          "answer_ar": "دلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-045",
+          "points": 200,
+          "question_ar": "ما كلمة «فوالة» في الاستعمال الشعبي تشير غالبًا إلى ماذا؟",
+          "answer_ar": "ضيافة خفيفة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-046",
+          "points": 200,
+          "question_ar": "ما الطبق الذي يشتهر بقوام لين نتيجة الهرس الطويل؟",
+          "answer_ar": "هريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-047",
+          "points": 200,
+          "question_ar": "ما الطبق الذي يرتبط برقائق العجين أكثر من الأرز؟",
+          "answer_ar": "مرقوق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-048",
+          "points": 200,
+          "question_ar": "ما الكلمة التي تعبّر عن تقديم واجب الكرم للضيف؟",
+          "answer_ar": "الضيافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-049",
+          "points": 200,
+          "question_ar": "ما الطبق الذي يرتبط بالسمك أكثر من اللحم في نسخته الأشهر؟",
+          "answer_ar": "مطبق سمك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-200-050",
+          "points": 200,
+          "question_ar": "ما العنصر الذي يدل على كرم الاستقبال في الديوانية غالبًا؟",
+          "answer_ar": "القهوة العربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-001",
+          "points": 400,
+          "question_ar": "طبق كويتي من أرز طويل الحبة مع لحم وبهارات ولومي أسود؛ ما اسمه؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-002",
+          "points": 400,
+          "question_ar": "طبق رمضاني يطبخ ساعات من القمح واللحم حتى يتماسك؛ ما هو؟",
+          "answer_ar": "هريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-003",
+          "points": 400,
+          "question_ar": "حلوى فطور تجمع شعيرية محلاة مع طبقة بيض؛ ما اسمها؟",
+          "answer_ar": "بلاليط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-004",
+          "points": 400,
+          "question_ar": "طبق يُسكب فيه المرق فوق الخبز بدل طهي العجين داخله؛ ما هو؟",
+          "answer_ar": "تشريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-005",
+          "points": 400,
+          "question_ar": "طبق يعتمد على رقائق عجين مطهية داخل المرق مع خضار؛ ما هو؟",
+          "answer_ar": "مرقوق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-006",
+          "points": 400,
+          "question_ar": "حين يهز الضيف الفنجان بعد الرشفة، ماذا يقصد؟",
+          "answer_ar": "الاكتفاء من القهوة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-007",
+          "points": 400,
+          "question_ar": "في الضيافة الكويتية، ما المشروب الذي يسبق الشاي غالبًا؟",
+          "answer_ar": "القهوة العربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-008",
+          "points": 400,
+          "question_ar": "ما الوعاء المعدني ذو الفوهة الطويلة لصب القهوة؟",
+          "answer_ar": "دلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-009",
+          "points": 400,
+          "question_ar": "في المطبق الكويتي، ما السمك الأكثر شيوعًا تاريخيًا؟",
+          "answer_ar": "الزبيدي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-010",
+          "points": 400,
+          "question_ar": "ما المكوّن الذي يعطي المجبوس حموضته العطرية المميزة؟",
+          "answer_ar": "اللومي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-011",
+          "points": 400,
+          "question_ar": "طبق قمح لكن بحبيبات مجروشة وليس مهروسة تمامًا؛ ما اسمه؟",
+          "answer_ar": "جريش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-012",
+          "points": 400,
+          "question_ar": "حلوى كروية مقلية تقدم غالبًا مع الدبس في رمضان؛ ما هي؟",
+          "answer_ar": "لقيمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-013",
+          "points": 400,
+          "question_ar": "كعكة كويتية تقليدية بالهيل والزعفران تُقدَّم مع الشاي؛ ما اسمها؟",
+          "answer_ar": "قرص عقيلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-014",
+          "points": 400,
+          "question_ar": "في الديوانية، البدء بالسلام على الأكبر أولًا يعكس قيمة ماذا؟",
+          "answer_ar": "الاحترام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-015",
+          "points": 400,
+          "question_ar": "تقديم الفنجان باليد اليمنى يعبّر عن أي نوع من السلوك؟",
+          "answer_ar": "الإتيكيت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-016",
+          "points": 400,
+          "question_ar": "طبق يعتمد على الأرز أكثر من الخبز ويعد وجبة رئيسية؛ ما هو؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-017",
+          "points": 400,
+          "question_ar": "طبق يعتمد على الخبز أكثر من الأرز ويقدّم ساخنًا؛ ما هو؟",
+          "answer_ar": "تشريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-018",
+          "points": 400,
+          "question_ar": "في عبارة «فوالة الديوانية»، المقصود غالبًا؟",
+          "answer_ar": "ضيافة خفيفة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-019",
+          "points": 400,
+          "question_ar": "أي مكوّن أساسي يشترك فيه الهريس والجريش؟",
+          "answer_ar": "القمح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-020",
+          "points": 400,
+          "question_ar": "ما الإشارة المهذبة لرفض تعبئة فنجان قهوة جديد؟",
+          "answer_ar": "هز الفنجان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-021",
+          "points": 400,
+          "question_ar": "أي طبق يميّزه قوام ناعم نتيجة الهرس الطويل؟",
+          "answer_ar": "هريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-022",
+          "points": 400,
+          "question_ar": "أي طبق يميّزه وجود رقائق عجين واضحة في المرق؟",
+          "answer_ar": "مرقوق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-023",
+          "points": 400,
+          "question_ar": "أي حلوى تميل للمذاق الحلو المالح بسبب البيض فوق الشعيرية؟",
+          "answer_ar": "بلاليط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-024",
+          "points": 400,
+          "question_ar": "أي عنصر عطري يظهر في القهوة والحلويات الكويتية معًا؟",
+          "answer_ar": "الهيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-025",
+          "points": 400,
+          "question_ar": "عند قول «الديوانية مدرسة اجتماعية»، المقصود أنها مكان لـ؟",
+          "answer_ar": "الحوار الاجتماعي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-026",
+          "points": 400,
+          "question_ar": "أي طبق يُعدّ خيارًا شائعًا للغداء العائلي في الكويت؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-027",
+          "points": 400,
+          "question_ar": "أي طبق يرتبط أكثر بسفرة الإفطار الرمضانية التقليدية؟",
+          "answer_ar": "هريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-028",
+          "points": 400,
+          "question_ar": "أي حلوى صغيرة تقترن غالبًا بوقت ما بعد الإفطار؟",
+          "answer_ar": "لقيمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-029",
+          "points": 400,
+          "question_ar": "في ضيافة القهوة، ما الذي يرافق الفنجان غالبًا قبل الحلويات؟",
+          "answer_ar": "التمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-030",
+          "points": 400,
+          "question_ar": "طبق من الأرز والسمك يختلف عن مجبوس الدجاج؛ ما هو؟",
+          "answer_ar": "مطبق سمك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-031",
+          "points": 400,
+          "question_ar": "أي مصطلح يصف مجلس استقبال الضيوف في البيت الكويتي؟",
+          "answer_ar": "ديوانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-032",
+          "points": 400,
+          "question_ar": "ما الفعل الذي يدل على بدء خدمة القهوة للضيوف؟",
+          "answer_ar": "صب القهوة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-033",
+          "points": 400,
+          "question_ar": "أي طبق يعتمد على خبز مُقطّع أو مُفتّت مع المرق؟",
+          "answer_ar": "تشريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-034",
+          "points": 400,
+          "question_ar": "أي طبق يعتمد على عجين مرقوق يُطهى في القدر؟",
+          "answer_ar": "مرقوق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-035",
+          "points": 400,
+          "question_ar": "«الريوق» في السياق الغذائي يعني أي وجبة؟",
+          "answer_ar": "وجبة الإفطار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-036",
+          "points": 400,
+          "question_ar": "ما العبارة الأنسب للتعبير عن كرم التقديم في الديوانية؟",
+          "answer_ar": "حسن الضيافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-037",
+          "points": 400,
+          "question_ar": "أي مكوّن عطري يرتبط بالزعفران في قرص العقيلي غالبًا؟",
+          "answer_ar": "الهيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-038",
+          "points": 400,
+          "question_ar": "أي نوع من المجالس يرتبط بالتشاور اليومي والأخبار المحلية؟",
+          "answer_ar": "الديوانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-039",
+          "points": 400,
+          "question_ar": "عند تقديم القهوة العربية، يكون ملء الفنجان عادةً؟",
+          "answer_ar": "قليلًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-040",
+          "points": 400,
+          "question_ar": "ما الطبق الذي يجمع بين بروتين وأرز وبهارات في قدر واحد؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-041",
+          "points": 400,
+          "question_ar": "ما الحلوى المرتبطة بالدبس أكثر من بقية الحلويات؟",
+          "answer_ar": "لقيمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-042",
+          "points": 400,
+          "question_ar": "أي طبق يطبخ حتى يذوب القمح تقريبًا في القوام؟",
+          "answer_ar": "هريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-043",
+          "points": 400,
+          "question_ar": "أي طبق يبرز فيه شكل حبوب القمح المجروش؟",
+          "answer_ar": "جريش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-044",
+          "points": 400,
+          "question_ar": "في ترتيب المجالس التقليدية، ما القيمة الأساس قبل الطعام؟",
+          "answer_ar": "الترحيب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-045",
+          "points": 400,
+          "question_ar": "أي سلوك يدل على ذوق اجتماعي داخل الديوانية؟",
+          "answer_ar": "عدم مقاطعة المتحدث",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-046",
+          "points": 400,
+          "question_ar": "ما المصطلح العام لآداب المجلس والتقديم؟",
+          "answer_ar": "الإتيكيت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-047",
+          "points": 400,
+          "question_ar": "أي طبق كويتي يُعدّ من أطباق «القدر الواحد» الشهيرة؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-048",
+          "points": 400,
+          "question_ar": "عند استقبال ضيف جديد، ما أول عنصر ضيافة يُلاحظ غالبًا؟",
+          "answer_ar": "القهوة العربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-049",
+          "points": 400,
+          "question_ar": "ما العنصر الذي يميز رائحة المجالس إلى جانب القهوة؟",
+          "answer_ar": "البخور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-400-050",
+          "points": 400,
+          "question_ar": "أي مفهوم تمثله الديوانية تاريخيًا إلى جانب الترفيه؟",
+          "answer_ar": "التواصل المجتمعي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-001",
+          "points": 600,
+          "question_ar": "طبقان من القمح: أحدهما ناعم مهروس والآخر بحبيبات أوضح؛ ما اسم الثاني؟",
+          "answer_ar": "جريش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-002",
+          "points": 600,
+          "question_ar": "إذا كان «مرقوق» يعني طهي العجين داخل المرق، فما الطبق الذي يعتمد على سكب المرق على الخبز؟",
+          "answer_ar": "تشريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-003",
+          "points": 600,
+          "question_ar": "في إتيكيت القهوة، لماذا يُملأ الفنجان بكمية قليلة عادة؟",
+          "answer_ar": "لتتكرر الضيافة باحترام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-004",
+          "points": 600,
+          "question_ar": "عندما يهز الضيف الفنجان بعد الشرب في الديوانية، ما الرسالة الاجتماعية؟",
+          "answer_ar": "شكرًا لا مزيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-005",
+          "points": 600,
+          "question_ar": "في الضيافة التقليدية: قهوة ثم غالبًا شاي؛ ما القيمة التي يُظهرها هذا التسلسل؟",
+          "answer_ar": "الترحيب المتدرج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-006",
+          "points": 600,
+          "question_ar": "طبق أرز كويتي تُعد فيه الحموضة العطرية علامة مميزة بسبب مكوّن مجفف؛ ما المكوّن؟",
+          "answer_ar": "اللومي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-007",
+          "points": 600,
+          "question_ar": "طبق يرتبط برمضان ويحتاج زمنًا طويلًا حتى يتجانس القمح مع اللحم؛ ما هو؟",
+          "answer_ar": "هريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-008",
+          "points": 600,
+          "question_ar": "طبق إفطار يجمع طعمًا حلوًا مع البيض المالح نسبيًا؛ ما اسمه؟",
+          "answer_ar": "بلاليط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-009",
+          "points": 600,
+          "question_ar": "كعكة كويتية تراثية تُعرف بلونها الذهبي ورائحة الهيل؛ ما هي؟",
+          "answer_ar": "قرص عقيلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-010",
+          "points": 600,
+          "question_ar": "في الديوانية، بدء السلام بالأكبر سنًا يعكس أي قاعدة سلوكية؟",
+          "answer_ar": "توقير الكبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-011",
+          "points": 600,
+          "question_ar": "ما المصطلح الأدق لدور الديوانية في تبادل الأخبار والرأي؟",
+          "answer_ar": "منتدى اجتماعي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-012",
+          "points": 600,
+          "question_ar": "طبق سمك وأرز كويتي اشتهر بنوع سمك فاخر محلي؛ ما الطبق؟",
+          "answer_ar": "مطبق سمك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-013",
+          "points": 600,
+          "question_ar": "ما الفرق الجوهري بين الهريس والجريش من حيث القوام؟",
+          "answer_ar": "الهريس أنعم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-014",
+          "points": 600,
+          "question_ar": "في القهوة العربية الخليجية، ما الثنائي العطري الأشهر؟",
+          "answer_ar": "هيل وزعفران",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-015",
+          "points": 600,
+          "question_ar": "عند وصف ضيافة بأنها «فوالة»، هل يقصد بها وجبة رئيسية أم تقديم خفيف؟",
+          "answer_ar": "تقديم خفيف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-016",
+          "points": 600,
+          "question_ar": "أي طبق يعبّر أكثر عن فكرة «طهي العجين مع المرق» لا «الخبز مع المرق»؟",
+          "answer_ar": "مرقوق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-017",
+          "points": 600,
+          "question_ar": "أيهما أقرب لطبق رئيسي على الغداء: اللقيمات أم المجبوس؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-018",
+          "points": 600,
+          "question_ar": "ما الدلالة الاجتماعية لتكرار صب القهوة ما لم يهز الضيف الفنجان؟",
+          "answer_ar": "استمرار الحفاوة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-019",
+          "points": 600,
+          "question_ar": "في مجلس مزدحم، أي سلوك يُعدّ أكثر اتساقًا مع الإتيكيت؟",
+          "answer_ar": "عدم رفع الصوت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-020",
+          "points": 600,
+          "question_ar": "عند تقديم ضيف جديد، أي عنصر يُبرز هوية الضيافة الخليجية سريعًا؟",
+          "answer_ar": "القهوة العربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف القهوة العربية كممارسة اجتماعية"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-021",
+          "points": 600,
+          "question_ar": "طبقان من القمح في الكويت؛ أيهما يُوصف غالبًا بأنه «يُهرس»؟",
+          "answer_ar": "الهريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-022",
+          "points": 600,
+          "question_ar": "إذا طُلب طبق ذو خبز ومرق ولحم بدون رقائق عجين مطبوخة، فما الاختيار؟",
+          "answer_ar": "تشريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-023",
+          "points": 600,
+          "question_ar": "في المجبوس، إضافة اللومي تؤثر غالبًا في أي بُعد حسي؟",
+          "answer_ar": "الرائحة والطعم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-024",
+          "points": 600,
+          "question_ar": "ما الوظيفة الثقافية للديوانية غير تناول الطعام؟",
+          "answer_ar": "الحوار والتشاور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-025",
+          "points": 600,
+          "question_ar": "أي إشارة غير لفظية تُستخدم لإنهاء خدمة القهوة بأدب؟",
+          "answer_ar": "هز الفنجان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-026",
+          "points": 600,
+          "question_ar": "عند مقارنة بلاليط ولقيمات: أيهما يعتمد أساسًا على الشعيرية؟",
+          "answer_ar": "بلاليط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-027",
+          "points": 600,
+          "question_ar": "عند مقارنة بلاليط ولقيمات: أيهما يعتمد أساسًا على القلي العميق؟",
+          "answer_ar": "لقيمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-028",
+          "points": 600,
+          "question_ar": "أي طبق يوصف عادةً بأنه مناسب للمناسبات العائلية الكبيرة لكفاية عدد أكبر؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-029",
+          "points": 600,
+          "question_ar": "في عرف المجالس، تقديم الضيف قبل أهل البيت يعبّر عن ماذا؟",
+          "answer_ar": "تقديم الضيف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-030",
+          "points": 600,
+          "question_ar": "أي مصطلح يجمع آداب التقديم والتحية وطريقة الجلوس؟",
+          "answer_ar": "إتيكيت الديوانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-031",
+          "points": 600,
+          "question_ar": "طبق كويتي يختلف عن المجبوس بتركيزه على السمك لا اللحم؛ ما اسمه؟",
+          "answer_ar": "مطبق سمك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-032",
+          "points": 600,
+          "question_ar": "إذا كان المطلوب حلوى تُقدَّم غالبًا مع الدبس بعد الإفطار، فما هي؟",
+          "answer_ar": "لقيمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-033",
+          "points": 600,
+          "question_ar": "ما الوصف الأدق للديوانية في البنية الاجتماعية التقليدية؟",
+          "answer_ar": "مجلس استقبال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-034",
+          "points": 600,
+          "question_ar": "أي عنصرين يقترنان كثيرًا كبداية ضيافة في الكويت؟",
+          "answer_ar": "قهوة وتمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-035",
+          "points": 600,
+          "question_ar": "في طبق الجريش، ظهور حبيبات القمح أكثر من الهريس يدل على ماذا؟",
+          "answer_ar": "هرس أقل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-036",
+          "points": 600,
+          "question_ar": "ما السلوك الأنسب عند دخول ديوانية فيها كبار سن؟",
+          "answer_ar": "التحية أولًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-037",
+          "points": 600,
+          "question_ar": "للحفاظ على ودّ المجلس، ما السلوك الأفضل أثناء النقاش؟",
+          "answer_ar": "احترام اختلاف الآراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-038",
+          "points": 600,
+          "question_ar": "ما الكلمة التي تختصر واجب الكرم في الثقافة الكويتية؟",
+          "answer_ar": "الضيافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-039",
+          "points": 600,
+          "question_ar": "طبق يشتهر بأنه «نكهة بيتية» في رمضان بسبب القمح واللحم؛ ما هو؟",
+          "answer_ar": "هريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-040",
+          "points": 600,
+          "question_ar": "طبق يُقدّم عادة في الصحون الكبيرة للمشاركة العائلية من الأرز؛ ما هو؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "UNESCO Intangible Heritage",
+              "type": "official",
+              "reference": "ملف المجلس كفضاء ثقافي اجتماعي"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-041",
+          "points": 600,
+          "question_ar": "ما الفارق السريع بين التشريب والمرقوق من حيث العنصر النشوي؟",
+          "answer_ar": "خبز مقابل عجين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-042",
+          "points": 600,
+          "question_ar": "في الضيافة، استخدام البخور مع القهوة يهدف غالبًا إلى ماذا؟",
+          "answer_ar": "تعطير المجلس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-043",
+          "points": 600,
+          "question_ar": "عند قول «الديوانية تحفظ السوالف»، ما المقصود بـ«السوالف»؟",
+          "answer_ar": "الأحاديث",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-044",
+          "points": 600,
+          "question_ar": "أي طبق يعد أكثر التصاقًا بهوية الإفطار الخليجي: الهريس أم البلاليط؟",
+          "answer_ar": "الهريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-045",
+          "points": 600,
+          "question_ar": "عند تقديم القهوة على دفعات صغيرة، ما الذي يضمنه ذلك للضيف؟",
+          "answer_ar": "حرية الاكتفاء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-046",
+          "points": 600,
+          "question_ar": "أي قيمة تؤكدها عبارة «حياك الله» في المجلس؟",
+          "answer_ar": "حسن الاستقبال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-047",
+          "points": 600,
+          "question_ar": "في الترتيب التقليدي، أيهما يأتي غالبًا أولًا: القهوة أم الشاي؟",
+          "answer_ar": "القهوة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-048",
+          "points": 600,
+          "question_ar": "طبق تراثي كويتي من الأرز يُنكه بالبهارات واللومي ويعد مرجعًا للمطبخ المحلي؛ ما هو؟",
+          "answer_ar": "المجبوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-049",
+          "points": 600,
+          "question_ar": "أي عنصر يجعل لقيمات مناسبة أكثر كتحلية لا كطبق رئيسي؟",
+          "answer_ar": "الطعم الحلو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        },
+        {
+          "id": "CAT03-600-050",
+          "points": 600,
+          "question_ar": "ما الرسالة الثقافية العامة من الديوانية في المجتمع الكويتي؟",
+          "answer_ar": "تقوية الروابط الاجتماعية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "مواد عن التراث الغذائي والعادات الاجتماعية في الكويت"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "تقارير عن المطبخ الكويتي وعادات الضيافة"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

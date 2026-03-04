@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 15 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "اللغة والكلمات (معاني، أصول، مرادفات)",
+      "name_en": "Language & Words",
+      "questions": [
+        {
+          "id": "CAT15-200-001",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو مصطلح يدل على علاقة بين كلمتين متقاربتين في المعنى؟",
+          "answer_ar": "مترادف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-002",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو مصطلح يدل على علاقة بين كلمتين متقاربتين في المعنى؟",
+          "answer_ar": "مترادف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-003",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو علاقة لغوية بين كلمتين متعاكستين في المعنى؟",
+          "answer_ar": "تضاد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-004",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو علاقة لغوية بين كلمتين متعاكستين في المعنى؟",
+          "answer_ar": "تضاد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-005",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو أسلوب بلاغي يربط شيئين بأداة؟",
+          "answer_ar": "تشبيه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-006",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو أسلوب بلاغي يربط شيئين بأداة؟",
+          "answer_ar": "تشبيه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-007",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي صورة بلاغية تقوم على تشبيه بلا أداة صريحة؟",
+          "answer_ar": "استعارة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-008",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي صورة بلاغية تقوم على تشبيه بلا أداة صريحة؟",
+          "answer_ar": "استعارة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-009",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو محسن بديعي يقوم على تشابه لفظي واختلاف معنوي؟",
+          "answer_ar": "جناس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-010",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو محسن بديعي يقوم على تشابه لفظي واختلاف معنوي؟",
+          "answer_ar": "جناس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-011",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو توافق أواخر الجمل في النثر؟",
+          "answer_ar": "سجع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-012",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو توافق أواخر الجمل في النثر؟",
+          "answer_ar": "سجع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-013",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي همزة تنطق في الابتداء وتسقط في الوصل؟",
+          "answer_ar": "همزة وصل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-014",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي همزة تنطق في الابتداء وتسقط في الوصل؟",
+          "answer_ar": "همزة وصل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-015",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي همزة تثبت نطقًا في الابتداء والوصل؟",
+          "answer_ar": "همزة قطع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-016",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي همزة تثبت نطقًا في الابتداء والوصل؟",
+          "answer_ar": "همزة قطع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-017",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو صيغة تدل على من قام بالفعل؟",
+          "answer_ar": "اسم فاعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-018",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو صيغة تدل على من قام بالفعل؟",
+          "answer_ar": "اسم فاعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-019",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو صيغة تدل على من وقع عليه الفعل؟",
+          "answer_ar": "اسم مفعول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-020",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو صيغة تدل على من وقع عليه الفعل؟",
+          "answer_ar": "اسم مفعول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-021",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو اسم يدل على الحدث مجردًا من الزمن؟",
+          "answer_ar": "مصدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-022",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو اسم يدل على الحدث مجردًا من الزمن؟",
+          "answer_ar": "مصدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-023",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو فعل يدل على حدث وقع قبل زمن التكلم؟",
+          "answer_ar": "فعل ماض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-024",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو فعل يدل على حدث وقع قبل زمن التكلم؟",
+          "answer_ar": "فعل ماض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-025",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو فعل يدل على حدث يقع الآن أو مستقبلًا؟",
+          "answer_ar": "فعل مضارع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-026",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو فعل يدل على حدث يقع الآن أو مستقبلًا؟",
+          "answer_ar": "فعل مضارع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-027",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو صيغة فعل تُستخدم لطلب القيام بالفعل؟",
+          "answer_ar": "فعل أمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-028",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو صيغة فعل تُستخدم لطلب القيام بالفعل؟",
+          "answer_ar": "فعل أمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-029",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو لفظ يحل محل الاسم لتجنب التكرار؟",
+          "answer_ar": "ضمير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-030",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو لفظ يحل محل الاسم لتجنب التكرار؟",
+          "answer_ar": "ضمير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-031",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو اسم يربط جملة بما قبلها؟",
+          "answer_ar": "اسم موصول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-032",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو اسم يربط جملة بما قبلها؟",
+          "answer_ar": "اسم موصول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-033",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو كتاب أو مرجع يشرح الكلمات ومعانيها؟",
+          "answer_ar": "معجم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-034",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو كتاب أو مرجع يشرح الكلمات ومعانيها؟",
+          "answer_ar": "معجم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-035",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو علم يدرس جذور الكلمات وتطورها التاريخي؟",
+          "answer_ar": "علم أصل الكلمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-036",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو علم يدرس جذور الكلمات وتطورها التاريخي؟",
+          "answer_ar": "علم أصل الكلمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-037",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي الدلالة الشائعة للبادئة الأجنبية «bio»؟",
+          "answer_ar": "حياة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-038",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي الدلالة الشائعة للبادئة الأجنبية «bio»؟",
+          "answer_ar": "حياة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-039",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي الدلالة الشائعة للبادئة «tele»؟",
+          "answer_ar": "بعيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-040",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي الدلالة الشائعة للبادئة «tele»؟",
+          "answer_ar": "بعيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-041",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي الدلالة الشائعة للاَّحقة «-logy»؟",
+          "answer_ar": "علم أو دراسة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-042",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي الدلالة الشائعة للاَّحقة «-logy»؟",
+          "answer_ar": "علم أو دراسة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-043",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي الدلالة الشائعة للجذر «photo»؟",
+          "answer_ar": "ضوء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-044",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي الدلالة الشائعة للجذر «photo»؟",
+          "answer_ar": "ضوء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-045",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي الدلالة الشائعة للجذر «chrono»؟",
+          "answer_ar": "زمن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-046",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي الدلالة الشائعة للجذر «chrono»؟",
+          "answer_ar": "زمن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-047",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي الدلالة الشائعة للجذر «phone»؟",
+          "answer_ar": "صوت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-048",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي الدلالة الشائعة للجذر «phone»؟",
+          "answer_ar": "صوت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-049",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي الدلالة الشائعة للجذر «geo»؟",
+          "answer_ar": "أرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-200-050",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي الدلالة الشائعة للجذر «geo»؟",
+          "answer_ar": "أرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-001",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل العلاقة بين «سعيد» و«مسرور». ما هو؟",
+          "answer_ar": "مترادف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-002",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل العلاقة بين «سعيد» و«مسرور»»، ما الإجابة الأدق؟",
+          "answer_ar": "مترادف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-003",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل العلاقة بين «ليل» و«نهار». ما هو؟",
+          "answer_ar": "تضاد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-004",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل العلاقة بين «ليل» و«نهار»»، ما الإجابة الأدق؟",
+          "answer_ar": "تضاد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-005",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يظهر فيه غالبًا ألفاظ مثل «مثل» و«كأن». ما هو؟",
+          "answer_ar": "تشبيه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-006",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يظهر فيه غالبًا ألفاظ مثل «مثل» و«كأن»»، ما الإجابة الأدق؟",
+          "answer_ar": "تشبيه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-007",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تنقل لفظًا من معناه الأصلي إلى معنى مجازي. ما هو؟",
+          "answer_ar": "استعارة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-008",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تنقل لفظًا من معناه الأصلي إلى معنى مجازي»، ما الإجابة الأدق؟",
+          "answer_ar": "استعارة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-009",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يظهر فيه تقارب في النطق بين كلمتين مختلفتين في المعنى. ما هو؟",
+          "answer_ar": "جناس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-010",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يظهر فيه تقارب في النطق بين كلمتين مختلفتين في المعنى»، ما الإجابة الأدق؟",
+          "answer_ar": "جناس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-011",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يستخدم لإيقاع موسيقي لفظي في النصوص. ما هو؟",
+          "answer_ar": "سجع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-012",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يستخدم لإيقاع موسيقي لفظي في النصوص»، ما الإجابة الأدق؟",
+          "answer_ar": "سجع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-013",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: توجد في كلمات مثل «ابن» و«اسم» في مواضع معروفة. ما هو؟",
+          "answer_ar": "همزة وصل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-014",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «توجد في كلمات مثل «ابن» و«اسم» في مواضع معروفة»، ما الإجابة الأدق؟",
+          "answer_ar": "همزة وصل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-015",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تظهر في كلمات مثل «أكرم» و«إلى». ما هو؟",
+          "answer_ar": "همزة قطع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-016",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تظهر في كلمات مثل «أكرم» و«إلى»»، ما الإجابة الأدق؟",
+          "answer_ar": "همزة قطع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-017",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل «كاتب» من الفعل «كتب». ما هو؟",
+          "answer_ar": "اسم فاعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-018",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل «كاتب» من الفعل «كتب»»، ما الإجابة الأدق؟",
+          "answer_ar": "اسم فاعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-019",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل «مكتوب» من الفعل «كتب». ما هو؟",
+          "answer_ar": "اسم مفعول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-020",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل «مكتوب» من الفعل «كتب»»، ما الإجابة الأدق؟",
+          "answer_ar": "اسم مفعول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-021",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل «كتابة» و«تعليم». ما هو؟",
+          "answer_ar": "مصدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-022",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل «كتابة» و«تعليم»»، ما الإجابة الأدق؟",
+          "answer_ar": "مصدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-023",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل «ذهب» و«كتب». ما هو؟",
+          "answer_ar": "فعل ماض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-024",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل «ذهب» و«كتب»»، ما الإجابة الأدق؟",
+          "answer_ar": "فعل ماض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-025",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل «يكتب» و«يذهب». ما هو؟",
+          "answer_ar": "فعل مضارع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-026",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل «يكتب» و«يذهب»»، ما الإجابة الأدق؟",
+          "answer_ar": "فعل مضارع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-027",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل «اكتب» و«اذهب». ما هو؟",
+          "answer_ar": "فعل أمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-028",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل «اكتب» و«اذهب»»، ما الإجابة الأدق؟",
+          "answer_ar": "فعل أمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-029",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل «هو» و«هي» و«هم». ما هو؟",
+          "answer_ar": "ضمير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-030",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل «هو» و«هي» و«هم»»، ما الإجابة الأدق؟",
+          "answer_ar": "ضمير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-031",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مثل «الذي» و«التي» و«الذين\". ما هو؟",
+          "answer_ar": "اسم موصول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-032",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مثل «الذي» و«التي» و«الذين\"»، ما الإجابة الأدق؟",
+          "answer_ar": "اسم موصول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-033",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يرتب المفردات ليسهل العثور على الدلالة والاستخدام. ما هو؟",
+          "answer_ar": "معجم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-034",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يرتب المفردات ليسهل العثور على الدلالة والاستخدام»، ما الإجابة الأدق؟",
+          "answer_ar": "معجم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-035",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يعرف في الإنجليزية بمصطلح etymology. ما هو؟",
+          "answer_ar": "علم أصل الكلمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-036",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يعرف في الإنجليزية بمصطلح etymology»، ما الإجابة الأدق؟",
+          "answer_ar": "علم أصل الكلمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-037",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تظهر في كلمات مثل biology وbiography. ما هو؟",
+          "answer_ar": "حياة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-038",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تظهر في كلمات مثل biology وbiography»، ما الإجابة الأدق؟",
+          "answer_ar": "حياة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-039",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تظهر في كلمات مثل telephone وtelevision. ما هو؟",
+          "answer_ar": "بعيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-040",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تظهر في كلمات مثل telephone وtelevision»، ما الإجابة الأدق؟",
+          "answer_ar": "بعيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-041",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تظهر في كلمات مثل biology وgeology. ما هو؟",
+          "answer_ar": "علم أو دراسة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-042",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تظهر في كلمات مثل biology وgeology»، ما الإجابة الأدق؟",
+          "answer_ar": "علم أو دراسة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-043",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تظهر في كلمات مثل photography وphotosynthesis. ما هو؟",
+          "answer_ar": "ضوء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-044",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تظهر في كلمات مثل photography وphotosynthesis»، ما الإجابة الأدق؟",
+          "answer_ar": "ضوء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-045",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تظهر في كلمات مثل chronology وsynchronize. ما هو؟",
+          "answer_ar": "زمن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-046",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تظهر في كلمات مثل chronology وsynchronize»، ما الإجابة الأدق؟",
+          "answer_ar": "زمن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-047",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تظهر في كلمات مثل microphone وphonetics. ما هو؟",
+          "answer_ar": "صوت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-048",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تظهر في كلمات مثل microphone وphonetics»، ما الإجابة الأدق؟",
+          "answer_ar": "صوت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-049",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تظهر في كلمات مثل geography وgeology. ما هو؟",
+          "answer_ar": "أرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-400-050",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تظهر في كلمات مثل geography وgeology»، ما الإجابة الأدق؟",
+          "answer_ar": "أرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Oxford English Dictionary",
+              "type": "reputable_media",
+              "reference": "word history and etymology references"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-001",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مصطلح يدل على علاقة بين كلمتين متقاربتين في المعنى. 2) مثل العلاقة بين «سعيد» و«مسرور». ما الجواب؟",
+          "answer_ar": "مترادف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-002",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مصطلح يدل على علاقة بين كلمتين متقاربتين في المعنى، وكذلك مثل العلاقة بين «سعيد» و«مسرور»؟",
+          "answer_ar": "مترادف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-003",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو علاقة لغوية بين كلمتين متعاكستين في المعنى. 2) مثل العلاقة بين «ليل» و«نهار». ما الجواب؟",
+          "answer_ar": "تضاد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-004",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو علاقة لغوية بين كلمتين متعاكستين في المعنى، وكذلك مثل العلاقة بين «ليل» و«نهار»؟",
+          "answer_ar": "تضاد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-005",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو أسلوب بلاغي يربط شيئين بأداة. 2) يظهر فيه غالبًا ألفاظ مثل «مثل» و«كأن». ما الجواب؟",
+          "answer_ar": "تشبيه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-006",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو أسلوب بلاغي يربط شيئين بأداة، وكذلك يظهر فيه غالبًا ألفاظ مثل «مثل» و«كأن»؟",
+          "answer_ar": "تشبيه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-007",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي صورة بلاغية تقوم على تشبيه بلا أداة صريحة. 2) تنقل لفظًا من معناه الأصلي إلى معنى مجازي. ما الجواب؟",
+          "answer_ar": "استعارة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-008",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي صورة بلاغية تقوم على تشبيه بلا أداة صريحة، وكذلك تنقل لفظًا من معناه الأصلي إلى معنى مجازي؟",
+          "answer_ar": "استعارة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-009",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو محسن بديعي يقوم على تشابه لفظي واختلاف معنوي. 2) يظهر فيه تقارب في النطق بين كلمتين مختلفتين في المعنى. ما الجواب؟",
+          "answer_ar": "جناس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-010",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو محسن بديعي يقوم على تشابه لفظي واختلاف معنوي، وكذلك يظهر فيه تقارب في النطق بين كلمتين مختلفتين في المعنى؟",
+          "answer_ar": "جناس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-011",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو توافق أواخر الجمل في النثر. 2) يستخدم لإيقاع موسيقي لفظي في النصوص. ما الجواب؟",
+          "answer_ar": "سجع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-012",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو توافق أواخر الجمل في النثر، وكذلك يستخدم لإيقاع موسيقي لفظي في النصوص؟",
+          "answer_ar": "سجع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-013",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي همزة تنطق في الابتداء وتسقط في الوصل. 2) توجد في كلمات مثل «ابن» و«اسم» في مواضع معروفة. ما الجواب؟",
+          "answer_ar": "همزة وصل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-014",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي همزة تنطق في الابتداء وتسقط في الوصل، وكذلك توجد في كلمات مثل «ابن» و«اسم» في مواضع معروفة؟",
+          "answer_ar": "همزة وصل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-015",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي همزة تثبت نطقًا في الابتداء والوصل. 2) تظهر في كلمات مثل «أكرم» و«إلى». ما الجواب؟",
+          "answer_ar": "همزة قطع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-016",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي همزة تثبت نطقًا في الابتداء والوصل، وكذلك تظهر في كلمات مثل «أكرم» و«إلى»؟",
+          "answer_ar": "همزة قطع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-017",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو صيغة تدل على من قام بالفعل. 2) مثل «كاتب» من الفعل «كتب». ما الجواب؟",
+          "answer_ar": "اسم فاعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-018",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو صيغة تدل على من قام بالفعل، وكذلك مثل «كاتب» من الفعل «كتب»؟",
+          "answer_ar": "اسم فاعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-019",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو صيغة تدل على من وقع عليه الفعل. 2) مثل «مكتوب» من الفعل «كتب». ما الجواب؟",
+          "answer_ar": "اسم مفعول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-020",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو صيغة تدل على من وقع عليه الفعل، وكذلك مثل «مكتوب» من الفعل «كتب»؟",
+          "answer_ar": "اسم مفعول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-021",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو اسم يدل على الحدث مجردًا من الزمن. 2) مثل «كتابة» و«تعليم». ما الجواب؟",
+          "answer_ar": "مصدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-022",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو اسم يدل على الحدث مجردًا من الزمن، وكذلك مثل «كتابة» و«تعليم»؟",
+          "answer_ar": "مصدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-023",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو فعل يدل على حدث وقع قبل زمن التكلم. 2) مثل «ذهب» و«كتب». ما الجواب؟",
+          "answer_ar": "فعل ماض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-024",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو فعل يدل على حدث وقع قبل زمن التكلم، وكذلك مثل «ذهب» و«كتب»؟",
+          "answer_ar": "فعل ماض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-025",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو فعل يدل على حدث يقع الآن أو مستقبلًا. 2) مثل «يكتب» و«يذهب». ما الجواب؟",
+          "answer_ar": "فعل مضارع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-026",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو فعل يدل على حدث يقع الآن أو مستقبلًا، وكذلك مثل «يكتب» و«يذهب»؟",
+          "answer_ar": "فعل مضارع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-027",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو صيغة فعل تُستخدم لطلب القيام بالفعل. 2) مثل «اكتب» و«اذهب». ما الجواب؟",
+          "answer_ar": "فعل أمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-028",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو صيغة فعل تُستخدم لطلب القيام بالفعل، وكذلك مثل «اكتب» و«اذهب»؟",
+          "answer_ar": "فعل أمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-029",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو لفظ يحل محل الاسم لتجنب التكرار. 2) مثل «هو» و«هي» و«هم». ما الجواب؟",
+          "answer_ar": "ضمير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-030",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو لفظ يحل محل الاسم لتجنب التكرار، وكذلك مثل «هو» و«هي» و«هم»؟",
+          "answer_ar": "ضمير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-031",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو اسم يربط جملة بما قبلها. 2) مثل «الذي» و«التي» و«الذين\". ما الجواب؟",
+          "answer_ar": "اسم موصول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-032",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو اسم يربط جملة بما قبلها، وكذلك مثل «الذي» و«التي» و«الذين\"؟",
+          "answer_ar": "اسم موصول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-033",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو كتاب أو مرجع يشرح الكلمات ومعانيها. 2) يرتب المفردات ليسهل العثور على الدلالة والاستخدام. ما الجواب؟",
+          "answer_ar": "معجم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-034",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو كتاب أو مرجع يشرح الكلمات ومعانيها، وكذلك يرتب المفردات ليسهل العثور على الدلالة والاستخدام؟",
+          "answer_ar": "معجم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-035",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو علم يدرس جذور الكلمات وتطورها التاريخي. 2) يعرف في الإنجليزية بمصطلح etymology. ما الجواب؟",
+          "answer_ar": "علم أصل الكلمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-036",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو علم يدرس جذور الكلمات وتطورها التاريخي، وكذلك يعرف في الإنجليزية بمصطلح etymology؟",
+          "answer_ar": "علم أصل الكلمات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-037",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي الدلالة الشائعة للبادئة الأجنبية «bio». 2) تظهر في كلمات مثل biology وbiography. ما الجواب؟",
+          "answer_ar": "حياة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-038",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي الدلالة الشائعة للبادئة الأجنبية «bio»، وكذلك تظهر في كلمات مثل biology وbiography؟",
+          "answer_ar": "حياة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-039",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي الدلالة الشائعة للبادئة «tele». 2) تظهر في كلمات مثل telephone وtelevision. ما الجواب؟",
+          "answer_ar": "بعيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-040",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي الدلالة الشائعة للبادئة «tele»، وكذلك تظهر في كلمات مثل telephone وtelevision؟",
+          "answer_ar": "بعيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-041",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي الدلالة الشائعة للاَّحقة «-logy». 2) تظهر في كلمات مثل biology وgeology. ما الجواب؟",
+          "answer_ar": "علم أو دراسة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-042",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي الدلالة الشائعة للاَّحقة «-logy»، وكذلك تظهر في كلمات مثل biology وgeology؟",
+          "answer_ar": "علم أو دراسة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-043",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي الدلالة الشائعة للجذر «photo». 2) تظهر في كلمات مثل photography وphotosynthesis. ما الجواب؟",
+          "answer_ar": "ضوء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-044",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي الدلالة الشائعة للجذر «photo»، وكذلك تظهر في كلمات مثل photography وphotosynthesis؟",
+          "answer_ar": "ضوء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-045",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي الدلالة الشائعة للجذر «chrono». 2) تظهر في كلمات مثل chronology وsynchronize. ما الجواب؟",
+          "answer_ar": "زمن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-046",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي الدلالة الشائعة للجذر «chrono»، وكذلك تظهر في كلمات مثل chronology وsynchronize؟",
+          "answer_ar": "زمن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-047",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي الدلالة الشائعة للجذر «phone». 2) تظهر في كلمات مثل microphone وphonetics. ما الجواب؟",
+          "answer_ar": "صوت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-048",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي الدلالة الشائعة للجذر «phone»، وكذلك تظهر في كلمات مثل microphone وphonetics؟",
+          "answer_ar": "صوت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-049",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي الدلالة الشائعة للجذر «geo». 2) تظهر في كلمات مثل geography وgeology. ما الجواب؟",
+          "answer_ar": "أرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        },
+        {
+          "id": "CAT15-600-050",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي الدلالة الشائعة للجذر «geo»، وكذلك تظهر في كلمات مثل geography وgeology؟",
+          "answer_ar": "أرض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Merriam-Webster Dictionary",
+              "type": "reputable_media",
+              "reference": "word meanings and usage references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "linguistics and language concepts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 2 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "اللهجة الكويتية والأمثال الشعبية (خفيفة وممتعة بدون تعقيد)",
+      "name_en": "Kuwaiti Slang & Sayings",
+      "questions": [
+        {
+          "id": "CAT02-200-001",
+          "points": 200,
+          "question_ar": "ما معنى العبارة الكويتية «شكو ماكو»؟",
+          "answer_ar": "ما الأخبار؟",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-002",
+          "points": 200,
+          "question_ar": "ما معنى «شلونك» في اللهجة الكويتية؟",
+          "answer_ar": "كيف حالك؟",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-003",
+          "points": 200,
+          "question_ar": "ما معنى «شنو»؟",
+          "answer_ar": "ماذا؟",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-004",
+          "points": 200,
+          "question_ar": "ما معنى «منو»؟",
+          "answer_ar": "من؟",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-005",
+          "points": 200,
+          "question_ar": "ما معنى «وين»؟",
+          "answer_ar": "أين؟",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-006",
+          "points": 200,
+          "question_ar": "ما معنى «باجر»؟",
+          "answer_ar": "غدًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-007",
+          "points": 200,
+          "question_ar": "ما معنى «الحين»؟",
+          "answer_ar": "الآن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-008",
+          "points": 200,
+          "question_ar": "ما معنى «وايد»؟",
+          "answer_ar": "كثير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-009",
+          "points": 200,
+          "question_ar": "ما معنى «شوي»؟",
+          "answer_ar": "قليل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-010",
+          "points": 200,
+          "question_ar": "ما معنى «خوش»؟",
+          "answer_ar": "جيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-011",
+          "points": 200,
+          "question_ar": "ما معنى «صج»؟",
+          "answer_ar": "صحيح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-012",
+          "points": 200,
+          "question_ar": "ما معنى «مو صج»؟",
+          "answer_ar": "غير معقول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-013",
+          "points": 200,
+          "question_ar": "ما معنى «ماكو»؟",
+          "answer_ar": "لا يوجد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-014",
+          "points": 200,
+          "question_ar": "ما معنى «لا تحاتي»؟",
+          "answer_ar": "لا تقلق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-015",
+          "points": 200,
+          "question_ar": "ما معنى «عفيه عليك»؟",
+          "answer_ar": "أحسنت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-016",
+          "points": 200,
+          "question_ar": "ما معنى «عسى ما شر»؟",
+          "answer_ar": "هل أنت بخير؟",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-017",
+          "points": 200,
+          "question_ar": "ما معنى «ما عليه زود»؟",
+          "answer_ar": "ممتاز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-018",
+          "points": 200,
+          "question_ar": "ما معنى «ما قصّر»؟",
+          "answer_ar": "أدّى الواجب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-019",
+          "points": 200,
+          "question_ar": "ما معنى «هالسالفة»؟",
+          "answer_ar": "هذا الموضوع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-020",
+          "points": 200,
+          "question_ar": "ما معنى «سوالف»؟",
+          "answer_ar": "أحاديث",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-021",
+          "points": 200,
+          "question_ar": "ما معنى «ديوانية»؟",
+          "answer_ar": "مجلس اجتماعي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-022",
+          "points": 200,
+          "question_ar": "ما معنى «ريوق»؟",
+          "answer_ar": "وجبة الإفطار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-023",
+          "points": 200,
+          "question_ar": "ما معنى «رفيج»؟",
+          "answer_ar": "صديق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-024",
+          "points": 200,
+          "question_ar": "ما معنى «مستانس»؟",
+          "answer_ar": "سعيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-025",
+          "points": 200,
+          "question_ar": "ما معنى «زعلان»؟",
+          "answer_ar": "غاضب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-026",
+          "points": 200,
+          "question_ar": "ما معنى «متوهق»؟",
+          "answer_ar": "في ورطة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-027",
+          "points": 200,
+          "question_ar": "ما معنى «على مهلك»؟",
+          "answer_ar": "ببطء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-028",
+          "points": 200,
+          "question_ar": "ما معنى «سيدا»؟",
+          "answer_ar": "مباشرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-029",
+          "points": 200,
+          "question_ar": "ما معنى «حياك الله»؟",
+          "answer_ar": "أهلًا وسهلًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-030",
+          "points": 200,
+          "question_ar": "ما معنى «الله يحييك»؟",
+          "answer_ar": "مرحبًا بك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-031",
+          "points": 200,
+          "question_ar": "ما معنى «يعطيك العافية»؟",
+          "answer_ar": "شكر مع دعاء بالصحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-032",
+          "points": 200,
+          "question_ar": "ما معنى «جزاك الله خير» في التخاطب اليومي؟",
+          "answer_ar": "شكر ودعاء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-033",
+          "points": 200,
+          "question_ar": "ما معنى «يا معود»؟",
+          "answer_ar": "يا رجل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-034",
+          "points": 200,
+          "question_ar": "ما معنى «ترى» في بداية الجملة؟",
+          "answer_ar": "للعلم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-035",
+          "points": 200,
+          "question_ar": "ما معنى «يبي له»؟",
+          "answer_ar": "يحتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-036",
+          "points": 200,
+          "question_ar": "ما معنى «خلّه على الله»؟",
+          "answer_ar": "توكل على الله",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-037",
+          "points": 200,
+          "question_ar": "ما معنى «ماله خلق»؟",
+          "answer_ar": "لا رغبة له",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-038",
+          "points": 200,
+          "question_ar": "ما معنى «طاف» في الكلام الدارج؟",
+          "answer_ar": "تجاوز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-039",
+          "points": 200,
+          "question_ar": "ما معنى «داش»؟",
+          "answer_ar": "دخل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-040",
+          "points": 200,
+          "question_ar": "ما معنى «طالع»؟",
+          "answer_ar": "خرج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-041",
+          "points": 200,
+          "question_ar": "ما معنى المثل «من طول الغيبات جاب الغنايم»؟",
+          "answer_ar": "العائد بعد غياب يأتي بخير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-042",
+          "points": 200,
+          "question_ar": "ما معنى المثل «اللي فات مات»؟",
+          "answer_ar": "لا فائدة من البكاء على الماضي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-043",
+          "points": 200,
+          "question_ar": "ما معنى المثل «الصبر مفتاح الفرج»؟",
+          "answer_ar": "الصبر سبب الانفراج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-044",
+          "points": 200,
+          "question_ar": "ما معنى المثل «في العجلة الندامة»؟",
+          "answer_ar": "التسرع يجلب الندم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-045",
+          "points": 200,
+          "question_ar": "ما معنى المثل «كل تأخيرة فيها خيرة»؟",
+          "answer_ar": "التأخير قد يكون خيرًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-046",
+          "points": 200,
+          "question_ar": "ما معنى المثل «مد رجولك على قد لحافك»؟",
+          "answer_ar": "أنفق بقدر استطاعتك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-047",
+          "points": 200,
+          "question_ar": "ما معنى المثل «دق الحديد وهو حامي»؟",
+          "answer_ar": "اغتنم التوقيت المناسب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-048",
+          "points": 200,
+          "question_ar": "ما معنى المثل «الطيور على أشكالها تقع»؟",
+          "answer_ar": "الناس تميل لمن يشبهها",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-049",
+          "points": 200,
+          "question_ar": "ما معنى المثل «الجار قبل الدار»؟",
+          "answer_ar": "اختر الجار قبل السكن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-200-050",
+          "points": 200,
+          "question_ar": "ما معنى المثل «الباب اللي يجيك منه الريح سده واستريح»؟",
+          "answer_ar": "ابتعد عن مصدر الأذى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-001",
+          "points": 400,
+          "question_ar": "في نقاش حاد قال أحدهم «اشدعوة»، ما المقصود عادة؟",
+          "answer_ar": "لا تبالغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-002",
+          "points": 400,
+          "question_ar": "في جملة «أنا أتهقّى النتيجة إيجابية»، ما معنى «أتهقّى»؟",
+          "answer_ar": "أظن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-003",
+          "points": 400,
+          "question_ar": "عندما يقال لطفل «خلك سنع»، ما المطلوب منه؟",
+          "answer_ar": "حسن السلوك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-004",
+          "points": 400,
+          "question_ar": "في جلسة ودية قيل «لا تزعل، كنت أتغشمر»، ما المعنى؟",
+          "answer_ar": "أمزح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-005",
+          "points": 400,
+          "question_ar": "إذا قال لك صديق «أبيك دقيقة»، ما المقصود؟",
+          "answer_ar": "أريدك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-006",
+          "points": 400,
+          "question_ar": "في عبارة «عبالك الموضوع سهل»، ما معنى «عبالك»؟",
+          "answer_ar": "تظن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-007",
+          "points": 400,
+          "question_ar": "في سؤال «شحقه متأخر؟»، ما معنى «شحقه»؟",
+          "answer_ar": "لماذا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-008",
+          "points": 400,
+          "question_ar": "عند قول «شسالفة؟» قبل الشرح، ما المقصود؟",
+          "answer_ar": "ما الموضوع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-009",
+          "points": 400,
+          "question_ar": "في السوق تسمع «جم السعر؟»، كلمة «جم» تعني؟",
+          "answer_ar": "كم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-010",
+          "points": 400,
+          "question_ar": "في عبارة «اشكثر الزحمة اليوم»، ما معنى «اشكثر»؟",
+          "answer_ar": "كم المقدار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-011",
+          "points": 400,
+          "question_ar": "بعد خدمة صغيرة قيل لك «لا هنت»، ما معناها؟",
+          "answer_ar": "شكر وتقدير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-012",
+          "points": 400,
+          "question_ar": "في موقف داعم قيل «افا عليك»، ما المقصود؟",
+          "answer_ar": "لا يليق بك هذا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-013",
+          "points": 400,
+          "question_ar": "عند طلب مساعدة سريعة يقولون «نبي فزعة»، ما المعنى؟",
+          "answer_ar": "نجدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-014",
+          "points": 400,
+          "question_ar": "في جملة «توه واصل من الدوام»، ما معنى «توه»؟",
+          "answer_ar": "قبل قليل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-015",
+          "points": 400,
+          "question_ar": "عند الإحباط يقال «ماكو أمل»، ما المعنى؟",
+          "answer_ar": "لا رجاء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-016",
+          "points": 400,
+          "question_ar": "في عبارة «هالفكرة مو وقتها»، ما المعنى المقصود؟",
+          "answer_ar": "غير مناسب الآن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-017",
+          "points": 400,
+          "question_ar": "حين يقول شخص «هدي اللعب»، ما الذي يطلبه؟",
+          "answer_ar": "تمهّل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-018",
+          "points": 400,
+          "question_ar": "قبل الاختبار قيل «شد حيلك»، ما المقصود؟",
+          "answer_ar": "ابذل جهدك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-019",
+          "points": 400,
+          "question_ar": "في جملة «حطيتك بالصورة»، ما معناها؟",
+          "answer_ar": "أوضحت لك التفاصيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-020",
+          "points": 400,
+          "question_ar": "عند المفاجأة تُقال «امبيه!»، ما الدلالة الأقرب؟",
+          "answer_ar": "تعجب شديد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-021",
+          "points": 400,
+          "question_ar": "بعد نتيجة متوسطة قيل «ماشي الحال»، ما المعنى؟",
+          "answer_ar": "مقبول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-022",
+          "points": 400,
+          "question_ar": "في نقد سلوكي: «مو صاحي اليوم»، ما المقصود؟",
+          "answer_ar": "يتصرف بلا اتزان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-023",
+          "points": 400,
+          "question_ar": "في مزاح الأصدقاء: «فلان ثقيل»، ما المعنى الشائع؟",
+          "answer_ar": "بطيء التفاعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-024",
+          "points": 400,
+          "question_ar": "في مدح اجتماعي: «فلان خفيف دم»، ما المقصود؟",
+          "answer_ar": "مرح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-025",
+          "points": 400,
+          "question_ar": "في الثناء الأخلاقي: «فلان قلبه أبيض»، ما المعنى؟",
+          "answer_ar": "طيب متسامح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-026",
+          "points": 400,
+          "question_ar": "المثل «العين ما تعلى على الحاجب» يوجّه إلى ماذا؟",
+          "answer_ar": "احترام الأكبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-027",
+          "points": 400,
+          "question_ar": "المثل «إذا فات الفوت ما ينفع الصوت» يعني؟",
+          "answer_ar": "الندم بعد الفوات لا يفيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-028",
+          "points": 400,
+          "question_ar": "المثل «يد واحدة ما تصفق» يؤكد على؟",
+          "answer_ar": "أهمية التعاون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-029",
+          "points": 400,
+          "question_ar": "المثل «كثرة الطباخين تخرب الطبخة» يعني؟",
+          "answer_ar": "كثرة التدخل تفسد العمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-030",
+          "points": 400,
+          "question_ar": "المثل «الكتاب يبان من عنوانه» يدل على؟",
+          "answer_ar": "البدايات تدل على المضمون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-031",
+          "points": 400,
+          "question_ar": "المثل «عند الشدائد تعرف الإخوان» يشرح ماذا؟",
+          "answer_ar": "يظهر الصديق وقت الضيق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-032",
+          "points": 400,
+          "question_ar": "المثل «لسانك حصانك إن صنته صانك» يوصي بـ؟",
+          "answer_ar": "احفظ كلامك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-033",
+          "points": 400,
+          "question_ar": "المثل «اسأل مجرب ولا تسأل طبيب» يفضّل ماذا؟",
+          "answer_ar": "خبرة التجربة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-034",
+          "points": 400,
+          "question_ar": "المثل «ما كل ما يلمع ذهبًا» يذكّر بأن؟",
+          "answer_ar": "المظهر خادع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-035",
+          "points": 400,
+          "question_ar": "المثل «من زرع حصد» معناه؟",
+          "answer_ar": "كل عمل له نتيجة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-036",
+          "points": 400,
+          "question_ar": "المثل «من جد وجد» يقصد؟",
+          "answer_ar": "الاجتهاد يحقق النجاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-037",
+          "points": 400,
+          "question_ar": "المثل «الجزاء من جنس العمل» يعني؟",
+          "answer_ar": "النتيجة توافق الفعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-038",
+          "points": 400,
+          "question_ar": "المثل «الرفيق قبل الطريق» ينصح بـ؟",
+          "answer_ar": "اختيار الصحبة أولًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-039",
+          "points": 400,
+          "question_ar": "المثل «الجود من الموجود» معناه؟",
+          "answer_ar": "الكرم بما تقدر عليه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-040",
+          "points": 400,
+          "question_ar": "المثل «خير الأمور الوسط» يعلّمنا؟",
+          "answer_ar": "الاعتدال أفضل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-041",
+          "points": 400,
+          "question_ar": "المثل «القناعة كنز لا يفنى» يساوي القناعة بـ؟",
+          "answer_ar": "غنى دائم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-042",
+          "points": 400,
+          "question_ar": "المثل «حبل الكذب قصير» يوضح أن؟",
+          "answer_ar": "الكذب ينكشف سريعًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-043",
+          "points": 400,
+          "question_ar": "المثل «رب أخ لك لم تلده أمك» يقصد؟",
+          "answer_ar": "الصديق قد يكون كالأخ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-044",
+          "points": 400,
+          "question_ar": "المثل «الصديق وقت الضيق» يركّز على؟",
+          "answer_ar": "الوفاء عند الشدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-045",
+          "points": 400,
+          "question_ar": "المثل «الوقت كالسيف إن لم تقطعه قطعك» يعني؟",
+          "answer_ar": "أهمية إدارة الوقت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-046",
+          "points": 400,
+          "question_ar": "المثل «من طلب العلا سهر الليالي» يشير إلى؟",
+          "answer_ar": "النجاح يحتاج تعبًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-047",
+          "points": 400,
+          "question_ar": "المثل «درهم وقاية خير من قنطار علاج» يفيد أن؟",
+          "answer_ar": "الوقاية أفضل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-048",
+          "points": 400,
+          "question_ar": "المثل «كما تدين تدان» معناه؟",
+          "answer_ar": "ستلقى مثل فعلك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-049",
+          "points": 400,
+          "question_ar": "المثل «اتق شر الحليم إذا غضب» يحذّر من؟",
+          "answer_ar": "استفزاز الهادئ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-400-050",
+          "points": 400,
+          "question_ar": "المثل «أعطه الخبز لخبازه» ينصح بـ؟",
+          "answer_ar": "إسناد العمل لأهله",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-001",
+          "points": 600,
+          "question_ar": "في وصف سلوك شخص بالمجلس: «ماله سنع»، ما المقصود تحديدًا؟",
+          "answer_ar": "يفتقد حسن التصرف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-002",
+          "points": 600,
+          "question_ar": "عند الطوارئ يقال «فلان راعي فزعة»، ما المعنى الأدق؟",
+          "answer_ar": "مبادر للمساعدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-003",
+          "points": 600,
+          "question_ar": "في نقاش اجتماعي قيل «لا تصير ملقوف»، ما المقصود؟",
+          "answer_ar": "يتدخل فيما لا يعنيه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-004",
+          "points": 600,
+          "question_ar": "في مزاح لاذع بين الأصدقاء تُقال «يطنز»، ما معناها؟",
+          "answer_ar": "يسخر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-005",
+          "points": 600,
+          "question_ar": "إذا قيل «لا تهاوشون»، ما الفعل المقصود؟",
+          "answer_ar": "التشاجر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-006",
+          "points": 600,
+          "question_ar": "بعد موقف مفاجئ يقولون «المشهد يخرّع»، ما المعنى؟",
+          "answer_ar": "مخيف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-007",
+          "points": 600,
+          "question_ar": "في علاقة قريبة: «يمون عليه»، ما الدلالة؟",
+          "answer_ar": "توجد ألفة تسمح بالمزاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-008",
+          "points": 600,
+          "question_ar": "في التربية: «لا تعطيه وجه»، ما المعنى؟",
+          "answer_ar": "لا تشجعه على التمادي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-009",
+          "points": 600,
+          "question_ar": "عند رؤية حزين يقال «كاسر خاطري»، ما المقصود؟",
+          "answer_ar": "أشعر بتعاطف شديد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-010",
+          "points": 600,
+          "question_ar": "بعد اعتذار جيّد يقال «جبر خاطره»، ما المعنى؟",
+          "answer_ar": "طيّب نفسه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-011",
+          "points": 600,
+          "question_ar": "في ضغط العمل: «فلان طويل باله»، ما الصفـة المقصودة؟",
+          "answer_ar": "صبور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-012",
+          "points": 600,
+          "question_ar": "في خلاف سريع: «فلان قصير باله»، ما المعنى؟",
+          "answer_ar": "سريع الغضب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-013",
+          "points": 600,
+          "question_ar": "في تقييم شخصية: «ما ينعرف له»، ما الدلالة الأقرب؟",
+          "answer_ar": "غير ثابت الرأي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-014",
+          "points": 600,
+          "question_ar": "قبل مشروع بسيط قيل «امشِ على البركة»، ما المقصود؟",
+          "answer_ar": "توكل وابدأ دون تعقيد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-015",
+          "points": 600,
+          "question_ar": "عند نصيحة متكررة: «خذها قاعدة»، ما معناها؟",
+          "answer_ar": "اعتبرها مبدأ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-016",
+          "points": 600,
+          "question_ar": "في جدال طويل: «حاطها في راسه»، ما المعنى؟",
+          "answer_ar": "مصرّ على رأيه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-017",
+          "points": 600,
+          "question_ar": "إذا قيل «كانت فلتة لسان»، ما المقصود؟",
+          "answer_ar": "كلام خرج بلا قصد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-018",
+          "points": 600,
+          "question_ar": "في طلب الوضوح: «قطها بوجهي»، ما المطلوب؟",
+          "answer_ar": "قلها مباشرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-019",
+          "points": 600,
+          "question_ar": "في نقد الكلام غير الواضح: «لف ودوران»، ما معناه؟",
+          "answer_ar": "مراوغة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-020",
+          "points": 600,
+          "question_ar": "في بيئة العمل: «يدور الزلة»، ما المقصود؟",
+          "answer_ar": "يبحث عن الأخطاء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "مركز البحوث والدراسات الكويتية",
+              "type": "official",
+              "reference": "إصدارات في الألفاظ الكويتية والتراث الشعبي"
+            },
+            {
+              "title": "جامعة الكويت - مركز دراسات الخليج",
+              "type": "university",
+              "reference": "مواد عن خصائص اللهجة الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-021",
+          "points": 600,
+          "question_ar": "المثل «اللي ما يعرف الصقر يشويه» يضرب لمن؟",
+          "answer_ar": "يجهل قيمة الشيء النفيس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-022",
+          "points": 600,
+          "question_ar": "المثل «خبز خبزتيه يا الرفلة اكليه» يوجّه إلى ماذا؟",
+          "answer_ar": "تحمل نتيجة الفعل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-023",
+          "points": 600,
+          "question_ar": "المثل «حلاة الثوب رقعته منه وفيه» يدل على؟",
+          "answer_ar": "الإصلاح من الأصل أفضل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-024",
+          "points": 600,
+          "question_ar": "المثل «من بغى الدح ما قال أح» يعلّم ماذا؟",
+          "answer_ar": "تحمّل المشقة للوصول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-025",
+          "points": 600,
+          "question_ar": "المثل «الحي يحييك والميت يزيدك غبن» يرشد إلى؟",
+          "answer_ar": "اطلب الحاجة من القادر الحي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-026",
+          "points": 600,
+          "question_ar": "المثل «القرد بعين أمه غزال» يصف أي ظاهرة؟",
+          "answer_ar": "تحيز المحبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-027",
+          "points": 600,
+          "question_ar": "المثل «يا غريب كن أديب» يوجّه إلى؟",
+          "answer_ar": "احترام عادات المكان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-028",
+          "points": 600,
+          "question_ar": "في الاستعمال الخليجي، «الشرهة على...» تفيد غالبًا؟",
+          "answer_ar": "اللوم على من وثق بغير أهله",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-029",
+          "points": 600,
+          "question_ar": "المثل «اللي يده بالنار مو مثل اللي يده بالماي» يعني؟",
+          "answer_ar": "المتألم يعرف الحقيقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-030",
+          "points": 600,
+          "question_ar": "المثل «أهل مكة أدرى بشعابها» يقرر أن؟",
+          "answer_ar": "أهل الخبرة أعرف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-031",
+          "points": 600,
+          "question_ar": "المثل «كلٍ يرى الناس بعين طبعه» يعني؟",
+          "answer_ar": "يحكم على الآخرين بطبعه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-032",
+          "points": 600,
+          "question_ar": "المثل «ما حك جلدك مثل ظفرك» يشجع على؟",
+          "answer_ar": "الاعتماد على النفس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-033",
+          "points": 600,
+          "question_ar": "المثل «الطبع يغلب التطبع» يقصد؟",
+          "answer_ar": "السجية الأصلية تظهر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-034",
+          "points": 600,
+          "question_ar": "المثل «إذا عرف السبب بطل العجب» يبين أن؟",
+          "answer_ar": "الفهم يزيل الاستغراب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-035",
+          "points": 600,
+          "question_ar": "المثل «دوام الحال من المحال» يذكّر بأن؟",
+          "answer_ar": "الأحوال تتغير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-036",
+          "points": 600,
+          "question_ar": "المثل «بعد العسر يسر» يبعث على؟",
+          "answer_ar": "الأمل بعد الشدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-037",
+          "points": 600,
+          "question_ar": "المثل «اللبيب بالإشارة يفهم» يقصد؟",
+          "answer_ar": "الذكي يفهم بسرعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-038",
+          "points": 600,
+          "question_ar": "المثل «اللي استحوا ماتوا» يُقال عند؟",
+          "answer_ar": "غياب الحياء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-039",
+          "points": 600,
+          "question_ar": "في وصف حل ذكي يقال «ضربة معلم»، ما المعنى؟",
+          "answer_ar": "تصرف ماهر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-040",
+          "points": 600,
+          "question_ar": "عبارة «حط النقاط على الحروف» في نهاية النقاش تعني؟",
+          "answer_ar": "وضّح الأمور بدقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-041",
+          "points": 600,
+          "question_ar": "المثل «كلام الليل يمحوه النهار» يدل على؟",
+          "answer_ar": "وعود بلا تنفيذ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-042",
+          "points": 600,
+          "question_ar": "في أعراف كثيرة: «السكوت علامة الرضا»، المقصود؟",
+          "answer_ar": "عدم الاعتراض يُعد قبولًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-043",
+          "points": 600,
+          "question_ar": "المثل «اللي يسبقك بليلة يسبقك بحيلة» يعني؟",
+          "answer_ar": "الخبرة تمنح تفوقًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-044",
+          "points": 600,
+          "question_ar": "المثل «العتب على قدر المحبة» يفيد أن؟",
+          "answer_ar": "اللوم يأتي من المحبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-045",
+          "points": 600,
+          "question_ar": "المثل «من طق الباب سمع الجواب» يشير إلى؟",
+          "answer_ar": "من يسأل ينل جوابًا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-046",
+          "points": 600,
+          "question_ar": "المثل «اللي ما يطول العنب يقول حامض» يصف؟",
+          "answer_ar": "تبرير العجز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-047",
+          "points": 600,
+          "question_ar": "المثل «ما ينفع البكاء على اللبن المسكوب» يعني؟",
+          "answer_ar": "لا فائدة من الندم بعد الخسارة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-048",
+          "points": 600,
+          "question_ar": "المثل «الوقاية خير من العلاج» في الخطاب العام يعني؟",
+          "answer_ar": "المنع أفضل من الإصلاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-049",
+          "points": 600,
+          "question_ar": "المثل «الجار قبل الدار» عند اختيار السكن يركز على؟",
+          "answer_ar": "أهمية الجار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        },
+        {
+          "id": "CAT02-600-050",
+          "points": 600,
+          "question_ar": "المثل «الصيت ولا الغنى» في الثقافة الشعبية يشير إلى؟",
+          "answer_ar": "السمعة الطيبة أهم من المال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل سياقية.",
+          "source_notes": [
+            {
+              "title": "الأمثال الكويتية المقارنة",
+              "type": "official",
+              "reference": "إصدار وزارة الإعلام الكويتية للأمثال الشعبية"
+            },
+            {
+              "title": "مجلة العربي",
+              "type": "reputable_media",
+              "reference": "مواد توثيقية عن الفولكلور والأمثال الكويتية"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

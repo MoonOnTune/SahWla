@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 4 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "عواصم ودول العالم",
+      "name_en": "World Capitals & Countries",
+      "questions": [
+        {
+          "id": "CAT04-200-001",
+          "points": 200,
+          "question_ar": "ما عاصمة فرنسا؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-002",
+          "points": 200,
+          "question_ar": "ما عاصمة اليابان؟",
+          "answer_ar": "طوكيو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-003",
+          "points": 200,
+          "question_ar": "ما عاصمة كندا؟",
+          "answer_ar": "أوتاوا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-004",
+          "points": 200,
+          "question_ar": "ما عاصمة أستراليا؟",
+          "answer_ar": "كانبرا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-005",
+          "points": 200,
+          "question_ar": "ما عاصمة البرازيل؟",
+          "answer_ar": "برازيليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-006",
+          "points": 200,
+          "question_ar": "ما عاصمة الهند؟",
+          "answer_ar": "نيودلهي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-007",
+          "points": 200,
+          "question_ar": "ما عاصمة الصين؟",
+          "answer_ar": "بكين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-008",
+          "points": 200,
+          "question_ar": "ما عاصمة إيطاليا؟",
+          "answer_ar": "روما",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-009",
+          "points": 200,
+          "question_ar": "ما عاصمة إسبانيا؟",
+          "answer_ar": "مدريد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-010",
+          "points": 200,
+          "question_ar": "ما عاصمة ألمانيا؟",
+          "answer_ar": "برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-011",
+          "points": 200,
+          "question_ar": "ما عاصمة تركيا؟",
+          "answer_ar": "أنقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-012",
+          "points": 200,
+          "question_ar": "ما عاصمة المكسيك؟",
+          "answer_ar": "مكسيكو سيتي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-013",
+          "points": 200,
+          "question_ar": "ما عاصمة الأرجنتين؟",
+          "answer_ar": "بوينس آيرس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-014",
+          "points": 200,
+          "question_ar": "ما العاصمة الإدارية لجنوب أفريقيا؟",
+          "answer_ar": "بريتوريا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-015",
+          "points": 200,
+          "question_ar": "ما عاصمة روسيا؟",
+          "answer_ar": "موسكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-016",
+          "points": 200,
+          "question_ar": "ما عاصمة كوريا الجنوبية؟",
+          "answer_ar": "سيول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-017",
+          "points": 200,
+          "question_ar": "ما عاصمة تايلاند؟",
+          "answer_ar": "بانكوك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-018",
+          "points": 200,
+          "question_ar": "ما عاصمة هولندا؟",
+          "answer_ar": "أمستردام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-019",
+          "points": 200,
+          "question_ar": "ما عاصمة سويسرا؟",
+          "answer_ar": "برن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-020",
+          "points": 200,
+          "question_ar": "ما عاصمة السويد؟",
+          "answer_ar": "ستوكهولم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-021",
+          "points": 200,
+          "question_ar": "ما عاصمة النرويج؟",
+          "answer_ar": "أوسلو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-022",
+          "points": 200,
+          "question_ar": "ما عاصمة الدنمارك؟",
+          "answer_ar": "كوبنهاغن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-023",
+          "points": 200,
+          "question_ar": "ما عاصمة البرتغال؟",
+          "answer_ar": "لشبونة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-024",
+          "points": 200,
+          "question_ar": "ما عاصمة اليونان؟",
+          "answer_ar": "أثينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-025",
+          "points": 200,
+          "question_ar": "ما عاصمة بولندا؟",
+          "answer_ar": "وارسو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-026",
+          "points": 200,
+          "question_ar": "ما عاصمة النمسا؟",
+          "answer_ar": "فيينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-027",
+          "points": 200,
+          "question_ar": "ما عاصمة بلجيكا؟",
+          "answer_ar": "بروكسل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-028",
+          "points": 200,
+          "question_ar": "ما عاصمة أيرلندا؟",
+          "answer_ar": "دبلن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-029",
+          "points": 200,
+          "question_ar": "ما عاصمة تشيلي؟",
+          "answer_ar": "سانتياغو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-030",
+          "points": 200,
+          "question_ar": "ما عاصمة بيرو؟",
+          "answer_ar": "ليما",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-031",
+          "points": 200,
+          "question_ar": "ما عاصمة كولومبيا؟",
+          "answer_ar": "بوغوتا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-032",
+          "points": 200,
+          "question_ar": "ما عاصمة نيوزيلندا؟",
+          "answer_ar": "ويلينغتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-033",
+          "points": 200,
+          "question_ar": "ما عاصمة باكستان؟",
+          "answer_ar": "إسلام آباد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-034",
+          "points": 200,
+          "question_ar": "ما عاصمة ماليزيا؟",
+          "answer_ar": "كوالالمبور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-035",
+          "points": 200,
+          "question_ar": "ما عاصمة الفلبين؟",
+          "answer_ar": "مانيلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-036",
+          "points": 200,
+          "question_ar": "ما عاصمة فيتنام؟",
+          "answer_ar": "هانوي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-037",
+          "points": 200,
+          "question_ar": "ما عاصمة كينيا؟",
+          "answer_ar": "نيروبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-038",
+          "points": 200,
+          "question_ar": "ما عاصمة نيجيريا؟",
+          "answer_ar": "أبوجا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-039",
+          "points": 200,
+          "question_ar": "ما عاصمة إثيوبيا؟",
+          "answer_ar": "أديس أبابا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-040",
+          "points": 200,
+          "question_ar": "ما عاصمة المغرب؟",
+          "answer_ar": "الرباط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-041",
+          "points": 200,
+          "question_ar": "ما اللغة الرسمية في البرازيل؟",
+          "answer_ar": "البرتغالية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-042",
+          "points": 200,
+          "question_ar": "ما عملة اليابان؟",
+          "answer_ar": "الين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-043",
+          "points": 200,
+          "question_ar": "الدولة التي يتوسط علمها ورقة قيقب هي؟",
+          "answer_ar": "كندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-044",
+          "points": 200,
+          "question_ar": "في أي دولة يقع برج إيفل؟",
+          "answer_ar": "فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-045",
+          "points": 200,
+          "question_ar": "في أي دولة تقع أهرامات الجيزة؟",
+          "answer_ar": "مصر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-046",
+          "points": 200,
+          "question_ar": "في أي دولة يقع تاج محل؟",
+          "answer_ar": "الهند",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-047",
+          "points": 200,
+          "question_ar": "ما عملة الولايات المتحدة؟",
+          "answer_ar": "الدولار الأمريكي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-048",
+          "points": 200,
+          "question_ar": "ما عاصمة الولايات المتحدة؟",
+          "answer_ar": "واشنطن العاصمة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-049",
+          "points": 200,
+          "question_ar": "ما عاصمة المملكة المتحدة؟",
+          "answer_ar": "لندن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-200-050",
+          "points": 200,
+          "question_ar": "ما عاصمة جمهورية التشيك؟",
+          "answer_ar": "براغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-001",
+          "points": 400,
+          "question_ar": "مدينة ليست سيدني بل العاصمة الرسمية لأستراليا؛ ما هي؟",
+          "answer_ar": "كانبرا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-002",
+          "points": 400,
+          "question_ar": "عاصمة كندا تقع في مقاطعة أونتاريو على نهر يحمل الاسم نفسه؛ ما هي؟",
+          "answer_ar": "أوتاوا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-003",
+          "points": 400,
+          "question_ar": "دولة لغتها الرسمية البرتغالية وعاصمتها برازيليا؛ ما هي؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-004",
+          "points": 400,
+          "question_ar": "دولة عملتها الين وعاصمتها طوكيو؛ ما هي؟",
+          "answer_ar": "اليابان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-005",
+          "points": 400,
+          "question_ar": "عاصمة أوروبية على نهر الدانوب وكانت مركزًا لإمبراطورية هابسبورغ؛ ما هي؟",
+          "answer_ar": "فيينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-006",
+          "points": 400,
+          "question_ar": "دولة أوروبية محايدة عاصمتها برن وليست زيورخ؛ ما هي؟",
+          "answer_ar": "سويسرا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-007",
+          "points": 400,
+          "question_ar": "العاصمة التي تستضيف مؤسسات رئيسية للاتحاد الأوروبي وحلف الناتو؛ ما هي؟",
+          "answer_ar": "بروكسل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "European Union",
+              "type": "official",
+              "reference": "EU institutions and member-state information"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-008",
+          "points": 400,
+          "question_ar": "دولة عاصمتها وارسو وتقع بين ألمانيا وبيلاروسيا؛ ما هي؟",
+          "answer_ar": "بولندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-009",
+          "points": 400,
+          "question_ar": "عاصمة إسكندنافية مطلة على أوسلوفيورد؛ ما هي؟",
+          "answer_ar": "أوسلو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-010",
+          "points": 400,
+          "question_ar": "دولة تقع غرب إسبانيا وعاصمتها لشبونة؛ ما هي؟",
+          "answer_ar": "البرتغال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-011",
+          "points": 400,
+          "question_ar": "عاصمة تركيا ليست إسطنبول؛ ما هي؟",
+          "answer_ar": "أنقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-012",
+          "points": 400,
+          "question_ar": "دولة آسيوية عاصمتها إسلام آباد وعملتها الروبية؛ ما هي؟",
+          "answer_ar": "باكستان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-013",
+          "points": 400,
+          "question_ar": "عاصمة ماليزيا المشهورة ببرجي بتروناس؛ ما هي؟",
+          "answer_ar": "كوالالمبور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-014",
+          "points": 400,
+          "question_ar": "دولة عاصمتها هانوي بينما هو تشي منه أكبر مدنها؛ ما هي؟",
+          "answer_ar": "فيتنام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-015",
+          "points": 400,
+          "question_ar": "عاصمة أفريقية تستضيف مكاتب أممية كبرى؛ ما هي؟",
+          "answer_ar": "نيروبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-016",
+          "points": 400,
+          "question_ar": "عاصمة نيجيريا التي أصبحت المركز السياسي بدل لاغوس؛ ما هي؟",
+          "answer_ar": "أبوجا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-017",
+          "points": 400,
+          "question_ar": "دولة أفريقية عاصمتها أديس أبابا وتستضيف الاتحاد الأفريقي؛ ما هي؟",
+          "answer_ar": "إثيوبيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-018",
+          "points": 400,
+          "question_ar": "عاصمة تشيلي الممتدة قرب سفوح الأنديز؛ ما هي؟",
+          "answer_ar": "سانتياغو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-019",
+          "points": 400,
+          "question_ar": "دولة ساحلية على الهادئ عاصمتها ليما؛ ما هي؟",
+          "answer_ar": "بيرو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-020",
+          "points": 400,
+          "question_ar": "عاصمة كولومبيا الواقعة على هضبة مرتفعة؛ ما هي؟",
+          "answer_ar": "بوغوتا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-021",
+          "points": 400,
+          "question_ar": "دولة أوقيانوسية عاصمتها ويلينغتون وليست أوكلاند؛ ما هي؟",
+          "answer_ar": "نيوزيلندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-022",
+          "points": 400,
+          "question_ar": "من عواصم جنوب أفريقيا الثلاث، ما العاصمة الإدارية؟",
+          "answer_ar": "بريتوريا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-023",
+          "points": 400,
+          "question_ar": "دولة متوسطية عاصمتها أثينا وتضم جزر بحر إيجة؛ ما هي؟",
+          "answer_ar": "اليونان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-024",
+          "points": 400,
+          "question_ar": "عاصمة السويد المقامة على عدة جزر؛ ما هي؟",
+          "answer_ar": "ستوكهولم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-025",
+          "points": 400,
+          "question_ar": "عاصمة الدنمارك المتصلة بمالمو عبر جسر أوريسند؛ ما هي؟",
+          "answer_ar": "كوبنهاغن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-026",
+          "points": 400,
+          "question_ar": "دولة أوروبية عاصمتها دبلن وتشترك في جزيرة مع إيرلندا الشمالية؛ ما هي؟",
+          "answer_ar": "أيرلندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-027",
+          "points": 400,
+          "question_ar": "عاصمة روسيا تقع على نهر موسكفا؛ ما هي؟",
+          "answer_ar": "موسكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-028",
+          "points": 400,
+          "question_ar": "عاصمة كوريا الجنوبية على نهر هان؛ ما هي؟",
+          "answer_ar": "سيول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-029",
+          "points": 400,
+          "question_ar": "دولة كانت تُعرف تاريخيًا باسم سيام وعاصمتها بانكوك؛ ما هي؟",
+          "answer_ar": "تايلاند",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-030",
+          "points": 400,
+          "question_ar": "دولة عاصمتها أمستردام بينما مقر الحكومة في لاهاي؛ ما هي؟",
+          "answer_ar": "هولندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-031",
+          "points": 400,
+          "question_ar": "دولة عاصمتها بكين وأكبر مدنها شنغهاي؛ ما هي؟",
+          "answer_ar": "الصين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-032",
+          "points": 400,
+          "question_ar": "دولة عاصمتها نيودلهي بينما مومباي من أكبر مدنها؛ ما هي؟",
+          "answer_ar": "الهند",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-033",
+          "points": 400,
+          "question_ar": "دولة عاصمتها روما وتضم مدنًا كبرى مثل ميلانو؛ ما هي؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-034",
+          "points": 400,
+          "question_ar": "عاصمة ألمانيا بعد إعادة التوحيد عام 1990؛ ما هي؟",
+          "answer_ar": "برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-035",
+          "points": 400,
+          "question_ar": "دولة عاصمتها مدريد وتضم برشلونة؛ ما هي؟",
+          "answer_ar": "إسبانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-036",
+          "points": 400,
+          "question_ar": "عاصمة الأرجنتين الواقعة على ريو دي لا بلاتا؛ ما هي؟",
+          "answer_ar": "بوينس آيرس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-037",
+          "points": 400,
+          "question_ar": "دولة في أمريكا الشمالية عاصمتها مكسيكو سيتي؛ ما هي؟",
+          "answer_ar": "المكسيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-038",
+          "points": 400,
+          "question_ar": "عاصمة البرازيل المخططة في الداخل وليست ريو؛ ما هي؟",
+          "answer_ar": "برازيليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-039",
+          "points": 400,
+          "question_ar": "دولة عاصمتها براغ وكانت ضمن تشيكوسلوفاكيا سابقًا؛ ما هي؟",
+          "answer_ar": "التشيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-040",
+          "points": 400,
+          "question_ar": "دولة عاصمتها لندن وعملتها الجنيه الإسترليني؛ ما هي؟",
+          "answer_ar": "المملكة المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-041",
+          "points": 400,
+          "question_ar": "دولة فيدرالية من 50 ولاية عاصمتها واشنطن العاصمة؛ ما هي؟",
+          "answer_ar": "الولايات المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-042",
+          "points": 400,
+          "question_ar": "العملة المشتركة المستخدمة في دول مثل ألمانيا وإيطاليا تسمى؟",
+          "answer_ar": "اليورو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "European Union",
+              "type": "official",
+              "reference": "EU institutions and member-state information"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-043",
+          "points": 400,
+          "question_ar": "الدولة المعروفة بعلم فيه دائرة حمراء على خلفية بيضاء؛ ما هي؟",
+          "answer_ar": "اليابان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-044",
+          "points": 400,
+          "question_ar": "الدولة المشهورة ببرج إيفل وعاصمتها باريس؛ ما هي؟",
+          "answer_ar": "فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-045",
+          "points": 400,
+          "question_ar": "العاصمة الفرنسية الواقعة على نهر السين؛ ما هي؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-046",
+          "points": 400,
+          "question_ar": "عاصمة البرتغال عند مصب نهر تاجه؛ ما هي؟",
+          "answer_ar": "لشبونة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-047",
+          "points": 400,
+          "question_ar": "ما اللغة الرسمية في المكسيك؟",
+          "answer_ar": "الإسبانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-048",
+          "points": 400,
+          "question_ar": "ما العملة الرسمية في المملكة المتحدة؟",
+          "answer_ar": "الجنيه الإسترليني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-049",
+          "points": 400,
+          "question_ar": "ما اللغة الرسمية في النمسا؟",
+          "answer_ar": "الألمانية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-400-050",
+          "points": 400,
+          "question_ar": "دولة عاصمتها مانيلا وتقع في جنوب شرق آسيا؛ ما هي؟",
+          "answer_ar": "الفلبين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-001",
+          "points": 600,
+          "question_ar": "دولة أوروبية عاصمتها برن وليست زيورخ أو جنيف؛ ما هي؟",
+          "answer_ar": "سويسرا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-002",
+          "points": 600,
+          "question_ar": "دولة عاصمتها كانبرا رغم شهرة سيدني وملبورن؛ ما هي؟",
+          "answer_ar": "أستراليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-003",
+          "points": 600,
+          "question_ar": "دولة في أمريكا الشمالية عاصمتها أوتاوا بين مدينتين كبيرتين: تورونتو ومونتريال؛ ما هي؟",
+          "answer_ar": "كندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-004",
+          "points": 600,
+          "question_ar": "دولة لاتينية عاصمتها مدينة مخططة حديثًا نسبيًا اسمها برازيليا؛ ما هي؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-005",
+          "points": 600,
+          "question_ar": "دولة أفريقية نقلت عاصمتها السياسية من لاغوس إلى أبوجا؛ ما هي؟",
+          "answer_ar": "نيجيريا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-006",
+          "points": 600,
+          "question_ar": "دولة أفريقية لها ثلاث عواصم، والمطلوب عاصمتها الإدارية؛ ما هي؟",
+          "answer_ar": "جنوب أفريقيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-007",
+          "points": 600,
+          "question_ar": "دولة عاصمتها أنقرة بينما إسطنبول أكبر مدنها اقتصاديًا؛ ما هي؟",
+          "answer_ar": "تركيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-008",
+          "points": 600,
+          "question_ar": "دولة جنوب آسيوية عاصمتها نيودلهي وعملتها الروبية؛ ما هي؟",
+          "answer_ar": "الهند",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-009",
+          "points": 600,
+          "question_ar": "دولة آسيوية عاصمتها بكين وعملتها اليوان؛ ما هي؟",
+          "answer_ar": "الصين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-010",
+          "points": 600,
+          "question_ar": "دولة في شرق آسيا عاصمتها سيول وتجاور كوريا الشمالية؛ ما هي؟",
+          "answer_ar": "كوريا الجنوبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-011",
+          "points": 600,
+          "question_ar": "دولة عاصمتها هانوي بينما هو تشي منه ليست العاصمة؛ ما هي؟",
+          "answer_ar": "فيتنام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-012",
+          "points": 600,
+          "question_ar": "دولة أوقيانوسية عاصمتها ويلينغتون وتقع جنوب شرق أستراليا؛ ما هي؟",
+          "answer_ar": "نيوزيلندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-013",
+          "points": 600,
+          "question_ar": "دولة عاصمتها إسلام آباد وكانت كراتشي مركزًا سياسيًا سابقًا؛ ما هي؟",
+          "answer_ar": "باكستان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-014",
+          "points": 600,
+          "question_ar": "دولة أوروبية عاصمتها دبلن ولها لغتان رسميتان إيرلندية وإنجليزية؛ ما هي؟",
+          "answer_ar": "أيرلندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-015",
+          "points": 600,
+          "question_ar": "دولة عاصمتها بروكسل وتستضيف مؤسسات الاتحاد الأوروبي؛ ما هي؟",
+          "answer_ar": "بلجيكا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "European Union",
+              "type": "official",
+              "reference": "EU institutions and member-state information"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-016",
+          "points": 600,
+          "question_ar": "دولة أوروبية عاصمتها فيينا ويجري فيها نهر الدانوب؛ ما هي؟",
+          "answer_ar": "النمسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-017",
+          "points": 600,
+          "question_ar": "دولة عاصمتها وارسو ونهر فيستولا يمر بها؛ ما هي؟",
+          "answer_ar": "بولندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-018",
+          "points": 600,
+          "question_ar": "دولة عاصمتها أثينا وتضم موقع الأكروبوليس الشهير؛ ما هي؟",
+          "answer_ar": "اليونان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-019",
+          "points": 600,
+          "question_ar": "دولة عاصمتها لشبونة وتقع في أقصى غرب أوروبا القارية؛ ما هي؟",
+          "answer_ar": "البرتغال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-020",
+          "points": 600,
+          "question_ar": "دولة إسكندنافية عاصمتها ستوكهولم ولا تعتمد اليورو؛ ما هي؟",
+          "answer_ar": "السويد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-021",
+          "points": 600,
+          "question_ar": "دولة إسكندنافية عاصمتها أوسلو وعملتها الكرونة النرويجية؛ ما هي؟",
+          "answer_ar": "النرويج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-022",
+          "points": 600,
+          "question_ar": "دولة عاصمتها كوبنهاغن وعملتها الكرونة الدنماركية؛ ما هي؟",
+          "answer_ar": "الدنمارك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-023",
+          "points": 600,
+          "question_ar": "دولة عاصمتها أمستردام بينما لاهاي مقر الحكومة؛ ما هي؟",
+          "answer_ar": "هولندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-024",
+          "points": 600,
+          "question_ar": "دولة عاصمتها براغ وانفصلت سلميًا عن سلوفاكيا عام 1993؛ ما هي؟",
+          "answer_ar": "التشيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-025",
+          "points": 600,
+          "question_ar": "دولة في أمريكا الجنوبية عاصمتها سانتياغو وتمتد طوليًا بمحاذاة الأنديز؛ ما هي؟",
+          "answer_ar": "تشيلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-026",
+          "points": 600,
+          "question_ar": "دولة عاصمتها ليما وتقع على الساحل الغربي لأمريكا الجنوبية؛ ما هي؟",
+          "answer_ar": "بيرو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-027",
+          "points": 600,
+          "question_ar": "دولة عاصمتها بوغوتا وتطل على الكاريبي والهادئ؛ ما هي؟",
+          "answer_ar": "كولومبيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-028",
+          "points": 600,
+          "question_ar": "دولة عاصمتها بوينس آيرس وعملتها البيزو الأرجنتيني؛ ما هي؟",
+          "answer_ar": "الأرجنتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-029",
+          "points": 600,
+          "question_ar": "دولة عاصمتها مكسيكو سيتي ولغتها الرسمية الإسبانية؛ ما هي؟",
+          "answer_ar": "المكسيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-030",
+          "points": 600,
+          "question_ar": "دولة أرخبيلية كبرى في آسيا عاصمتها مانيلا؛ ما هي؟",
+          "answer_ar": "الفلبين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-031",
+          "points": 600,
+          "question_ar": "دولة عاصمتها القاهرة ويجري فيها نهر النيل؛ ما هي؟",
+          "answer_ar": "مصر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "United Nations",
+              "type": "official",
+              "reference": "member states and country names"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-032",
+          "points": 600,
+          "question_ar": "دولة عاصمتها الرباط وأكبر مدنها الدار البيضاء؛ ما هي؟",
+          "answer_ar": "المغرب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "United Nations",
+              "type": "official",
+              "reference": "member states and country names"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-033",
+          "points": 600,
+          "question_ar": "عاصمة الولايات المتحدة ليست نيويورك ولا لوس أنجلوس؛ ما هي؟",
+          "answer_ar": "واشنطن العاصمة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-034",
+          "points": 600,
+          "question_ar": "العاصمة السياسية لسويسرا ليست جنيف؛ ما هي؟",
+          "answer_ar": "برن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-035",
+          "points": 600,
+          "question_ar": "من عواصم جنوب أفريقيا، ما العاصمة الإدارية وليست كيب تاون؟",
+          "answer_ar": "بريتوريا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-036",
+          "points": 600,
+          "question_ar": "مدينة أوروبية عاصمة لدولة وتحتوي داخلها دولة الفاتيكان؛ ما هي؟",
+          "answer_ar": "روما",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-037",
+          "points": 600,
+          "question_ar": "العاصمة الألمانية التي أصبحت مركز الحكم بعد بون؛ ما هي؟",
+          "answer_ar": "برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-038",
+          "points": 600,
+          "question_ar": "دولة أوروبية عاصمتها لندن وتستخدم الجنيه الإسترليني؛ ما هي؟",
+          "answer_ar": "المملكة المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-039",
+          "points": 600,
+          "question_ar": "دولة عملتها الدولار الكندي وعاصمتها أوتاوا؛ ما هي؟",
+          "answer_ar": "كندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-040",
+          "points": 600,
+          "question_ar": "دولة أرخبيلية في الهادئ عاصمتها طوكيو؛ ما هي؟",
+          "answer_ar": "اليابان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-041",
+          "points": 600,
+          "question_ar": "الدولة اللاتينية الكبيرة الوحيدة الناطقة بالبرتغالية عاصمتها برازيليا؛ ما هي؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-042",
+          "points": 600,
+          "question_ar": "دولة تمتد عبر أوروبا وآسيا وعاصمتها موسكو؛ ما هي؟",
+          "answer_ar": "روسيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-043",
+          "points": 600,
+          "question_ar": "عاصمة تركيا تقع في هضبة الأناضول لا على البوسفور؛ ما هي؟",
+          "answer_ar": "أنقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-044",
+          "points": 600,
+          "question_ar": "دولة جنوب شرق آسيا عاصمتها بانكوك وعملتها البات؛ ما هي؟",
+          "answer_ar": "تايلاند",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-045",
+          "points": 600,
+          "question_ar": "دولة شرق أفريقية عاصمتها نيروبي وتجاور أوغندا وتنزانيا؛ ما هي؟",
+          "answer_ar": "كينيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-046",
+          "points": 600,
+          "question_ar": "دولة أفريقية عاصمتها أديس أبابا ومقر الاتحاد الأفريقي فيها؛ ما هي؟",
+          "answer_ar": "إثيوبيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-047",
+          "points": 600,
+          "question_ar": "دولة آسيوية عاصمتها كوالالمبور وتضم جزءًا من جزيرة بورنيو؛ ما هي؟",
+          "answer_ar": "ماليزيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-048",
+          "points": 600,
+          "question_ar": "دولة عاصمتها نيودلهي ويقع فيها تاج محل بمدينة أغرا؛ ما هي؟",
+          "answer_ar": "الهند",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-049",
+          "points": 600,
+          "question_ar": "دولة عاصمتها باريس وتستخدم اليورو؛ ما هي؟",
+          "answer_ar": "فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT04-600-050",
+          "points": 600,
+          "question_ar": "دولة عاصمتها مدريد وتستخدم اليورو؛ ما هي؟",
+          "answer_ar": "إسبانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "CIA World Factbook",
+              "type": "official",
+              "reference": "country profiles: capitals, languages, currencies"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "country and capital entries"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

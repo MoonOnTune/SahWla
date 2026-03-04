@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 6 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "أفلام ومسلسلات (هوليوود)",
+      "name_en": "Movies & TV shows (Hollywood)",
+      "questions": [
+        {
+          "id": "CAT06-200-001",
+          "points": 200,
+          "question_ar": "من أخرج فيلم «Titanic»؟",
+          "answer_ar": "جيمس كاميرون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-002",
+          "points": 200,
+          "question_ar": "من الممثل الذي جسّد «Iron Man» في عالم مارفل السينمائي؟",
+          "answer_ar": "روبرت داوني جونيور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-003",
+          "points": 200,
+          "question_ar": "ما اسم السلسلة التي تضم الشخصية «Luke Skywalker»؟",
+          "answer_ar": "Star Wars",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-004",
+          "points": 200,
+          "question_ar": "ما اسم المدرسة السحرية في سلسلة «Harry Potter»؟",
+          "answer_ar": "هوغوورتس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-005",
+          "points": 200,
+          "question_ar": "ما الفيلم الذي تدور أحداثه في عالم الأحلام بقيادة ليوناردو دي كابريو؟",
+          "answer_ar": "Inception",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-006",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الذي يروي قصة مدرس كيمياء يصبح تاجر مخدرات؟",
+          "answer_ar": "Breaking Bad",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-007",
+          "points": 200,
+          "question_ar": "من بطلة فيلم «The Devil Wears Prada» في دور رئيسة التحرير؟",
+          "answer_ar": "ميريل ستريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-008",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الكوميدي الذي يدور حول 6 أصدقاء في نيويورك؟",
+          "answer_ar": "Friends",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-009",
+          "points": 200,
+          "question_ar": "ما اسم المخرج الشهير لفيلم «Jurassic Park»؟",
+          "answer_ar": "ستيفن سبيلبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-010",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي فاز بالأوسكار ويحمل اسم سفينة غارقة؟",
+          "answer_ar": "Titanic",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-011",
+          "points": 200,
+          "question_ar": "من بطل سلسلة «Mission: Impossible»؟",
+          "answer_ar": "توم كروز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-012",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي يتحدث عن دمية راعية بقر مع «Buzz Lightyear»؟",
+          "answer_ar": "Toy Story",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-013",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الذي يضم شخصية «Daenerys Targaryen»؟",
+          "answer_ar": "Game of Thrones",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-014",
+          "points": 200,
+          "question_ar": "من الممثل الذي لعب دور الجوكر في «The Dark Knight»؟",
+          "answer_ar": "هيث ليدجر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-015",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الموسيقي الذي يجمع رايان غوسلينغ وإيما ستون؟",
+          "answer_ar": "La La Land",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-016",
+          "points": 200,
+          "question_ar": "ما اسم السلسلة التي تضم شخصية «Indiana Jones»؟",
+          "answer_ar": "Indiana Jones",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-017",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي تدور أحداثه على كوكب باندورا؟",
+          "answer_ar": "Avatar",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-018",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الطبي الشهير الذي بدأ بشخصية «Meredith Grey»؟",
+          "answer_ar": "Grey's Anatomy",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-019",
+          "points": 200,
+          "question_ar": "من الممثل الذي جسّد «Jack Sparrow»؟",
+          "answer_ar": "جوني ديب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-020",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي يروي رحلة «Frodo» لإتلاف الخاتم؟",
+          "answer_ar": "The Lord of the Rings",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-021",
+          "points": 200,
+          "question_ar": "ما اسم المدينة الخيالية التي يحميها باتمان؟",
+          "answer_ar": "Gotham",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-022",
+          "points": 200,
+          "question_ar": "من الممثلة التي جسدت «Hermione Granger»؟",
+          "answer_ar": "إيما واتسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-023",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي يضم شخصية «Forrest Gump»؟",
+          "answer_ar": "Forrest Gump",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-024",
+          "points": 200,
+          "question_ar": "ما اسم السلسلة التي تضم «John Wick»؟",
+          "answer_ar": "John Wick",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-025",
+          "points": 200,
+          "question_ar": "من المخرج الشهير لفيلم «The Dark Knight»؟",
+          "answer_ar": "كريستوفر نولان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-026",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الذي يضم شخصية «Eleven»؟",
+          "answer_ar": "Stranger Things",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-027",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الكرتوني الذي تدور أحداثه في مملكة «Arendelle»؟",
+          "answer_ar": "Frozen",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-028",
+          "points": 200,
+          "question_ar": "من الممثلة التي لعبت دور «Black Widow»؟",
+          "answer_ar": "سكارليت جوهانسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-029",
+          "points": 200,
+          "question_ar": "ما اسم السلسلة التي تضم شخصية «James Bond»؟",
+          "answer_ar": "James Bond",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-030",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي تدور قصته حول محاكاة رقمية و«Neo»؟",
+          "answer_ar": "The Matrix",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-031",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الكوميدي الذي يتناول حياة موظفي شركة ورق في سكرانتون؟",
+          "answer_ar": "The Office",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-032",
+          "points": 200,
+          "question_ar": "من الممثل الذي لعب دور «Wolverine» لفترة طويلة؟",
+          "answer_ar": "هيو جاكمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-033",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي يضم شخصية «Rocky Balboa»؟",
+          "answer_ar": "Rocky",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-034",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي تدور أحداثه في السجن ويحمل اسمه «Shawshank»؟",
+          "answer_ar": "The Shawshank Redemption",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-035",
+          "points": 200,
+          "question_ar": "من الممثل الذي يؤدي دور «Sherlock Holmes» في نسخة 2009 السينمائية؟",
+          "answer_ar": "روبرت داوني جونيور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-036",
+          "points": 200,
+          "question_ar": "ما اسم فيلم الرسوم الذي يضم شخصية «Simba»؟",
+          "answer_ar": "The Lion King",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-037",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الذي يضم شخصية «Michael Scott»؟",
+          "answer_ar": "The Office",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-038",
+          "points": 200,
+          "question_ar": "من بطلة فيلم «Erin Brockovich»؟",
+          "answer_ar": "جوليا روبرتس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-039",
+          "points": 200,
+          "question_ar": "ما اسم السلسلة التي تضم «Katniss Everdeen»؟",
+          "answer_ar": "The Hunger Games",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-040",
+          "points": 200,
+          "question_ar": "من المخرج الذي قدّم فيلم «Pulp Fiction»؟",
+          "answer_ar": "كوينتن تارانتينو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-041",
+          "points": 200,
+          "question_ar": "ما اسم فيلم الرعب الذي يضم الدمية «Annabelle»؟",
+          "answer_ar": "Annabelle",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-042",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي فاز بأوسكار أفضل فيلم عام 2020؟",
+          "answer_ar": "Parasite",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-043",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الذي يدور حول الشطرنج وبطلة اسمها «Beth Harmon»؟",
+          "answer_ar": "The Queen's Gambit",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-044",
+          "points": 200,
+          "question_ar": "من الممثل الذي جسد «The Joker» في فيلم 2019؟",
+          "answer_ar": "خواكين فينيكس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-045",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي تدور قصته في الحلم داخل الحلم داخل الحلم؟",
+          "answer_ar": "Inception",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-046",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الذي يضم عائلة «Roy» وصراعها الإعلامي؟",
+          "answer_ar": "Succession",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-047",
+          "points": 200,
+          "question_ar": "ما اسم فيلم ديزني الذي يضم «Elsa» وأغنية Let It Go؟",
+          "answer_ar": "Frozen",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-048",
+          "points": 200,
+          "question_ar": "من الممثل الذي جسّد «Deadpool»؟",
+          "answer_ar": "ريان رينولدز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-049",
+          "points": 200,
+          "question_ar": "ما اسم الفيلم الذي يضم شخصية «Maverick» الطيار؟",
+          "answer_ar": "Top Gun",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-200-050",
+          "points": 200,
+          "question_ar": "ما اسم المسلسل الذي يتابع فريق التحقيق في «Hawkins»؟",
+          "answer_ar": "Stranger Things",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-001",
+          "points": 400,
+          "question_ar": "فيلم خيال علمي 1999 بطلُه «Neo» وسؤاله الأشهر الحبة الزرقاء أم الحمراء؛ ما هو؟",
+          "answer_ar": "The Matrix",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-002",
+          "points": 400,
+          "question_ar": "مسلسل كوميدي بمقاهي نيويورك وشخصيات روس ورايتشل وتشاندلر؛ ما اسمه؟",
+          "answer_ar": "Friends",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-003",
+          "points": 400,
+          "question_ar": "فيلم 1994 من بطولة توم هانكس يتنقل عبر أحداث تاريخية أمريكية؛ ما هو؟",
+          "answer_ar": "Forrest Gump",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-004",
+          "points": 400,
+          "question_ar": "سلسلة أفلام تدور حول عميل MI6 يحمل الرقم 007؛ ما هي؟",
+          "answer_ar": "James Bond",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-005",
+          "points": 400,
+          "question_ar": "فيلم مغامرة عائلية من ديزني تدور أحداثه حول أسد صغير اسمه سيمبا؛ ما هو؟",
+          "answer_ar": "The Lion King",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-006",
+          "points": 400,
+          "question_ar": "مسلسل جريمة يبدأ في ألباكركي بشخصية Walter White؛ ما هو؟",
+          "answer_ar": "Breaking Bad",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-007",
+          "points": 400,
+          "question_ar": "فيلم أبطال خارقين 2008 يُعد انطلاق MCU الرسمي؛ ما هو؟",
+          "answer_ar": "Iron Man",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-008",
+          "points": 400,
+          "question_ar": "فيلم نولان 2010 يعتمد على اختراق الأحلام المتعددة؛ ما هو؟",
+          "answer_ar": "Inception",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-009",
+          "points": 400,
+          "question_ar": "مسلسل فانتازيا مبني على روايات جورج مارتن وعاصمته King’s Landing؛ ما هو؟",
+          "answer_ar": "Game of Thrones",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-010",
+          "points": 400,
+          "question_ar": "فيلم 1997 رومانسي على سفينة تاريخية غارقة؛ ما هو؟",
+          "answer_ar": "Titanic",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-011",
+          "points": 400,
+          "question_ar": "فيلم يتتبع رحلة الخاتم الواحد إلى جبل الهلاك؛ ما السلسلة؟",
+          "answer_ar": "The Lord of the Rings",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-012",
+          "points": 400,
+          "question_ar": "فيلم رسوم يبدأ بدمية راعي بقر ودمية فضاء تتنافسان؛ ما هو؟",
+          "answer_ar": "Toy Story",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-013",
+          "points": 400,
+          "question_ar": "مسلسل طبي طويل العمر تدور أحداثه في Seattle Grace؛ ما هو؟",
+          "answer_ar": "Grey's Anatomy",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-014",
+          "points": 400,
+          "question_ar": "فيلم يحكي قصة متسابقة قانونية ضد شركة تلوث مياه في كاليفورنيا؛ ما هو؟",
+          "answer_ar": "Erin Brockovich",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-015",
+          "points": 400,
+          "question_ar": "فيلم 2019 عن كوميدي يتحول إلى مجرم في مدينة غوثام؛ ما هو؟",
+          "answer_ar": "Joker",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-016",
+          "points": 400,
+          "question_ar": "سلسلة أكشن تبدأ بقاتل محترف بعد سرقة سيارته وقتل كلبه؛ ما هي؟",
+          "answer_ar": "John Wick",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-017",
+          "points": 400,
+          "question_ar": "فيلم موسيقي حديث في لوس أنجلوس عن طموح الحب والفن؛ ما هو؟",
+          "answer_ar": "La La Land",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-018",
+          "points": 400,
+          "question_ar": "فيلم يطارد فيه علماء الديناصورات في متنزه جزيرة؛ ما هو؟",
+          "answer_ar": "Jurassic Park",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-019",
+          "points": 400,
+          "question_ar": "مسلسل Netflix محدود عن عبقرية الشطرنج بيث هارمون؛ ما هو؟",
+          "answer_ar": "The Queen's Gambit",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-020",
+          "points": 400,
+          "question_ar": "سلسلة شبابية ديستوبية بطلتها كاتنيس إيفردين؛ ما هي؟",
+          "answer_ar": "The Hunger Games",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-021",
+          "points": 400,
+          "question_ar": "فيلم مارفل يجمع الأبطال لأول مرة ضد لوكي عام 2012؛ ما هو؟",
+          "answer_ar": "The Avengers",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-022",
+          "points": 400,
+          "question_ar": "مسلسل كوميدي مكتبي بنمط وثائقي مزيف وبطله مايكل سكوت؛ ما هو؟",
+          "answer_ar": "The Office",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-023",
+          "points": 400,
+          "question_ar": "فيلم ديزني يدور في مملكة أرنديل وتظهر فيه إلسا وآنا؛ ما هو؟",
+          "answer_ar": "Frozen",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-024",
+          "points": 400,
+          "question_ar": "فيلم جريمة شهير لتارانتينو يضم فينسنت وجولز؛ ما هو؟",
+          "answer_ar": "Pulp Fiction",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-025",
+          "points": 400,
+          "question_ar": "فيلم سجن شهير من التسعينيات يدور حول آندي دوفرين؛ ما هو؟",
+          "answer_ar": "The Shawshank Redemption",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-026",
+          "points": 400,
+          "question_ar": "سلسلة تجسس أكشن ببطولة توم كروز ووكالة IMF؛ ما هي؟",
+          "answer_ar": "Mission: Impossible",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-027",
+          "points": 400,
+          "question_ar": "فيلم فضائي بصري ضخم تدور أحداثه على كوكب باندورا؛ ما هو؟",
+          "answer_ar": "Avatar",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-028",
+          "points": 400,
+          "question_ar": "فيلم بطل ملاكمة من فيلادلفيا اسمه روكي بالبوا؛ ما هو؟",
+          "answer_ar": "Rocky",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-029",
+          "points": 400,
+          "question_ar": "فيلم 2022 يعيد شخصية الطيار مافريك بعد عقود؛ ما هو؟",
+          "answer_ar": "Top Gun: Maverick",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-030",
+          "points": 400,
+          "question_ar": "مسلسل خيال علمي يبدأ باختفاء طفل في بلدة Hawkins؛ ما هو؟",
+          "answer_ar": "Stranger Things",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-031",
+          "points": 400,
+          "question_ar": "سلسلة أفلام مغامرة أركيولوجية بقبعة وسوط؛ ما هي؟",
+          "answer_ar": "Indiana Jones",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-032",
+          "points": 400,
+          "question_ar": "فيلم Batman من 2008 يواجه فيه جوكرًا فوضويًا؛ ما هو؟",
+          "answer_ar": "The Dark Knight",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-033",
+          "points": 400,
+          "question_ar": "مسلسل درامي عن عائلة Roy وإمبراطورية إعلامية؛ ما هو؟",
+          "answer_ar": "Succession",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-034",
+          "points": 400,
+          "question_ar": "فيلم كوري فاز بأوسكار أفضل فيلم 2020 عن صراع طبقي؛ ما هو؟",
+          "answer_ar": "Parasite",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-035",
+          "points": 400,
+          "question_ar": "فيلم رعب عن دمية مسكونة ضمن عالم The Conjuring؛ ما هو؟",
+          "answer_ar": "Annabelle",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-036",
+          "points": 400,
+          "question_ar": "فيلم يروي قصة صعود Facebook من غرفة جامعة؛ ما هو؟",
+          "answer_ar": "The Social Network",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-037",
+          "points": 400,
+          "question_ar": "مسلسل محامين في نيويورك بشخصية Harvey Specter؛ ما هو؟",
+          "answer_ar": "Suits",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-038",
+          "points": 400,
+          "question_ar": "فيلم مارفل يتمحور حول الملك T’Challa وواكاندا؛ ما هو؟",
+          "answer_ar": "Black Panther",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-039",
+          "points": 400,
+          "question_ar": "مسلسل خيال علمي يستكشف متنزهًا للروبوتات في الغرب الأمريكي؛ ما هو؟",
+          "answer_ar": "Westworld",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-040",
+          "points": 400,
+          "question_ar": "فيلم جريمة عن عرّاب عائلة كورليوني من إخراج كوبولا؛ ما هو؟",
+          "answer_ar": "The Godfather",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-041",
+          "points": 400,
+          "question_ar": "مسلسل جريمة يدور في برمنغهام بعد الحرب العالمية الأولى؛ ما هو؟",
+          "answer_ar": "Peaky Blinders",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-042",
+          "points": 400,
+          "question_ar": "فيلم حرب من إخراج سبيلبرغ عن إنقاذ جندي واحد؛ ما هو؟",
+          "answer_ar": "Saving Private Ryan",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-043",
+          "points": 400,
+          "question_ar": "فيلم نولان عن رائد فضاء يعبر ثقبًا دوديًا بحثًا عن موطن جديد؛ ما هو؟",
+          "answer_ar": "Interstellar",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-044",
+          "points": 400,
+          "question_ar": "سلسلة أفلام عن ساحر شاب وخصمه فولدمورت؛ ما هي؟",
+          "answer_ar": "Harry Potter",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-045",
+          "points": 400,
+          "question_ar": "فيلم رسوم متحركة عن روبوت صغير ينظف الأرض المهجورة؛ ما هو؟",
+          "answer_ar": "WALL-E",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-046",
+          "points": 400,
+          "question_ar": "مسلسل أنثولوجيا تقني يحذر من آثار التكنولوجيا القريبة؛ ما هو؟",
+          "answer_ar": "Black Mirror",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-047",
+          "points": 400,
+          "question_ar": "فيلم رسوم من بيكسار عن مشاعر فتاة داخل عقلها؛ ما هو؟",
+          "answer_ar": "Inside Out",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-048",
+          "points": 400,
+          "question_ar": "سلسلة أفلام عن فريق سرقة سريع بقيادة دوم توريـتو؛ ما هي؟",
+          "answer_ar": "Fast & Furious",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-049",
+          "points": 400,
+          "question_ar": "مسلسل جريمة على نتفلكس عن قاتل متسلسل يعمل خبير دماء؛ ما هو؟",
+          "answer_ar": "Dexter",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-400-050",
+          "points": 400,
+          "question_ar": "فيلم ملحمي عن السفينة الرومانية والمنتقم ماكسيموس؛ ما هو؟",
+          "answer_ar": "Gladiator",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-001",
+          "points": 600,
+          "question_ar": "فيلم 1972 عن عائلة مافيا إيطالية-أمريكية، بطله دون فيتو كورليوني؛ ما هو؟",
+          "answer_ar": "The Godfather",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-002",
+          "points": 600,
+          "question_ar": "فيلم 1994 يرتكز على الأمل خلف أسوار سجن شاوشانك ومذكرات ريد؛ ما هو؟",
+          "answer_ar": "The Shawshank Redemption",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-003",
+          "points": 600,
+          "question_ar": "فيلم 2014 لنولان يجمع النسبية والسفر عبر ثقب دودي وشخصية Cooper؛ ما هو؟",
+          "answer_ar": "Interstellar",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-004",
+          "points": 600,
+          "question_ar": "سلسلة فانتازيا تبدأ بحجر الفيلسوف وتنتهي بـDeathly Hallows؛ ما هي؟",
+          "answer_ar": "Harry Potter",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-005",
+          "points": 600,
+          "question_ar": "فيلم جريمة غير خطي من 1994 يضم حقائب غامضة وحوارات مطولة؛ ما هو؟",
+          "answer_ar": "Pulp Fiction",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-006",
+          "points": 600,
+          "question_ar": "مسلسل درامي عن تصنيع الميثامفيتامين ينتهي في حلقة Felina؛ ما هو؟",
+          "answer_ar": "Breaking Bad",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-007",
+          "points": 600,
+          "question_ar": "فيلم أبطال خارقين 2008 يظهر فيه Joker بهيث ليدجر ويطرح فوضى أخلاقية؛ ما هو؟",
+          "answer_ar": "The Dark Knight",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-008",
+          "points": 600,
+          "question_ar": "مسلسل فانتازيا شهير انتهى في 2019 وشعاره Winter is Coming؛ ما هو؟",
+          "answer_ar": "Game of Thrones",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-009",
+          "points": 600,
+          "question_ar": "فيلم 1999 من إخراج واتشوفسكي يقدّم مفهوم المحاكاة الرقمية؛ ما هو؟",
+          "answer_ar": "The Matrix",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-010",
+          "points": 600,
+          "question_ar": "سلسلة أفلام تبدأ عام 1977 وتتمحور حول The Force؛ ما هي؟",
+          "answer_ar": "Star Wars",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-011",
+          "points": 600,
+          "question_ar": "فيلم 1997 جمع ديكابريو وكيت وينسلت على سفينة تاريخية؛ ما هو؟",
+          "answer_ar": "Titanic",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-012",
+          "points": 600,
+          "question_ar": "فيلم 2010 عن أحلام متداخلة وشخصية Cobb وفكرة الطوطم؛ ما هو؟",
+          "answer_ar": "Inception",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-013",
+          "points": 600,
+          "question_ar": "سلسلة ملحمية أُخرجت بين 2001-2003 ومبنية على أعمال تولكين؛ ما هي؟",
+          "answer_ar": "The Lord of the Rings",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-014",
+          "points": 600,
+          "question_ar": "فيلم كوري 2019 حصد أوسكار أفضل فيلم ويدور حول عائلتين مختلفتي الطبقة؛ ما هو؟",
+          "answer_ar": "Parasite",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-015",
+          "points": 600,
+          "question_ar": "مسلسل كوميدي مكانه الأساسي مكتب Dunder Mifflin في سكرانتون؛ ما هو؟",
+          "answer_ar": "The Office",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-016",
+          "points": 600,
+          "question_ar": "فيلم رسوم 1995 أطلق أول فيلم طويل بالكامل بالرسوم الحاسوبية من بيكسار؛ ما هو؟",
+          "answer_ar": "Toy Story",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-017",
+          "points": 600,
+          "question_ar": "سلسلة تجسس أكشن يقودها Ethan Hunt مع أقنعة وخدع عملياتية؛ ما هي؟",
+          "answer_ar": "Mission: Impossible",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-018",
+          "points": 600,
+          "question_ar": "فيلم بصري 2009 يدور على Pandora وقبيلة Na’vi؛ ما هو؟",
+          "answer_ar": "Avatar",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-019",
+          "points": 600,
+          "question_ar": "فيلم 1976 عن الملاكم روكي من فيلادلفيا وصعوده غير المتوقع؛ ما هو؟",
+          "answer_ar": "Rocky",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-020",
+          "points": 600,
+          "question_ar": "مسلسل Netflix يبدأ باختفاء Will Byers في Hawkins خلال الثمانينيات؛ ما هو؟",
+          "answer_ar": "Stranger Things",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-021",
+          "points": 600,
+          "question_ar": "فيلم Marvel 2018 جعل Wakanda مركزًا للسرد وحقق نجاحًا نقديًا؛ ما هو؟",
+          "answer_ar": "Black Panther",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-022",
+          "points": 600,
+          "question_ar": "فيلم 2016 موسيقي حديث يدور حول Mia وSebastian في لوس أنجلوس؛ ما هو؟",
+          "answer_ar": "La La Land",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-023",
+          "points": 600,
+          "question_ar": "فيلم تاريخي حربي 1998 يفتتح بمشهد إنزال النورماندي؛ ما هو؟",
+          "answer_ar": "Saving Private Ryan",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-024",
+          "points": 600,
+          "question_ar": "سلسلة أفلام تقودها Katniss ضد نظام Capitol الديستوبي؛ ما هي؟",
+          "answer_ar": "The Hunger Games",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-025",
+          "points": 600,
+          "question_ar": "فيلم 2010 يروي تأسيس شبكة اجتماعية بجامعة هارفارد؛ ما هو؟",
+          "answer_ar": "The Social Network",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-026",
+          "points": 600,
+          "question_ar": "مسلسل محدود 2020 عن الشطرنج والإدمان والموهبة؛ ما هو؟",
+          "answer_ar": "The Queen's Gambit",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-027",
+          "points": 600,
+          "question_ar": "فيلم رسوم 2008 عن روبوت وحيد على أرض مهجورة يلتقي EVE؛ ما هو؟",
+          "answer_ar": "WALL-E",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-028",
+          "points": 600,
+          "question_ar": "مسلسل أنثولوجيا بريطاني يعرض عواقب تقنية قاتمة في كل حلقة؛ ما هو؟",
+          "answer_ar": "Black Mirror",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-029",
+          "points": 600,
+          "question_ar": "فيلم 2000 عن ماكسيموس والانتقام في الكولوسيوم؛ ما هو؟",
+          "answer_ar": "Gladiator",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-030",
+          "points": 600,
+          "question_ar": "مسلسل دراما شركات إعلامية عن Logan Roy وأبنائه؛ ما هو؟",
+          "answer_ar": "Succession",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-031",
+          "points": 600,
+          "question_ar": "فيلم 1981 يفتتح مطاردة الصخرة وكنزًا أثريًا مع عالم آثار مغامر؛ ما هو؟",
+          "answer_ar": "Raiders of the Lost Ark",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-032",
+          "points": 600,
+          "question_ar": "سلسلة أفلام أكشن يقودها Dominic Toretto وشعارها العائلة؛ ما هي؟",
+          "answer_ar": "Fast & Furious",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-033",
+          "points": 600,
+          "question_ar": "فيلم 2019 يقدّم تحول Arthur Fleck إلى Joker خارج عالم DCEU التقليدي؛ ما هو؟",
+          "answer_ar": "Joker",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-034",
+          "points": 600,
+          "question_ar": "مسلسل جريمة نفسي بطلُه Dexter Morgan يعمل محلل دماء؛ ما هو؟",
+          "answer_ar": "Dexter",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-035",
+          "points": 600,
+          "question_ar": "فيلم 1993 يعرض مدينة ملاهٍ ديناصورات تفلت فيها السيطرة؛ ما هو؟",
+          "answer_ar": "Jurassic Park",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-036",
+          "points": 600,
+          "question_ar": "فيلم 1939 ملوّن شهير يبدأ في كانساس وينتقل إلى أرض Oz؛ ما هو؟",
+          "answer_ar": "The Wizard of Oz",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-037",
+          "points": 600,
+          "question_ar": "فيلم 1942 رومانسي حربي يدور في المغرب ويضم Rick وIlsa؛ ما هو؟",
+          "answer_ar": "Casablanca",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-038",
+          "points": 600,
+          "question_ar": "فيلم 1975 لسبيلبرغ عن قرش يهاجم شاطئًا سياحيًا؛ ما هو؟",
+          "answer_ar": "Jaws",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-039",
+          "points": 600,
+          "question_ar": "فيلم 1968 خيال علمي فلسفي يضم HAL 9000؛ ما هو؟",
+          "answer_ar": "2001: A Space Odyssey",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-040",
+          "points": 600,
+          "question_ar": "فيلم 1991 رعب نفسي ببطلة اسمها Clarice Starling؛ ما هو؟",
+          "answer_ar": "The Silence of the Lambs",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Academy of Motion Picture Arts and Sciences",
+              "type": "official",
+              "reference": "Oscars and film records"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-041",
+          "points": 600,
+          "question_ar": "فيلم 1998 كوميدي درامي عن حياة رجل داخل برنامج تلفزيوني دون علمه؛ ما هو؟",
+          "answer_ar": "The Truman Show",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-042",
+          "points": 600,
+          "question_ar": "فيلم 1985 عن السفر عبر الزمن بسيارة DeLorean؛ ما هو؟",
+          "answer_ar": "Back to the Future",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-043",
+          "points": 600,
+          "question_ar": "فيلم 1982 نوار خيال علمي عن صائدي Replicants؛ ما هو؟",
+          "answer_ar": "Blade Runner",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-044",
+          "points": 600,
+          "question_ar": "فيلم 1986 عن مشاة بحرية في مواجهة مخلوقات فضائية، تكملة لـAlien؛ ما هو؟",
+          "answer_ar": "Aliens",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-045",
+          "points": 600,
+          "question_ar": "فيلم 1999 عن نادي قتال سري وشخصية Tyler Durden؛ ما هو؟",
+          "answer_ar": "Fight Club",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-046",
+          "points": 600,
+          "question_ar": "فيلم 1977 يعرّف روكي بالبوا يسبقه؟ لا، يعرّف Luke وLeia وDarth Vader؛ ما هو؟",
+          "answer_ar": "Star Wars: A New Hope",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-047",
+          "points": 600,
+          "question_ar": "مسلسل 2004-2010 عن ناجين على جزيرة بعد تحطم طائرة؛ ما هو؟",
+          "answer_ar": "Lost",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "Television Academy",
+              "type": "official",
+              "reference": "Emmy records and series references"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-048",
+          "points": 600,
+          "question_ar": "فيلم 2006 عن ساحرَين متنافسَين في لندن الفيكتورية لنولان؛ ما هو؟",
+          "answer_ar": "The Prestige",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-049",
+          "points": 600,
+          "question_ar": "فيلم 2008 من Pixar عن مشاعر أرملة وبيت يطير بالبالونات؛ ما هو؟",
+          "answer_ar": "Up",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT06-600-050",
+          "points": 600,
+          "question_ar": "فيلم 2015 عن مهمة على المريخ لإنقاذ رائد فضاء؛ ما هو؟",
+          "answer_ar": "The Martian",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "film and television entries"
+            },
+            {
+              "title": "IMDb",
+              "type": "reputable_media",
+              "reference": "mainstream film and TV reference pages"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

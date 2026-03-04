@@ -1,0 +1,2524 @@
+{
+  "batch": "Category 20 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "السيارات والمحركات (شركات، موديلات أيقونية، سباقات)",
+      "name_en": "Cars & Motors",
+      "questions": [
+        {
+          "id": "CAT20-200-001",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي سيارة تاريخية ارتبطت بتعميم الإنتاج على خط التجميع؟",
+          "answer_ar": "فورد موديل تي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-002",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي سيارة تاريخية ارتبطت بتعميم الإنتاج على خط التجميع؟",
+          "answer_ar": "فورد موديل تي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-003",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي سيارة سيدان/هاتشباك من الأكثر مبيعًا عالميًا تاريخيًا؟",
+          "answer_ar": "تويوتا كورولا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-004",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي سيارة سيدان/هاتشباك من الأكثر مبيعًا عالميًا تاريخيًا؟",
+          "answer_ar": "تويوتا كورولا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-005",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي سيارة أيقونية ألمانية بتصميم دائري كلاسيكي؟",
+          "answer_ar": "فولكسفاغن بيتل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-006",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي سيارة أيقونية ألمانية بتصميم دائري كلاسيكي؟",
+          "answer_ar": "فولكسفاغن بيتل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-007",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي سيارة رياضية ألمانية بمحرك خلفي تقليدي؟",
+          "answer_ar": "بورشه 911",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-008",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي سيارة رياضية ألمانية بمحرك خلفي تقليدي؟",
+          "answer_ar": "بورشه 911",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-009",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي علامة سيارات رياضية إيطالية مرتبطة بحصان جامح؟",
+          "answer_ar": "فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-010",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي علامة سيارات رياضية إيطالية مرتبطة بحصان جامح؟",
+          "answer_ar": "فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-011",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي علامة سيارات خارقة إيطالية بتصاميم حادة؟",
+          "answer_ar": "لامبورغيني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-012",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي علامة سيارات خارقة إيطالية بتصاميم حادة؟",
+          "answer_ar": "لامبورغيني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-013",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي شركة سيارات كهربائية أمريكية بارزة؟",
+          "answer_ar": "تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-014",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي شركة سيارات كهربائية أمريكية بارزة؟",
+          "answer_ar": "تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-015",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي علامة ألمانية فاخرة بشعار النجمة الثلاثية؟",
+          "answer_ar": "مرسيدس بنز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-016",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي علامة ألمانية فاخرة بشعار النجمة الثلاثية؟",
+          "answer_ar": "مرسيدس بنز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-017",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي علامة ألمانية فاخرة تركز على متعة القيادة؟",
+          "answer_ar": "بي إم دبليو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-018",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي علامة ألمانية فاخرة تركز على متعة القيادة؟",
+          "answer_ar": "بي إم دبليو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-019",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي علامة سيارات فاخرة جدًا؟",
+          "answer_ar": "رولز رويس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-020",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي علامة سيارات فاخرة جدًا؟",
+          "answer_ar": "رولز رويس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-021",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي سيارة شهيرة بقدرات الطرق الوعرة؟",
+          "answer_ar": "جيب رانجلر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-022",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي سيارة شهيرة بقدرات الطرق الوعرة؟",
+          "answer_ar": "جيب رانجلر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-023",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي سيارة بريطانية مرتبطة بالطرق الوعرة؟",
+          "answer_ar": "لاند روفر ديفندر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-024",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي سيارة بريطانية مرتبطة بالطرق الوعرة؟",
+          "answer_ar": "لاند روفر ديفندر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-025",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي سيارة أمريكية أيقونية ضمن فئة muscle car؟",
+          "answer_ar": "فورد موستانغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-026",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي سيارة أمريكية أيقونية ضمن فئة muscle car؟",
+          "answer_ar": "فورد موستانغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-027",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي سيارة اشتهرت بانتشار تقنية الهايبرد؟",
+          "answer_ar": "تويوتا بريوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-028",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي سيارة اشتهرت بانتشار تقنية الهايبرد؟",
+          "answer_ar": "تويوتا بريوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-029",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي فئة سباقات سيارات أحادية المقعد الأعلى شهرة عالميًا؟",
+          "answer_ar": "فورمولا 1",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-030",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي فئة سباقات سيارات أحادية المقعد الأعلى شهرة عالميًا؟",
+          "answer_ar": "فورمولا 1",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-031",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو سباق تحمّل سيارات يقام في فرنسا؟",
+          "answer_ar": "سباق لومان 24 ساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-032",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو سباق تحمّل سيارات يقام في فرنسا؟",
+          "answer_ar": "سباق لومان 24 ساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-033",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو سباق أمريكي شهير يقام في إنديانابوليس؟",
+          "answer_ar": "إندي 500",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-034",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو سباق أمريكي شهير يقام في إنديانابوليس؟",
+          "answer_ar": "إندي 500",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-035",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو سباق راليات تحمّل طويل عبر تضاريس قاسية؟",
+          "answer_ar": "رالي داكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-036",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو سباق راليات تحمّل طويل عبر تضاريس قاسية؟",
+          "answer_ar": "رالي داكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-037",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي بطولة سباقات أمريكية بسيارات stock car؟",
+          "answer_ar": "ناسكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-038",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي بطولة سباقات أمريكية بسيارات stock car؟",
+          "answer_ar": "ناسكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-039",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو سائق بريطاني يملك رقمًا قياسيًا مشتركًا في ألقاب F1 حتى 2026؟",
+          "answer_ar": "لويس هاميلتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-040",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو سائق بريطاني يملك رقمًا قياسيًا مشتركًا في ألقاب F1 حتى 2026؟",
+          "answer_ar": "لويس هاميلتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-041",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو سائق ألماني أسطوري في الفورمولا 1؟",
+          "answer_ar": "مايكل شوماخر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-042",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو سائق ألماني أسطوري في الفورمولا 1؟",
+          "answer_ar": "مايكل شوماخر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-043",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو سائق برازيلي أسطوري في الفورمولا 1؟",
+          "answer_ar": "آيرتون سينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-044",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو سائق برازيلي أسطوري في الفورمولا 1؟",
+          "answer_ar": "آيرتون سينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-045",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو مؤسس علامة Ferrari في عالم السيارات؟",
+          "answer_ar": "إنزو فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-046",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو مؤسس علامة Ferrari في عالم السيارات؟",
+          "answer_ar": "إنزو فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-047",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو صناعي أمريكي ارتبط بخط الإنتاج المتحرك للسيارات؟",
+          "answer_ar": "هنري فورد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-048",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو صناعي أمريكي ارتبط بخط الإنتاج المتحرك للسيارات؟",
+          "answer_ar": "هنري فورد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-049",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو الجهة الدولية المنظمة لرياضة السيارات الكبرى؟",
+          "answer_ar": "الاتحاد الدولي للسيارات",
+          "acceptable_answers_ar": [
+            "FIA"
+          ],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-200-050",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو الجهة الدولية المنظمة لرياضة السيارات الكبرى؟",
+          "answer_ar": "الاتحاد الدولي للسيارات",
+          "acceptable_answers_ar": [
+            "FIA"
+          ],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-001",
+          "points": 400,
+          "question_ar": "دلـيل: أطلقتها Ford في بدايات القرن العشرين وغيرت صناعة السيارات. ما الإجابة؟",
+          "answer_ar": "فورد موديل تي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-002",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «أطلقتها Ford في بدايات القرن العشرين وغيرت صناعة السيارات»، ما الاسم الصحيح؟",
+          "answer_ar": "فورد موديل تي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-003",
+          "points": 400,
+          "question_ar": "دلـيل: ترتبط بالاعتمادية والانتشار الواسع في أسواق كثيرة. ما الإجابة؟",
+          "answer_ar": "تويوتا كورولا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-004",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ترتبط بالاعتمادية والانتشار الواسع في أسواق كثيرة»، ما الاسم الصحيح؟",
+          "answer_ar": "تويوتا كورولا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-005",
+          "points": 400,
+          "question_ar": "دلـيل: تعد من أشهر سيارات القرن العشرين شعبية. ما الإجابة؟",
+          "answer_ar": "فولكسفاغن بيتل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-006",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تعد من أشهر سيارات القرن العشرين شعبية»، ما الاسم الصحيح؟",
+          "answer_ar": "فولكسفاغن بيتل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-007",
+          "points": 400,
+          "question_ar": "دلـيل: اشتهرت باستمرارية التصميم عبر أجيال متعددة. ما الإجابة؟",
+          "answer_ar": "بورشه 911",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-008",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «اشتهرت باستمرارية التصميم عبر أجيال متعددة»، ما الاسم الصحيح؟",
+          "answer_ar": "بورشه 911",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-009",
+          "points": 400,
+          "question_ar": "دلـيل: ترتبط تاريخيًا بسباقات الفورمولا 1. ما الإجابة؟",
+          "answer_ar": "فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-010",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ترتبط تاريخيًا بسباقات الفورمولا 1»، ما الاسم الصحيح؟",
+          "answer_ar": "فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-011",
+          "points": 400,
+          "question_ar": "دلـيل: تشتهر بأبواب مقصية في بعض الطرازات. ما الإجابة؟",
+          "answer_ar": "لامبورغيني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-012",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تشتهر بأبواب مقصية في بعض الطرازات»، ما الاسم الصحيح؟",
+          "answer_ar": "لامبورغيني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-013",
+          "points": 400,
+          "question_ar": "دلـيل: لعبت دورًا كبيرًا في انتشار المركبات الكهربائية الحديثة. ما الإجابة؟",
+          "answer_ar": "تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-014",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «لعبت دورًا كبيرًا في انتشار المركبات الكهربائية الحديثة»، ما الاسم الصحيح؟",
+          "answer_ar": "تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-015",
+          "points": 400,
+          "question_ar": "دلـيل: معروفة بمزيج الفخامة والتقنيات المتقدمة. ما الإجابة؟",
+          "answer_ar": "مرسيدس بنز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-016",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «معروفة بمزيج الفخامة والتقنيات المتقدمة»، ما الاسم الصحيح؟",
+          "answer_ar": "مرسيدس بنز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-017",
+          "points": 400,
+          "question_ar": "دلـيل: شعارها دائري أزرق وأبيض. ما الإجابة؟",
+          "answer_ar": "بي إم دبليو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-018",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «شعارها دائري أزرق وأبيض»، ما الاسم الصحيح؟",
+          "answer_ar": "بي إم دبليو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-019",
+          "points": 400,
+          "question_ar": "دلـيل: ترتبط بالتصنيع اليدوي والهدوء العالي داخل المقصورة. ما الإجابة؟",
+          "answer_ar": "رولز رويس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-020",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ترتبط بالتصنيع اليدوي والهدوء العالي داخل المقصورة»، ما الاسم الصحيح؟",
+          "answer_ar": "رولز رويس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-021",
+          "points": 400,
+          "question_ar": "دلـيل: تتميز بتصميم صندوقي وأبواب وسقف قابلين للإزالة في بعض النسخ. ما الإجابة؟",
+          "answer_ar": "جيب رانجلر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-022",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تتميز بتصميم صندوقي وأبواب وسقف قابلين للإزالة في بعض النسخ»، ما الاسم الصحيح؟",
+          "answer_ar": "جيب رانجلر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-023",
+          "points": 400,
+          "question_ar": "دلـيل: تشتهر بالتحمل والاستخدام في البيئات الصعبة. ما الإجابة؟",
+          "answer_ar": "لاند روفر ديفندر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-024",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تشتهر بالتحمل والاستخدام في البيئات الصعبة»، ما الاسم الصحيح؟",
+          "answer_ar": "لاند روفر ديفندر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-025",
+          "points": 400,
+          "question_ar": "دلـيل: ظهرت في الستينيات وأصبحت رمزًا ثقافيًا للسيارات الأمريكية. ما الإجابة؟",
+          "answer_ar": "فورد موستانغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-026",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ظهرت في الستينيات وأصبحت رمزًا ثقافيًا للسيارات الأمريكية»، ما الاسم الصحيح؟",
+          "answer_ar": "فورد موستانغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-027",
+          "points": 400,
+          "question_ar": "دلـيل: ارتبطت بمفهوم الكفاءة في استهلاك الوقود. ما الإجابة؟",
+          "answer_ar": "تويوتا بريوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-028",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ارتبطت بمفهوم الكفاءة في استهلاك الوقود»، ما الاسم الصحيح؟",
+          "answer_ar": "تويوتا بريوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-029",
+          "points": 400,
+          "question_ar": "دلـيل: تنظمها FIA وتشمل بطولتي سائقين وصانعين. ما الإجابة؟",
+          "answer_ar": "فورمولا 1",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-030",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تنظمها FIA وتشمل بطولتي سائقين وصانعين»، ما الاسم الصحيح؟",
+          "answer_ar": "فورمولا 1",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-031",
+          "points": 400,
+          "question_ar": "دلـيل: يشتهر بالاستمرار 24 ساعة واختبار الاعتمادية والسرعة. ما الإجابة؟",
+          "answer_ar": "سباق لومان 24 ساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-032",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يشتهر بالاستمرار 24 ساعة واختبار الاعتمادية والسرعة»، ما الاسم الصحيح؟",
+          "answer_ar": "سباق لومان 24 ساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-033",
+          "points": 400,
+          "question_ar": "دلـيل: يعد من أهم سباقات IndyCar التقليدية. ما الإجابة؟",
+          "answer_ar": "إندي 500",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-034",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يعد من أهم سباقات IndyCar التقليدية»، ما الاسم الصحيح؟",
+          "answer_ar": "إندي 500",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-035",
+          "points": 400,
+          "question_ar": "دلـيل: يركز على الملاحة والقدرة على التحمل أكثر من سرعة الحلبة. ما الإجابة؟",
+          "answer_ar": "رالي داكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-036",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يركز على الملاحة والقدرة على التحمل أكثر من سرعة الحلبة»، ما الاسم الصحيح؟",
+          "answer_ar": "رالي داكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-037",
+          "points": 400,
+          "question_ar": "دلـيل: تشتهر بحلبات بيضاوية وجماهيرية كبيرة في الولايات المتحدة. ما الإجابة؟",
+          "answer_ar": "ناسكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-038",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تشتهر بحلبات بيضاوية وجماهيرية كبيرة في الولايات المتحدة»، ما الاسم الصحيح؟",
+          "answer_ar": "ناسكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-039",
+          "points": 400,
+          "question_ar": "دلـيل: حقق إنجازات كبيرة مع فريق مرسيدس. ما الإجابة؟",
+          "answer_ar": "لويس هاميلتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-040",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «حقق إنجازات كبيرة مع فريق مرسيدس»، ما الاسم الصحيح؟",
+          "answer_ar": "لويس هاميلتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-041",
+          "points": 400,
+          "question_ar": "دلـيل: يتشارك الرقم القياسي لبطولات العالم حتى 2026. ما الإجابة؟",
+          "answer_ar": "مايكل شوماخر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-042",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يتشارك الرقم القياسي لبطولات العالم حتى 2026»، ما الاسم الصحيح؟",
+          "answer_ar": "مايكل شوماخر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-043",
+          "points": 400,
+          "question_ar": "دلـيل: اشتهر بسرعته الفائقة في التجارب التأهيلية. ما الإجابة؟",
+          "answer_ar": "آيرتون سينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-044",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «اشتهر بسرعته الفائقة في التجارب التأهيلية»، ما الاسم الصحيح؟",
+          "answer_ar": "آيرتون سينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-045",
+          "points": 400,
+          "question_ar": "دلـيل: بدأ بفريق سباق قبل أن تصبح العلامة مصنع سيارات خارقة. ما الإجابة؟",
+          "answer_ar": "إنزو فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-046",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «بدأ بفريق سباق قبل أن تصبح العلامة مصنع سيارات خارقة»، ما الاسم الصحيح؟",
+          "answer_ar": "إنزو فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-047",
+          "points": 400,
+          "question_ar": "دلـيل: أسس Ford وغير اقتصاد صناعة المركبات. ما الإجابة؟",
+          "answer_ar": "هنري فورد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-048",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «أسس Ford وغير اقتصاد صناعة المركبات»، ما الاسم الصحيح؟",
+          "answer_ar": "هنري فورد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-049",
+          "points": 400,
+          "question_ar": "دلـيل: يعرف اختصارًا بـ FIA ويشرف على قوانين بطولات عدة. ما الإجابة؟",
+          "answer_ar": "الاتحاد الدولي للسيارات",
+          "acceptable_answers_ar": [
+            "FIA"
+          ],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-400-050",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يعرف اختصارًا بـ FIA ويشرف على قوانين بطولات عدة»، ما الاسم الصحيح؟",
+          "answer_ar": "الاتحاد الدولي للسيارات",
+          "acceptable_answers_ar": [
+            "FIA"
+          ],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIA",
+              "type": "official",
+              "reference": "motorsport rules and championship references"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-001",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي سيارة تاريخية ارتبطت بتعميم الإنتاج على خط التجميع. 2) أطلقتها Ford في بدايات القرن العشرين وغيرت صناعة السيارات. ما الجواب؟",
+          "answer_ar": "فورد موديل تي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-002",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي سيارة تاريخية ارتبطت بتعميم الإنتاج على خط التجميع، وكذلك أطلقتها Ford في بدايات القرن العشرين وغيرت صناعة السيارات؟",
+          "answer_ar": "فورد موديل تي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-003",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي سيارة سيدان/هاتشباك من الأكثر مبيعًا عالميًا تاريخيًا. 2) ترتبط بالاعتمادية والانتشار الواسع في أسواق كثيرة. ما الجواب؟",
+          "answer_ar": "تويوتا كورولا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-004",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي سيارة سيدان/هاتشباك من الأكثر مبيعًا عالميًا تاريخيًا، وكذلك ترتبط بالاعتمادية والانتشار الواسع في أسواق كثيرة؟",
+          "answer_ar": "تويوتا كورولا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-005",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي سيارة أيقونية ألمانية بتصميم دائري كلاسيكي. 2) تعد من أشهر سيارات القرن العشرين شعبية. ما الجواب؟",
+          "answer_ar": "فولكسفاغن بيتل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-006",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي سيارة أيقونية ألمانية بتصميم دائري كلاسيكي، وكذلك تعد من أشهر سيارات القرن العشرين شعبية؟",
+          "answer_ar": "فولكسفاغن بيتل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-007",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي سيارة رياضية ألمانية بمحرك خلفي تقليدي. 2) اشتهرت باستمرارية التصميم عبر أجيال متعددة. ما الجواب؟",
+          "answer_ar": "بورشه 911",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-008",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي سيارة رياضية ألمانية بمحرك خلفي تقليدي، وكذلك اشتهرت باستمرارية التصميم عبر أجيال متعددة؟",
+          "answer_ar": "بورشه 911",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-009",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي علامة سيارات رياضية إيطالية مرتبطة بحصان جامح. 2) ترتبط تاريخيًا بسباقات الفورمولا 1. ما الجواب؟",
+          "answer_ar": "فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-010",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي علامة سيارات رياضية إيطالية مرتبطة بحصان جامح، وكذلك ترتبط تاريخيًا بسباقات الفورمولا 1؟",
+          "answer_ar": "فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-011",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي علامة سيارات خارقة إيطالية بتصاميم حادة. 2) تشتهر بأبواب مقصية في بعض الطرازات. ما الجواب؟",
+          "answer_ar": "لامبورغيني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-012",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي علامة سيارات خارقة إيطالية بتصاميم حادة، وكذلك تشتهر بأبواب مقصية في بعض الطرازات؟",
+          "answer_ar": "لامبورغيني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-013",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي شركة سيارات كهربائية أمريكية بارزة. 2) لعبت دورًا كبيرًا في انتشار المركبات الكهربائية الحديثة. ما الجواب؟",
+          "answer_ar": "تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-014",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي شركة سيارات كهربائية أمريكية بارزة، وكذلك لعبت دورًا كبيرًا في انتشار المركبات الكهربائية الحديثة؟",
+          "answer_ar": "تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-015",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي علامة ألمانية فاخرة بشعار النجمة الثلاثية. 2) معروفة بمزيج الفخامة والتقنيات المتقدمة. ما الجواب؟",
+          "answer_ar": "مرسيدس بنز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-016",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي علامة ألمانية فاخرة بشعار النجمة الثلاثية، وكذلك معروفة بمزيج الفخامة والتقنيات المتقدمة؟",
+          "answer_ar": "مرسيدس بنز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-017",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي علامة ألمانية فاخرة تركز على متعة القيادة. 2) شعارها دائري أزرق وأبيض. ما الجواب؟",
+          "answer_ar": "بي إم دبليو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-018",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي علامة ألمانية فاخرة تركز على متعة القيادة، وكذلك شعارها دائري أزرق وأبيض؟",
+          "answer_ar": "بي إم دبليو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-019",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي علامة سيارات فاخرة جدًا. 2) ترتبط بالتصنيع اليدوي والهدوء العالي داخل المقصورة. ما الجواب؟",
+          "answer_ar": "رولز رويس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-020",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي علامة سيارات فاخرة جدًا، وكذلك ترتبط بالتصنيع اليدوي والهدوء العالي داخل المقصورة؟",
+          "answer_ar": "رولز رويس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-021",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي سيارة شهيرة بقدرات الطرق الوعرة. 2) تتميز بتصميم صندوقي وأبواب وسقف قابلين للإزالة في بعض النسخ. ما الجواب؟",
+          "answer_ar": "جيب رانجلر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-022",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي سيارة شهيرة بقدرات الطرق الوعرة، وكذلك تتميز بتصميم صندوقي وأبواب وسقف قابلين للإزالة في بعض النسخ؟",
+          "answer_ar": "جيب رانجلر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-023",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي سيارة بريطانية مرتبطة بالطرق الوعرة. 2) تشتهر بالتحمل والاستخدام في البيئات الصعبة. ما الجواب؟",
+          "answer_ar": "لاند روفر ديفندر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-024",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي سيارة بريطانية مرتبطة بالطرق الوعرة، وكذلك تشتهر بالتحمل والاستخدام في البيئات الصعبة؟",
+          "answer_ar": "لاند روفر ديفندر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-025",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي سيارة أمريكية أيقونية ضمن فئة muscle car. 2) ظهرت في الستينيات وأصبحت رمزًا ثقافيًا للسيارات الأمريكية. ما الجواب؟",
+          "answer_ar": "فورد موستانغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-026",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي سيارة أمريكية أيقونية ضمن فئة muscle car، وكذلك ظهرت في الستينيات وأصبحت رمزًا ثقافيًا للسيارات الأمريكية؟",
+          "answer_ar": "فورد موستانغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-027",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي سيارة اشتهرت بانتشار تقنية الهايبرد. 2) ارتبطت بمفهوم الكفاءة في استهلاك الوقود. ما الجواب؟",
+          "answer_ar": "تويوتا بريوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-028",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي سيارة اشتهرت بانتشار تقنية الهايبرد، وكذلك ارتبطت بمفهوم الكفاءة في استهلاك الوقود؟",
+          "answer_ar": "تويوتا بريوس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-029",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي فئة سباقات سيارات أحادية المقعد الأعلى شهرة عالميًا. 2) تنظمها FIA وتشمل بطولتي سائقين وصانعين. ما الجواب؟",
+          "answer_ar": "فورمولا 1",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-030",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي فئة سباقات سيارات أحادية المقعد الأعلى شهرة عالميًا، وكذلك تنظمها FIA وتشمل بطولتي سائقين وصانعين؟",
+          "answer_ar": "فورمولا 1",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-031",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو سباق تحمّل سيارات يقام في فرنسا. 2) يشتهر بالاستمرار 24 ساعة واختبار الاعتمادية والسرعة. ما الجواب؟",
+          "answer_ar": "سباق لومان 24 ساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-032",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو سباق تحمّل سيارات يقام في فرنسا، وكذلك يشتهر بالاستمرار 24 ساعة واختبار الاعتمادية والسرعة؟",
+          "answer_ar": "سباق لومان 24 ساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-033",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو سباق أمريكي شهير يقام في إنديانابوليس. 2) يعد من أهم سباقات IndyCar التقليدية. ما الجواب؟",
+          "answer_ar": "إندي 500",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-034",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو سباق أمريكي شهير يقام في إنديانابوليس، وكذلك يعد من أهم سباقات IndyCar التقليدية؟",
+          "answer_ar": "إندي 500",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-035",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو سباق راليات تحمّل طويل عبر تضاريس قاسية. 2) يركز على الملاحة والقدرة على التحمل أكثر من سرعة الحلبة. ما الجواب؟",
+          "answer_ar": "رالي داكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-036",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو سباق راليات تحمّل طويل عبر تضاريس قاسية، وكذلك يركز على الملاحة والقدرة على التحمل أكثر من سرعة الحلبة؟",
+          "answer_ar": "رالي داكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-037",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي بطولة سباقات أمريكية بسيارات stock car. 2) تشتهر بحلبات بيضاوية وجماهيرية كبيرة في الولايات المتحدة. ما الجواب؟",
+          "answer_ar": "ناسكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-038",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي بطولة سباقات أمريكية بسيارات stock car، وكذلك تشتهر بحلبات بيضاوية وجماهيرية كبيرة في الولايات المتحدة؟",
+          "answer_ar": "ناسكار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-039",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو سائق بريطاني يملك رقمًا قياسيًا مشتركًا في ألقاب F1 حتى 2026. 2) حقق إنجازات كبيرة مع فريق مرسيدس. ما الجواب؟",
+          "answer_ar": "لويس هاميلتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-040",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو سائق بريطاني يملك رقمًا قياسيًا مشتركًا في ألقاب F1 حتى 2026، وكذلك حقق إنجازات كبيرة مع فريق مرسيدس؟",
+          "answer_ar": "لويس هاميلتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-041",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو سائق ألماني أسطوري في الفورمولا 1. 2) يتشارك الرقم القياسي لبطولات العالم حتى 2026. ما الجواب؟",
+          "answer_ar": "مايكل شوماخر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-042",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو سائق ألماني أسطوري في الفورمولا 1، وكذلك يتشارك الرقم القياسي لبطولات العالم حتى 2026؟",
+          "answer_ar": "مايكل شوماخر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-043",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو سائق برازيلي أسطوري في الفورمولا 1. 2) اشتهر بسرعته الفائقة في التجارب التأهيلية. ما الجواب؟",
+          "answer_ar": "آيرتون سينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-044",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو سائق برازيلي أسطوري في الفورمولا 1، وكذلك اشتهر بسرعته الفائقة في التجارب التأهيلية؟",
+          "answer_ar": "آيرتون سينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-045",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مؤسس علامة Ferrari في عالم السيارات. 2) بدأ بفريق سباق قبل أن تصبح العلامة مصنع سيارات خارقة. ما الجواب؟",
+          "answer_ar": "إنزو فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-046",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مؤسس علامة Ferrari في عالم السيارات، وكذلك بدأ بفريق سباق قبل أن تصبح العلامة مصنع سيارات خارقة؟",
+          "answer_ar": "إنزو فيراري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-047",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو صناعي أمريكي ارتبط بخط الإنتاج المتحرك للسيارات. 2) أسس Ford وغير اقتصاد صناعة المركبات. ما الجواب؟",
+          "answer_ar": "هنري فورد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-048",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو صناعي أمريكي ارتبط بخط الإنتاج المتحرك للسيارات، وكذلك أسس Ford وغير اقتصاد صناعة المركبات؟",
+          "answer_ar": "هنري فورد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-049",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو الجهة الدولية المنظمة لرياضة السيارات الكبرى. 2) يعرف اختصارًا بـ FIA ويشرف على قوانين بطولات عدة. ما الجواب؟",
+          "answer_ar": "الاتحاد الدولي للسيارات",
+          "acceptable_answers_ar": [
+            "FIA"
+          ],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        },
+        {
+          "id": "CAT20-600-050",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو الجهة الدولية المنظمة لرياضة السيارات الكبرى، وكذلك يعرف اختصارًا بـ FIA ويشرف على قوانين بطولات عدة؟",
+          "answer_ar": "الاتحاد الدولي للسيارات",
+          "acceptable_answers_ar": [
+            "FIA"
+          ],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "automotive and motorsport entries"
+            },
+            {
+              "title": "Formula 1",
+              "type": "official",
+              "reference": "teams, drivers, and F1 historical records"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

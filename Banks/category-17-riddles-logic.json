@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 17 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "ألغاز ومنطق (تفكير سريع)",
+      "name_en": "Riddles & Logic",
+      "questions": [
+        {
+          "id": "CAT17-200-001",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يرافقك نهارًا ويختفي غالبًا في الظلام؟",
+          "answer_ar": "الظل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-002",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يرافقك نهارًا ويختفي غالبًا في الظلام؟",
+          "answer_ar": "الظل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-003",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يمكن كسره بكلمة واحدة لكنه ليس جسمًا؟",
+          "answer_ar": "الصمت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-004",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يمكن كسره بكلمة واحدة لكنه ليس جسمًا؟",
+          "answer_ar": "الصمت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-005",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي كلما أخذت منها كبرت؟",
+          "answer_ar": "الحفرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-006",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا كلما أخذت منها كبرت؟",
+          "answer_ar": "الحفرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-007",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي له أسنان لكنه لا يعض؟",
+          "answer_ar": "المشط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-008",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا له أسنان لكنه لا يعض؟",
+          "answer_ar": "المشط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-009",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي لها عين لكنها لا ترى؟",
+          "answer_ar": "الإبرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-010",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا لها عين لكنها لا ترى؟",
+          "answer_ar": "الإبرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-011",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي تعكس وجهك لكنها لا تتذكره؟",
+          "answer_ar": "المرآة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-012",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا تعكس وجهك لكنها لا تتذكره؟",
+          "answer_ar": "المرآة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-013",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي تحتوي مدنًا وحدودًا بلا سكان حقيقيين؟",
+          "answer_ar": "الخريطة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-014",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا تحتوي مدنًا وحدودًا بلا سكان حقيقيين؟",
+          "answer_ar": "الخريطة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-015",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي لها عقارب لكنها لا تلسع؟",
+          "answer_ar": "الساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-016",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا لها عقارب لكنها لا تلسع؟",
+          "answer_ar": "الساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-017",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي تذوب لتمنح الضوء؟",
+          "answer_ar": "الشمعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-018",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا تذوب لتمنح الضوء؟",
+          "answer_ar": "الشمعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-019",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي ماء متجمد يذوب بالحرارة؟",
+          "answer_ar": "الثلج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-020",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا ماء متجمد يذوب بالحرارة؟",
+          "answer_ar": "الثلج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-021",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يرتفع لأعلى ولا يمكن مسكه باليد؟",
+          "answer_ar": "الدخان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-022",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يرتفع لأعلى ولا يمكن مسكه باليد؟",
+          "answer_ar": "الدخان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-023",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي لا تُرى بالعين مباشرة لكن تُحس؟",
+          "answer_ar": "الريح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-024",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا لا تُرى بالعين مباشرة لكن تُحس؟",
+          "answer_ar": "الريح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-025",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يغلق بلا لسان ويتطلب أداة خاصة للفتح؟",
+          "answer_ar": "القفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-026",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يغلق بلا لسان ويتطلب أداة خاصة للفتح؟",
+          "answer_ar": "القفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-027",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يفتح لكنه لا يدخل إلا إذا طابق الشكل؟",
+          "answer_ar": "المفتاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-028",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يفتح لكنه لا يدخل إلا إذا طابق الشكل؟",
+          "answer_ar": "المفتاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-029",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يخصك ويستخدمه الناس أكثر منك؟",
+          "answer_ar": "الاسم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-030",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يخصك ويستخدمه الناس أكثر منك؟",
+          "answer_ar": "الاسم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-031",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يزداد كل سنة ولا ينقص؟",
+          "answer_ar": "العمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-032",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يزداد كل سنة ولا ينقص؟",
+          "answer_ar": "العمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-033",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي إذا رحل لا يعود كما كان؟",
+          "answer_ar": "اليوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-034",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا إذا رحل لا يعود كما كان؟",
+          "answer_ar": "اليوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-035",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي لا يأتي أبدًا إذا سُئلت عنه الآن؟",
+          "answer_ar": "الغد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-036",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا لا يأتي أبدًا إذا سُئلت عنه الآن؟",
+          "answer_ar": "الغد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-037",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي مضى ولن يعود؟",
+          "answer_ar": "الأمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-038",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا مضى ولن يعود؟",
+          "answer_ar": "الأمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-039",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي رقم لا يساوي شيئًا لكنه يغيّر القيم بالمكان؟",
+          "answer_ar": "الصفر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-040",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا رقم لا يساوي شيئًا لكنه يغيّر القيم بالمكان؟",
+          "answer_ar": "الصفر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-041",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يمر بسرعة عند المتعة وببطء عند الانتظار؟",
+          "answer_ar": "الوقت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-042",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يمر بسرعة عند المتعة وببطء عند الانتظار؟",
+          "answer_ar": "الوقت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-043",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو ترتيب متكرر يساعد على توقع التالي؟",
+          "answer_ar": "النمط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-044",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو ترتيب متكرر يساعد على توقع التالي؟",
+          "answer_ar": "النمط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-045",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو نتيجة منطقية مبنية على مقدمات؟",
+          "answer_ar": "الاستنتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-046",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو نتيجة منطقية مبنية على مقدمات؟",
+          "answer_ar": "الاستنتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-047",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي يقيس فرصة وقوع حدث بين 0 و1؟",
+          "answer_ar": "الاحتمال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-048",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا يقيس فرصة وقوع حدث بين 0 و1؟",
+          "answer_ar": "الاحتمال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-049",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو اجتماع قولين لا يمكن أن يكونا صحيحين معًا؟",
+          "answer_ar": "التناقض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-200-050",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو اجتماع قولين لا يمكن أن يكونا صحيحين معًا؟",
+          "answer_ar": "التناقض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-001",
+          "points": 400,
+          "question_ar": "دلـيل: يتغير طوله حسب موقع الضوء. ما الإجابة؟",
+          "answer_ar": "الظل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-002",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يتغير طوله حسب موقع الضوء»، ما الاسم الصحيح؟",
+          "answer_ar": "الظل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-003",
+          "points": 400,
+          "question_ar": "دلـيل: يزول فور بدء الحديث. ما الإجابة؟",
+          "answer_ar": "الصمت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-004",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يزول فور بدء الحديث»، ما الاسم الصحيح؟",
+          "answer_ar": "الصمت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-005",
+          "points": 400,
+          "question_ar": "دلـيل: تتسع كلما أزلت مزيدًا من التراب. ما الإجابة؟",
+          "answer_ar": "الحفرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-006",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تتسع كلما أزلت مزيدًا من التراب»، ما الاسم الصحيح؟",
+          "answer_ar": "الحفرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-007",
+          "points": 400,
+          "question_ar": "دلـيل: يستخدم لترتيب الشعر لا للطعام. ما الإجابة؟",
+          "answer_ar": "المشط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-008",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يستخدم لترتيب الشعر لا للطعام»، ما الاسم الصحيح؟",
+          "answer_ar": "المشط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-009",
+          "points": 400,
+          "question_ar": "دلـيل: تمرر الخيط عبر ثقب صغير في أعلاها. ما الإجابة؟",
+          "answer_ar": "الإبرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-010",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تمرر الخيط عبر ثقب صغير في أعلاها»، ما الاسم الصحيح؟",
+          "answer_ar": "الإبرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-011",
+          "points": 400,
+          "question_ar": "دلـيل: تظهر صورتك فور الوقوف أمامها. ما الإجابة؟",
+          "answer_ar": "المرآة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-012",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تظهر صورتك فور الوقوف أمامها»، ما الاسم الصحيح؟",
+          "answer_ar": "المرآة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-013",
+          "points": 400,
+          "question_ar": "دلـيل: تساعدك على الاتجاه دون أن تتحرك. ما الإجابة؟",
+          "answer_ar": "الخريطة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-014",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تساعدك على الاتجاه دون أن تتحرك»، ما الاسم الصحيح؟",
+          "answer_ar": "الخريطة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-015",
+          "points": 400,
+          "question_ar": "دلـيل: تقيس الوقت بحركة منتظمة. ما الإجابة؟",
+          "answer_ar": "الساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-016",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تقيس الوقت بحركة منتظمة»، ما الاسم الصحيح؟",
+          "answer_ar": "الساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-017",
+          "points": 400,
+          "question_ar": "دلـيل: يقل حجمها كلما خدمتك أكثر. ما الإجابة؟",
+          "answer_ar": "الشمعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-018",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يقل حجمها كلما خدمتك أكثر»، ما الاسم الصحيح؟",
+          "answer_ar": "الشمعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-019",
+          "points": 400,
+          "question_ar": "دلـيل: يتحول إلى سائل عند ارتفاع درجة الحرارة. ما الإجابة؟",
+          "answer_ar": "الثلج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-020",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يتحول إلى سائل عند ارتفاع درجة الحرارة»، ما الاسم الصحيح؟",
+          "answer_ar": "الثلج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-021",
+          "points": 400,
+          "question_ar": "دلـيل: ينتج غالبًا عن احتراق. ما الإجابة؟",
+          "answer_ar": "الدخان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-022",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ينتج غالبًا عن احتراق»، ما الاسم الصحيح؟",
+          "answer_ar": "الدخان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-023",
+          "points": 400,
+          "question_ar": "دلـيل: تُحرك الأوراق والأعلام دون أن تُمسك. ما الإجابة؟",
+          "answer_ar": "الريح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-024",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تُحرك الأوراق والأعلام دون أن تُمسك»، ما الاسم الصحيح؟",
+          "answer_ar": "الريح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-025",
+          "points": 400,
+          "question_ar": "دلـيل: يحمي الأبواب والصناديق. ما الإجابة؟",
+          "answer_ar": "القفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-026",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يحمي الأبواب والصناديق»، ما الاسم الصحيح؟",
+          "answer_ar": "القفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-027",
+          "points": 400,
+          "question_ar": "دلـيل: قطعة معدنية صغيرة تحل مشكلة الإغلاق. ما الإجابة؟",
+          "answer_ar": "المفتاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-028",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «قطعة معدنية صغيرة تحل مشكلة الإغلاق»، ما الاسم الصحيح؟",
+          "answer_ar": "المفتاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-029",
+          "points": 400,
+          "question_ar": "دلـيل: تعرف به في المدرسة والعمل. ما الإجابة؟",
+          "answer_ar": "الاسم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-030",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «تعرف به في المدرسة والعمل»، ما الاسم الصحيح؟",
+          "answer_ar": "الاسم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-031",
+          "points": 400,
+          "question_ar": "دلـيل: لا تستطيع إيقافه مهما حاولت. ما الإجابة؟",
+          "answer_ar": "العمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-032",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «لا تستطيع إيقافه مهما حاولت»، ما الاسم الصحيح؟",
+          "answer_ar": "العمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-033",
+          "points": 400,
+          "question_ar": "دلـيل: هو المدة بين ليلتين متتاليتين تقريبًا. ما الإجابة؟",
+          "answer_ar": "اليوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-034",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «هو المدة بين ليلتين متتاليتين تقريبًا»، ما الاسم الصحيح؟",
+          "answer_ar": "اليوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-035",
+          "points": 400,
+          "question_ar": "دلـيل: يبقى في المستقبل حتى يتحول إلى «اليوم». ما الإجابة؟",
+          "answer_ar": "الغد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-036",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يبقى في المستقبل حتى يتحول إلى «اليوم»»، ما الاسم الصحيح؟",
+          "answer_ar": "الغد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-037",
+          "points": 400,
+          "question_ar": "دلـيل: هو اليوم الذي يسبق يومك الحالي. ما الإجابة؟",
+          "answer_ar": "الأمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-038",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «هو اليوم الذي يسبق يومك الحالي»، ما الاسم الصحيح؟",
+          "answer_ar": "الأمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-039",
+          "points": 400,
+          "question_ar": "دلـيل: وجوده يمين العدد يضاعف قيمته العشرية. ما الإجابة؟",
+          "answer_ar": "الصفر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-040",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «وجوده يمين العدد يضاعف قيمته العشرية»، ما الاسم الصحيح؟",
+          "answer_ar": "الصفر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-041",
+          "points": 400,
+          "question_ar": "دلـيل: لا يمكن تخزينه أو شراؤه فعليًا. ما الإجابة؟",
+          "answer_ar": "الوقت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-042",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «لا يمكن تخزينه أو شراؤه فعليًا»، ما الاسم الصحيح؟",
+          "answer_ar": "الوقت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-043",
+          "points": 400,
+          "question_ar": "دلـيل: يستخدم في أسئلة السلاسل المنطقية. ما الإجابة؟",
+          "answer_ar": "النمط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-044",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يستخدم في أسئلة السلاسل المنطقية»، ما الاسم الصحيح؟",
+          "answer_ar": "النمط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-045",
+          "points": 400,
+          "question_ar": "دلـيل: يستخدم للوصول إلى جواب دون معلومات مباشرة. ما الإجابة؟",
+          "answer_ar": "الاستنتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-046",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يستخدم للوصول إلى جواب دون معلومات مباشرة»، ما الاسم الصحيح؟",
+          "answer_ar": "الاستنتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-047",
+          "points": 400,
+          "question_ar": "دلـيل: يستخدم في التوقع لا في اليقين التام. ما الإجابة؟",
+          "answer_ar": "الاحتمال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-048",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يستخدم في التوقع لا في اليقين التام»، ما الاسم الصحيح؟",
+          "answer_ar": "الاحتمال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-049",
+          "points": 400,
+          "question_ar": "دلـيل: يظهر عند تضارب الشروط المنطقية. ما الإجابة؟",
+          "answer_ar": "التناقض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-400-050",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يظهر عند تضارب الشروط المنطقية»، ما الاسم الصحيح؟",
+          "answer_ar": "التناقض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "logic concepts and definitions"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-001",
+          "points": 600,
+          "question_ar": "دلائل: 1) يرافقك نهارًا ويختفي غالبًا في الظلام. 2) يتغير طوله حسب موقع الضوء. ما الجواب؟",
+          "answer_ar": "الظل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-002",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يرافقك نهارًا ويختفي غالبًا في الظلام، وكذلك يتغير طوله حسب موقع الضوء؟",
+          "answer_ar": "الظل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-003",
+          "points": 600,
+          "question_ar": "دلائل: 1) يمكن كسره بكلمة واحدة لكنه ليس جسمًا. 2) يزول فور بدء الحديث. ما الجواب؟",
+          "answer_ar": "الصمت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-004",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يمكن كسره بكلمة واحدة لكنه ليس جسمًا، وكذلك يزول فور بدء الحديث؟",
+          "answer_ar": "الصمت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-005",
+          "points": 600,
+          "question_ar": "دلائل: 1) كلما أخذت منها كبرت. 2) تتسع كلما أزلت مزيدًا من التراب. ما الجواب؟",
+          "answer_ar": "الحفرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-006",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه كلما أخذت منها كبرت، وكذلك تتسع كلما أزلت مزيدًا من التراب؟",
+          "answer_ar": "الحفرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-007",
+          "points": 600,
+          "question_ar": "دلائل: 1) له أسنان لكنه لا يعض. 2) يستخدم لترتيب الشعر لا للطعام. ما الجواب؟",
+          "answer_ar": "المشط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-008",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه له أسنان لكنه لا يعض، وكذلك يستخدم لترتيب الشعر لا للطعام؟",
+          "answer_ar": "المشط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-009",
+          "points": 600,
+          "question_ar": "دلائل: 1) لها عين لكنها لا ترى. 2) تمرر الخيط عبر ثقب صغير في أعلاها. ما الجواب؟",
+          "answer_ar": "الإبرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-010",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه لها عين لكنها لا ترى، وكذلك تمرر الخيط عبر ثقب صغير في أعلاها؟",
+          "answer_ar": "الإبرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-011",
+          "points": 600,
+          "question_ar": "دلائل: 1) تعكس وجهك لكنها لا تتذكره. 2) تظهر صورتك فور الوقوف أمامها. ما الجواب؟",
+          "answer_ar": "المرآة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-012",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه تعكس وجهك لكنها لا تتذكره، وكذلك تظهر صورتك فور الوقوف أمامها؟",
+          "answer_ar": "المرآة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-013",
+          "points": 600,
+          "question_ar": "دلائل: 1) تحتوي مدنًا وحدودًا بلا سكان حقيقيين. 2) تساعدك على الاتجاه دون أن تتحرك. ما الجواب؟",
+          "answer_ar": "الخريطة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-014",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه تحتوي مدنًا وحدودًا بلا سكان حقيقيين، وكذلك تساعدك على الاتجاه دون أن تتحرك؟",
+          "answer_ar": "الخريطة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-015",
+          "points": 600,
+          "question_ar": "دلائل: 1) لها عقارب لكنها لا تلسع. 2) تقيس الوقت بحركة منتظمة. ما الجواب؟",
+          "answer_ar": "الساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-016",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه لها عقارب لكنها لا تلسع، وكذلك تقيس الوقت بحركة منتظمة؟",
+          "answer_ar": "الساعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-017",
+          "points": 600,
+          "question_ar": "دلائل: 1) تذوب لتمنح الضوء. 2) يقل حجمها كلما خدمتك أكثر. ما الجواب؟",
+          "answer_ar": "الشمعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-018",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه تذوب لتمنح الضوء، وكذلك يقل حجمها كلما خدمتك أكثر؟",
+          "answer_ar": "الشمعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-019",
+          "points": 600,
+          "question_ar": "دلائل: 1) ماء متجمد يذوب بالحرارة. 2) يتحول إلى سائل عند ارتفاع درجة الحرارة. ما الجواب؟",
+          "answer_ar": "الثلج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-020",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه ماء متجمد يذوب بالحرارة، وكذلك يتحول إلى سائل عند ارتفاع درجة الحرارة؟",
+          "answer_ar": "الثلج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-021",
+          "points": 600,
+          "question_ar": "دلائل: 1) يرتفع لأعلى ولا يمكن مسكه باليد. 2) ينتج غالبًا عن احتراق. ما الجواب؟",
+          "answer_ar": "الدخان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-022",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يرتفع لأعلى ولا يمكن مسكه باليد، وكذلك ينتج غالبًا عن احتراق؟",
+          "answer_ar": "الدخان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-023",
+          "points": 600,
+          "question_ar": "دلائل: 1) لا تُرى بالعين مباشرة لكن تُحس. 2) تُحرك الأوراق والأعلام دون أن تُمسك. ما الجواب؟",
+          "answer_ar": "الريح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-024",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه لا تُرى بالعين مباشرة لكن تُحس، وكذلك تُحرك الأوراق والأعلام دون أن تُمسك؟",
+          "answer_ar": "الريح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-025",
+          "points": 600,
+          "question_ar": "دلائل: 1) يغلق بلا لسان ويتطلب أداة خاصة للفتح. 2) يحمي الأبواب والصناديق. ما الجواب؟",
+          "answer_ar": "القفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-026",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يغلق بلا لسان ويتطلب أداة خاصة للفتح، وكذلك يحمي الأبواب والصناديق؟",
+          "answer_ar": "القفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-027",
+          "points": 600,
+          "question_ar": "دلائل: 1) يفتح لكنه لا يدخل إلا إذا طابق الشكل. 2) قطعة معدنية صغيرة تحل مشكلة الإغلاق. ما الجواب؟",
+          "answer_ar": "المفتاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-028",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يفتح لكنه لا يدخل إلا إذا طابق الشكل، وكذلك قطعة معدنية صغيرة تحل مشكلة الإغلاق؟",
+          "answer_ar": "المفتاح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-029",
+          "points": 600,
+          "question_ar": "دلائل: 1) يخصك ويستخدمه الناس أكثر منك. 2) تعرف به في المدرسة والعمل. ما الجواب؟",
+          "answer_ar": "الاسم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-030",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يخصك ويستخدمه الناس أكثر منك، وكذلك تعرف به في المدرسة والعمل؟",
+          "answer_ar": "الاسم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-031",
+          "points": 600,
+          "question_ar": "دلائل: 1) يزداد كل سنة ولا ينقص. 2) لا تستطيع إيقافه مهما حاولت. ما الجواب؟",
+          "answer_ar": "العمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-032",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يزداد كل سنة ولا ينقص، وكذلك لا تستطيع إيقافه مهما حاولت؟",
+          "answer_ar": "العمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-033",
+          "points": 600,
+          "question_ar": "دلائل: 1) إذا رحل لا يعود كما كان. 2) هو المدة بين ليلتين متتاليتين تقريبًا. ما الجواب؟",
+          "answer_ar": "اليوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-034",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه إذا رحل لا يعود كما كان، وكذلك هو المدة بين ليلتين متتاليتين تقريبًا؟",
+          "answer_ar": "اليوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-035",
+          "points": 600,
+          "question_ar": "دلائل: 1) لا يأتي أبدًا إذا سُئلت عنه الآن. 2) يبقى في المستقبل حتى يتحول إلى «اليوم». ما الجواب؟",
+          "answer_ar": "الغد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-036",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه لا يأتي أبدًا إذا سُئلت عنه الآن، وكذلك يبقى في المستقبل حتى يتحول إلى «اليوم»؟",
+          "answer_ar": "الغد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-037",
+          "points": 600,
+          "question_ar": "دلائل: 1) مضى ولن يعود. 2) هو اليوم الذي يسبق يومك الحالي. ما الجواب؟",
+          "answer_ar": "الأمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-038",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه مضى ولن يعود، وكذلك هو اليوم الذي يسبق يومك الحالي؟",
+          "answer_ar": "الأمس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-039",
+          "points": 600,
+          "question_ar": "دلائل: 1) رقم لا يساوي شيئًا لكنه يغيّر القيم بالمكان. 2) وجوده يمين العدد يضاعف قيمته العشرية. ما الجواب؟",
+          "answer_ar": "الصفر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-040",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه رقم لا يساوي شيئًا لكنه يغيّر القيم بالمكان، وكذلك وجوده يمين العدد يضاعف قيمته العشرية؟",
+          "answer_ar": "الصفر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-041",
+          "points": 600,
+          "question_ar": "دلائل: 1) يمر بسرعة عند المتعة وببطء عند الانتظار. 2) لا يمكن تخزينه أو شراؤه فعليًا. ما الجواب؟",
+          "answer_ar": "الوقت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-042",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يمر بسرعة عند المتعة وببطء عند الانتظار، وكذلك لا يمكن تخزينه أو شراؤه فعليًا؟",
+          "answer_ar": "الوقت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-043",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو ترتيب متكرر يساعد على توقع التالي. 2) يستخدم في أسئلة السلاسل المنطقية. ما الجواب؟",
+          "answer_ar": "النمط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-044",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو ترتيب متكرر يساعد على توقع التالي، وكذلك يستخدم في أسئلة السلاسل المنطقية؟",
+          "answer_ar": "النمط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-045",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو نتيجة منطقية مبنية على مقدمات. 2) يستخدم للوصول إلى جواب دون معلومات مباشرة. ما الجواب؟",
+          "answer_ar": "الاستنتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-046",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو نتيجة منطقية مبنية على مقدمات، وكذلك يستخدم للوصول إلى جواب دون معلومات مباشرة؟",
+          "answer_ar": "الاستنتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-047",
+          "points": 600,
+          "question_ar": "دلائل: 1) يقيس فرصة وقوع حدث بين 0 و1. 2) يستخدم في التوقع لا في اليقين التام. ما الجواب؟",
+          "answer_ar": "الاحتمال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-048",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه يقيس فرصة وقوع حدث بين 0 و1، وكذلك يستخدم في التوقع لا في اليقين التام؟",
+          "answer_ar": "الاحتمال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-049",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو اجتماع قولين لا يمكن أن يكونا صحيحين معًا. 2) يظهر عند تضارب الشروط المنطقية. ما الجواب؟",
+          "answer_ar": "التناقض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        },
+        {
+          "id": "CAT17-600-050",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو اجتماع قولين لا يمكن أن يكونا صحيحين معًا، وكذلك يظهر عند تضارب الشروط المنطقية؟",
+          "answer_ar": "التناقض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "University of Cambridge NRICH",
+              "type": "university",
+              "reference": "logic and puzzle-based reasoning resources"
+            },
+            {
+              "title": "MIT OpenCourseWare",
+              "type": "university",
+              "reference": "introductory logic and reasoning materials"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

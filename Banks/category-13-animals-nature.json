@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 13 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "الحيوانات والطبيعة (بيئات، غرائب، معلومات ممتعة)",
+      "name_en": "Animals & Nature",
+      "questions": [
+        {
+          "id": "CAT13-200-001",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو أكبر حيوان معروف عاش على الأرض؟",
+          "answer_ar": "الحوت الأزرق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-002",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو أكبر حيوان معروف عاش على الأرض؟",
+          "answer_ar": "الحوت الأزرق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-003",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو أكبر حيوان بري حي؟",
+          "answer_ar": "الفيل الأفريقي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-004",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو أكبر حيوان بري حي؟",
+          "answer_ar": "الفيل الأفريقي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-005",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي أطول حيوان بري حي؟",
+          "answer_ar": "الزرافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-006",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي أطول حيوان بري حي؟",
+          "answer_ar": "الزرافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-007",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو أسرع حيوان بري في العدو القصير؟",
+          "answer_ar": "الفهد الصياد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-008",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو أسرع حيوان بري في العدو القصير؟",
+          "answer_ar": "الفهد الصياد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-009",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو جرابي شهير يرتبط بأستراليا؟",
+          "answer_ar": "الكنغر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-010",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو جرابي شهير يرتبط بأستراليا؟",
+          "answer_ar": "الكنغر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-011",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي دب يتغذى بكثرة على الخيزران؟",
+          "answer_ar": "الباندا العملاقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-012",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي دب يتغذى بكثرة على الخيزران؟",
+          "answer_ar": "الباندا العملاقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-013",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو دب يعيش في مناطق القطب الشمالي؟",
+          "answer_ar": "الدب القطبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-014",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو دب يعيش في مناطق القطب الشمالي؟",
+          "answer_ar": "الدب القطبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-015",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو حيوان صحراوي يتحمل العطش طويلًا؟",
+          "answer_ar": "الجمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-016",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو حيوان صحراوي يتحمل العطش طويلًا؟",
+          "answer_ar": "الجمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-017",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو الثديي الوحيد القادر على الطيران الحقيقي؟",
+          "answer_ar": "الخفاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-018",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو الثديي الوحيد القادر على الطيران الحقيقي؟",
+          "answer_ar": "الخفاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-019",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو أكبر أنواع البطاريق؟",
+          "answer_ar": "البطريق الإمبراطور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-020",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو أكبر أنواع البطاريق؟",
+          "answer_ar": "البطريق الإمبراطور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-021",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو رخوي بحري ذو ثمانية أذرع؟",
+          "answer_ar": "الأخطبوط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-022",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو رخوي بحري ذو ثمانية أذرع؟",
+          "answer_ar": "الأخطبوط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-023",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي حشرة ملقحة أساسية للزراعة؟",
+          "answer_ar": "النحلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-024",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي حشرة ملقحة أساسية للزراعة؟",
+          "answer_ar": "النحلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-025",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طائر جارح ذو بصر حاد جدًا؟",
+          "answer_ar": "النسر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-026",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طائر جارح ذو بصر حاد جدًا؟",
+          "answer_ar": "النسر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-027",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي طائر ليلي معروف بصمت الطيران نسبيًا؟",
+          "answer_ar": "البومة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-028",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي طائر ليلي معروف بصمت الطيران نسبيًا؟",
+          "answer_ar": "البومة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-029",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو ثديي بحري اجتماعي وذكي؟",
+          "answer_ar": "الدولفين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-030",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو ثديي بحري اجتماعي وذكي؟",
+          "answer_ar": "الدولفين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-031",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو مفترس بحري كبير في السلاسل الغذائية؟",
+          "answer_ar": "القرش الأبيض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-032",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو مفترس بحري كبير في السلاسل الغذائية؟",
+          "answer_ar": "القرش الأبيض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-033",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو برمائي يبدأ حياته غالبًا كشرغوف؟",
+          "answer_ar": "الضفدع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-034",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو برمائي يبدأ حياته غالبًا كشرغوف؟",
+          "answer_ar": "الضفدع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-035",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو زاحف شبه مائي قوي الفك؟",
+          "answer_ar": "التمساح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-036",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو زاحف شبه مائي قوي الفك؟",
+          "answer_ar": "التمساح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-037",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هي زاحف بحري يهاجر مسافات طويلة؟",
+          "answer_ar": "السلحفاة البحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-038",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هي زاحف بحري يهاجر مسافات طويلة؟",
+          "answer_ar": "السلحفاة البحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-039",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو حشرة اجتماعية تعيش في مستعمرات؟",
+          "answer_ar": "النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-040",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو حشرة اجتماعية تعيش في مستعمرات؟",
+          "answer_ar": "النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-041",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو ثديي مفترس يعيش غالبًا في جماعات؟",
+          "answer_ar": "الذئب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-042",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو ثديي مفترس يعيش غالبًا في جماعات؟",
+          "answer_ar": "الذئب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-043",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو جرابي أسترالي يتغذى على أوراق الأوكالبتوس؟",
+          "answer_ar": "الكوالا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-044",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو جرابي أسترالي يتغذى على أوراق الأوكالبتوس؟",
+          "answer_ar": "الكوالا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-045",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو طائر صغير قادر على الرفرفة السريعة جدًا؟",
+          "answer_ar": "طائر الطنان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-046",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو طائر صغير قادر على الرفرفة السريعة جدًا؟",
+          "answer_ar": "طائر الطنان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-047",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو ثديي ضخم يتميز بقرن أو قرنين؟",
+          "answer_ar": "وحيد القرن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-048",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو ثديي ضخم يتميز بقرن أو قرنين؟",
+          "answer_ar": "وحيد القرن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-049",
+          "points": 200,
+          "question_ar": "ما المصطلح أو الاسم الذي هو كائن بحري صغير ينتصب عموديًا في السباحة؟",
+          "answer_ar": "فرس البحر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-200-050",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تصف شيئًا هو كائن بحري صغير ينتصب عموديًا في السباحة؟",
+          "answer_ar": "فرس البحر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-001",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: ثديي بحري عملاق يتغذى أساسًا على الكريل. ما هو؟",
+          "answer_ar": "الحوت الأزرق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-002",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ثديي بحري عملاق يتغذى أساسًا على الكريل»، ما الإجابة الأدق؟",
+          "answer_ar": "الحوت الأزرق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-003",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يتميز بآذان كبيرة وأنياب ويعيش في أفريقيا. ما هو؟",
+          "answer_ar": "الفيل الأفريقي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-004",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يتميز بآذان كبيرة وأنياب ويعيش في أفريقيا»، ما الإجابة الأدق؟",
+          "answer_ar": "الفيل الأفريقي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-005",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تملك عنقًا طويلًا جدًا ولسانًا طويلًا لالتقاط الأوراق. ما هو؟",
+          "answer_ar": "الزرافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-006",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تملك عنقًا طويلًا جدًا ولسانًا طويلًا لالتقاط الأوراق»، ما الإجابة الأدق؟",
+          "answer_ar": "الزرافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-007",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يستطيع بلوغ سرعات عالية جدًا في المطاردة. ما هو؟",
+          "answer_ar": "الفهد الصياد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-008",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يستطيع بلوغ سرعات عالية جدًا في المطاردة»، ما الإجابة الأدق؟",
+          "answer_ar": "الفهد الصياد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-009",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يتحرك بالقفز ويحمل الصغير في جراب. ما هو؟",
+          "answer_ar": "الكنغر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-010",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يتحرك بالقفز ويحمل الصغير في جراب»، ما الإجابة الأدق؟",
+          "answer_ar": "الكنغر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-011",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: ترتبط بالصين وتعد رمزًا للحفاظ على الحياة البرية. ما هو؟",
+          "answer_ar": "الباندا العملاقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-012",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ترتبط بالصين وتعد رمزًا للحفاظ على الحياة البرية»، ما الإجابة الأدق؟",
+          "answer_ar": "الباندا العملاقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-013",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يعتمد على الجليد البحري في الصيد والتنقل. ما هو؟",
+          "answer_ar": "الدب القطبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-014",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يعتمد على الجليد البحري في الصيد والتنقل»، ما الإجابة الأدق؟",
+          "answer_ar": "الدب القطبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-015",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يخزن الدهون في السنام ويتكيف مع البيئات الجافة. ما هو؟",
+          "answer_ar": "الجمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-016",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يخزن الدهون في السنام ويتكيف مع البيئات الجافة»، ما الإجابة الأدق؟",
+          "answer_ar": "الجمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-017",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يعتمد كثير من أنواعه على تحديد الموقع بالصدى. ما هو؟",
+          "answer_ar": "الخفاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-018",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يعتمد كثير من أنواعه على تحديد الموقع بالصدى»، ما الإجابة الأدق؟",
+          "answer_ar": "الخفاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-019",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يعيش في القارة القطبية الجنوبية ويتكاثر في ظروف شديدة البرودة. ما هو؟",
+          "answer_ar": "البطريق الإمبراطور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-020",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يعيش في القارة القطبية الجنوبية ويتكاثر في ظروف شديدة البرودة»، ما الإجابة الأدق؟",
+          "answer_ar": "البطريق الإمبراطور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-021",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يتميز بذكاء عالٍ وقدرة على التمويه وتغيير اللون. ما هو؟",
+          "answer_ar": "الأخطبوط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-022",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يتميز بذكاء عالٍ وقدرة على التمويه وتغيير اللون»، ما الإجابة الأدق؟",
+          "answer_ar": "الأخطبوط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-023",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تنتج العسل وتعيش في مستعمرات منظمة. ما هو؟",
+          "answer_ar": "النحلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-024",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تنتج العسل وتعيش في مستعمرات منظمة»، ما الإجابة الأدق؟",
+          "answer_ar": "النحلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-025",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يحلق عاليًا ويصطاد أو يتغذى على الجيف حسب النوع. ما هو؟",
+          "answer_ar": "النسر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-026",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يحلق عاليًا ويصطاد أو يتغذى على الجيف حسب النوع»، ما الإجابة الأدق؟",
+          "answer_ar": "النسر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-027",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: لها عيون أمامية وقدرة جيدة على الرؤية الليلية. ما هو؟",
+          "answer_ar": "البومة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-028",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «لها عيون أمامية وقدرة جيدة على الرؤية الليلية»، ما الإجابة الأدق؟",
+          "answer_ar": "البومة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-029",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يتواصل بأصوات ويستخدم الصدى للملاحة. ما هو؟",
+          "answer_ar": "الدولفين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-030",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يتواصل بأصوات ويستخدم الصدى للملاحة»، ما الإجابة الأدق؟",
+          "answer_ar": "الدولفين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-031",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يمتلك حاسة شم قوية وأسنانًا متجددة. ما هو؟",
+          "answer_ar": "القرش الأبيض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-032",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يمتلك حاسة شم قوية وأسنانًا متجددة»، ما الإجابة الأدق؟",
+          "answer_ar": "القرش الأبيض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-033",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يعيش بين الماء واليابسة حسب المرحلة والنوع. ما هو؟",
+          "answer_ar": "الضفدع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-034",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يعيش بين الماء واليابسة حسب المرحلة والنوع»، ما الإجابة الأدق؟",
+          "answer_ar": "الضفدع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-035",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يعيش في الأنهار والبحيرات ويفضل المياه الدافئة. ما هو؟",
+          "answer_ar": "التمساح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-036",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يعيش في الأنهار والبحيرات ويفضل المياه الدافئة»، ما الإجابة الأدق؟",
+          "answer_ar": "التمساح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-037",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: تضع بيضها على الشواطئ رغم عيشها في البحر. ما هو؟",
+          "answer_ar": "السلحفاة البحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-038",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تضع بيضها على الشواطئ رغم عيشها في البحر»، ما الإجابة الأدق؟",
+          "answer_ar": "السلحفاة البحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-039",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يتعاون أفراده في العمل وبناء الأعشاش وجمع الغذاء. ما هو؟",
+          "answer_ar": "النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-040",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يتعاون أفراده في العمل وبناء الأعشاش وجمع الغذاء»، ما الإجابة الأدق؟",
+          "answer_ar": "النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-041",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يرتبط ببنية قطيع وتواصل صوتي مثل العواء. ما هو؟",
+          "answer_ar": "الذئب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-042",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يرتبط ببنية قطيع وتواصل صوتي مثل العواء»، ما الإجابة الأدق؟",
+          "answer_ar": "الذئب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-043",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يقضي وقتًا طويلًا في الأشجار والنوم. ما هو؟",
+          "answer_ar": "الكوالا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-044",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يقضي وقتًا طويلًا في الأشجار والنوم»، ما الإجابة الأدق؟",
+          "answer_ar": "الكوالا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-045",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: يستطيع الثبات في الهواء ويتغذى على رحيق الأزهار. ما هو؟",
+          "answer_ar": "طائر الطنان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-046",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «يستطيع الثبات في الهواء ويتغذى على رحيق الأزهار»، ما الإجابة الأدق؟",
+          "answer_ar": "طائر الطنان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-047",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: مهدد بسبب الصيد غير القانوني وفقدان الموائل. ما هو؟",
+          "answer_ar": "وحيد القرن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-048",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «مهدد بسبب الصيد غير القانوني وفقدان الموائل»، ما الإجابة الأدق؟",
+          "answer_ar": "وحيد القرن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-049",
+          "points": 400,
+          "question_ar": "مصطلح/اسم: الذكر فيه هو الذي يحمل الأجنة حتى الولادة. ما هو؟",
+          "answer_ar": "فرس البحر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-400-050",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «الذكر فيه هو الذي يحمل الأجنة حتى الولادة»، ما الإجابة الأدق؟",
+          "answer_ar": "فرس البحر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "wildlife explainers and habitat facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-001",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو أكبر حيوان معروف عاش على الأرض. 2) ثديي بحري عملاق يتغذى أساسًا على الكريل. ما الجواب؟",
+          "answer_ar": "الحوت الأزرق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-002",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو أكبر حيوان معروف عاش على الأرض، وكذلك ثديي بحري عملاق يتغذى أساسًا على الكريل؟",
+          "answer_ar": "الحوت الأزرق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-003",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو أكبر حيوان بري حي. 2) يتميز بآذان كبيرة وأنياب ويعيش في أفريقيا. ما الجواب؟",
+          "answer_ar": "الفيل الأفريقي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-004",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو أكبر حيوان بري حي، وكذلك يتميز بآذان كبيرة وأنياب ويعيش في أفريقيا؟",
+          "answer_ar": "الفيل الأفريقي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-005",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي أطول حيوان بري حي. 2) تملك عنقًا طويلًا جدًا ولسانًا طويلًا لالتقاط الأوراق. ما الجواب؟",
+          "answer_ar": "الزرافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-006",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي أطول حيوان بري حي، وكذلك تملك عنقًا طويلًا جدًا ولسانًا طويلًا لالتقاط الأوراق؟",
+          "answer_ar": "الزرافة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-007",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو أسرع حيوان بري في العدو القصير. 2) يستطيع بلوغ سرعات عالية جدًا في المطاردة. ما الجواب؟",
+          "answer_ar": "الفهد الصياد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-008",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو أسرع حيوان بري في العدو القصير، وكذلك يستطيع بلوغ سرعات عالية جدًا في المطاردة؟",
+          "answer_ar": "الفهد الصياد",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-009",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو جرابي شهير يرتبط بأستراليا. 2) يتحرك بالقفز ويحمل الصغير في جراب. ما الجواب؟",
+          "answer_ar": "الكنغر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-010",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو جرابي شهير يرتبط بأستراليا، وكذلك يتحرك بالقفز ويحمل الصغير في جراب؟",
+          "answer_ar": "الكنغر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-011",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي دب يتغذى بكثرة على الخيزران. 2) ترتبط بالصين وتعد رمزًا للحفاظ على الحياة البرية. ما الجواب؟",
+          "answer_ar": "الباندا العملاقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-012",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي دب يتغذى بكثرة على الخيزران، وكذلك ترتبط بالصين وتعد رمزًا للحفاظ على الحياة البرية؟",
+          "answer_ar": "الباندا العملاقة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-013",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو دب يعيش في مناطق القطب الشمالي. 2) يعتمد على الجليد البحري في الصيد والتنقل. ما الجواب؟",
+          "answer_ar": "الدب القطبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-014",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو دب يعيش في مناطق القطب الشمالي، وكذلك يعتمد على الجليد البحري في الصيد والتنقل؟",
+          "answer_ar": "الدب القطبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-015",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو حيوان صحراوي يتحمل العطش طويلًا. 2) يخزن الدهون في السنام ويتكيف مع البيئات الجافة. ما الجواب؟",
+          "answer_ar": "الجمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-016",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو حيوان صحراوي يتحمل العطش طويلًا، وكذلك يخزن الدهون في السنام ويتكيف مع البيئات الجافة؟",
+          "answer_ar": "الجمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-017",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو الثديي الوحيد القادر على الطيران الحقيقي. 2) يعتمد كثير من أنواعه على تحديد الموقع بالصدى. ما الجواب؟",
+          "answer_ar": "الخفاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-018",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو الثديي الوحيد القادر على الطيران الحقيقي، وكذلك يعتمد كثير من أنواعه على تحديد الموقع بالصدى؟",
+          "answer_ar": "الخفاش",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-019",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو أكبر أنواع البطاريق. 2) يعيش في القارة القطبية الجنوبية ويتكاثر في ظروف شديدة البرودة. ما الجواب؟",
+          "answer_ar": "البطريق الإمبراطور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-020",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو أكبر أنواع البطاريق، وكذلك يعيش في القارة القطبية الجنوبية ويتكاثر في ظروف شديدة البرودة؟",
+          "answer_ar": "البطريق الإمبراطور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-021",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو رخوي بحري ذو ثمانية أذرع. 2) يتميز بذكاء عالٍ وقدرة على التمويه وتغيير اللون. ما الجواب؟",
+          "answer_ar": "الأخطبوط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-022",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو رخوي بحري ذو ثمانية أذرع، وكذلك يتميز بذكاء عالٍ وقدرة على التمويه وتغيير اللون؟",
+          "answer_ar": "الأخطبوط",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-023",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي حشرة ملقحة أساسية للزراعة. 2) تنتج العسل وتعيش في مستعمرات منظمة. ما الجواب؟",
+          "answer_ar": "النحلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-024",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي حشرة ملقحة أساسية للزراعة، وكذلك تنتج العسل وتعيش في مستعمرات منظمة؟",
+          "answer_ar": "النحلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-025",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طائر جارح ذو بصر حاد جدًا. 2) يحلق عاليًا ويصطاد أو يتغذى على الجيف حسب النوع. ما الجواب؟",
+          "answer_ar": "النسر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-026",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طائر جارح ذو بصر حاد جدًا، وكذلك يحلق عاليًا ويصطاد أو يتغذى على الجيف حسب النوع؟",
+          "answer_ar": "النسر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-027",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي طائر ليلي معروف بصمت الطيران نسبيًا. 2) لها عيون أمامية وقدرة جيدة على الرؤية الليلية. ما الجواب؟",
+          "answer_ar": "البومة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-028",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي طائر ليلي معروف بصمت الطيران نسبيًا، وكذلك لها عيون أمامية وقدرة جيدة على الرؤية الليلية؟",
+          "answer_ar": "البومة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-029",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو ثديي بحري اجتماعي وذكي. 2) يتواصل بأصوات ويستخدم الصدى للملاحة. ما الجواب؟",
+          "answer_ar": "الدولفين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-030",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو ثديي بحري اجتماعي وذكي، وكذلك يتواصل بأصوات ويستخدم الصدى للملاحة؟",
+          "answer_ar": "الدولفين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-031",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مفترس بحري كبير في السلاسل الغذائية. 2) يمتلك حاسة شم قوية وأسنانًا متجددة. ما الجواب؟",
+          "answer_ar": "القرش الأبيض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-032",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مفترس بحري كبير في السلاسل الغذائية، وكذلك يمتلك حاسة شم قوية وأسنانًا متجددة؟",
+          "answer_ar": "القرش الأبيض",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-033",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو برمائي يبدأ حياته غالبًا كشرغوف. 2) يعيش بين الماء واليابسة حسب المرحلة والنوع. ما الجواب؟",
+          "answer_ar": "الضفدع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-034",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو برمائي يبدأ حياته غالبًا كشرغوف، وكذلك يعيش بين الماء واليابسة حسب المرحلة والنوع؟",
+          "answer_ar": "الضفدع",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-035",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو زاحف شبه مائي قوي الفك. 2) يعيش في الأنهار والبحيرات ويفضل المياه الدافئة. ما الجواب؟",
+          "answer_ar": "التمساح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-036",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو زاحف شبه مائي قوي الفك، وكذلك يعيش في الأنهار والبحيرات ويفضل المياه الدافئة؟",
+          "answer_ar": "التمساح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-037",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي زاحف بحري يهاجر مسافات طويلة. 2) تضع بيضها على الشواطئ رغم عيشها في البحر. ما الجواب؟",
+          "answer_ar": "السلحفاة البحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-038",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي زاحف بحري يهاجر مسافات طويلة، وكذلك تضع بيضها على الشواطئ رغم عيشها في البحر؟",
+          "answer_ar": "السلحفاة البحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-039",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو حشرة اجتماعية تعيش في مستعمرات. 2) يتعاون أفراده في العمل وبناء الأعشاش وجمع الغذاء. ما الجواب؟",
+          "answer_ar": "النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-040",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو حشرة اجتماعية تعيش في مستعمرات، وكذلك يتعاون أفراده في العمل وبناء الأعشاش وجمع الغذاء؟",
+          "answer_ar": "النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-041",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو ثديي مفترس يعيش غالبًا في جماعات. 2) يرتبط ببنية قطيع وتواصل صوتي مثل العواء. ما الجواب؟",
+          "answer_ar": "الذئب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-042",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو ثديي مفترس يعيش غالبًا في جماعات، وكذلك يرتبط ببنية قطيع وتواصل صوتي مثل العواء؟",
+          "answer_ar": "الذئب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-043",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو جرابي أسترالي يتغذى على أوراق الأوكالبتوس. 2) يقضي وقتًا طويلًا في الأشجار والنوم. ما الجواب؟",
+          "answer_ar": "الكوالا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-044",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو جرابي أسترالي يتغذى على أوراق الأوكالبتوس، وكذلك يقضي وقتًا طويلًا في الأشجار والنوم؟",
+          "answer_ar": "الكوالا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-045",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو طائر صغير قادر على الرفرفة السريعة جدًا. 2) يستطيع الثبات في الهواء ويتغذى على رحيق الأزهار. ما الجواب؟",
+          "answer_ar": "طائر الطنان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-046",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو طائر صغير قادر على الرفرفة السريعة جدًا، وكذلك يستطيع الثبات في الهواء ويتغذى على رحيق الأزهار؟",
+          "answer_ar": "طائر الطنان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-047",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو ثديي ضخم يتميز بقرن أو قرنين. 2) مهدد بسبب الصيد غير القانوني وفقدان الموائل. ما الجواب؟",
+          "answer_ar": "وحيد القرن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-048",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو ثديي ضخم يتميز بقرن أو قرنين، وكذلك مهدد بسبب الصيد غير القانوني وفقدان الموائل؟",
+          "answer_ar": "وحيد القرن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-049",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو كائن بحري صغير ينتصب عموديًا في السباحة. 2) الذكر فيه هو الذي يحمل الأجنة حتى الولادة. ما الجواب؟",
+          "answer_ar": "فرس البحر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        },
+        {
+          "id": "CAT13-600-050",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو كائن بحري صغير ينتصب عموديًا في السباحة، وكذلك الذكر فيه هو الذي يحمل الأجنة حتى الولادة؟",
+          "answer_ar": "فرس البحر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "animal and nature entries"
+            },
+            {
+              "title": "WWF",
+              "type": "official",
+              "reference": "species and conservation information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

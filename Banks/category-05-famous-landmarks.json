@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 5 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "معالم شهيرة (أبراج، آثار، عجائب)",
+      "name_en": "Famous Landmarks",
+      "questions": [
+        {
+          "id": "CAT05-200-001",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع برج إيفل؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-002",
+          "points": 200,
+          "question_ar": "في أي دولة يقع الكولوسيوم؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-003",
+          "points": 200,
+          "question_ar": "في أي دولة يقع تاج محل؟",
+          "answer_ar": "الهند",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-004",
+          "points": 200,
+          "question_ar": "في أي دولة يقع سور الصين العظيم؟",
+          "answer_ar": "الصين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-005",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع تمثال الحرية؟",
+          "answer_ar": "نيويورك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-006",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع برج بيزا المائل؟",
+          "answer_ar": "بيزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-007",
+          "points": 200,
+          "question_ar": "في أي مدينة تقع دار الأوبرا الشهيرة على شكل أشرعة؟",
+          "answer_ar": "سيدني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-008",
+          "points": 200,
+          "question_ar": "في أي دولة يقع تمثال المسيح الفادي؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-009",
+          "points": 200,
+          "question_ar": "ما المعلم الشهير في روما الذي كان مدرجًا رومانيًا؟",
+          "answer_ar": "الكولوسيوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-010",
+          "points": 200,
+          "question_ar": "ما المعلم الشهير في باريس المصنوع من الحديد؟",
+          "answer_ar": "برج إيفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-011",
+          "points": 200,
+          "question_ar": "ما المعلم الشهير في أغرا المرتبط بقصة حب تاريخية؟",
+          "answer_ar": "تاج محل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-012",
+          "points": 200,
+          "question_ar": "ما المعلم الشهير في لندن المعروف بساعة ضخمة؟",
+          "answer_ar": "بيغ بن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-013",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع برج خليفة؟",
+          "answer_ar": "دبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-014",
+          "points": 200,
+          "question_ar": "في أي دولة تقع ماتشو بيتشو؟",
+          "answer_ar": "بيرو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-015",
+          "points": 200,
+          "question_ar": "في أي دولة يقع أنغكور وات؟",
+          "answer_ar": "كمبوديا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-016",
+          "points": 200,
+          "question_ar": "في أي دولة تقع تشيتشن إيتزا؟",
+          "answer_ar": "المكسيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-017",
+          "points": 200,
+          "question_ar": "في أي مدينة تقع بوابة براندنبورغ؟",
+          "answer_ar": "برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-018",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع قوس النصر الفرنسي؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-019",
+          "points": 200,
+          "question_ar": "في أي دولة تقع الأكروبوليس؟",
+          "answer_ar": "اليونان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-020",
+          "points": 200,
+          "question_ar": "في أي دولة يقع ستونهنج؟",
+          "answer_ar": "المملكة المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-021",
+          "points": 200,
+          "question_ar": "في أي دولة تقع البتراء؟",
+          "answer_ar": "الأردن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-022",
+          "points": 200,
+          "question_ar": "في أي مدينة تقع نافورة تريفي الشهيرة؟",
+          "answer_ar": "روما",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-023",
+          "points": 200,
+          "question_ar": "في أي دولة تقع قصر الحمراء؟",
+          "answer_ar": "إسبانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-024",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع جسر البوابة الذهبية؟",
+          "answer_ar": "سان فرانسيسكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-025",
+          "points": 200,
+          "question_ar": "في أي دولة يقع جبل راشمور؟",
+          "answer_ar": "الولايات المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "National Park Service",
+              "type": "official",
+              "reference": "U.S. landmark official pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-026",
+          "points": 200,
+          "question_ar": "ما المعلم الشهير في مصر الذي يُعد من عجائب العالم القديمة؟",
+          "answer_ar": "أهرامات الجيزة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-027",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع متحف اللوفر بواجهته الهرمية الزجاجية؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-028",
+          "points": 200,
+          "question_ar": "في أي دولة يقع تمثال أبو الهول الكبير؟",
+          "answer_ar": "مصر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-029",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع برج سي إن؟",
+          "answer_ar": "تورونتو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-030",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع برج طوكيو؟",
+          "answer_ar": "طوكيو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-031",
+          "points": 200,
+          "question_ar": "في أي دولة يقع قصر باكنغهام؟",
+          "answer_ar": "المملكة المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-032",
+          "points": 200,
+          "question_ar": "في أي مدينة تقع ساغرادا فاميليا؟",
+          "answer_ar": "برشلونة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-033",
+          "points": 200,
+          "question_ar": "في أي دولة يقع جبل فوجي، وهو معلم طبيعي شهير؟",
+          "answer_ar": "اليابان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-034",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع الميدان الأحمر؟",
+          "answer_ar": "موسكو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-035",
+          "points": 200,
+          "question_ar": "في أي دولة يقع قصر فرساي؟",
+          "answer_ar": "فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-036",
+          "points": 200,
+          "question_ar": "في أي دولة يقع قصر نويشفانشتاين؟",
+          "answer_ar": "ألمانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-037",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع المعبد الذهبي الشهير في السيخية؟",
+          "answer_ar": "أمريتسار",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-038",
+          "points": 200,
+          "question_ar": "في أي دولة يقع موآي جزيرة الفصح؟",
+          "answer_ar": "تشيلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-039",
+          "points": 200,
+          "question_ar": "في أي دولة تقع شلالات إجوازو الشهيرة؟",
+          "answer_ar": "الأرجنتين والبرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-040",
+          "points": 200,
+          "question_ar": "ما المعلم البرتغالي الشهير في لشبونة قرب نهر تاجه؟",
+          "answer_ar": "برج بيليم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-041",
+          "points": 200,
+          "question_ar": "في أي دولة يقع متحف الأرميتاج؟",
+          "answer_ar": "روسيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-042",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع متحف الأرميتاج؟",
+          "answer_ar": "سانت بطرسبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-043",
+          "points": 200,
+          "question_ar": "في أي دولة يقع موقع بومبي الأثري؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-044",
+          "points": 200,
+          "question_ar": "في أي دولة يقع معبد البارثينون؟",
+          "answer_ar": "اليونان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-045",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع برج شنغهاي؟",
+          "answer_ar": "شنغهاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-046",
+          "points": 200,
+          "question_ar": "في أي دولة يقع برج شنغهاي؟",
+          "answer_ar": "الصين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-047",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع قصر توبكابي التاريخي؟",
+          "answer_ar": "إسطنبول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-048",
+          "points": 200,
+          "question_ar": "في أي دولة يقع جبل كليمنجارو؟",
+          "answer_ar": "تنزانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-049",
+          "points": 200,
+          "question_ar": "في أي دولة يقع شلال نياجرا؟",
+          "answer_ar": "الولايات المتحدة وكندا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-200-050",
+          "points": 200,
+          "question_ar": "في أي مدينة يقع قصر الشتاء الشهير؟",
+          "answer_ar": "سانت بطرسبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-001",
+          "points": 400,
+          "question_ar": "معلم في باريس اكتمل عام 1889 وصار رمزًا لفرنسا؛ ما هو؟",
+          "answer_ar": "برج إيفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-002",
+          "points": 400,
+          "question_ar": "مقبرة فخمة بناها شاه جهان لزوجته ممتاز محل؛ ما المعلم؟",
+          "answer_ar": "تاج محل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-003",
+          "points": 400,
+          "question_ar": "مدرج روماني ضخم استُخدم للمصارعة والعروض؛ ما اسمه؟",
+          "answer_ar": "الكولوسيوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-004",
+          "points": 400,
+          "question_ar": "تمثال هدية من فرنسا للولايات المتحدة في القرن 19؛ ما هو؟",
+          "answer_ar": "تمثال الحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-005",
+          "points": 400,
+          "question_ar": "برج مائل بسبب هبوط التربة في توسكانا؛ ما هو؟",
+          "answer_ar": "برج بيزا المائل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-006",
+          "points": 400,
+          "question_ar": "دار أوبرا بتصميم يشبه الأشرعة على الميناء؛ ما المعلم؟",
+          "answer_ar": "دار أوبرا سيدني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-007",
+          "points": 400,
+          "question_ar": "تمثال ضخم للمسيح يطل على ريو دي جانيرو؛ ما هو؟",
+          "answer_ar": "تمثال المسيح الفادي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-008",
+          "points": 400,
+          "question_ar": "مدينة إنكا جبلية في بيرو اكتشفها العالم حديثًا نسبيًا؛ ما المعلم؟",
+          "answer_ar": "ماتشو بيتشو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-009",
+          "points": 400,
+          "question_ar": "مجمّع معابد هائل في كمبوديا ورمز وطني على العلم؛ ما هو؟",
+          "answer_ar": "أنغكور وات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-010",
+          "points": 400,
+          "question_ar": "موقع مايا شهير في يوكاتان يضم هرم إل كاستيو؛ ما هو؟",
+          "answer_ar": "تشيتشن إيتزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-011",
+          "points": 400,
+          "question_ar": "موقع أثري منحوت في الصخور الوردية بجنوب الأردن؛ ما هو؟",
+          "answer_ar": "البتراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-012",
+          "points": 400,
+          "question_ar": "مجمّع أثري في أثينا يتضمن البارثينون؛ ما هو؟",
+          "answer_ar": "الأكروبوليس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-013",
+          "points": 400,
+          "question_ar": "دوائر حجرية ما قبل التاريخ في جنوب إنجلترا؛ ما اسمها؟",
+          "answer_ar": "ستونهنج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-014",
+          "points": 400,
+          "question_ar": "قصر أندلسي في غرناطة يجمع الفن الإسلامي والحدائق؛ ما هو؟",
+          "answer_ar": "قصر الحمراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-015",
+          "points": 400,
+          "question_ar": "بوابة كلاسيكية جديدة صارت رمزًا لوحدة ألمانيا؛ ما هي؟",
+          "answer_ar": "بوابة براندنبورغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-016",
+          "points": 400,
+          "question_ar": "جسر أحمر معلّق فوق مضيق غولدن غيت؛ ما هو؟",
+          "answer_ar": "جسر البوابة الذهبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-017",
+          "points": 400,
+          "question_ar": "نصب أمريكي منحوت في جبل بأربعة رؤساء؛ ما هو؟",
+          "answer_ar": "جبل راشمور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "National Park Service",
+              "type": "official",
+              "reference": "U.S. landmark official pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-018",
+          "points": 400,
+          "question_ar": "موقع في الجيزة يضم أهرامًا ملكية ضخمة؛ ما هو؟",
+          "answer_ar": "أهرامات الجيزة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-019",
+          "points": 400,
+          "question_ar": "متحف في باريس أمامه هرم زجاجي حديث؛ ما هو؟",
+          "answer_ar": "متحف اللوفر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-020",
+          "points": 400,
+          "question_ar": "قصر ملكي بريطاني رسمي في لندن؛ ما هو؟",
+          "answer_ar": "قصر باكنغهام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-021",
+          "points": 400,
+          "question_ar": "كاتدرائية غير مكتملة صممها غاودي في برشلونة؛ ما هي؟",
+          "answer_ar": "ساغرادا فاميليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-022",
+          "points": 400,
+          "question_ar": "برج اتصالات في تورونتو كان الأعلى عالميًا عند افتتاحه؛ ما هو؟",
+          "answer_ar": "برج سي إن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-023",
+          "points": 400,
+          "question_ar": "معلم في موسكو يتميز بقباب ملوّنة على شكل بصل؛ ما هو؟",
+          "answer_ar": "كاتدرائية سانت باسيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-024",
+          "points": 400,
+          "question_ar": "قصر فرنسي ملكي اشتهر بقاعة المرايا؛ ما هو؟",
+          "answer_ar": "قصر فرساي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-025",
+          "points": 400,
+          "question_ar": "قصر ألماني ألهم قصص القلاع الخيالية الحديثة؛ ما هو؟",
+          "answer_ar": "قصر نويشفانشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-026",
+          "points": 400,
+          "question_ar": "برج في دبي تجاوز 800 متر وافتتح 2010؛ ما هو؟",
+          "answer_ar": "برج خليفة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-027",
+          "points": 400,
+          "question_ar": "برج في شنغهاي يتميز بواجهة ملتوية ويزيد على 600 متر؛ ما هو؟",
+          "answer_ar": "برج شنغهاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-028",
+          "points": 400,
+          "question_ar": "برج ساعة في لندن اسمه الرسمي برج إليزابيث؛ ما الاسم الشائع؟",
+          "answer_ar": "بيغ بن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-029",
+          "points": 400,
+          "question_ar": "ساحة تاريخية في موسكو قرب الكرملين؛ ما اسمها؟",
+          "answer_ar": "الميدان الأحمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-030",
+          "points": 400,
+          "question_ar": "مقر سلاطين عثمانيين لقرون في إسطنبول؛ ما هو؟",
+          "answer_ar": "قصر توبكابي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-031",
+          "points": 400,
+          "question_ar": "متحف روسي ضخم مقره قصر الشتاء؛ ما هو؟",
+          "answer_ar": "متحف الأرميتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-032",
+          "points": 400,
+          "question_ar": "موقع روماني حُفظ بالرماد بعد ثوران فيزوف؛ ما هو؟",
+          "answer_ar": "بومبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-033",
+          "points": 400,
+          "question_ar": "برج تاريخي في لشبونة بُني لحماية الميناء؛ ما هو؟",
+          "answer_ar": "برج بيليم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-034",
+          "points": 400,
+          "question_ar": "معبد يوناني كلاسيكي على الأكروبوليس؛ ما هو؟",
+          "answer_ar": "البارثينون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-035",
+          "points": 400,
+          "question_ar": "موقع طبيعي بركاني يرمز لليابان ويظهر في الفن كثيرًا؛ ما هو؟",
+          "answer_ar": "جبل فوجي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-036",
+          "points": 400,
+          "question_ar": "جزيرة تشيلية معروفة بتماثيل حجرية ضخمة تسمى موآي؛ ما هي؟",
+          "answer_ar": "جزيرة الفصح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-037",
+          "points": 400,
+          "question_ar": "شلالات ضخمة على حدود دولتين بأمريكا الجنوبية؛ ما اسمها؟",
+          "answer_ar": "شلالات إجوازو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-038",
+          "points": 400,
+          "question_ar": "شلالات ضخمة على حدود الولايات المتحدة وكندا؛ ما اسمها؟",
+          "answer_ar": "شلالات نياجرا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-039",
+          "points": 400,
+          "question_ar": "جبل أفريقي أعلى قمة فيه أوهورو ضمن كليمنجارو؛ ما المعلم؟",
+          "answer_ar": "جبل كليمنجارو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-040",
+          "points": 400,
+          "question_ar": "مدينة إيطالية تضم برجًا مائلًا مشهورًا عالميًا؛ ما هي؟",
+          "answer_ar": "بيزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-041",
+          "points": 400,
+          "question_ar": "مدينة هندية تضم تاج محل على نهر يامونا؛ ما هي؟",
+          "answer_ar": "أغرا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-042",
+          "points": 400,
+          "question_ar": "مدينة برازيلية تضم تمثال المسيح الفادي على كوركوفادو؛ ما هي؟",
+          "answer_ar": "ريو دي جانيرو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-043",
+          "points": 400,
+          "question_ar": "مدينة كمبودية قريبة من أنغكور وات وتعد بوابته السياحية؛ ما هي؟",
+          "answer_ar": "سييم ريب",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-044",
+          "points": 400,
+          "question_ar": "مدينة مكسيكية قريبة من موقع تشيتشن إيتزا الشهير؛ ما هي؟",
+          "answer_ar": "مريدا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-045",
+          "points": 400,
+          "question_ar": "مدينة فرنسية تضم كلًا من برج إيفل واللوفر وقوس النصر؛ ما هي؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-046",
+          "points": 400,
+          "question_ar": "مدينة أمريكية تضم تمثال الحرية في مينائها؛ ما هي؟",
+          "answer_ar": "نيويورك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-047",
+          "points": 400,
+          "question_ar": "مدينة أسترالية تشتهر بدار الأوبرا على الخليج؛ ما هي؟",
+          "answer_ar": "سيدني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-048",
+          "points": 400,
+          "question_ar": "مدينة يونانية تضم الأكروبوليس والبارثينون؛ ما هي؟",
+          "answer_ar": "أثينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-049",
+          "points": 400,
+          "question_ar": "مدينة ألمانية تضم بوابة براندنبورغ ومبنى الرايخستاغ؛ ما هي؟",
+          "answer_ar": "برلين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-400-050",
+          "points": 400,
+          "question_ar": "مدينة إسبانية تضم ساغرادا فاميليا وأعمال غاودي؛ ما هي؟",
+          "answer_ar": "برشلونة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-001",
+          "points": 600,
+          "question_ar": "معلم حديدي بُني لمعرض 1889 وكان مقررًا تفكيكه لاحقًا؛ ما هو؟",
+          "answer_ar": "برج إيفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-002",
+          "points": 600,
+          "question_ar": "نصب جنائزي من الرخام الأبيض بقباب وحدائق تشار باغ في أغرا؛ ما هو؟",
+          "answer_ar": "تاج محل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-003",
+          "points": 600,
+          "question_ar": "مدرج روماني افتتح في القرن الأول الميلادي ويُعرف أيضًا بالمدرج الفلافي؛ ما هو؟",
+          "answer_ar": "الكولوسيوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-004",
+          "points": 600,
+          "question_ar": "تمثال على جزيرة ليبرتي يحمل مشعلًا وكتابًا ويرمز للحرية؛ ما هو؟",
+          "answer_ar": "تمثال الحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-005",
+          "points": 600,
+          "question_ar": "برج جرس كاتدرائية أصبح مائلًا بسبب تربة رخوة؛ ما هو؟",
+          "answer_ar": "برج بيزا المائل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-006",
+          "points": 600,
+          "question_ar": "مبنى فني على ميناء سيدني صممه يورن أوتسون؛ ما هو؟",
+          "answer_ar": "دار أوبرا سيدني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-007",
+          "points": 600,
+          "question_ar": "تمثال على جبل كوركوفادو اكتمل عام 1931 في ريو؛ ما هو؟",
+          "answer_ar": "تمثال المسيح الفادي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-008",
+          "points": 600,
+          "question_ar": "موقع إنكا على ارتفاع عالٍ أعاد هيرام بنغهام شهرته عالميًا؛ ما هو؟",
+          "answer_ar": "ماتشو بيتشو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-009",
+          "points": 600,
+          "question_ar": "أكبر أثر ديني في كمبوديا بُني أصلًا للهندوسية ثم ارتبط بالبوذية؛ ما هو؟",
+          "answer_ar": "أنغكور وات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-010",
+          "points": 600,
+          "question_ar": "موقع مايا في يوكاتان يضم هرمًا فلكيّ الدلالة يسمى إل كاستيو؛ ما هو؟",
+          "answer_ar": "تشيتشن إيتزا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-011",
+          "points": 600,
+          "question_ar": "مدينة نبطية منحوتة في الحجر الرملي وتضم الخزنة والدير؛ ما هي؟",
+          "answer_ar": "البتراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-012",
+          "points": 600,
+          "question_ar": "هضبة مقدسة في أثينا تضم معبدًا دوريًا مكرسًا لأثينا؛ ما الموقع؟",
+          "answer_ar": "الأكروبوليس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-013",
+          "points": 600,
+          "question_ar": "نصب ما قبل التاريخ في ويلتشير يتكون من حلقات حجرية ضخمة؛ ما هو؟",
+          "answer_ar": "ستونهنج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-014",
+          "points": 600,
+          "question_ar": "مجمع قصور وحدائق في غرناطة من عصر بني نصر؛ ما هو؟",
+          "answer_ar": "قصر الحمراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-015",
+          "points": 600,
+          "question_ar": "بوابة من القرن 18 في برلين ارتبطت لاحقًا بإعادة توحيد ألمانيا؛ ما هي؟",
+          "answer_ar": "بوابة براندنبورغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-016",
+          "points": 600,
+          "question_ar": "جسر معلّق افتتح 1937 ويربط سان فرانسيسكو بمارين؛ ما هو؟",
+          "answer_ar": "جسر البوابة الذهبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-017",
+          "points": 600,
+          "question_ar": "نصب صخري في داكوتا الجنوبية يضم وجوه أربعة رؤساء أمريكيين؛ ما هو؟",
+          "answer_ar": "جبل راشمور",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "National Park Service",
+              "type": "official",
+              "reference": "U.S. landmark official pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-018",
+          "points": 600,
+          "question_ar": "المعلم الوحيد الباقي من عجائب العالم القديم يقع في الجيزة؛ ما هو؟",
+          "answer_ar": "هرم خوفو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-019",
+          "points": 600,
+          "question_ar": "قصر متحفي في باريس أمامه هرم زجاجي صممه آي إم باي؛ ما المعلم؟",
+          "answer_ar": "متحف اللوفر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-020",
+          "points": 600,
+          "question_ar": "المقر الرسمي لملك بريطانيا في لندن المستخدم للمراسم الكبرى؛ ما هو؟",
+          "answer_ar": "قصر باكنغهام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-021",
+          "points": 600,
+          "question_ar": "كاتدرائية برشلونة التي بدأها غاودي وما زالت قيد البناء؛ ما هي؟",
+          "answer_ar": "ساغرادا فاميليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-022",
+          "points": 600,
+          "question_ar": "برج في تورونتو كان الأعلى عالميًا كمنشأة قائمة بذاتها عام 1976؛ ما هو؟",
+          "answer_ar": "برج سي إن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-023",
+          "points": 600,
+          "question_ar": "كاتدرائية موسكو ذات القباب الملونة قرب الكرملين؛ ما هي؟",
+          "answer_ar": "كاتدرائية سانت باسيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-024",
+          "points": 600,
+          "question_ar": "قصر ملكي فرنسي اشتهر بحدائقه الهندسية وقاعة المرايا؛ ما هو؟",
+          "answer_ar": "قصر فرساي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-025",
+          "points": 600,
+          "question_ar": "قلعة بافارية من القرن 19 ألهمت قصور ديزني غالبًا؛ ما هي؟",
+          "answer_ar": "قصر نويشفانشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-026",
+          "points": 600,
+          "question_ar": "ناطحة سحاب في دبي ذات أعلى منصة مشاهدة خارجية وقت الافتتاح؛ ما هي؟",
+          "answer_ar": "برج خليفة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-027",
+          "points": 600,
+          "question_ar": "برج صيني ملتفّ الواجهة في بودونغ يزيد ارتفاعه على 600 متر؛ ما هو؟",
+          "answer_ar": "برج شنغهاي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-028",
+          "points": 600,
+          "question_ar": "الاسم الشائع لبرج الساعة ببرلمان لندن رغم أن الاسم الرسمي برج إليزابيث؟",
+          "answer_ar": "بيغ بن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-029",
+          "points": 600,
+          "question_ar": "ساحة تاريخية ملاصقة للكرملين شهدت أحداثًا روسية كبرى؛ ما هي؟",
+          "answer_ar": "الميدان الأحمر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-030",
+          "points": 600,
+          "question_ar": "مقر عثماني يضم جناح الحريم ومجموعة آثار مقدسة في إسطنبول؛ ما هو؟",
+          "answer_ar": "قصر توبكابي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-031",
+          "points": 600,
+          "question_ar": "متحف روسي مقره الرئيسي قصر الشتاء على نهر نيفا؛ ما هو؟",
+          "answer_ar": "متحف الأرميتاج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-032",
+          "points": 600,
+          "question_ar": "مدينة رومانية دمرها ثوران فيزوف سنة 79م ثم كُشف عنها أثريًا؛ ما هي؟",
+          "answer_ar": "بومبي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-033",
+          "points": 600,
+          "question_ar": "برج دفاعي عند مدخل نهر تاجه في لشبونة من عصر الكشوف؛ ما هو؟",
+          "answer_ar": "برج بيليم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-034",
+          "points": 600,
+          "question_ar": "معبد كلاسيكي على الأكروبوليس بُني في القرن الخامس ق.م؛ ما هو؟",
+          "answer_ar": "البارثينون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-035",
+          "points": 600,
+          "question_ar": "قمة بركانية يابانية مقدسة وتُعد أعلى جبل في البلاد؛ ما هي؟",
+          "answer_ar": "جبل فوجي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-036",
+          "points": 600,
+          "question_ar": "جزيرة في المحيط الهادئ تابعة لتشيلي وتشتهر بتماثيل موآي؛ ما هي؟",
+          "answer_ar": "جزيرة الفصح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-037",
+          "points": 600,
+          "question_ar": "شلالات على حدود الأرجنتين والبرازيل تضم شلال حلق الشيطان؛ ما هي؟",
+          "answer_ar": "شلالات إجوازو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-038",
+          "points": 600,
+          "question_ar": "شلالات على نهر سانت لورنس؟ لا، على نهر نياجرا بين كندا وأمريكا؛ ما هي؟",
+          "answer_ar": "شلالات نياجرا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-039",
+          "points": 600,
+          "question_ar": "أعلى قمة في أفريقيا تقع في تنزانيا وهي بركان طبقي خامد؛ ما هي؟",
+          "answer_ar": "جبل كليمنجارو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-040",
+          "points": 600,
+          "question_ar": "المعلم الباريسي الذي يربط ساحة شارل ديغول بجادة الشانزليزيه؛ ما هو؟",
+          "answer_ar": "قوس النصر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-041",
+          "points": 600,
+          "question_ar": "معبد بوذي ضخم في كمبوديا ضمن مجمع أنغكور ويحمل وجوهًا حجرية؛ ما هو؟",
+          "answer_ar": "معبد بايون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "UNESCO World Heritage Centre",
+              "type": "official",
+              "reference": "World Heritage property pages"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-042",
+          "points": 600,
+          "question_ar": "المعلم المصري الذي يجمع جسد أسد ورأس إنسان قرب الأهرام؛ ما هو؟",
+          "answer_ar": "أبو الهول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-043",
+          "points": 600,
+          "question_ar": "البرج الذي كان أعلى مبنى في العالم من 2010 وبواجهة متدرجة؛ ما هو؟",
+          "answer_ar": "برج خليفة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "CTBUH",
+              "type": "official",
+              "reference": "Global tall building database"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-044",
+          "points": 600,
+          "question_ar": "المعلم الروماني الذي يُعرف بأقواس متعددة الطبقات في قلب المدينة؛ ما هو؟",
+          "answer_ar": "الكولوسيوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-045",
+          "points": 600,
+          "question_ar": "المعلم الفرنسي الذي استُخدم هوائيًا للاتصالات إضافة للسياحة؛ ما هو؟",
+          "answer_ar": "برج إيفل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-046",
+          "points": 600,
+          "question_ar": "المعلم الإسباني الذي يمثل العمارة الحداثية الكتالونية الدينية؛ ما هو؟",
+          "answer_ar": "ساغرادا فاميليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-047",
+          "points": 600,
+          "question_ar": "المعلم البريطاني الحجري الذي ما زال غامض الوظيفة بدقة؛ ما هو؟",
+          "answer_ar": "ستونهنج",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-048",
+          "points": 600,
+          "question_ar": "المعلم الإيطالي الذي ترتبط شهرته بميل إنشائي غير مقصود؛ ما هو؟",
+          "answer_ar": "برج بيزا المائل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-049",
+          "points": 600,
+          "question_ar": "المعلم الأمريكي الذي يُرى عند دخول ميناء نيويورك ويحمل مشعلًا؛ ما هو؟",
+          "answer_ar": "تمثال الحرية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT05-600-050",
+          "points": 600,
+          "question_ar": "المعلم الهندي الذي يضم ضريح ممتاز محل ضمن مجمع متناظر؛ ما هو؟",
+          "answer_ar": "تاج محل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "National Geographic",
+              "type": "reputable_media",
+              "reference": "Landmark explainers and travel references"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "Landmark and monument entries"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: sahwala
+    volumes:
+      - postgres_data_prod:/var/lib/postgresql/data
+
+  app:
+    build:
+      context: .
+      target: runner
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/sahwala?schema=public
+    ports:
+      - "3000:3000"
+    depends_on:
+      db:
+        condition: service_started
+
+volumes:
+  postgres_data_prod:

@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 21 of 22",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "القرآن الكريم (القصص والمعاني العامة)",
+      "name_en": "Quran (Stories & General Meanings)",
+      "questions": [
+        {
+          "id": "CAT21-200-001",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي أول سورة في ترتيب المصحف؟",
+          "answer_ar": "سورة الفاتحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-002",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي أول سورة في ترتيب المصحف؟",
+          "answer_ar": "سورة الفاتحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-003",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي أطول سورة في القرآن؟",
+          "answer_ar": "سورة البقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-004",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي أطول سورة في القرآن؟",
+          "answer_ar": "سورة البقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-005",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي أقصر سورة في القرآن من حيث عدد الآيات؟",
+          "answer_ar": "سورة الكوثر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-006",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي أقصر سورة في القرآن من حيث عدد الآيات؟",
+          "answer_ar": "سورة الكوثر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-007",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي السورة التي تروي قصة نبي واحد بتفصيل متسلسل؟",
+          "answer_ar": "سورة يوسف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-008",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي السورة التي تروي قصة نبي واحد بتفصيل متسلسل؟",
+          "answer_ar": "سورة يوسف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-009",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو النبي الأكثر ذكرًا بالاسم في القرآن؟",
+          "answer_ar": "النبي موسى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-010",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو النبي الأكثر ذكرًا بالاسم في القرآن؟",
+          "answer_ar": "النبي موسى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-011",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو النبي المرتبط بقصة السفينة والطوفان؟",
+          "answer_ar": "النبي نوح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-012",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو النبي المرتبط بقصة السفينة والطوفان؟",
+          "answer_ar": "النبي نوح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-013",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي السورة الوحيدة في القرآن المسماة باسم امرأة؟",
+          "answer_ar": "سورة مريم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-014",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي السورة الوحيدة في القرآن المسماة باسم امرأة؟",
+          "answer_ar": "سورة مريم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-015",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي السورة المرتبطة بقصة الفتية الذين ناموا سنوات طويلة؟",
+          "answer_ar": "سورة الكهف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-016",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي السورة المرتبطة بقصة الفتية الذين ناموا سنوات طويلة؟",
+          "answer_ar": "سورة الكهف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-017",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي السورة التي تذكر قصة الهدهد مع سليمان؟",
+          "answer_ar": "سورة النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-018",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي السورة التي تذكر قصة الهدهد مع سليمان؟",
+          "answer_ar": "سورة النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-019",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي السورة التي تبدأ بالإشارة إلى رحلة الإسراء؟",
+          "answer_ar": "سورة الإسراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-020",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي السورة التي تبدأ بالإشارة إلى رحلة الإسراء؟",
+          "answer_ar": "سورة الإسراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-021",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي السورة التي تتضمن وصايا لقمان لابنه؟",
+          "answer_ar": "سورة لقمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-022",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي السورة التي تتضمن وصايا لقمان لابنه؟",
+          "answer_ar": "سورة لقمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-023",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي السورة التي تتحدث عن أصحاب الفيل؟",
+          "answer_ar": "سورة الفيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-024",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي السورة التي تتحدث عن أصحاب الفيل؟",
+          "answer_ar": "سورة الفيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-025",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو الشهر الذي نزل فيه القرآن؟",
+          "answer_ar": "شهر رمضان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-026",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو الشهر الذي نزل فيه القرآن؟",
+          "answer_ar": "شهر رمضان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-027",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي الليلة التي وصفها القرآن بأنها خير من ألف شهر؟",
+          "answer_ar": "ليلة القدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-028",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي الليلة التي وصفها القرآن بأنها خير من ألف شهر؟",
+          "answer_ar": "ليلة القدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-029",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي عبادة مالية تتكرر مع الصلاة في مواضع كثيرة؟",
+          "answer_ar": "الزكاة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-030",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي عبادة مالية تتكرر مع الصلاة في مواضع كثيرة؟",
+          "answer_ar": "الزكاة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-031",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو خلق قرآني يتكرر التأكيد عليه بعد التوحيد في مواضع؟",
+          "answer_ar": "بر الوالدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-032",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو خلق قرآني يتكرر التأكيد عليه بعد التوحيد في مواضع؟",
+          "answer_ar": "بر الوالدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-033",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو قيمة قرآنية مرتبطة بالإيمان والاستقامة؟",
+          "answer_ar": "الصدق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-034",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو قيمة قرآنية مرتبطة بالإيمان والاستقامة؟",
+          "answer_ar": "الصدق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-035",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو خلق قرآني يؤمر به عند الشدائد؟",
+          "answer_ar": "الصبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-036",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو خلق قرآني يؤمر به عند الشدائد؟",
+          "answer_ar": "الصبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-037",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي رجوع العبد إلى الله وطلب مغفرته؟",
+          "answer_ar": "التوبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-038",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي رجوع العبد إلى الله وطلب مغفرته؟",
+          "answer_ar": "التوبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-039",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو مبدأ قرآني في الحكم والسلوك بين الناس؟",
+          "answer_ar": "العدل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-040",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو مبدأ قرآني في الحكم والسلوك بين الناس؟",
+          "answer_ar": "العدل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-041",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هي قاعدة قرآنية معروفة في باب الاعتقاد؟",
+          "answer_ar": "لا إكراه في الدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-042",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هي قاعدة قرآنية معروفة في باب الاعتقاد؟",
+          "answer_ar": "لا إكراه في الدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-043",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو أول إنسان خلقه الله بحسب القرآن؟",
+          "answer_ar": "آدم عليه السلام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-044",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو أول إنسان خلقه الله بحسب القرآن؟",
+          "answer_ar": "آدم عليه السلام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-045",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هما الأخوان المذكوران في قصة القربان والقتل؟",
+          "answer_ar": "ابنا آدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-046",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هما الأخوان المذكوران في قصة القربان والقتل؟",
+          "answer_ar": "ابنا آدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-047",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو الشخصية القرآنية المرتبطة ببناء السد على يأجوج ومأجوج؟",
+          "answer_ar": "ذو القرنين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-048",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو الشخصية القرآنية المرتبطة ببناء السد على يأجوج ومأجوج؟",
+          "answer_ar": "ذو القرنين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-049",
+          "points": 200,
+          "question_ar": "ما الاسم أو المفهوم الذي هو اليوم الذي يتكرر ذكره للحساب والجزاء؟",
+          "answer_ar": "يوم القيامة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-200-050",
+          "points": 200,
+          "question_ar": "أي إجابة صحيحة تنطبق على شيء هو اليوم الذي يتكرر ذكره للحساب والجزاء؟",
+          "answer_ar": "يوم القيامة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-001",
+          "points": 400,
+          "question_ar": "دلـيل: تُعرف أيضًا باسم «أم الكتاب». ما الجواب؟",
+          "answer_ar": "سورة الفاتحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-002",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تُعرف أيضًا باسم «أم الكتاب»»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة الفاتحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-003",
+          "points": 400,
+          "question_ar": "دلـيل: تضم آية الكرسي وأطول آية في القرآن (آية الدين). ما الجواب؟",
+          "answer_ar": "سورة البقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-004",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تضم آية الكرسي وأطول آية في القرآن (آية الدين)»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة البقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-005",
+          "points": 400,
+          "question_ar": "دلـيل: عدد آياتها ثلاث آيات. ما الجواب؟",
+          "answer_ar": "سورة الكوثر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-006",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «عدد آياتها ثلاث آيات»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة الكوثر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-007",
+          "points": 400,
+          "question_ar": "دلـيل: تبدأ بقصة يوسف وتنتهي بتمامها في السورة نفسها. ما الجواب؟",
+          "answer_ar": "سورة يوسف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-008",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تبدأ بقصة يوسف وتنتهي بتمامها في السورة نفسها»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة يوسف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-009",
+          "points": 400,
+          "question_ar": "دلـيل: تتكرر قصته في سور عديدة مثل طه والقصص والأعراف. ما الجواب؟",
+          "answer_ar": "النبي موسى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-010",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تتكرر قصته في سور عديدة مثل طه والقصص والأعراف»، ما الإجابة الأدق؟",
+          "answer_ar": "النبي موسى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-011",
+          "points": 400,
+          "question_ar": "دلـيل: وردت دعوته لقومه طويلًا ثم نجاته بالمؤمنين. ما الجواب؟",
+          "answer_ar": "النبي نوح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-012",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «وردت دعوته لقومه طويلًا ثم نجاته بالمؤمنين»، ما الإجابة الأدق؟",
+          "answer_ar": "النبي نوح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-013",
+          "points": 400,
+          "question_ar": "دلـيل: تتضمن قصة ميلاد عيسى عليه السلام. ما الجواب؟",
+          "answer_ar": "سورة مريم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-014",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تتضمن قصة ميلاد عيسى عليه السلام»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة مريم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-015",
+          "points": 400,
+          "question_ar": "دلـيل: تتضمن أيضًا قصص صاحب الجنتين وموسى والخضر وذي القرنين. ما الجواب؟",
+          "answer_ar": "سورة الكهف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-016",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تتضمن أيضًا قصص صاحب الجنتين وموسى والخضر وذي القرنين»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة الكهف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-017",
+          "points": 400,
+          "question_ar": "دلـيل: تتضمن خطاب الهدهد عن ملكة سبأ. ما الجواب؟",
+          "answer_ar": "سورة النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-018",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تتضمن خطاب الهدهد عن ملكة سبأ»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-019",
+          "points": 400,
+          "question_ar": "دلـيل: تفتتح بقوله تعالى «سبحان الذي أسرى بعبده...». ما الجواب؟",
+          "answer_ar": "سورة الإسراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-020",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تفتتح بقوله تعالى «سبحان الذي أسرى بعبده...»»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة الإسراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-021",
+          "points": 400,
+          "question_ar": "دلـيل: من أبرز معانيها التوحيد وبر الوالدين والأخلاق. ما الجواب؟",
+          "answer_ar": "سورة لقمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-022",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «من أبرز معانيها التوحيد وبر الوالدين والأخلاق»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة لقمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-023",
+          "points": 400,
+          "question_ar": "دلـيل: تصف حماية الله للبيت الحرام من جيش أبرهة. ما الجواب؟",
+          "answer_ar": "سورة الفيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-024",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تصف حماية الله للبيت الحرام من جيش أبرهة»، ما الإجابة الأدق؟",
+          "answer_ar": "سورة الفيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-025",
+          "points": 400,
+          "question_ar": "دلـيل: ورد ذلك صراحة في سورة البقرة. ما الجواب؟",
+          "answer_ar": "شهر رمضان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-026",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ورد ذلك صراحة في سورة البقرة»، ما الإجابة الأدق؟",
+          "answer_ar": "شهر رمضان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-027",
+          "points": 400,
+          "question_ar": "دلـيل: ذُكرت في سورة مستقلة باسمها. ما الجواب؟",
+          "answer_ar": "ليلة القدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-028",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ذُكرت في سورة مستقلة باسمها»، ما الإجابة الأدق؟",
+          "answer_ar": "ليلة القدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-029",
+          "points": 400,
+          "question_ar": "دلـيل: ترتبط بالتطهير والنماء ومواساة المحتاجين. ما الجواب؟",
+          "answer_ar": "الزكاة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-030",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ترتبط بالتطهير والنماء ومواساة المحتاجين»، ما الإجابة الأدق؟",
+          "answer_ar": "الزكاة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-031",
+          "points": 400,
+          "question_ar": "دلـيل: ورد بمعاني الإحسان وخفض الجناح لهما. ما الجواب؟",
+          "answer_ar": "بر الوالدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-032",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ورد بمعاني الإحسان وخفض الجناح لهما»، ما الإجابة الأدق؟",
+          "answer_ar": "بر الوالدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-033",
+          "points": 400,
+          "question_ar": "دلـيل: ورد الثناء على الصادقين في آيات متعددة. ما الجواب؟",
+          "answer_ar": "الصدق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-034",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ورد الثناء على الصادقين في آيات متعددة»، ما الإجابة الأدق؟",
+          "answer_ar": "الصدق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-035",
+          "points": 400,
+          "question_ar": "دلـيل: اقترن في القرآن بالصلاة واليقين بوعد الله. ما الجواب؟",
+          "answer_ar": "الصبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-036",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «اقترن في القرآن بالصلاة واليقين بوعد الله»، ما الإجابة الأدق؟",
+          "answer_ar": "الصبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-037",
+          "points": 400,
+          "question_ar": "دلـيل: ورد في القرآن أن الله يحب التوابين. ما الجواب؟",
+          "answer_ar": "التوبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-038",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ورد في القرآن أن الله يحب التوابين»، ما الإجابة الأدق؟",
+          "answer_ar": "التوبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-039",
+          "points": 400,
+          "question_ar": "دلـيل: ورد اقترانه بالإحسان في آية جامعة شهيرة. ما الجواب؟",
+          "answer_ar": "العدل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-040",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ورد اقترانه بالإحسان في آية جامعة شهيرة»، ما الإجابة الأدق؟",
+          "answer_ar": "العدل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-041",
+          "points": 400,
+          "question_ar": "دلـيل: وردت نصًا في سورة البقرة. ما الجواب؟",
+          "answer_ar": "لا إكراه في الدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-042",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «وردت نصًا في سورة البقرة»، ما الإجابة الأدق؟",
+          "answer_ar": "لا إكراه في الدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-043",
+          "points": 400,
+          "question_ar": "دلـيل: ارتبطت قصته بالسجود وتعليم الأسماء. ما الجواب؟",
+          "answer_ar": "آدم عليه السلام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-044",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ارتبطت قصته بالسجود وتعليم الأسماء»، ما الإجابة الأدق؟",
+          "answer_ar": "آدم عليه السلام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-045",
+          "points": 400,
+          "question_ar": "دلـيل: تُذكر القصة في سورة المائدة دون تسمية صريحة. ما الجواب؟",
+          "answer_ar": "ابنا آدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-046",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تُذكر القصة في سورة المائدة دون تسمية صريحة»، ما الإجابة الأدق؟",
+          "answer_ar": "ابنا آدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-047",
+          "points": 400,
+          "question_ar": "دلـيل: ترد قصته ضمن سورة الكهف. ما الجواب؟",
+          "answer_ar": "ذو القرنين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-048",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «ترد قصته ضمن سورة الكهف»، ما الإجابة الأدق؟",
+          "answer_ar": "ذو القرنين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-049",
+          "points": 400,
+          "question_ar": "دلـيل: تسمى به سورة كاملة في القرآن. ما الجواب؟",
+          "answer_ar": "يوم القيامة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-400-050",
+          "points": 400,
+          "question_ar": "بناءً على الدليل التالي «تسمى به سورة كاملة في القرآن»، ما الإجابة الأدق؟",
+          "answer_ar": "يوم القيامة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Quran.com",
+              "type": "reputable_media",
+              "reference": "Quran verses and thematic navigation"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-001",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي أول سورة في ترتيب المصحف. 2) تُعرف أيضًا باسم «أم الكتاب». ما الجواب؟",
+          "answer_ar": "سورة الفاتحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-002",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي أول سورة في ترتيب المصحف، وكذلك تُعرف أيضًا باسم «أم الكتاب»؟",
+          "answer_ar": "سورة الفاتحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-003",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي أطول سورة في القرآن. 2) تضم آية الكرسي وأطول آية في القرآن (آية الدين). ما الجواب؟",
+          "answer_ar": "سورة البقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-004",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي أطول سورة في القرآن، وكذلك تضم آية الكرسي وأطول آية في القرآن (آية الدين)؟",
+          "answer_ar": "سورة البقرة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-005",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي أقصر سورة في القرآن من حيث عدد الآيات. 2) عدد آياتها ثلاث آيات. ما الجواب؟",
+          "answer_ar": "سورة الكوثر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-006",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي أقصر سورة في القرآن من حيث عدد الآيات، وكذلك عدد آياتها ثلاث آيات؟",
+          "answer_ar": "سورة الكوثر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-007",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي السورة التي تروي قصة نبي واحد بتفصيل متسلسل. 2) تبدأ بقصة يوسف وتنتهي بتمامها في السورة نفسها. ما الجواب؟",
+          "answer_ar": "سورة يوسف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-008",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي السورة التي تروي قصة نبي واحد بتفصيل متسلسل، وكذلك تبدأ بقصة يوسف وتنتهي بتمامها في السورة نفسها؟",
+          "answer_ar": "سورة يوسف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-009",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو النبي الأكثر ذكرًا بالاسم في القرآن. 2) تتكرر قصته في سور عديدة مثل طه والقصص والأعراف. ما الجواب؟",
+          "answer_ar": "النبي موسى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-010",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو النبي الأكثر ذكرًا بالاسم في القرآن، وكذلك تتكرر قصته في سور عديدة مثل طه والقصص والأعراف؟",
+          "answer_ar": "النبي موسى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-011",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو النبي المرتبط بقصة السفينة والطوفان. 2) وردت دعوته لقومه طويلًا ثم نجاته بالمؤمنين. ما الجواب؟",
+          "answer_ar": "النبي نوح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-012",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو النبي المرتبط بقصة السفينة والطوفان، وكذلك وردت دعوته لقومه طويلًا ثم نجاته بالمؤمنين؟",
+          "answer_ar": "النبي نوح",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-013",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي السورة الوحيدة في القرآن المسماة باسم امرأة. 2) تتضمن قصة ميلاد عيسى عليه السلام. ما الجواب؟",
+          "answer_ar": "سورة مريم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-014",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي السورة الوحيدة في القرآن المسماة باسم امرأة، وكذلك تتضمن قصة ميلاد عيسى عليه السلام؟",
+          "answer_ar": "سورة مريم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-015",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي السورة المرتبطة بقصة الفتية الذين ناموا سنوات طويلة. 2) تتضمن أيضًا قصص صاحب الجنتين وموسى والخضر وذي القرنين. ما الجواب؟",
+          "answer_ar": "سورة الكهف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-016",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي السورة المرتبطة بقصة الفتية الذين ناموا سنوات طويلة، وكذلك تتضمن أيضًا قصص صاحب الجنتين وموسى والخضر وذي القرنين؟",
+          "answer_ar": "سورة الكهف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-017",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي السورة التي تذكر قصة الهدهد مع سليمان. 2) تتضمن خطاب الهدهد عن ملكة سبأ. ما الجواب؟",
+          "answer_ar": "سورة النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-018",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي السورة التي تذكر قصة الهدهد مع سليمان، وكذلك تتضمن خطاب الهدهد عن ملكة سبأ؟",
+          "answer_ar": "سورة النمل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-019",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي السورة التي تبدأ بالإشارة إلى رحلة الإسراء. 2) تفتتح بقوله تعالى «سبحان الذي أسرى بعبده...». ما الجواب؟",
+          "answer_ar": "سورة الإسراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-020",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي السورة التي تبدأ بالإشارة إلى رحلة الإسراء، وكذلك تفتتح بقوله تعالى «سبحان الذي أسرى بعبده...»؟",
+          "answer_ar": "سورة الإسراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-021",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي السورة التي تتضمن وصايا لقمان لابنه. 2) من أبرز معانيها التوحيد وبر الوالدين والأخلاق. ما الجواب؟",
+          "answer_ar": "سورة لقمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-022",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي السورة التي تتضمن وصايا لقمان لابنه، وكذلك من أبرز معانيها التوحيد وبر الوالدين والأخلاق؟",
+          "answer_ar": "سورة لقمان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-023",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي السورة التي تتحدث عن أصحاب الفيل. 2) تصف حماية الله للبيت الحرام من جيش أبرهة. ما الجواب؟",
+          "answer_ar": "سورة الفيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-024",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي السورة التي تتحدث عن أصحاب الفيل، وكذلك تصف حماية الله للبيت الحرام من جيش أبرهة؟",
+          "answer_ar": "سورة الفيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-025",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو الشهر الذي نزل فيه القرآن. 2) ورد ذلك صراحة في سورة البقرة. ما الجواب؟",
+          "answer_ar": "شهر رمضان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-026",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو الشهر الذي نزل فيه القرآن، وكذلك ورد ذلك صراحة في سورة البقرة؟",
+          "answer_ar": "شهر رمضان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-027",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي الليلة التي وصفها القرآن بأنها خير من ألف شهر. 2) ذُكرت في سورة مستقلة باسمها. ما الجواب؟",
+          "answer_ar": "ليلة القدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-028",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي الليلة التي وصفها القرآن بأنها خير من ألف شهر، وكذلك ذُكرت في سورة مستقلة باسمها؟",
+          "answer_ar": "ليلة القدر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-029",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي عبادة مالية تتكرر مع الصلاة في مواضع كثيرة. 2) ترتبط بالتطهير والنماء ومواساة المحتاجين. ما الجواب؟",
+          "answer_ar": "الزكاة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-030",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي عبادة مالية تتكرر مع الصلاة في مواضع كثيرة، وكذلك ترتبط بالتطهير والنماء ومواساة المحتاجين؟",
+          "answer_ar": "الزكاة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-031",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو خلق قرآني يتكرر التأكيد عليه بعد التوحيد في مواضع. 2) ورد بمعاني الإحسان وخفض الجناح لهما. ما الجواب؟",
+          "answer_ar": "بر الوالدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-032",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو خلق قرآني يتكرر التأكيد عليه بعد التوحيد في مواضع، وكذلك ورد بمعاني الإحسان وخفض الجناح لهما؟",
+          "answer_ar": "بر الوالدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-033",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو قيمة قرآنية مرتبطة بالإيمان والاستقامة. 2) ورد الثناء على الصادقين في آيات متعددة. ما الجواب؟",
+          "answer_ar": "الصدق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-034",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو قيمة قرآنية مرتبطة بالإيمان والاستقامة، وكذلك ورد الثناء على الصادقين في آيات متعددة؟",
+          "answer_ar": "الصدق",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-035",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو خلق قرآني يؤمر به عند الشدائد. 2) اقترن في القرآن بالصلاة واليقين بوعد الله. ما الجواب؟",
+          "answer_ar": "الصبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-036",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو خلق قرآني يؤمر به عند الشدائد، وكذلك اقترن في القرآن بالصلاة واليقين بوعد الله؟",
+          "answer_ar": "الصبر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-037",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي رجوع العبد إلى الله وطلب مغفرته. 2) ورد في القرآن أن الله يحب التوابين. ما الجواب؟",
+          "answer_ar": "التوبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-038",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي رجوع العبد إلى الله وطلب مغفرته، وكذلك ورد في القرآن أن الله يحب التوابين؟",
+          "answer_ar": "التوبة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-039",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مبدأ قرآني في الحكم والسلوك بين الناس. 2) ورد اقترانه بالإحسان في آية جامعة شهيرة. ما الجواب؟",
+          "answer_ar": "العدل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-040",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مبدأ قرآني في الحكم والسلوك بين الناس، وكذلك ورد اقترانه بالإحسان في آية جامعة شهيرة؟",
+          "answer_ar": "العدل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-041",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي قاعدة قرآنية معروفة في باب الاعتقاد. 2) وردت نصًا في سورة البقرة. ما الجواب؟",
+          "answer_ar": "لا إكراه في الدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-042",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي قاعدة قرآنية معروفة في باب الاعتقاد، وكذلك وردت نصًا في سورة البقرة؟",
+          "answer_ar": "لا إكراه في الدين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-043",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو أول إنسان خلقه الله بحسب القرآن. 2) ارتبطت قصته بالسجود وتعليم الأسماء. ما الجواب؟",
+          "answer_ar": "آدم عليه السلام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-044",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو أول إنسان خلقه الله بحسب القرآن، وكذلك ارتبطت قصته بالسجود وتعليم الأسماء؟",
+          "answer_ar": "آدم عليه السلام",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-045",
+          "points": 600,
+          "question_ar": "دلائل: 1) هما الأخوان المذكوران في قصة القربان والقتل. 2) تُذكر القصة في سورة المائدة دون تسمية صريحة. ما الجواب؟",
+          "answer_ar": "ابنا آدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-046",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هما الأخوان المذكوران في قصة القربان والقتل، وكذلك تُذكر القصة في سورة المائدة دون تسمية صريحة؟",
+          "answer_ar": "ابنا آدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-047",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو الشخصية القرآنية المرتبطة ببناء السد على يأجوج ومأجوج. 2) ترد قصته ضمن سورة الكهف. ما الجواب؟",
+          "answer_ar": "ذو القرنين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-048",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو الشخصية القرآنية المرتبطة ببناء السد على يأجوج ومأجوج، وكذلك ترد قصته ضمن سورة الكهف؟",
+          "answer_ar": "ذو القرنين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-049",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو اليوم الذي يتكرر ذكره للحساب والجزاء. 2) تسمى به سورة كاملة في القرآن. ما الجواب؟",
+          "answer_ar": "يوم القيامة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        },
+        {
+          "id": "CAT21-600-050",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو اليوم الذي يتكرر ذكره للحساب والجزاء، وكذلك تسمى به سورة كاملة في القرآن؟",
+          "answer_ar": "يوم القيامة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "King Fahd Complex",
+              "type": "official",
+              "reference": "Quran text and publication standards"
+            },
+            {
+              "title": "Tafsir Ibn Kathir (Eng. refs)",
+              "type": "reputable_media",
+              "reference": "widely used classical commentary context"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 18 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "خمن الشخصية (شخصيات تاريخية ومشاهير — معروفين للجميع)",
+      "name_en": "Guess the Person",
+      "questions": [
+        {
+          "id": "CAT18-200-001",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو عالم فيزياء ارتبط بالنسبية ومعادلة E=mc²؟",
+          "answer_ar": "ألبرت أينشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-002",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو عالم فيزياء ارتبط بالنسبية ومعادلة E=mc²؟",
+          "answer_ar": "ألبرت أينشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-003",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي عالمة رائدة في دراسة النشاط الإشعاعي؟",
+          "answer_ar": "ماري كوري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-004",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي عالمة رائدة في دراسة النشاط الإشعاعي؟",
+          "answer_ar": "ماري كوري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-005",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو عالم صاغ قوانين الحركة والجاذبية الكلاسيكية؟",
+          "answer_ar": "إسحاق نيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-006",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو عالم صاغ قوانين الحركة والجاذبية الكلاسيكية؟",
+          "answer_ar": "إسحاق نيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-007",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو عالم أحياء ارتبط بنظرية التطور بالانتقاء الطبيعي؟",
+          "answer_ar": "تشارلز داروين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-008",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو عالم أحياء ارتبط بنظرية التطور بالانتقاء الطبيعي؟",
+          "answer_ar": "تشارلز داروين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-009",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو مخترع ومهندس ارتبط بالتيار المتناوب؟",
+          "answer_ar": "نيكولا تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-010",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو مخترع ومهندس ارتبط بالتيار المتناوب؟",
+          "answer_ar": "نيكولا تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-011",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو مخترع أمريكي ارتبط بالمصباح الكهربائي العملي؟",
+          "answer_ar": "توماس إديسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-012",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو مخترع أمريكي ارتبط بالمصباح الكهربائي العملي؟",
+          "answer_ar": "توماس إديسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-013",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو فنان وعالم عصر النهضة رسم الموناليزا؟",
+          "answer_ar": "ليوناردو دا فينشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-014",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو فنان وعالم عصر النهضة رسم الموناليزا؟",
+          "answer_ar": "ليوناردو دا فينشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-015",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو كاتب مسرحي إنجليزي من أشهر الأعمال «هاملت»؟",
+          "answer_ar": "ويليام شكسبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-016",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو كاتب مسرحي إنجليزي من أشهر الأعمال «هاملت»؟",
+          "answer_ar": "ويليام شكسبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-017",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو فنان إسباني ارتبط بالتكعيبية؟",
+          "answer_ar": "بابلو بيكاسو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-018",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو فنان إسباني ارتبط بالتكعيبية؟",
+          "answer_ar": "بابلو بيكاسو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-019",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو مؤلف نمساوي عبقري من العصر الكلاسيكي؟",
+          "answer_ar": "فولفغانغ أماديوس موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-020",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو مؤلف نمساوي عبقري من العصر الكلاسيكي؟",
+          "answer_ar": "فولفغانغ أماديوس موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-021",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو مؤلف ألماني انتقل بين الكلاسيكية والرومانسية؟",
+          "answer_ar": "لودفيغ فان بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-022",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو مؤلف ألماني انتقل بين الكلاسيكية والرومانسية؟",
+          "answer_ar": "لودفيغ فان بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-023",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو أسطورة كرة سلة ارتبط بشيكاغو بولز؟",
+          "answer_ar": "مايكل جوردان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-024",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو أسطورة كرة سلة ارتبط بشيكاغو بولز؟",
+          "answer_ar": "مايكل جوردان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-025",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو عدّاء جامايكي صاحب رقم 100م العالمي؟",
+          "answer_ar": "أوسين بولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-026",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو عدّاء جامايكي صاحب رقم 100م العالمي؟",
+          "answer_ar": "أوسين بولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-027",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو لاعب كرة قدم أرجنتيني فاز بمونديال 2022؟",
+          "answer_ar": "ليونيل ميسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-028",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو لاعب كرة قدم أرجنتيني فاز بمونديال 2022؟",
+          "answer_ar": "ليونيل ميسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-029",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو لاعب كرة قدم برتغالي اشتهر بالرقم 7؟",
+          "answer_ar": "كريستيانو رونالدو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-030",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو لاعب كرة قدم برتغالي اشتهر بالرقم 7؟",
+          "answer_ar": "كريستيانو رونالدو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-031",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هي لاعبة تنس أمريكية من أعظم لاعبات العصر الحديث؟",
+          "answer_ar": "سيرينا ويليامز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-032",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هي لاعبة تنس أمريكية من أعظم لاعبات العصر الحديث؟",
+          "answer_ar": "سيرينا ويليامز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-033",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو لاعب تنس سويسري معروف بأناقته في اللعب؟",
+          "answer_ar": "روجيه فيدرر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-034",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو لاعب تنس سويسري معروف بأناقته في اللعب؟",
+          "answer_ar": "روجيه فيدرر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-035",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو مغنٍ أمريكي لُقب بملك البوب؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-036",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو مغنٍ أمريكي لُقب بملك البوب؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-037",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو مغنٍ أمريكي لُقب بملك الروك آند رول؟",
+          "answer_ar": "إلفيس بريسلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-038",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو مغنٍ أمريكي لُقب بملك الروك آند رول؟",
+          "answer_ar": "إلفيس بريسلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-039",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو ممثل ومخرج أيقوني في السينما الصامتة؟",
+          "answer_ar": "تشارلي شابلن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-040",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو ممثل ومخرج أيقوني في السينما الصامتة؟",
+          "answer_ar": "تشارلي شابلن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-041",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو مخرج أمريكي أخرج Jurassic Park وE.T.؟",
+          "answer_ar": "ستيفن سبيلبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-042",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو مخرج أمريكي أخرج Jurassic Park وE.T.؟",
+          "answer_ar": "ستيفن سبيلبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-043",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو ممثل أمريكي فاز بالأوسكار مرتين متتاليتين؟",
+          "answer_ar": "توم هانكس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-044",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو ممثل أمريكي فاز بالأوسكار مرتين متتاليتين؟",
+          "answer_ar": "توم هانكس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-045",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو ممثل أمريكي من أبرز أدواره Titanic وInception؟",
+          "answer_ar": "ليوناردو دي كابريو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-046",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو ممثل أمريكي من أبرز أدواره Titanic وInception؟",
+          "answer_ar": "ليوناردو دي كابريو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-047",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو نجم أكشن من هونغ كونغ اشتهر بالكوميديا القتالية؟",
+          "answer_ar": "جاكي شان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-048",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو نجم أكشن من هونغ كونغ اشتهر بالكوميديا القتالية؟",
+          "answer_ar": "جاكي شان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-049",
+          "points": 200,
+          "question_ar": "ما الاسم أو المصطلح الذي هو رائد ترفيه أسس شركة تحمل اسمه؟",
+          "answer_ar": "والت ديزني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-200-050",
+          "points": 200,
+          "question_ar": "أي إجابة تصف شيئًا هو رائد ترفيه أسس شركة تحمل اسمه؟",
+          "answer_ar": "والت ديزني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-001",
+          "points": 400,
+          "question_ar": "دلـيل: حصل على نوبل في الفيزياء عام 1921. ما الإجابة؟",
+          "answer_ar": "ألبرت أينشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-002",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «حصل على نوبل في الفيزياء عام 1921»، ما الاسم الصحيح؟",
+          "answer_ar": "ألبرت أينشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-003",
+          "points": 400,
+          "question_ar": "دلـيل: فازت بجائزتي نوبل في مجالين مختلفين. ما الإجابة؟",
+          "answer_ar": "ماري كوري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-004",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «فازت بجائزتي نوبل في مجالين مختلفين»، ما الاسم الصحيح؟",
+          "answer_ar": "ماري كوري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-005",
+          "points": 400,
+          "question_ar": "دلـيل: ألّف «المبادئ الرياضية» في الفيزياء. ما الإجابة؟",
+          "answer_ar": "إسحاق نيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-006",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ألّف «المبادئ الرياضية» في الفيزياء»، ما الاسم الصحيح؟",
+          "answer_ar": "إسحاق نيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-007",
+          "points": 400,
+          "question_ar": "دلـيل: نشر كتاب «أصل الأنواع». ما الإجابة؟",
+          "answer_ar": "تشارلز داروين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-008",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «نشر كتاب «أصل الأنواع»»، ما الاسم الصحيح؟",
+          "answer_ar": "تشارلز داروين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-009",
+          "points": 400,
+          "question_ar": "دلـيل: اسمه يُستخدم اليوم علامة لشركة سيارات كهربائية. ما الإجابة؟",
+          "answer_ar": "نيكولا تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-010",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «اسمه يُستخدم اليوم علامة لشركة سيارات كهربائية»، ما الاسم الصحيح؟",
+          "answer_ar": "نيكولا تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-011",
+          "points": 400,
+          "question_ar": "دلـيل: أسس مختبرًا صناعيًا للابتكار في أواخر القرن 19. ما الإجابة؟",
+          "answer_ar": "توماس إديسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-012",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «أسس مختبرًا صناعيًا للابتكار في أواخر القرن 19»، ما الاسم الصحيح؟",
+          "answer_ar": "توماس إديسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-013",
+          "points": 400,
+          "question_ar": "دلـيل: يُعد مثالًا على «الإنسان الموسوعي». ما الإجابة؟",
+          "answer_ar": "ليوناردو دا فينشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-014",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يُعد مثالًا على «الإنسان الموسوعي»»، ما الاسم الصحيح؟",
+          "answer_ar": "ليوناردو دا فينشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-015",
+          "points": 400,
+          "question_ar": "دلـيل: ينسب إليه قول «To be or not to be». ما الإجابة؟",
+          "answer_ar": "ويليام شكسبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-016",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ينسب إليه قول «To be or not to be»»، ما الاسم الصحيح؟",
+          "answer_ar": "ويليام شكسبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-017",
+          "points": 400,
+          "question_ar": "دلـيل: رسم لوحة «غيرنيكا» الشهيرة. ما الإجابة؟",
+          "answer_ar": "بابلو بيكاسو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-018",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «رسم لوحة «غيرنيكا» الشهيرة»، ما الاسم الصحيح؟",
+          "answer_ar": "بابلو بيكاسو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-019",
+          "points": 400,
+          "question_ar": "دلـيل: كتب أعمالًا موسيقية كبرى وتوفي شابًا. ما الإجابة؟",
+          "answer_ar": "فولفغانغ أماديوس موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-020",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «كتب أعمالًا موسيقية كبرى وتوفي شابًا»، ما الاسم الصحيح؟",
+          "answer_ar": "فولفغانغ أماديوس موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-021",
+          "points": 400,
+          "question_ar": "دلـيل: أكمل تأليف أعمال كبيرة رغم فقدان السمع. ما الإجابة؟",
+          "answer_ar": "لودفيغ فان بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-022",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «أكمل تأليف أعمال كبيرة رغم فقدان السمع»، ما الاسم الصحيح؟",
+          "answer_ar": "لودفيغ فان بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-023",
+          "points": 400,
+          "question_ar": "دلـيل: يعرف أيضًا بعلامة Air Jordan. ما الإجابة؟",
+          "answer_ar": "مايكل جوردان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-024",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يعرف أيضًا بعلامة Air Jordan»، ما الاسم الصحيح؟",
+          "answer_ar": "مايكل جوردان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-025",
+          "points": 400,
+          "question_ar": "دلـيل: لقبه الشهير البرق. ما الإجابة؟",
+          "answer_ar": "أوسين بولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-026",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «لقبه الشهير البرق»، ما الاسم الصحيح؟",
+          "answer_ar": "أوسين بولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-027",
+          "points": 400,
+          "question_ar": "دلـيل: يحمل أكبر عدد كرات ذهبية حتى 2026. ما الإجابة؟",
+          "answer_ar": "ليونيل ميسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-028",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يحمل أكبر عدد كرات ذهبية حتى 2026»، ما الاسم الصحيح؟",
+          "answer_ar": "ليونيل ميسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-029",
+          "points": 400,
+          "question_ar": "دلـيل: فاز بدوري الأبطال مرات عديدة مع أكثر من نادٍ كبير. ما الإجابة؟",
+          "answer_ar": "كريستيانو رونالدو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-030",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «فاز بدوري الأبطال مرات عديدة مع أكثر من نادٍ كبير»، ما الاسم الصحيح؟",
+          "answer_ar": "كريستيانو رونالدو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-031",
+          "points": 400,
+          "question_ar": "دلـيل: حققت ألقاب غراند سلام فردية عديدة. ما الإجابة؟",
+          "answer_ar": "سيرينا ويليامز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-032",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «حققت ألقاب غراند سلام فردية عديدة»، ما الاسم الصحيح؟",
+          "answer_ar": "سيرينا ويليامز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-033",
+          "points": 400,
+          "question_ar": "دلـيل: فاز بويمبلدون عدة مرات. ما الإجابة؟",
+          "answer_ar": "روجيه فيدرر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-034",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «فاز بويمبلدون عدة مرات»، ما الاسم الصحيح؟",
+          "answer_ar": "روجيه فيدرر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-035",
+          "points": 400,
+          "question_ar": "دلـيل: ألبومه Thriller من الأكثر مبيعًا تاريخيًا. ما الإجابة؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-036",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ألبومه Thriller من الأكثر مبيعًا تاريخيًا»، ما الاسم الصحيح؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-037",
+          "points": 400,
+          "question_ar": "دلـيل: برز بقوة في الخمسينيات. ما الإجابة؟",
+          "answer_ar": "إلفيس بريسلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-038",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «برز بقوة في الخمسينيات»، ما الاسم الصحيح؟",
+          "answer_ar": "إلفيس بريسلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-039",
+          "points": 400,
+          "question_ar": "دلـيل: اشتهر بشخصية المتشرد والقبعة والعصا. ما الإجابة؟",
+          "answer_ar": "تشارلي شابلن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-040",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «اشتهر بشخصية المتشرد والقبعة والعصا»، ما الاسم الصحيح؟",
+          "answer_ar": "تشارلي شابلن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-041",
+          "points": 400,
+          "question_ar": "دلـيل: من أكثر المخرجين تأثيرًا تجاريًا في هوليوود. ما الإجابة؟",
+          "answer_ar": "ستيفن سبيلبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-042",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «من أكثر المخرجين تأثيرًا تجاريًا في هوليوود»، ما الاسم الصحيح؟",
+          "answer_ar": "ستيفن سبيلبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-043",
+          "points": 400,
+          "question_ar": "دلـيل: من أفلامه Forrest Gump وCast Away. ما الإجابة؟",
+          "answer_ar": "توم هانكس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-044",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «من أفلامه Forrest Gump وCast Away»، ما الاسم الصحيح؟",
+          "answer_ar": "توم هانكس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-045",
+          "points": 400,
+          "question_ar": "دلـيل: فاز بأوسكار أفضل ممثل عن The Revenant. ما الإجابة؟",
+          "answer_ar": "ليوناردو دي كابريو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-046",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «فاز بأوسكار أفضل ممثل عن The Revenant»، ما الاسم الصحيح؟",
+          "answer_ar": "ليوناردو دي كابريو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-047",
+          "points": 400,
+          "question_ar": "دلـيل: ينفذ كثيرًا من مشاهده الخطرة بنفسه. ما الإجابة؟",
+          "answer_ar": "جاكي شان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-048",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «ينفذ كثيرًا من مشاهده الخطرة بنفسه»، ما الاسم الصحيح؟",
+          "answer_ar": "جاكي شان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-049",
+          "points": 400,
+          "question_ar": "دلـيل: يرتبط بشخصية ميكي ماوس ومدن الملاهي العالمية. ما الإجابة؟",
+          "answer_ar": "والت ديزني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-400-050",
+          "points": 400,
+          "question_ar": "بناءً على الوصف «يرتبط بشخصية ميكي ماوس ومدن الملاهي العالمية»، ما الاسم الصحيح؟",
+          "answer_ar": "والت ديزني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Biography.com",
+              "type": "reputable_media",
+              "reference": "mainstream biographical profiles"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-001",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو عالم فيزياء ارتبط بالنسبية ومعادلة E=mc². 2) حصل على نوبل في الفيزياء عام 1921. ما الجواب؟",
+          "answer_ar": "ألبرت أينشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-002",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو عالم فيزياء ارتبط بالنسبية ومعادلة E=mc²، وكذلك حصل على نوبل في الفيزياء عام 1921؟",
+          "answer_ar": "ألبرت أينشتاين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-003",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي عالمة رائدة في دراسة النشاط الإشعاعي. 2) فازت بجائزتي نوبل في مجالين مختلفين. ما الجواب؟",
+          "answer_ar": "ماري كوري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-004",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي عالمة رائدة في دراسة النشاط الإشعاعي، وكذلك فازت بجائزتي نوبل في مجالين مختلفين؟",
+          "answer_ar": "ماري كوري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-005",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو عالم صاغ قوانين الحركة والجاذبية الكلاسيكية. 2) ألّف «المبادئ الرياضية» في الفيزياء. ما الجواب؟",
+          "answer_ar": "إسحاق نيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-006",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو عالم صاغ قوانين الحركة والجاذبية الكلاسيكية، وكذلك ألّف «المبادئ الرياضية» في الفيزياء؟",
+          "answer_ar": "إسحاق نيوتن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-007",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو عالم أحياء ارتبط بنظرية التطور بالانتقاء الطبيعي. 2) نشر كتاب «أصل الأنواع». ما الجواب؟",
+          "answer_ar": "تشارلز داروين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-008",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو عالم أحياء ارتبط بنظرية التطور بالانتقاء الطبيعي، وكذلك نشر كتاب «أصل الأنواع»؟",
+          "answer_ar": "تشارلز داروين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-009",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مخترع ومهندس ارتبط بالتيار المتناوب. 2) اسمه يُستخدم اليوم علامة لشركة سيارات كهربائية. ما الجواب؟",
+          "answer_ar": "نيكولا تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-010",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مخترع ومهندس ارتبط بالتيار المتناوب، وكذلك اسمه يُستخدم اليوم علامة لشركة سيارات كهربائية؟",
+          "answer_ar": "نيكولا تسلا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-011",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مخترع أمريكي ارتبط بالمصباح الكهربائي العملي. 2) أسس مختبرًا صناعيًا للابتكار في أواخر القرن 19. ما الجواب؟",
+          "answer_ar": "توماس إديسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-012",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مخترع أمريكي ارتبط بالمصباح الكهربائي العملي، وكذلك أسس مختبرًا صناعيًا للابتكار في أواخر القرن 19؟",
+          "answer_ar": "توماس إديسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-013",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو فنان وعالم عصر النهضة رسم الموناليزا. 2) يُعد مثالًا على «الإنسان الموسوعي». ما الجواب؟",
+          "answer_ar": "ليوناردو دا فينشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-014",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو فنان وعالم عصر النهضة رسم الموناليزا، وكذلك يُعد مثالًا على «الإنسان الموسوعي»؟",
+          "answer_ar": "ليوناردو دا فينشي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-015",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو كاتب مسرحي إنجليزي من أشهر الأعمال «هاملت». 2) ينسب إليه قول «To be or not to be». ما الجواب؟",
+          "answer_ar": "ويليام شكسبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-016",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو كاتب مسرحي إنجليزي من أشهر الأعمال «هاملت»، وكذلك ينسب إليه قول «To be or not to be»؟",
+          "answer_ar": "ويليام شكسبير",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-017",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو فنان إسباني ارتبط بالتكعيبية. 2) رسم لوحة «غيرنيكا» الشهيرة. ما الجواب؟",
+          "answer_ar": "بابلو بيكاسو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-018",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو فنان إسباني ارتبط بالتكعيبية، وكذلك رسم لوحة «غيرنيكا» الشهيرة؟",
+          "answer_ar": "بابلو بيكاسو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-019",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مؤلف نمساوي عبقري من العصر الكلاسيكي. 2) كتب أعمالًا موسيقية كبرى وتوفي شابًا. ما الجواب؟",
+          "answer_ar": "فولفغانغ أماديوس موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-020",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مؤلف نمساوي عبقري من العصر الكلاسيكي، وكذلك كتب أعمالًا موسيقية كبرى وتوفي شابًا؟",
+          "answer_ar": "فولفغانغ أماديوس موزارت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-021",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مؤلف ألماني انتقل بين الكلاسيكية والرومانسية. 2) أكمل تأليف أعمال كبيرة رغم فقدان السمع. ما الجواب؟",
+          "answer_ar": "لودفيغ فان بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-022",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مؤلف ألماني انتقل بين الكلاسيكية والرومانسية، وكذلك أكمل تأليف أعمال كبيرة رغم فقدان السمع؟",
+          "answer_ar": "لودفيغ فان بيتهوفن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-023",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو أسطورة كرة سلة ارتبط بشيكاغو بولز. 2) يعرف أيضًا بعلامة Air Jordan. ما الجواب؟",
+          "answer_ar": "مايكل جوردان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-024",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو أسطورة كرة سلة ارتبط بشيكاغو بولز، وكذلك يعرف أيضًا بعلامة Air Jordan؟",
+          "answer_ar": "مايكل جوردان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-025",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو عدّاء جامايكي صاحب رقم 100م العالمي. 2) لقبه الشهير البرق. ما الجواب؟",
+          "answer_ar": "أوسين بولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-026",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو عدّاء جامايكي صاحب رقم 100م العالمي، وكذلك لقبه الشهير البرق؟",
+          "answer_ar": "أوسين بولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-027",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو لاعب كرة قدم أرجنتيني فاز بمونديال 2022. 2) يحمل أكبر عدد كرات ذهبية حتى 2026. ما الجواب؟",
+          "answer_ar": "ليونيل ميسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-028",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو لاعب كرة قدم أرجنتيني فاز بمونديال 2022، وكذلك يحمل أكبر عدد كرات ذهبية حتى 2026؟",
+          "answer_ar": "ليونيل ميسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-029",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو لاعب كرة قدم برتغالي اشتهر بالرقم 7. 2) فاز بدوري الأبطال مرات عديدة مع أكثر من نادٍ كبير. ما الجواب؟",
+          "answer_ar": "كريستيانو رونالدو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-030",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو لاعب كرة قدم برتغالي اشتهر بالرقم 7، وكذلك فاز بدوري الأبطال مرات عديدة مع أكثر من نادٍ كبير؟",
+          "answer_ar": "كريستيانو رونالدو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-031",
+          "points": 600,
+          "question_ar": "دلائل: 1) هي لاعبة تنس أمريكية من أعظم لاعبات العصر الحديث. 2) حققت ألقاب غراند سلام فردية عديدة. ما الجواب؟",
+          "answer_ar": "سيرينا ويليامز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-032",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هي لاعبة تنس أمريكية من أعظم لاعبات العصر الحديث، وكذلك حققت ألقاب غراند سلام فردية عديدة؟",
+          "answer_ar": "سيرينا ويليامز",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-033",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو لاعب تنس سويسري معروف بأناقته في اللعب. 2) فاز بويمبلدون عدة مرات. ما الجواب؟",
+          "answer_ar": "روجيه فيدرر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-034",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو لاعب تنس سويسري معروف بأناقته في اللعب، وكذلك فاز بويمبلدون عدة مرات؟",
+          "answer_ar": "روجيه فيدرر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-035",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مغنٍ أمريكي لُقب بملك البوب. 2) ألبومه Thriller من الأكثر مبيعًا تاريخيًا. ما الجواب؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-036",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مغنٍ أمريكي لُقب بملك البوب، وكذلك ألبومه Thriller من الأكثر مبيعًا تاريخيًا؟",
+          "answer_ar": "مايكل جاكسون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-037",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مغنٍ أمريكي لُقب بملك الروك آند رول. 2) برز بقوة في الخمسينيات. ما الجواب؟",
+          "answer_ar": "إلفيس بريسلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-038",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مغنٍ أمريكي لُقب بملك الروك آند رول، وكذلك برز بقوة في الخمسينيات؟",
+          "answer_ar": "إلفيس بريسلي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-039",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو ممثل ومخرج أيقوني في السينما الصامتة. 2) اشتهر بشخصية المتشرد والقبعة والعصا. ما الجواب؟",
+          "answer_ar": "تشارلي شابلن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-040",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو ممثل ومخرج أيقوني في السينما الصامتة، وكذلك اشتهر بشخصية المتشرد والقبعة والعصا؟",
+          "answer_ar": "تشارلي شابلن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-041",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو مخرج أمريكي أخرج Jurassic Park وE.T.. 2) من أكثر المخرجين تأثيرًا تجاريًا في هوليوود. ما الجواب؟",
+          "answer_ar": "ستيفن سبيلبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-042",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو مخرج أمريكي أخرج Jurassic Park وE.T.، وكذلك من أكثر المخرجين تأثيرًا تجاريًا في هوليوود؟",
+          "answer_ar": "ستيفن سبيلبرغ",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-043",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو ممثل أمريكي فاز بالأوسكار مرتين متتاليتين. 2) من أفلامه Forrest Gump وCast Away. ما الجواب؟",
+          "answer_ar": "توم هانكس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-044",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو ممثل أمريكي فاز بالأوسكار مرتين متتاليتين، وكذلك من أفلامه Forrest Gump وCast Away؟",
+          "answer_ar": "توم هانكس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-045",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو ممثل أمريكي من أبرز أدواره Titanic وInception. 2) فاز بأوسكار أفضل ممثل عن The Revenant. ما الجواب؟",
+          "answer_ar": "ليوناردو دي كابريو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-046",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو ممثل أمريكي من أبرز أدواره Titanic وInception، وكذلك فاز بأوسكار أفضل ممثل عن The Revenant؟",
+          "answer_ar": "ليوناردو دي كابريو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-047",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو نجم أكشن من هونغ كونغ اشتهر بالكوميديا القتالية. 2) ينفذ كثيرًا من مشاهده الخطرة بنفسه. ما الجواب؟",
+          "answer_ar": "جاكي شان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-048",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو نجم أكشن من هونغ كونغ اشتهر بالكوميديا القتالية، وكذلك ينفذ كثيرًا من مشاهده الخطرة بنفسه؟",
+          "answer_ar": "جاكي شان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-049",
+          "points": 600,
+          "question_ar": "دلائل: 1) هو رائد ترفيه أسس شركة تحمل اسمه. 2) يرتبط بشخصية ميكي ماوس ومدن الملاهي العالمية. ما الجواب؟",
+          "answer_ar": "والت ديزني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        },
+        {
+          "id": "CAT18-600-050",
+          "points": 600,
+          "question_ar": "ما الاسم الصحيح إذا عرفت أنه هو رائد ترفيه أسس شركة تحمل اسمه، وكذلك يرتبط بشخصية ميكي ماوس ومدن الملاهي العالمية؟",
+          "answer_ar": "والت ديزني",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "biographies of major historical and cultural figures"
+            },
+            {
+              "title": "Nobel Prize",
+              "type": "official",
+              "reference": "laureate biographies and historical context"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

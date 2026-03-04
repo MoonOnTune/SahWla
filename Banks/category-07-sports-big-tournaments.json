@@ -1,0 +1,2512 @@
+{
+  "batch": "Category 7 of 20",
+  "language": "ar",
+  "categories": [
+    {
+      "name_ar": "الرياضة والبطولات الكبرى (كرة القدم، الأولمبياد، كأس العالم…)",
+      "name_en": "Sports & Big Tournaments",
+      "questions": [
+        {
+          "id": "CAT07-200-001",
+          "points": 200,
+          "question_ar": "من فاز بكأس العالم 2022 في كرة القدم؟",
+          "answer_ar": "الأرجنتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-002",
+          "points": 200,
+          "question_ar": "في أي دولة أُقيمت كأس العالم 2022؟",
+          "answer_ar": "قطر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-003",
+          "points": 200,
+          "question_ar": "كم مرة تُقام دورة الألعاب الأولمبية الصيفية عادة؟",
+          "answer_ar": "كل أربع سنوات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-004",
+          "points": 200,
+          "question_ar": "ما الرياضة التي يُعرف فيها ليونيل ميسي؟",
+          "answer_ar": "كرة القدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-005",
+          "points": 200,
+          "question_ar": "ما الرياضة التي يُعرف فيها مايكل جوردان؟",
+          "answer_ar": "كرة السلة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-006",
+          "points": 200,
+          "question_ar": "كم لاعبًا في فريق كرة القدم داخل الملعب؟",
+          "answer_ar": "11",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-007",
+          "points": 200,
+          "question_ar": "ما لون البطاقة التي تعني الطرد في كرة القدم؟",
+          "answer_ar": "الحمراء",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-008",
+          "points": 200,
+          "question_ar": "ما البطولة الأهم لمنتخبات أوروبا في كرة القدم؟",
+          "answer_ar": "بطولة أمم أوروبا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-009",
+          "points": 200,
+          "question_ar": "ما اسم البطولة الكبرى لمنتخبات أمريكا الجنوبية؟",
+          "answer_ar": "كوبا أمريكا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-010",
+          "points": 200,
+          "question_ar": "ما اسم البطولة العالمية للأندية التي ينظمها فيفا؟",
+          "answer_ar": "كأس العالم للأندية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-011",
+          "points": 200,
+          "question_ar": "ما الرياضة التي تُلعب في بطولة ويمبلدون؟",
+          "answer_ar": "التنس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-012",
+          "points": 200,
+          "question_ar": "ما الرياضة الأساسية في بطولة الفورمولا 1؟",
+          "answer_ar": "سباقات السيارات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-013",
+          "points": 200,
+          "question_ar": "ما اسم أقوى دوري كرة سلة في العالم غالبًا؟",
+          "answer_ar": "NBA",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-014",
+          "points": 200,
+          "question_ar": "ما الرياضة التي تشمل سباق 100 متر؟",
+          "answer_ar": "ألعاب القوى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "World Athletics",
+              "type": "official",
+              "reference": "track and field event references"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-015",
+          "points": 200,
+          "question_ar": "في أي لعبة يوجد الهاتريك بتسجيل 3 أهداف؟",
+          "answer_ar": "كرة القدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-016",
+          "points": 200,
+          "question_ar": "من يحمل الرقم القياسي لمعظم كرات الذهب حتى 2026؟",
+          "answer_ar": "ليونيل ميسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-017",
+          "points": 200,
+          "question_ar": "ما الدولة الأكثر تتويجًا بكأس العالم للرجال تاريخيًا؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-018",
+          "points": 200,
+          "question_ar": "كم شوطًا في مباراة كرة القدم؟",
+          "answer_ar": "شوطان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-019",
+          "points": 200,
+          "question_ar": "كم مجموعة في بطولة كأس العالم عادة؟",
+          "answer_ar": "8",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-020",
+          "points": 200,
+          "question_ar": "ما اسم البطولة الأوروبية الأهم للأندية؟",
+          "answer_ar": "دوري أبطال أوروبا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-021",
+          "points": 200,
+          "question_ar": "ما الرياضة التي تُعرف ببطولة رولان غاروس؟",
+          "answer_ar": "التنس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-022",
+          "points": 200,
+          "question_ar": "ما اسم الكأس العالمية لمنتخبات السيدات في كرة القدم؟",
+          "answer_ar": "كأس العالم للسيدات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-023",
+          "points": 200,
+          "question_ar": "ما الدولة التي استضافت أول كأس عالم 1930؟",
+          "answer_ar": "الأوروغواي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-024",
+          "points": 200,
+          "question_ar": "كم لاعبًا في فريق كرة السلة داخل الملعب؟",
+          "answer_ar": "5",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-025",
+          "points": 200,
+          "question_ar": "ما اسم الرياضة التي تشمل الماراثون؟",
+          "answer_ar": "ألعاب القوى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "World Athletics",
+              "type": "official",
+              "reference": "track and field event references"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-026",
+          "points": 200,
+          "question_ar": "ما الدولة التي فازت بكأس العالم 2018؟",
+          "answer_ar": "فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-027",
+          "points": 200,
+          "question_ar": "ما الدولة التي فازت بكأس العالم 2014؟",
+          "answer_ar": "ألمانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-028",
+          "points": 200,
+          "question_ar": "ما الدولة التي فازت بكأس العالم 2010؟",
+          "answer_ar": "إسبانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-029",
+          "points": 200,
+          "question_ar": "ما اسم بطولة التنس المفتوحة في أستراليا؟",
+          "answer_ar": "أستراليا المفتوحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-030",
+          "points": 200,
+          "question_ar": "ما اسم بطولة التنس المفتوحة في الولايات المتحدة؟",
+          "answer_ar": "أمريكا المفتوحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-031",
+          "points": 200,
+          "question_ar": "ما اسم بطولة التنس الكبرى في لندن؟",
+          "answer_ar": "ويمبلدون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-032",
+          "points": 200,
+          "question_ar": "ما الرياضة المرتبطة بكأس رايدر؟",
+          "answer_ar": "الغولف",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-033",
+          "points": 200,
+          "question_ar": "ما الرياضة التي يلعب فيها روجيه فيدرر؟",
+          "answer_ar": "التنس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-034",
+          "points": 200,
+          "question_ar": "ما الرياضة التي لعب فيها مايكل فيلبس؟",
+          "answer_ar": "السباحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-035",
+          "points": 200,
+          "question_ar": "ما الرياضة التي يشارك فيها أوسين بولت؟",
+          "answer_ar": "سباقات السرعة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "World Athletics",
+              "type": "official",
+              "reference": "track and field event references"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-036",
+          "points": 200,
+          "question_ar": "ما البطولة التي تجمع أبطال القارات في كرة القدم (نسخة 2025 وما قبلها)؟",
+          "answer_ar": "كأس القارات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-037",
+          "points": 200,
+          "question_ar": "ما الرياضة التي تضم بطولة السوبر بول؟",
+          "answer_ar": "كرة القدم الأمريكية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-038",
+          "points": 200,
+          "question_ar": "ما البطولة القارية للمنتخبات في أفريقيا؟",
+          "answer_ar": "كأس أمم أفريقيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-039",
+          "points": 200,
+          "question_ar": "ما البلد الذي استضاف أول أولمبياد حديث 1896؟",
+          "answer_ar": "اليونان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-040",
+          "points": 200,
+          "question_ar": "ما المدينة التي استضافت أولمبياد 2012 الصيفي؟",
+          "answer_ar": "لندن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-041",
+          "points": 200,
+          "question_ar": "ما المدينة التي استضافت أولمبياد 2016 الصيفي؟",
+          "answer_ar": "ريو دي جانيرو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-042",
+          "points": 200,
+          "question_ar": "ما المدينة التي استضافت أولمبياد 2020 (أقيمت 2021)؟",
+          "answer_ar": "طوكيو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-043",
+          "points": 200,
+          "question_ar": "ما المدينة التي استضافت أولمبياد 2024 الصيفي؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-044",
+          "points": 200,
+          "question_ar": "ما الرياضة التي تتضمن الإرسال والإرجاع على شبكة بمضرب؟",
+          "answer_ar": "التنس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-045",
+          "points": 200,
+          "question_ar": "ما اسم سباق الدراجات الفرنسي الشهير عالميًا؟",
+          "answer_ar": "طواف فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-046",
+          "points": 200,
+          "question_ar": "ما الرياضة التي تُعرف فيها بطولة العالم للسباقات على حلبات مغلقة (F1)؟",
+          "answer_ar": "رياضة المحركات",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-047",
+          "points": 200,
+          "question_ar": "ما اسم منصة التتويج في السباقات الثلاثة الأولى؟",
+          "answer_ar": "البوديوم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-048",
+          "points": 200,
+          "question_ar": "ما اللعبة التي تعتمد على الضربات الحرة والركلات الركنية؟",
+          "answer_ar": "كرة القدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-049",
+          "points": 200,
+          "question_ar": "ما الرياضة التي تُقام فيها بطولة العالم FIFA؟",
+          "answer_ar": "كرة القدم",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-200-050",
+          "points": 200,
+          "question_ar": "ما الدولة المضيفة لكأس العالم 2026 (إحدى الدول المضيفة)؟",
+          "answer_ar": "الولايات المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "سهل ومباشر.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-001",
+          "points": 400,
+          "question_ar": "المنتخب الذي جمع كأس العالم 2010 بأسلوب التيكي تاكا؛ من هو؟",
+          "answer_ar": "إسبانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-002",
+          "points": 400,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 2014 في النهائي ضد الأرجنتين؛ من هو؟",
+          "answer_ar": "ألمانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-003",
+          "points": 400,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 2018 على كرواتيا؛ من هو؟",
+          "answer_ar": "فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-004",
+          "points": 400,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 2022 بركلات الترجيح ضد فرنسا؛ من هو؟",
+          "answer_ar": "الأرجنتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-005",
+          "points": 400,
+          "question_ar": "دولة وحيدة فازت بكأس العالم 5 مرات حتى 2026؛ ما هي؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-006",
+          "points": 400,
+          "question_ar": "البطولة التي تجمع أفضل منتخبات أوروبا كل 4 سنوات؛ ما هي؟",
+          "answer_ar": "بطولة أمم أوروبا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UEFA",
+              "type": "official",
+              "reference": "UEFA competitions and records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-007",
+          "points": 400,
+          "question_ar": "بطولة الأندية الأوروبية التي يُرفع فيها الأذنين؛ ما هي؟",
+          "answer_ar": "دوري أبطال أوروبا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UEFA",
+              "type": "official",
+              "reference": "UEFA competitions and records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-008",
+          "points": 400,
+          "question_ar": "البطولة القارية الرسمية لمنتخبات أفريقيا؛ ما هي؟",
+          "answer_ar": "كأس أمم أفريقيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-009",
+          "points": 400,
+          "question_ar": "البطولة القارية الرسمية لمنتخبات أمريكا الجنوبية؛ ما هي؟",
+          "answer_ar": "كوبا أمريكا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-010",
+          "points": 400,
+          "question_ar": "الهيئة العالمية المنظمة لكرة القدم؛ ما اسمها؟",
+          "answer_ar": "FIFA",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-011",
+          "points": 400,
+          "question_ar": "الهيئة المنظمة للألعاب الأولمبية الحديثة؛ ما اسمها؟",
+          "answer_ar": "اللجنة الأولمبية الدولية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-012",
+          "points": 400,
+          "question_ar": "المدينة التي استضافت أولمبياد 1896 وبداية النسخة الحديثة؛ ما هي؟",
+          "answer_ar": "أثينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-013",
+          "points": 400,
+          "question_ar": "المدينة التي استضافت أولمبياد 2008 والمعروفة بعش الطائر؛ ما هي؟",
+          "answer_ar": "بكين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-014",
+          "points": 400,
+          "question_ar": "المدينة التي استضافت أولمبياد 2012 وكانت الثالثة لها تاريخيًا؛ ما هي؟",
+          "answer_ar": "لندن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-015",
+          "points": 400,
+          "question_ar": "المدينة التي استضافت أولمبياد 2024 وعاد إليها الحدث بعد قرن تقريبًا؛ ما هي؟",
+          "answer_ar": "باريس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-016",
+          "points": 400,
+          "question_ar": "الرياضي الجامايكي صاحب الرقم العالمي في 100م (9.58)؛ من هو؟",
+          "answer_ar": "أوسين بولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "World Athletics",
+              "type": "official",
+              "reference": "track and field event references"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-017",
+          "points": 400,
+          "question_ar": "السباح الأمريكي الأكثر حصادًا للذهب الأولمبي؛ من هو؟",
+          "answer_ar": "مايكل فيلبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-018",
+          "points": 400,
+          "question_ar": "لاعب كرة السلة المرتبط بلقب Air Jordan؛ من هو؟",
+          "answer_ar": "مايكل جوردان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-019",
+          "points": 400,
+          "question_ar": "لاعب التنس الإسباني المعروف بلقب ملك الملاعب الترابية؛ من هو؟",
+          "answer_ar": "رافاييل نادال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-020",
+          "points": 400,
+          "question_ar": "البطولة الكبرى الوحيدة في التنس على الملاعب العشبية؛ ما هي؟",
+          "answer_ar": "ويمبلدون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-021",
+          "points": 400,
+          "question_ar": "البطولة الكبرى في باريس على الملاعب الترابية؛ ما هي؟",
+          "answer_ar": "رولان غاروس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-022",
+          "points": 400,
+          "question_ar": "البطولة الكبرى المقامة في ملبورن كل يناير؛ ما هي؟",
+          "answer_ar": "أستراليا المفتوحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-023",
+          "points": 400,
+          "question_ar": "البطولة الكبرى المقامة في نيويورك نهاية الموسم؛ ما هي؟",
+          "answer_ar": "أمريكا المفتوحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-024",
+          "points": 400,
+          "question_ar": "الدوري الأمريكي الأشهر في كرة السلة؛ ما هو؟",
+          "answer_ar": "NBA",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-025",
+          "points": 400,
+          "question_ar": "الحدث النهائي الأكبر في كرة القدم الأمريكية؛ ما هو؟",
+          "answer_ar": "السوبر بول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-026",
+          "points": 400,
+          "question_ar": "السباق الفرنسي للدراجات الذي يمتد 3 أسابيع غالبًا؛ ما هو؟",
+          "answer_ar": "طواف فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-027",
+          "points": 400,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 2002 على ألمانيا؛ من هو؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-028",
+          "points": 400,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 2006 على فرنسا بركلات الترجيح؛ من هو؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-029",
+          "points": 400,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1998 على أرضه؛ من هو؟",
+          "answer_ar": "فرنسا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-030",
+          "points": 400,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1986 بقيادة مارادونا؛ من هو؟",
+          "answer_ar": "الأرجنتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-031",
+          "points": 400,
+          "question_ar": "الدولة المضيفة المشتركة لكأس العالم 2002 مع اليابان؛ ما هي؟",
+          "answer_ar": "كوريا الجنوبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-032",
+          "points": 400,
+          "question_ar": "الدولة التي استضافت كأس العالم 2010 كأول دولة أفريقية؛ ما هي؟",
+          "answer_ar": "جنوب أفريقيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-033",
+          "points": 400,
+          "question_ar": "المدينة البرازيلية التي استضافت نهائي كأس العالم 2014؛ ما هي؟",
+          "answer_ar": "ريو دي جانيرو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-034",
+          "points": 400,
+          "question_ar": "الملعب الذي استضاف نهائي كأس العالم 2022؛ ما اسمه؟",
+          "answer_ar": "ملعب لوسيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-035",
+          "points": 400,
+          "question_ar": "اللاعب الذي ارتبط بالرقم 7 في مانشستر يونايتد ومنتخب البرتغال؛ من هو؟",
+          "answer_ar": "كريستيانو رونالدو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-036",
+          "points": 400,
+          "question_ar": "اللاعب الأرجنتيني الذي قاد منتخب بلاده للقب 2022؛ من هو؟",
+          "answer_ar": "ليونيل ميسي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-037",
+          "points": 400,
+          "question_ar": "الهيئة الأوروبية المنظمة لكرة القدم؛ ما اسمها؟",
+          "answer_ar": "UEFA",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UEFA",
+              "type": "official",
+              "reference": "UEFA competitions and records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-038",
+          "points": 400,
+          "question_ar": "الحدث الأولمبي الذي يتضمن العشاري للرجال والسباعي للسيدات؛ ما الرياضة؟",
+          "answer_ar": "ألعاب القوى",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-039",
+          "points": 400,
+          "question_ar": "المسابقة التي تُمنح فيها الميداليات الذهبية والفضية والبرونزية؛ ما الحدث؟",
+          "answer_ar": "الألعاب الأولمبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-040",
+          "points": 400,
+          "question_ar": "الرياضي الذي حقق 8 ذهبيات في أولمبياد بكين 2008؛ من هو؟",
+          "answer_ar": "مايكل فيلبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-041",
+          "points": 400,
+          "question_ar": "الرياضة التي تضم بطولات كأس ديفيز وبيلي جين كينغ؛ ما هي؟",
+          "answer_ar": "التنس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-042",
+          "points": 400,
+          "question_ar": "المنتخب الأكثر فوزًا بكوبا أمريكا حتى 2026 (مشترك) أحدهما الأرجنتين، من الآخر؟",
+          "answer_ar": "الأوروغواي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-043",
+          "points": 400,
+          "question_ar": "المنتخب الذي يُلقب بالسيليساو في كرة القدم؛ من هو؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-044",
+          "points": 400,
+          "question_ar": "المنتخب الإيطالي يُعرف بلقب ماذا؟",
+          "answer_ar": "الآتزوري",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-045",
+          "points": 400,
+          "question_ar": "المنتخب الألماني يُعرف تاريخيًا بلقب المانشافت؛ لأي دولة؟",
+          "answer_ar": "ألمانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-046",
+          "points": 400,
+          "question_ar": "البطولة التي تجمع أبطال الدوري في أوروبا بنظام خروج المغلوب ثم مجموعات؛ ما هي؟",
+          "answer_ar": "دوري أبطال أوروبا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "UEFA",
+              "type": "official",
+              "reference": "UEFA competitions and records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-047",
+          "points": 400,
+          "question_ar": "المسابقة الأولمبية التي تشمل 42.195 كم؛ ما هي؟",
+          "answer_ar": "الماراثون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-048",
+          "points": 400,
+          "question_ar": "المدينة الكندية التي استضافت أولمبياد 1976 الصيفي؛ ما هي؟",
+          "answer_ar": "مونتريال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-049",
+          "points": 400,
+          "question_ar": "المدينة الإسبانية التي استضافت أولمبياد 1992 الصيفي؛ ما هي؟",
+          "answer_ar": "برشلونة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-400-050",
+          "points": 400,
+          "question_ar": "الدولة التي استضافت أولمبياد 1964 الآسيوي الأول في العصر الحديث؛ ما هي؟",
+          "answer_ar": "اليابان",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "متوسط مع دليل داخل السؤال.",
+          "source_notes": [
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-001",
+          "points": 600,
+          "question_ar": "بطولة كأس عالم شهدت أول استخدام واسع لتقنية حكم الفيديو المساعد؛ أي نسخة؟",
+          "answer_ar": "كأس العالم 2018",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-002",
+          "points": 600,
+          "question_ar": "أول دولة أفريقية تستضيف كأس العالم للرجال وكانت نسخة 2010؛ ما هي؟",
+          "answer_ar": "جنوب أفريقيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-003",
+          "points": 600,
+          "question_ar": "المنتخب الذي حقق لقب كأس العالم 2006 عبر نهائي برلين الشهير؛ من هو؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-004",
+          "points": 600,
+          "question_ar": "المنتخب الذي هزم البرازيل 7-1 في نصف نهائي 2014؛ من هو؟",
+          "answer_ar": "ألمانيا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-005",
+          "points": 600,
+          "question_ar": "النهائي الذي انتهى 3-3 في 2022 ثم الترجيح، ما المنتخب البطل؟",
+          "answer_ar": "الأرجنتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-006",
+          "points": 600,
+          "question_ar": "الدولة الوحيدة التي نظمت كأس العالم مرتين متتاليتين (1934 و1938)؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-007",
+          "points": 600,
+          "question_ar": "اللاعب الذي سجل أسرع هاتريك في تاريخ كأس العالم 2022؟",
+          "answer_ar": "غونزالو راموس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-008",
+          "points": 600,
+          "question_ar": "أعلى هداف تاريخي لكأس العالم للرجال حتى 2026؛ من هو؟",
+          "answer_ar": "ميروسلاف كلوزه",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-009",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1970 وأبقى كأس جول ريميه نهائيًا؛ من هو؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-010",
+          "points": 600,
+          "question_ar": "المدينة التي استضافت نهائي كأس العالم 1950 الشهير بماراكانازو؛ ما هي؟",
+          "answer_ar": "ريو دي جانيرو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-011",
+          "points": 600,
+          "question_ar": "الأولمبياد الذي أُلغي بسبب الحرب العالمية الثانية عام 1940 كان مقررًا في أي مدينة أساسًا؟",
+          "answer_ar": "طوكيو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-012",
+          "points": 600,
+          "question_ar": "الأولمبياد الذي أُلغي عام 1944 كان مقررًا في أي مدينة؟",
+          "answer_ar": "لندن",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-013",
+          "points": 600,
+          "question_ar": "العدّاء الذي حطم رقم 100م العالمي إلى 9.58 في برلين 2009؛ من هو؟",
+          "answer_ar": "أوسين بولت",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-014",
+          "points": 600,
+          "question_ar": "السباح صاحب 23 ذهبية أولمبية وهو الأكثر في التاريخ؛ من هو؟",
+          "answer_ar": "مايكل فيلبس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-015",
+          "points": 600,
+          "question_ar": "الرياضي الذي نال 9 ذهبيات أولمبية في ألعاب القوى قبل تعديل ميداليته بسبب المنشطات؟",
+          "answer_ar": "كارل لويس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-016",
+          "points": 600,
+          "question_ar": "الدولة التي استضافت أولمبياد 2000 في مدينة سيدني؛ ما هي؟",
+          "answer_ar": "أستراليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-017",
+          "points": 600,
+          "question_ar": "المدينة الصينية التي استضافت الأولمبياد الصيفي 2008 ثم الشتوي 2022؛ ما هي؟",
+          "answer_ar": "بكين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-018",
+          "points": 600,
+          "question_ar": "المدينة التي استضافت أولمبياد 1996 بمناسبة مئوية الألعاب الحديثة؛ ما هي؟",
+          "answer_ar": "أتلانتا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-019",
+          "points": 600,
+          "question_ar": "المدينة اليونانية التي أعادت الأولمبياد لأصوله عام 2004؛ ما هي؟",
+          "answer_ar": "أثينا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-020",
+          "points": 600,
+          "question_ar": "الدولة التي تصدرت تاريخيًا عدد ذهبيات الأولمبياد الصيفي الإجمالي؛ ما هي؟",
+          "answer_ar": "الولايات المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-021",
+          "points": 600,
+          "question_ar": "بطولة التنس الكبرى الوحيدة على العشب، تُلعب في نادي All England؛ ما هي؟",
+          "answer_ar": "ويمبلدون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-022",
+          "points": 600,
+          "question_ar": "البطولة الكبرى التي تُعرف رسميًا باسم The Championships؛ ما هي؟",
+          "answer_ar": "ويمبلدون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-023",
+          "points": 600,
+          "question_ar": "البطولة الكبرى التي تُلعب على الملاعب الترابية في باريس؛ ما هي؟",
+          "answer_ar": "رولان غاروس",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-024",
+          "points": 600,
+          "question_ar": "البطولة الكبرى التي تُقام في فلاشينغ ميدوز بنيويورك؛ ما هي؟",
+          "answer_ar": "أمريكا المفتوحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-025",
+          "points": 600,
+          "question_ar": "البطولة الكبرى التي تُقام في ملبورن بارك؛ ما هي؟",
+          "answer_ar": "أستراليا المفتوحة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "International Tennis Federation",
+              "type": "official",
+              "reference": "Grand Slam and tennis reference facts"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-026",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بيورو 2016 رغم خسارته دور المجموعات مرتين تعادلًا؟",
+          "answer_ar": "البرتغال",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-027",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بيورو 2020 (أقيمت 2021) على إنجلترا في ويمبلي؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-028",
+          "points": 600,
+          "question_ar": "الدولة التي فازت بكوبا أمريكا 2021 في ماراكانا؛ ما هي؟",
+          "answer_ar": "الأرجنتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-029",
+          "points": 600,
+          "question_ar": "المنتخب الأكثر تتويجًا بأمم أفريقيا حتى 2026؛ من هو؟",
+          "answer_ar": "مصر",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-030",
+          "points": 600,
+          "question_ar": "الدولة التي استضافت كأس العالم 1994 مع نهائي في باسادينا؛ ما هي؟",
+          "answer_ar": "الولايات المتحدة",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-031",
+          "points": 600,
+          "question_ar": "الملعب الإسباني الشهير الذي استضاف نهائي مونديال 1982؛ ما هو؟",
+          "answer_ar": "سانتياغو برنابيو",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-032",
+          "points": 600,
+          "question_ar": "الدولة الآسيوية المشتركة في استضافة كأس العالم 2002 مع اليابان؛ ما هي؟",
+          "answer_ar": "كوريا الجنوبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-033",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1966 على أرضه؛ من هو؟",
+          "answer_ar": "إنجلترا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-034",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1978 كمضيف؛ من هو؟",
+          "answer_ar": "الأرجنتين",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-035",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1982 بقيادة باولو روسي؛ من هو؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-036",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1990 في إيطاليا؛ من هو؟",
+          "answer_ar": "ألمانيا الغربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-037",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1994 بركلات الترجيح أمام إيطاليا؛ من هو؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-038",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1930 في النسخة الأولى؛ من هو؟",
+          "answer_ar": "الأوروغواي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-039",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1934 ثم 1938؛ من هو؟",
+          "answer_ar": "إيطاليا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-040",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1954 في معجزة برن؛ من هو؟",
+          "answer_ar": "ألمانيا الغربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-041",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1958 بقيادة بيليه الشاب؛ من هو؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-042",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1962 في تشيلي؛ من هو؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-043",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1974 على أرضه الغربية؛ من هو؟",
+          "answer_ar": "ألمانيا الغربية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-044",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 2002 بقيادة رونالدو؛ من هو؟",
+          "answer_ar": "البرازيل",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-045",
+          "points": 600,
+          "question_ar": "المنتخب الذي فاز بكأس العالم 1966 وكانت البطولة الوحيدة له حتى 2026؛ من هو؟",
+          "answer_ar": "إنجلترا",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "FIFA",
+              "type": "official",
+              "reference": "World Cup and international football records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-046",
+          "points": 600,
+          "question_ar": "الرياضي الملقب بـThe Greatest في الملاكمة؛ من هو؟",
+          "answer_ar": "محمد علي",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-047",
+          "points": 600,
+          "question_ar": "الحدث الرياضي السنوي الأمريكي الذي يعتبر الأكثر مشاهدة تلفزيونيًا غالبًا؛ ما هو؟",
+          "answer_ar": "السوبر بول",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "UEFA",
+              "type": "official",
+              "reference": "UEFA competitions and records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-048",
+          "points": 600,
+          "question_ar": "السائق الذي يملك الرقم القياسي لألقاب الفورمولا 1 حتى 2026 (مشترك) أحدهما شوماخر، من الآخر؟",
+          "answer_ar": "لويس هاميلتون",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "UEFA",
+              "type": "official",
+              "reference": "UEFA competitions and records"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-049",
+          "points": 600,
+          "question_ar": "الدولة التي استضافت أولمبياد 1988 الصيفي في سيؤول؛ ما هي؟",
+          "answer_ar": "كوريا الجنوبية",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        },
+        {
+          "id": "CAT07-600-050",
+          "points": 600,
+          "question_ar": "الدولة التي استضافت أولمبياد 1968 في مكسيكو سيتي؛ ما هي؟",
+          "answer_ar": "المكسيك",
+          "acceptable_answers_ar": [],
+          "difficulty_note_ar": "صعب عادل مع دلائل واضحة.",
+          "source_notes": [
+            {
+              "title": "Encyclopaedia Britannica",
+              "type": "encyclopedia",
+              "reference": "sports events and athlete entries"
+            },
+            {
+              "title": "Olympics",
+              "type": "official",
+              "reference": "Olympic Games and medal history"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
