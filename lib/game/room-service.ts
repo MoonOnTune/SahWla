@@ -274,6 +274,16 @@ async function getParticipantByDeviceToken(roomId: string, deviceToken: string) 
   });
 }
 
+async function markParticipantActive(participantId: string): Promise<void> {
+  await prisma.gameRoomParticipant.update({
+    where: { id: participantId },
+    data: {
+      last_seen_at: new Date(),
+      disconnected_at: null,
+    },
+  });
+}
+
 export async function createSpecialModeRoom({
   ownerUserId,
   gameSessionId,
@@ -479,6 +489,8 @@ export async function suggestRoomTile({
     throw new RoomRuleError("CAPTAIN_ONLY_ACTION");
   }
 
+  await markParticipantActive(participant.id);
+
   if (participant.team_key !== room.current_turn_team) {
     throw new RoomRuleError("NOT_YOUR_TURN");
   }
@@ -593,14 +605,23 @@ export async function sendRoomChatMessage({
     throw new RoomRuleError("PARTICIPANT_NOT_FOUND");
   }
 
-  await prisma.gameRoomChatMessage.create({
-    data: {
-      room_id: room.id,
-      team_key: participant.team_key,
-      participant_id: participant.id,
-      message,
-    },
-  });
+  await prisma.$transaction([
+    prisma.gameRoomParticipant.update({
+      where: { id: participant.id },
+      data: {
+        last_seen_at: new Date(),
+        disconnected_at: null,
+      },
+    }),
+    prisma.gameRoomChatMessage.create({
+      data: {
+        room_id: room.id,
+        team_key: participant.team_key,
+        participant_id: participant.id,
+        message,
+      },
+    }),
+  ]);
 
   const updated = await loadRoomSourceByCode(roomCode);
   if (!updated) {
@@ -642,6 +663,8 @@ export async function useRoomAbility({
   if (!team || !opponentTeam || !ability) {
     throw new RoomRuleError("ABILITY_NOT_FOUND");
   }
+
+  await markParticipantActive(participant.id);
 
   assertAbilityTimingAllowed({
     abilityType,
@@ -1040,10 +1063,52 @@ export async function getTeamRoomSnapshot({
     throw new RoomRuleError("PARTICIPANT_NOT_FOUND");
   }
 
+  await markParticipantActive(participant.id);
+
   const snapshot = await loadRoomSourceByCode(roomCode);
   if (!snapshot) {
     throw new RoomRuleError("ROOM_NOT_FOUND");
   }
 
   return buildTeamRoomSnapshot(snapshot, participant.id, participant.team_key);
+}
+
+export async function heartbeatRoomParticipant({
+  roomCode,
+  deviceToken,
+}: {
+  roomCode: string;
+  deviceToken: string;
+}): Promise<void> {
+  const room = await getLoadedRoomByCode(roomCode);
+  const participant = await getParticipantByDeviceToken(room.id, deviceToken);
+
+  if (!participant) {
+    throw new RoomRuleError("PARTICIPANT_NOT_FOUND");
+  }
+
+  await markParticipantActive(participant.id);
+}
+
+export async function disconnectRoomParticipant({
+  roomCode,
+  deviceToken,
+}: {
+  roomCode: string;
+  deviceToken: string;
+}): Promise<void> {
+  const room = await getLoadedRoomByCode(roomCode);
+  const participant = await getParticipantByDeviceToken(room.id, deviceToken);
+
+  if (!participant) {
+    throw new RoomRuleError("PARTICIPANT_NOT_FOUND");
+  }
+
+  await prisma.gameRoomParticipant.update({
+    where: { id: participant.id },
+    data: {
+      last_seen_at: new Date(),
+      disconnected_at: new Date(),
+    },
+  });
 }

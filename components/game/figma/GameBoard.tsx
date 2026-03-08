@@ -8,6 +8,8 @@ import { AbilityEventBanner } from './AbilityEventBanner';
 import { useRoomRealtime } from './use-room-realtime';
 import { getHostRoomChannel } from '@/lib/game/realtime';
 
+const HOST_SNAPSHOT_REFRESH_INTERVAL_MS = 10_000;
+
 export function GameBoard() {
   const {
     gameMode,
@@ -95,7 +97,10 @@ export function GameBoard() {
       return;
     }
 
-    const response = await fetch(`/api/game/rooms/${roomCode}/snapshot`, { method: 'GET' });
+    const response = await fetch(`/api/game/rooms/${roomCode}/snapshot`, {
+      method: 'GET',
+      cache: 'no-store',
+    });
     const payload = await response.json().catch(() => null);
 
     if (!response.ok || !payload) {
@@ -178,6 +183,14 @@ export function GameBoard() {
     }
 
     void refreshHostSnapshot();
+
+    const intervalId = window.setInterval(() => {
+      void refreshHostSnapshot();
+    }, HOST_SNAPSHOT_REFRESH_INTERVAL_MS);
+
+    return () => {
+      window.clearInterval(intervalId);
+    };
   }, [isSpecialMode, refreshHostSnapshot]);
 
   const handleConfirmSuggestion = async () => {

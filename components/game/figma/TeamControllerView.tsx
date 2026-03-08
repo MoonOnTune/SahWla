@@ -9,6 +9,9 @@ import { useRoomRealtime } from "./use-room-realtime";
 import { getTeamRoomChannel } from "@/lib/game/realtime";
 import type { TeamRoomSnapshot } from "@/lib/game/room-types";
 
+const SNAPSHOT_POLL_INTERVAL_MS = 10_000;
+const PRESENCE_HEARTBEAT_INTERVAL_MS = 15_000;
+
 export function TeamControllerView({
   initialRoomCode,
   initialTeam,
@@ -23,7 +26,10 @@ export function TeamControllerView({
   const [error, setError] = useState("");
 
   const refreshSnapshot = useCallback(async () => {
-    const response = await fetch(`/api/game/rooms/${initialRoomCode}/snapshot`);
+    const response = await fetch(`/api/game/rooms/${initialRoomCode}/snapshot`, {
+      method: "GET",
+      cache: "no-store",
+    });
     const payload = await response.json().catch(() => null);
 
     if (!response.ok || !payload) {
@@ -31,6 +37,22 @@ export function TeamControllerView({
     }
 
     setSnapshot(payload);
+  }, [initialRoomCode]);
+
+  const sendPresenceHeartbeat = useCallback(async () => {
+    await fetch(`/api/game/rooms/${initialRoomCode}/presence`, {
+      method: "POST",
+      cache: "no-store",
+      keepalive: true,
+    }).catch(() => null);
+  }, [initialRoomCode]);
+
+  const sendLeaveSignal = useCallback(() => {
+    void fetch(`/api/game/rooms/${initialRoomCode}/leave`, {
+      method: "POST",
+      cache: "no-store",
+      keepalive: true,
+    }).catch(() => null);
   }, [initialRoomCode]);
 
   useRoomRealtime({
@@ -52,6 +74,7 @@ export function TeamControllerView({
     void (async () => {
       const response = await fetch(`/api/game/rooms/${initialRoomCode}/reconnect`, {
         method: "POST",
+        cache: "no-store",
       });
       const payload = await response.json().catch(() => null);
 
@@ -61,6 +84,48 @@ export function TeamControllerView({
     })();
   }, [initialRoomCode, initialSnapshot]);
 
+  useEffect(() => {
+    if (!snapshot?.self.id) {
+      return;
+    }
+
+    void sendPresenceHeartbeat();
+
+    const refreshTimer = window.setInterval(() => {
+      void refreshSnapshot();
+    }, SNAPSHOT_POLL_INTERVAL_MS);
+    const heartbeatTimer = window.setInterval(() => {
+      void sendPresenceHeartbeat();
+    }, PRESENCE_HEARTBEAT_INTERVAL_MS);
+
+    const handleVisibilityChange = () => {
+      if (document.visibilityState === "visible") {
+        void sendPresenceHeartbeat();
+        void refreshSnapshot();
+        return;
+      }
+
+      sendLeaveSignal();
+    };
+
+    const handlePageLeave = () => {
+      sendLeaveSignal();
+    };
+
+    document.addEventListener("visibilitychange", handleVisibilityChange);
+    window.addEventListener("pagehide", handlePageLeave);
+    window.addEventListener("beforeunload", handlePageLeave);
+
+    return () => {
+      window.clearInterval(refreshTimer);
+      window.clearInterval(heartbeatTimer);
+      document.removeEventListener("visibilitychange", handleVisibilityChange);
+      window.removeEventListener("pagehide", handlePageLeave);
+      window.removeEventListener("beforeunload", handlePageLeave);
+      handlePageLeave();
+    };
+  }, [refreshSnapshot, sendLeaveSignal, sendPresenceHeartbeat, snapshot?.self.id]);
+
   const handleJoin = async () => {
     setError("");
 
@@ -69,6 +134,7 @@ export function TeamControllerView({
       headers: {
         "Content-Type": "application/json",
       },
+      cache: "no-store",
       body: JSON.stringify({
         team: initialTeam,
         nickname,
@@ -90,6 +156,7 @@ export function TeamControllerView({
       headers: {
         "Content-Type": "application/json",
       },
+      cache: "no-store",
       body: JSON.stringify({ message }),
     });
     const payload = await response.json().catch(() => null);
@@ -105,6 +172,7 @@ export function TeamControllerView({
       headers: {
         "Content-Type": "application/json",
       },
+      cache: "no-store",
       body: JSON.stringify(input),
     });
     const payload = await response.json().catch(() => null);
@@ -120,6 +188,7 @@ export function TeamControllerView({
       headers: {
         "Content-Type": "application/json",
       },
+      cache: "no-store",
       body: JSON.stringify({ abilityType }),
     });
     const payload = await response.json().catch(() => null);

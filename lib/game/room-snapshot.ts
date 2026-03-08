@@ -37,6 +37,7 @@ export interface RoomSnapshotSource {
     team_key: GameTeamKey;
     connected_at: Date;
     last_seen_at: Date;
+    disconnected_at: Date | null;
   }>;
   abilities: Array<{
     id: string;
@@ -94,12 +95,28 @@ function buildBoard(room: RoomSnapshotSource): RoomBoardCategoryView[] {
   }));
 }
 
+const CONNECTED_PARTICIPANT_WINDOW_MS = 45_000;
+
+function isParticipantConnected(
+  participant: RoomSnapshotSource["participants"][number],
+  now = Date.now(),
+): boolean {
+  if (participant.disconnected_at) {
+    return false;
+  }
+
+  return participant.last_seen_at.getTime() >= now - CONNECTED_PARTICIPANT_WINDOW_MS;
+}
+
 function buildTeams(room: RoomSnapshotSource, viewerTeam?: GameTeamKey): RoomTeamView[] {
+  const now = Date.now();
+
   return room.teams
     .slice()
     .sort((left, right) => left.team_key.localeCompare(right.team_key))
     .map((team) => {
       const participants = room.participants.filter((participant) => participant.team_key === team.team_key);
+      const connectedParticipants = participants.filter((participant) => isParticipantConnected(participant, now));
       const abilities =
         viewerTeam && viewerTeam === team.team_key
           ? room.abilities
@@ -119,7 +136,7 @@ function buildTeams(room: RoomSnapshotSource, viewerTeam?: GameTeamKey): RoomTea
         colorLight: team.color_light,
         score: team.score,
         correctStreak: team.correct_streak,
-        connectedCount: participants.length,
+        connectedCount: connectedParticipants.length,
         captainParticipantId: team.captain_participant_id,
         participants: participants.map(toParticipantView),
         abilities,

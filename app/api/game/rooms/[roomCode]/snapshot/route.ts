@@ -15,7 +15,12 @@ export async function GET(_request: Request, context: { params: Promise<{ roomCo
         roomCode,
         ownerUserId: userId,
       });
-      return NextResponse.json(snapshot, { status: 200 });
+      return NextResponse.json(snapshot, {
+        status: 200,
+        headers: {
+          "Cache-Control": "no-store, max-age=0",
+        },
+      });
     }
 
     const deviceToken = await readTeamDeviceToken(roomCode);
@@ -27,7 +32,12 @@ export async function GET(_request: Request, context: { params: Promise<{ roomCo
       roomCode,
       deviceToken,
     });
-    return NextResponse.json(snapshot, { status: 200 });
+    return NextResponse.json(snapshot, {
+      status: 200,
+      headers: {
+        "Cache-Control": "no-store, max-age=0",
+      },
+    });
   } catch (error) {
     return roomErrorResponse(error);
   }

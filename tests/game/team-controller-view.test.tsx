@@ -1,6 +1,6 @@
 import React from "react";
-import { render, screen } from "@testing-library/react";
-import { describe, expect, it } from "vitest";
+import { act, render, screen } from "@testing-library/react";
+import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { TeamControllerView } from "@/components/game/figma/TeamControllerView";
 import type { TeamRoomSnapshot } from "@/lib/game/room-types";
 
@@ -75,6 +75,14 @@ const memberSnapshot: TeamRoomSnapshot = {
 };
 
 describe("team controller view", () => {
+  beforeEach(() => {
+    vi.useRealTimers();
+  });
+
+  afterEach(() => {
+    vi.unstubAllGlobals();
+  });
+
   it("shows nickname join form before participant is connected", () => {
     render(<TeamControllerView initialRoomCode="ROOM42" initialTeam="A" initialSnapshot={null} />);
 
@@ -88,5 +96,57 @@ describe("team controller view", () => {
     expect(screen.getByText("مها")).toBeInTheDocument();
     expect(screen.queryByRole("button", { name: "اقتراح السؤال 200" })).not.toBeInTheDocument();
     expect(screen.queryByRole("button", { name: "استخدم SHIELD" })).not.toBeInTheDocument();
+  });
+
+  it("polls the latest uncached snapshot while connected", async () => {
+    vi.useFakeTimers();
+
+    const fetchMock = vi.fn().mockImplementation(async (input: RequestInfo | URL, init?: RequestInit) => {
+      const url = String(input);
+
+      if (url.includes("/presence")) {
+        return {
+          ok: true,
+          json: async () => ({}),
+        } as Response;
+      }
+
+      if (url.includes("/leave")) {
+        return {
+          ok: true,
+          json: async () => ({}),
+        } as Response;
+      }
+
+      if (url.includes("/snapshot")) {
+        return {
+          ok: true,
+          json: async () => memberSnapshot,
+        } as Response;
+      }
+
+      throw new Error(`Unexpected fetch call: ${url}`);
+    });
+
+    vi.stubGlobal("fetch", fetchMock);
+
+    render(<TeamControllerView initialRoomCode="ROOM42" initialTeam="A" initialSnapshot={memberSnapshot} />);
+
+    await act(async () => {
+      vi.advanceTimersByTime(10_000);
+    });
+
+    expect(
+      fetchMock.mock.calls.some(
+        ([input, init]) =>
+          input === "/api/game/rooms/ROOM42/snapshot" &&
+          init &&
+          typeof init === "object" &&
+          "cache" in init &&
+          "method" in init &&
+          init.cache === "no-store" &&
+          init.method === "GET",
+      ),
+    ).toBe(true);
   });
 });
