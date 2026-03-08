@@ -151,6 +151,8 @@ export const PRESET_CATEGORIES: Category[] = GAME_CATEGORY_DEFS.map((categoryDef
 interface GameProviderProps {
   children: ReactNode;
   initialScreen?: Screen;
+  initialGameMode?: GameMode;
+  initialDailyDoubleEnabled?: boolean;
   activeSessionId: string;
   questionBankByCategory: GameQuestionBankByCategory;
 }
@@ -158,6 +160,8 @@ interface GameProviderProps {
 export function GameProvider({
   children,
   initialScreen,
+  initialGameMode,
+  initialDailyDoubleEnabled,
   activeSessionId,
   questionBankByCategory,
 }: GameProviderProps) {
@@ -169,8 +173,10 @@ export function GameProvider({
   }
 
   const [language, setLanguage] = useState<Language>("ar");
-  const [gameMode, setGameMode] = useState<GameMode>(saved.current?.gameMode ?? "CLASSIC");
-  const [dailyDoubleEnabled, setDailyDoubleEnabled] = useState(saved.current?.dailyDoubleEnabled ?? true);
+  const [gameMode, setGameMode] = useState<GameMode>(saved.current?.gameMode ?? initialGameMode ?? "CLASSIC");
+  const [dailyDoubleEnabled, setDailyDoubleEnabled] = useState(
+    saved.current?.dailyDoubleEnabled ?? initialDailyDoubleEnabled ?? true,
+  );
   const [screen, setScreen] = useState<Screen>(saved.current?.screen || initialScreen || "categories");
   const [categories, setCategories] = useState<Category[]>(saved.current?.categories || []);
   const [teams, setTeams] = useState<[Team, Team]>(

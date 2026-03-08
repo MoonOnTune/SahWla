@@ -3,6 +3,7 @@ import { getAuthenticatedUserId } from "@/lib/auth/get-auth-user-id";
 import { prisma } from "@/lib/db";
 import { PlayClient } from "@/components/game/play-client";
 import { createRandomGameQuestionPicks, picksToQuestionBank } from "@/lib/game/picks";
+import { loadActiveRoom } from "@/lib/game/load-active-room";
 
 export default async function PlayPage() {
   const userId = await getAuthenticatedUserId();
@@ -55,12 +56,15 @@ export default async function PlayPage() {
 
   const questionBankByCategory = picksToQuestionBank(picks);
 
+  const activeRoomSnapshot = await loadActiveRoom(activeSession.id);
+
   return (
     <PlayClient
       hasActiveSession
       canStartGame={(wallet?.balance ?? 0) >= 1}
       activeSessionId={activeSession.id}
       questionBankByCategory={questionBankByCategory}
+      activeRoomSnapshot={activeRoomSnapshot}
     />
   );
 }

@@ -30,11 +30,21 @@ export function useSpecialMode() {
   return context;
 }
 
-export function SpecialModeProvider({ children }: { children: ReactNode }) {
-  const [roomCode, setRoomCode] = useState<string | null>(null);
-  const [hostSnapshot, setHostSnapshot] = useState<RoomSnapshot | null>(null);
+export function SpecialModeProvider({
+  children,
+  initialRoomCode = null,
+  initialHostSnapshot = null,
+}: {
+  children: ReactNode;
+  initialRoomCode?: string | null;
+  initialHostSnapshot?: RoomSnapshot | null;
+}) {
+  const [roomCode, setRoomCode] = useState<string | null>(initialRoomCode);
+  const [hostSnapshot, setHostSnapshot] = useState<RoomSnapshot | null>(initialHostSnapshot);
   const [teamSnapshot, setTeamSnapshot] = useState<TeamRoomSnapshot | null>(null);
-  const [pendingSuggestedPickId, setPendingSuggestedPickId] = useState<string | null>(null);
+  const [pendingSuggestedPickId, setPendingSuggestedPickId] = useState<string | null>(
+    initialHostSnapshot?.pendingSuggestedPickId ?? null,
+  );
 
   const value = useMemo(
     () => ({

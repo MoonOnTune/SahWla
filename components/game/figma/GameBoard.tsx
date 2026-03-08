@@ -1,20 +1,115 @@
-import { useState } from 'react';
+import React, { useCallback, useMemo, useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { useGame } from './GameContext';
-import { Minus, Plus, Pencil, X } from 'lucide-react';
+import { useSpecialMode } from './SpecialModeContext';
+import { Minus, Plus, Pencil, X, CheckCircle2, Users, Crown } from 'lucide-react';
 import { getCategoryIcon } from './CategoryIcons';
+import { AbilityEventBanner } from './AbilityEventBanner';
+import { useRoomRealtime } from './use-room-realtime';
+import { getHostRoomChannel } from '@/lib/game/realtime';
 
 export function GameBoard() {
-  const { categories, teams, currentTurn, usedTiles, setSelectedQuestion, setScreen, setQuestionPhase, awardPoints } = useGame();
+  const {
+    gameMode,
+    categories,
+    teams,
+    setTeams,
+    currentTurn,
+    setCurrentTurn,
+    usedTiles,
+    setSelectedQuestion,
+    setScreen,
+    setQuestionPhase,
+    awardPoints,
+  } = useGame();
+  const { roomCode, hostSnapshot, setHostSnapshot, setPendingSuggestedPickId } = useSpecialMode();
   const dir = 'rtl';
   const [showScoreEditor, setShowScoreEditor] = useState(false);
   const [adjustA, setAdjustA] = useState(0);
   const [adjustB, setAdjustB] = useState(0);
+  const [isConfirmingSuggestion, setIsConfirmingSuggestion] = useState(false);
+
+  const isSpecialMode = gameMode === 'SPECIAL' && Boolean(hostSnapshot);
+
+  const displayedTeams = useMemo(() => {
+    if (!hostSnapshot) {
+      return teams;
+    }
+
+    return (['A', 'B'] as const).map((teamKey, index) => {
+      const snapshotTeam = hostSnapshot.teams.find((team) => team.key === teamKey);
+      const baseTeam = teams[index];
+
+      if (!snapshotTeam) {
+        return baseTeam;
+      }
+
+      return {
+        ...baseTeam,
+        nameAr: snapshotTeam.name,
+        score: snapshotTeam.score,
+        playerCount: snapshotTeam.connectedCount,
+        playerNames: snapshotTeam.participants.map((participant) => participant.nickname),
+      };
+    }) as typeof teams;
+  }, [hostSnapshot, teams]);
+
+  const displayedCurrentTurn = hostSnapshot ? (hostSnapshot.currentTurnTeam === 'B' ? 1 : 0) : currentTurn;
+
+  const specialBoardMeta = useMemo(() => {
+    if (!hostSnapshot) {
+      return {
+        usedKeys: new Set<string>(),
+        pendingKey: null as string | null,
+        lastVisibleEvent: null as string | null,
+      };
+    }
+
+    const usedKeys = new Set<string>();
+    let pendingKey: string | null = null;
+
+    categories.forEach((category, categoryIndex) => {
+      category.questions.forEach((question, questionIndex) => {
+        const boardCategory = hostSnapshot.board.find((entry) => entry.name === category.name);
+        const boardTile = boardCategory?.tiles.find((tile) => tile.pickId === question.pickId);
+
+        if (boardTile?.used) {
+          usedKeys.add(`${categoryIndex}-${questionIndex}`);
+        }
+
+        if (boardTile?.pickId === hostSnapshot.pendingSuggestedPickId) {
+          pendingKey = `${categoryIndex}-${questionIndex}`;
+        }
+      });
+    });
+
+    return {
+      usedKeys,
+      pendingKey,
+      lastVisibleEvent: hostSnapshot.visibleEvents.at(-1)?.message ?? null,
+    };
+  }, [categories, hostSnapshot]);
+
+  const refreshHostSnapshot = useCallback(async () => {
+    if (!roomCode) {
+      return;
+    }
+
+    const response = await fetch(`/api/game/rooms/${roomCode}/snapshot`, { method: 'GET' });
+    const payload = await response.json().catch(() => null);
+
+    if (!response.ok || !payload) {
+      return;
+    }
+
+    syncHostSnapshot(payload);
+  }, [roomCode]);
 
   const totalTiles = categories.length * 6;
-  const usedCount = usedTiles.size;
+  const usedCount = isSpecialMode ? specialBoardMeta.usedKeys.size : usedTiles.size;
 
   const handleTileClick = (catIndex: number, qIndex: number) => {
+    if (isSpecialMode) return;
     const key = `${catIndex}-${qIndex}`;
     if (usedTiles.has(key)) return;
     setSelectedQuestion({ catIndex, qIndex });
@@ -47,6 +142,75 @@ export function GameBoard() {
     600: 'from-purple-500/30 to-purple-600/10 border-purple-500/30 hover:border-purple-400/60',
   };
 
+  const syncHostSnapshot = (snapshot: typeof hostSnapshot) => {
+    if (!snapshot) return;
+
+    setHostSnapshot(snapshot);
+    setPendingSuggestedPickId(snapshot.pendingSuggestedPickId);
+    setCurrentTurn(snapshot.currentTurnTeam === 'B' ? 1 : 0);
+    setTeams((previous) =>
+      previous.map((team, index) => {
+        const snapshotTeam = snapshot.teams.find((entry) => entry.key === (index === 0 ? 'A' : 'B'));
+        if (!snapshotTeam) {
+          return team;
+        }
+
+        return {
+          ...team,
+          nameAr: snapshotTeam.name,
+          score: snapshotTeam.score,
+          playerCount: snapshotTeam.connectedCount,
+          playerNames: snapshotTeam.participants.map((participant) => participant.nickname),
+        };
+      }) as typeof previous,
+    );
+  };
+
+  useRoomRealtime({
+    channelName: roomCode ? getHostRoomChannel(roomCode) : null,
+    enabled: isSpecialMode,
+    onRoomUpdated: refreshHostSnapshot,
+  });
+
+  const handleConfirmSuggestion = async () => {
+    if (!roomCode || !hostSnapshot?.pendingSuggestedPickId) {
+      return;
+    }
+
+    setIsConfirmingSuggestion(true);
+
+    try {
+      const response = await fetch(`/api/game/rooms/${roomCode}/confirm`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ roomCode }),
+      });
+      const payload = await response.json().catch(() => null);
+
+      if (!response.ok || !payload?.selectedPickId) {
+        return;
+      }
+
+      syncHostSnapshot(payload);
+
+      categories.forEach((category, categoryIndex) => {
+        category.questions.forEach((question, questionIndex) => {
+          if (question.pickId !== payload.selectedPickId) {
+            return;
+          }
+
+          setSelectedQuestion({ catIndex: categoryIndex, qIndex: questionIndex });
+          setQuestionPhase('timerA');
+          setScreen(category.type === 'walakalma' ? 'walakalma' : 'question');
+        });
+      });
+    } finally {
+      setIsConfirmingSuggestion(false);
+    }
+  };
+
   return (
     <div dir={dir} className="min-h-screen flex flex-col relative"
       style={{ background: 'linear-gradient(135deg, #0a0a2e 0%, #0f0a2e 50%, #0a0a2e 100%)' }}>
@@ -55,23 +219,23 @@ export function GameBoard() {
       <div className="flex items-center justify-between p-4 relative z-10">
         {/* Team A score */}
         <motion.div
-          animate={currentTurn === 0 ? { scale: [1, 1.02, 1] } : {}}
+          animate={displayedCurrentTurn === 0 ? { scale: [1, 1.02, 1] } : {}}
           transition={{ duration: 2, repeat: Infinity }}
           className={`flex items-center gap-4 px-6 py-3 rounded-2xl border-2 ${
-            currentTurn === 0 ? 'ring-2 ring-cyan-400/50' : ''
+            displayedCurrentTurn === 0 ? 'ring-2 ring-cyan-400/50' : ''
           }`}
           style={{
-            background: `linear-gradient(135deg, ${teams[0].color}20, ${teams[0].color}08)`,
-            borderColor: currentTurn === 0 ? teams[0].color : `${teams[0].color}30`,
-            boxShadow: currentTurn === 0 ? `0 0 20px ${teams[0].color}30` : 'none',
+            background: `linear-gradient(135deg, ${displayedTeams[0].color}20, ${displayedTeams[0].color}08)`,
+            borderColor: displayedCurrentTurn === 0 ? displayedTeams[0].color : `${displayedTeams[0].color}30`,
+            boxShadow: displayedCurrentTurn === 0 ? `0 0 20px ${displayedTeams[0].color}30` : 'none',
           }}
         >
-          <div className="w-3 h-3 rounded-full" style={{ background: teams[0].color, boxShadow: `0 0 8px ${teams[0].color}` }} />
+          <div className="w-3 h-3 rounded-full" style={{ background: displayedTeams[0].color, boxShadow: `0 0 8px ${displayedTeams[0].color}` }} />
           <span className="text-white/70" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 600 }}>
-            {teams[0].nameAr}
+            {displayedTeams[0].nameAr}
           </span>
           <span className="text-3xl text-white" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800, fontVariantNumeric: 'tabular-nums' }}>
-            {teams[0].score}
+            {displayedTeams[0].score}
           </span>
         </motion.div>
 
@@ -87,32 +251,102 @@ export function GameBoard() {
             <span className="text-sm">تعديل النقاط</span>
           </button>
           <span className="text-white/40 text-sm mt-1" style={{ fontFamily: 'Cairo, sans-serif' }}>
-            دور: {teams[currentTurn].nameAr}
+            دور: {displayedTeams[displayedCurrentTurn].nameAr}
           </span>
         </div>
 
         {/* Team B score */}
         <motion.div
-          animate={currentTurn === 1 ? { scale: [1, 1.02, 1] } : {}}
+          animate={displayedCurrentTurn === 1 ? { scale: [1, 1.02, 1] } : {}}
           transition={{ duration: 2, repeat: Infinity }}
           className={`flex items-center gap-4 px-6 py-3 rounded-2xl border-2 ${
-            currentTurn === 1 ? 'ring-2 ring-fuchsia-400/50' : ''
+            displayedCurrentTurn === 1 ? 'ring-2 ring-fuchsia-400/50' : ''
           }`}
           style={{
-            background: `linear-gradient(135deg, ${teams[1].color}20, ${teams[1].color}08)`,
-            borderColor: currentTurn === 1 ? teams[1].color : `${teams[1].color}30`,
-            boxShadow: currentTurn === 1 ? `0 0 20px ${teams[1].color}30` : 'none',
+            background: `linear-gradient(135deg, ${displayedTeams[1].color}20, ${displayedTeams[1].color}08)`,
+            borderColor: displayedCurrentTurn === 1 ? displayedTeams[1].color : `${displayedTeams[1].color}30`,
+            boxShadow: displayedCurrentTurn === 1 ? `0 0 20px ${displayedTeams[1].color}30` : 'none',
           }}
         >
           <span className="text-3xl text-white" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800, fontVariantNumeric: 'tabular-nums' }}>
-            {teams[1].score}
+            {displayedTeams[1].score}
           </span>
           <span className="text-white/70" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 600 }}>
-            {teams[1].nameAr}
+            {displayedTeams[1].nameAr}
           </span>
-          <div className="w-3 h-3 rounded-full" style={{ background: teams[1].color, boxShadow: `0 0 8px ${teams[1].color}` }} />
+          <div className="w-3 h-3 rounded-full" style={{ background: displayedTeams[1].color, boxShadow: `0 0 8px ${displayedTeams[1].color}` }} />
         </motion.div>
       </div>
+
+      {isSpecialMode && hostSnapshot && (
+        <div className="px-4 pb-4">
+          <div className="grid grid-cols-1 xl:grid-cols-[1fr_auto] gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+              {hostSnapshot.teams.map((team) => {
+                const captainName =
+                  team.participants.find((participant) => participant.id === team.captainParticipantId)?.nickname ?? 'بانتظار قائد';
+
+                return (
+                  <div
+                    key={team.key}
+                    className="rounded-2xl border border-white/10 bg-white/5 px-4 py-3 flex items-center justify-between"
+                  >
+                    <div>
+                      <p className="text-white" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800 }}>
+                        {team.name}
+                      </p>
+                      <p className="text-white/50 text-sm mt-1 flex items-center gap-2">
+                        <Users className="w-4 h-4" />
+                        {team.connectedCount} متصل
+                      </p>
+                    </div>
+                    <div className="text-right">
+                      <p className="text-white/70 text-sm flex items-center gap-2 justify-end">
+                        <Crown className="w-4 h-4 text-amber-300" />
+                        القائد: {captainName}
+                      </p>
+                      <p className="text-white/35 text-xs mt-1">الجولة {hostSnapshot.currentRound}</p>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+
+            <div className="flex flex-col gap-3 items-stretch xl:min-w-[280px]">
+              {hostSnapshot.pendingSuggestedPickId && (
+                <div className="rounded-2xl border border-amber-400/30 bg-amber-500/10 px-4 py-3">
+                  <p className="text-amber-300" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800 }}>
+                    اقتراح معلق
+                  </p>
+                  <p className="text-white/60 text-sm mt-1">بانتظار تأكيد المضيف قبل فتح السؤال</p>
+                </div>
+              )}
+              {specialBoardMeta.lastVisibleEvent && (
+                <AbilityEventBanner message={specialBoardMeta.lastVisibleEvent} />
+              )}
+              {hostSnapshot.pendingSuggestedPickId && (
+                <button
+                  type="button"
+                  onClick={() => {
+                    void handleConfirmSuggestion();
+                  }}
+                  disabled={isConfirmingSuggestion}
+                  className="flex items-center justify-center gap-2 rounded-2xl px-5 py-3 text-white transition-all cursor-pointer active:scale-95 disabled:opacity-50"
+                  style={{
+                    background: 'linear-gradient(135deg, #f59e0b, #d97706)',
+                    boxShadow: '0 0 24px rgba(245,158,11,0.28)',
+                    fontFamily: 'Cairo, sans-serif',
+                    fontWeight: 800,
+                  }}
+                >
+                  <CheckCircle2 className="w-5 h-5" />
+                  {isConfirmingSuggestion ? 'جارٍ التأكيد...' : 'تأكيد السؤال المقترح'}
+                </button>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Game board grid */}
       <div className="flex-1 p-4 overflow-auto">
@@ -137,9 +371,13 @@ export function GameBoard() {
           {[0, 1, 2, 3, 4, 5].map(qIndex => (
             categories.map((cat, ci) => {
               const key = `${ci}-${qIndex}`;
-              const isUsed = usedTiles.has(key);
+              const isUsed = isSpecialMode ? specialBoardMeta.usedKeys.has(key) : usedTiles.has(key);
               const q = cat.questions[qIndex];
+              if (!q) {
+                return null;
+              }
               const colorClass = valueColors[q.value] || valueColors[200];
+              const isPending = isSpecialMode && specialBoardMeta.pendingKey === key;
 
               return (
                 <motion.button
@@ -148,14 +386,21 @@ export function GameBoard() {
                   animate={{ opacity: 1, scale: 1 }}
                   transition={{ delay: (ci + qIndex * categories.length) * 0.02 }}
                   onClick={() => handleTileClick(ci, qIndex)}
-                  disabled={isUsed}
+                  disabled={isUsed || isSpecialMode}
                   className={`relative py-5 px-3 rounded-xl border transition-all cursor-pointer ${
                     isUsed
                       ? 'bg-white/3 border-white/5 opacity-30 cursor-not-allowed'
+                      : isSpecialMode
+                      ? `bg-gradient-to-b ${colorClass} opacity-90 cursor-default`
                       : `bg-gradient-to-b ${colorClass} hover:scale-105 active:scale-95`
                   }`}
                   style={!isUsed ? { boxShadow: '0 4px 20px rgba(0,0,0,0.3)' } : {}}
                 >
+                  {isPending && (
+                    <span className="absolute top-2 right-2 text-[10px] px-2 py-1 rounded-full bg-amber-400 text-slate-900" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800 }}>
+                      اقتراح
+                    </span>
+                  )}
                   <span className={`text-2xl ${isUsed ? 'text-white/20' : 'text-white'}`}
                     style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800 }}>
                     {isUsed ? '✓' : q.value}

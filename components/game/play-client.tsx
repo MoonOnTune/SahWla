@@ -14,6 +14,7 @@ import { QuestionView } from "@/components/game/figma/QuestionView";
 import { WalaKalmaView } from "@/components/game/figma/WalaKalmaView";
 import { WinnerScreen } from "@/components/game/figma/WinnerScreen";
 import type { GameQuestionBankByCategory } from "@/lib/game/picks";
+import type { RoomSnapshot } from "@/lib/game/room-types";
 
 function GameScreens() {
   const { screen, resetGame } = useGame();
@@ -53,9 +54,10 @@ type Props = {
   canStartGame: boolean;
   activeSessionId?: string;
   questionBankByCategory?: GameQuestionBankByCategory;
+  activeRoomSnapshot?: RoomSnapshot | null;
 };
 
-export function PlayClient({ hasActiveSession, activeSessionId, questionBankByCategory }: Props) {
+export function PlayClient({ hasActiveSession, activeSessionId, questionBankByCategory, activeRoomSnapshot }: Props) {
   const router = useRouter();
 
   if (!hasActiveSession) {
@@ -108,11 +110,16 @@ export function PlayClient({ hasActiveSession, activeSessionId, questionBankByCa
 
   return (
     <GameProvider
-      initialScreen="categories"
+      initialScreen={activeRoomSnapshot ? (activeRoomSnapshot.phase === "QR" ? "qr" : "board") : "categories"}
+      initialGameMode={activeRoomSnapshot ? "SPECIAL" : "CLASSIC"}
+      initialDailyDoubleEnabled={activeRoomSnapshot?.dailyDoubleEnabled ?? true}
       activeSessionId={activeSessionId ?? ""}
       questionBankByCategory={questionBankByCategory ?? {}}
     >
-      <SpecialModeProvider>
+      <SpecialModeProvider
+        initialRoomCode={activeRoomSnapshot?.roomCode ?? null}
+        initialHostSnapshot={activeRoomSnapshot ?? null}
+      >
         <div className="size-full" style={{ fontFamily: "Cairo, sans-serif" }}>
           <button
             onClick={() => {

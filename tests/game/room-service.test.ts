@@ -1,5 +1,11 @@
 import { describe, expect, it } from "vitest";
-import { RoomRuleError, applyAnswerOutcome, assignParticipantRole, assertSuggestionAllowed } from "@/lib/game/room-service";
+import {
+  RoomRuleError,
+  applyAnswerOutcome,
+  assignParticipantRole,
+  assertAbilityTimingAllowed,
+  assertSuggestionAllowed,
+} from "@/lib/game/room-service";
 
 describe("room service", () => {
   it("assigns the first player on a team as captain", () => {
@@ -37,5 +43,36 @@ describe("room service", () => {
         unlockedRound: 7,
       },
     });
+  });
+
+  it("allows steal only while the opponent question is live", () => {
+    expect(() =>
+      assertAbilityTimingAllowed({
+        abilityType: "STEAL",
+        roomPhase: "QUESTION",
+        currentTurnTeam: "A",
+        actingTeam: "B",
+      }),
+    ).not.toThrow();
+
+    expect(() =>
+      assertAbilityTimingAllowed({
+        abilityType: "STEAL",
+        roomPhase: "BOARD",
+        currentTurnTeam: "A",
+        actingTeam: "B",
+      }),
+    ).toThrow(new RoomRuleError("ABILITY_NOT_ALLOWED_IN_CURRENT_PHASE"));
+  });
+
+  it("blocks normal abilities when used outside the acting team turn", () => {
+    expect(() =>
+      assertAbilityTimingAllowed({
+        abilityType: "DOUBLE_POINTS",
+        roomPhase: "QUESTION",
+        currentTurnTeam: "A",
+        actingTeam: "B",
+      }),
+    ).toThrow(new RoomRuleError("NOT_YOUR_TURN"));
   });
 });

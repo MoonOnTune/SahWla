@@ -41,19 +41,11 @@ export function getRealtimeConfig(): RealtimeProviderConfig | null {
   };
 }
 
-export function getHostRoomChannel(roomCode: string): string {
-  return `private-room-${roomCode}-host`;
-}
-
-export function getTeamRoomChannel(roomCode: string, team: GameTeamKey): string {
-  return `private-room-${roomCode}-team-${team}`;
-}
-
-export async function publishRealtimeEvent(_event: RealtimeEvent): Promise<void> {
+export function getRealtimeServerClient(): Pusher | null {
   const config = getRealtimeConfig();
 
   if (!config) {
-    return;
+    return null;
   }
 
   if (cachedServerClient === undefined) {
@@ -66,9 +58,22 @@ export async function publishRealtimeEvent(_event: RealtimeEvent): Promise<void>
     });
   }
 
-  if (!cachedServerClient) {
+  return cachedServerClient ?? null;
+}
+
+export function getHostRoomChannel(roomCode: string): string {
+  return `private-room-${roomCode}-host`;
+}
+
+export function getTeamRoomChannel(roomCode: string, team: GameTeamKey): string {
+  return `private-room-${roomCode}-team-${team}`;
+}
+
+export async function publishRealtimeEvent(_event: RealtimeEvent): Promise<void> {
+  const client = getRealtimeServerClient();
+  if (!client) {
     return;
   }
 
-  await cachedServerClient.trigger(_event.channel, _event.event, _event.payload);
+  await client.trigger(_event.channel, _event.event, _event.payload);
 }

@@ -1,6 +1,7 @@
-import { useState, useCallback } from 'react';
+import React, { useState, useCallback, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { useGame } from './GameContext';
+import { useSpecialMode } from './SpecialModeContext';
 import { Timer } from './Timer';
 import { ArrowLeft, QrCode, SkipForward, Play } from 'lucide-react';
 import { ImageWithFallback } from '@/components/figma/image-with-fallback';
@@ -9,10 +10,11 @@ type WalaKalmaPhase = 'qr' | 'timerA' | 'timerB' | 'choose';
 
 export function WalaKalmaView() {
   const {
-    categories, teams, currentTurn, selectedQuestion,
-    setScreen, awardPoints, markTileUsed, setCurrentTurn,
+    gameMode, categories, teams, setTeams, currentTurn, setCurrentTurn, selectedQuestion,
+    setScreen, awardPoints, markTileUsed,
     setQuestionPhase,
   } = useGame();
+  const { roomCode, hostSnapshot, setHostSnapshot, setPendingSuggestedPickId } = useSpecialMode();
 
   const [phase, setPhase] = useState<WalaKalmaPhase>('qr');
   const [timerAExpired, setTimerAExpired] = useState(false);
@@ -23,12 +25,32 @@ export function WalaKalmaView() {
   const { catIndex, qIndex } = selectedQuestion;
   const category = categories[catIndex];
   const question = category.questions[qIndex];
+  const isSpecialMode = gameMode === 'SPECIAL' && Boolean(hostSnapshot);
+
+  const displayedTeams = useMemo(() => {
+    if (!hostSnapshot) {
+      return teams;
+    }
+
+    return (['A', 'B'] as const).map((teamKey, index) => {
+      const snapshotTeam = hostSnapshot.teams.find((team) => team.key === teamKey);
+      const baseTeam = teams[index];
+      if (!snapshotTeam) return baseTeam;
+      return {
+        ...baseTeam,
+        nameAr: snapshotTeam.name,
+        score: snapshotTeam.score,
+      };
+    }) as typeof teams;
+  }, [hostSnapshot, teams]);
+
+  const displayedCurrentTurn = hostSnapshot ? (hostSnapshot.currentTurnTeam === 'B' ? 1 : 0) : currentTurn;
 
   // The movie name is stored in question.question
   const movieName = question.question;
 
   // Build a reveal URL: the app's origin + hash with URI-encoded movie name
-  const revealUrl = `${window.location.origin}/reveal/${encodeURIComponent(movieName)}`;
+  const revealUrl = typeof window === 'undefined' ? '' : `${window.location.origin}/reveal/${encodeURIComponent(movieName)}`;
 
   // Generate QR code image using a public API, pointing to the reveal URL
   const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=${encodeURIComponent(revealUrl)}&bgcolor=ffffff&color=0a0a2e&format=svg`;
@@ -60,6 +82,47 @@ export function WalaKalmaView() {
   };
 
   const chooseWinnerAndReturn = (teamIndex: number | -1) => {
+    if (isSpecialMode && roomCode) {
+      void (async () => {
+        const response = await fetch(`/api/game/rooms/${roomCode}/resolve`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            roomCode,
+            winningTeam: teamIndex === -1 ? null : teamIndex === 0 ? 'A' : 'B',
+          }),
+        });
+        const payload = await response.json().catch(() => null);
+
+        if (!response.ok || !payload) {
+          return;
+        }
+
+        setHostSnapshot(payload);
+        setPendingSuggestedPickId(payload.pendingSuggestedPickId ?? null);
+        setCurrentTurn(payload.currentTurnTeam === 'B' ? 1 : 0);
+        setTeams((previous) =>
+          previous.map((team, index) => {
+            const snapshotTeam = payload.teams.find((entry: { key: string }) => entry.key === (index === 0 ? 'A' : 'B'));
+            if (!snapshotTeam) return team;
+            return {
+              ...team,
+              nameAr: snapshotTeam.name,
+              score: snapshotTeam.score,
+            };
+          }) as typeof previous,
+        );
+
+        setTimerAExpired(false);
+        setTimerBExpired(false);
+        setQuestionPhase('timerA');
+        setScreen(payload.phase === 'WINNER' ? 'winner' : 'board');
+      })();
+      return;
+    }
+
     const key = `${catIndex}-${qIndex}`;
     if (teamIndex === 0) awardPoints(0, question.value);
     else if (teamIndex === 1) awardPoints(1, question.value);
@@ -75,6 +138,9 @@ export function WalaKalmaView() {
   };
 
   const handleBack = () => {
+    if (isSpecialMode) {
+      return;
+    }
     setShowBackConfirm(true);
   };
 
@@ -87,8 +153,8 @@ export function WalaKalmaView() {
   };
 
   // Determine which team is "active" for timer display
-  const activeTeamIndex = phase === 'timerA' ? currentTurn : (currentTurn === 0 ? 1 : 0);
-  const otherTeamIndex = currentTurn === 0 ? 1 : 0;
+  const activeTeamIndex = phase === 'timerA' ? displayedCurrentTurn : (displayedCurrentTurn === 0 ? 1 : 0);
+  const otherTeamIndex = displayedCurrentTurn === 0 ? 1 : 0;
 
   return (
     <div dir="rtl" className="min-h-screen flex flex-col relative"
@@ -109,13 +175,13 @@ export function WalaKalmaView() {
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 rounded-full" style={{ background: teams[0].color }} />
             <span className="text-white" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 700 }}>
-              {teams[0].score}
+              {displayedTeams[0].score}
             </span>
           </div>
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 rounded-full" style={{ background: teams[1].color }} />
             <span className="text-white" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 700 }}>
-              {teams[1].score}
+              {displayedTeams[1].score}
             </span>
           </div>
         </div>
@@ -155,7 +221,7 @@ export function WalaKalmaView() {
               </div>
 
               <p className="text-white/50 text-center text-lg" style={{ fontFamily: 'Cairo, sans-serif' }}>
-                لاعب من {teams[currentTurn].nameAr} يمسح الرمز ويمثّل الفيلم لفريقه بدون كلام
+                لاعب من {displayedTeams[displayedCurrentTurn].nameAr} يمسح الرمز ويمثّل الفيلم لفريقه بدون كلام
               </p>
 
               {/* QR Code */}
@@ -184,15 +250,15 @@ export function WalaKalmaView() {
                 onClick={startTeamATimer}
                 className="flex items-center gap-3 px-8 py-4 rounded-2xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer mt-2"
                 style={{
-                  background: `linear-gradient(135deg, ${teams[currentTurn].color}, ${teams[currentTurn].color}cc)`,
-                  boxShadow: `0 0 30px ${teams[currentTurn].color}40`,
+                  background: `linear-gradient(135deg, ${displayedTeams[displayedCurrentTurn].color}, ${displayedTeams[displayedCurrentTurn].color}cc)`,
+                  boxShadow: `0 0 30px ${displayedTeams[displayedCurrentTurn].color}40`,
                   fontFamily: 'Cairo, sans-serif',
                   fontWeight: 700,
                   fontSize: '1.25rem',
                 }}
               >
                 <Play className="w-6 h-6" />
-                ابدأ وقت {teams[currentTurn].nameAr}
+                ابدأ وقت {displayedTeams[displayedCurrentTurn].nameAr}
               </button>
             </motion.div>
           )}
@@ -209,8 +275,8 @@ export function WalaKalmaView() {
               <Timer
                 key="wk-timerA"
                 duration={120}
-                teamLabel={`وقت ${teams[currentTurn].nameAr}`}
-                teamColor={teams[currentTurn].color}
+                teamLabel={`وقت ${displayedTeams[displayedCurrentTurn].nameAr}`}
+                teamColor={displayedTeams[displayedCurrentTurn].color}
                 onExpired={handleTimerAExpired}
                 running={!timerAExpired}
               />
@@ -221,14 +287,14 @@ export function WalaKalmaView() {
                     onClick={skipToTeamB}
                     className="flex items-center gap-2 px-5 py-3 rounded-xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
                     style={{
-                      background: `linear-gradient(135deg, ${teams[otherTeamIndex].color}, ${teams[otherTeamIndex].color}cc)`,
-                      boxShadow: `0 0 20px ${teams[otherTeamIndex].color}30`,
+                      background: `linear-gradient(135deg, ${displayedTeams[otherTeamIndex].color}, ${displayedTeams[otherTeamIndex].color}cc)`,
+                      boxShadow: `0 0 20px ${displayedTeams[otherTeamIndex].color}30`,
                       fontFamily: 'Cairo, sans-serif',
                       fontWeight: 700,
                     }}
                   >
                     <SkipForward className="w-5 h-5" />
-                    تخطي إلى {teams[otherTeamIndex].nameAr}
+                    تخطي إلى {displayedTeams[otherTeamIndex].nameAr}
                   </button>
                   <button
                     onClick={goToChooseWinner}
@@ -256,14 +322,14 @@ export function WalaKalmaView() {
                         onClick={startTeamBTimer}
                         className="flex items-center gap-2 px-6 py-3 rounded-xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
                         style={{
-                          background: `linear-gradient(135deg, ${teams[otherTeamIndex].color}, ${teams[otherTeamIndex].color}cc)`,
-                          boxShadow: `0 0 20px ${teams[otherTeamIndex].color}40`,
+                          background: `linear-gradient(135deg, ${displayedTeams[otherTeamIndex].color}, ${displayedTeams[otherTeamIndex].color}cc)`,
+                          boxShadow: `0 0 20px ${displayedTeams[otherTeamIndex].color}40`,
                           fontFamily: 'Cairo, sans-serif',
                           fontWeight: 700,
                         }}
                       >
                         <SkipForward className="w-5 h-5" />
-                        ابدأ وقت {teams[otherTeamIndex].nameAr}
+                        ابدأ وقت {displayedTeams[otherTeamIndex].nameAr}
                       </button>
                       <button
                         onClick={goToChooseWinner}
@@ -291,8 +357,8 @@ export function WalaKalmaView() {
               <Timer
                 key="wk-timerB"
                 duration={120}
-                teamLabel={`وقت ${teams[otherTeamIndex].nameAr}`}
-                teamColor={teams[otherTeamIndex].color}
+                teamLabel={`وقت ${displayedTeams[otherTeamIndex].nameAr}`}
+                teamColor={displayedTeams[otherTeamIndex].color}
                 onExpired={handleTimerBExpired}
                 running={!timerBExpired}
               />
@@ -368,23 +434,23 @@ export function WalaKalmaView() {
                     onClick={() => chooseWinnerAndReturn(0)}
                     className="px-6 py-3 rounded-xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
                     style={{
-                      background: `linear-gradient(135deg, ${teams[0].color}, ${teams[0].color}cc)`,
-                      boxShadow: `0 0 20px ${teams[0].color}30`,
+                      background: `linear-gradient(135deg, ${displayedTeams[0].color}, ${displayedTeams[0].color}cc)`,
+                      boxShadow: `0 0 20px ${displayedTeams[0].color}30`,
                       fontFamily: 'Cairo, sans-serif', fontWeight: 700,
                     }}
                   >
-                    {teams[0].nameAr} صحيح
+                    {displayedTeams[0].nameAr} صحيح
                   </button>
                   <button
                     onClick={() => chooseWinnerAndReturn(1)}
                     className="px-6 py-3 rounded-xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
                     style={{
-                      background: `linear-gradient(135deg, ${teams[1].color}, ${teams[1].color}cc)`,
-                      boxShadow: `0 0 20px ${teams[1].color}30`,
+                      background: `linear-gradient(135deg, ${displayedTeams[1].color}, ${displayedTeams[1].color}cc)`,
+                      boxShadow: `0 0 20px ${displayedTeams[1].color}30`,
                       fontFamily: 'Cairo, sans-serif', fontWeight: 700,
                     }}
                   >
-                    {teams[1].nameAr} صحيح
+                    {displayedTeams[1].nameAr} صحيح
                   </button>
                   <button
                     onClick={() => chooseWinnerAndReturn(-1)}

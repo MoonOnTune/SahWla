@@ -1,15 +1,17 @@
-import { useState, useCallback } from 'react';
+import React, { useState, useCallback, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { useGame } from './GameContext';
+import { useSpecialMode } from './SpecialModeContext';
 import { Timer } from './Timer';
 import { ArrowLeft, Eye, SkipForward } from 'lucide-react';
 
 export function QuestionView() {
   const {
-    categories, teams, currentTurn, selectedQuestion,
+    gameMode, categories, teams, setTeams, currentTurn, setCurrentTurn, selectedQuestion,
     questionPhase, setQuestionPhase, setScreen, awardPoints,
-    markTileUsed, setCurrentTurn,
+    markTileUsed,
   } = useGame();
+  const { roomCode, hostSnapshot, setHostSnapshot, setPendingSuggestedPickId } = useSpecialMode();
   const dir = 'rtl';
 
   const [showAnswer, setShowAnswer] = useState(false);
@@ -21,6 +23,26 @@ export function QuestionView() {
   const { catIndex, qIndex } = selectedQuestion;
   const category = categories[catIndex];
   const question = category.questions[qIndex];
+  const isSpecialMode = gameMode === 'SPECIAL' && Boolean(hostSnapshot);
+
+  const displayedTeams = useMemo(() => {
+    if (!hostSnapshot) {
+      return teams;
+    }
+
+    return (['A', 'B'] as const).map((teamKey, index) => {
+      const snapshotTeam = hostSnapshot.teams.find((team) => team.key === teamKey);
+      const baseTeam = teams[index];
+      if (!snapshotTeam) return baseTeam;
+      return {
+        ...baseTeam,
+        nameAr: snapshotTeam.name,
+        score: snapshotTeam.score,
+      };
+    }) as typeof teams;
+  }, [hostSnapshot, teams]);
+
+  const displayedCurrentTurn = hostSnapshot ? (hostSnapshot.currentTurnTeam === 'B' ? 1 : 0) : currentTurn;
 
   const handleTimerAExpired = useCallback(() => {
     setTimerAExpired(true);
@@ -48,6 +70,48 @@ export function QuestionView() {
   };
 
   const chooseWinnerAndReturn = (teamIndex: number | -1) => {
+    if (isSpecialMode && roomCode) {
+      void (async () => {
+        const response = await fetch(`/api/game/rooms/${roomCode}/resolve`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            roomCode,
+            winningTeam: teamIndex === -1 ? null : teamIndex === 0 ? 'A' : 'B',
+          }),
+        });
+        const payload = await response.json().catch(() => null);
+
+        if (!response.ok || !payload) {
+          return;
+        }
+
+        setHostSnapshot(payload);
+        setPendingSuggestedPickId(payload.pendingSuggestedPickId ?? null);
+        setCurrentTurn(payload.currentTurnTeam === 'B' ? 1 : 0);
+        setTeams((previous) =>
+          previous.map((team, index) => {
+            const snapshotTeam = payload.teams.find((entry: { key: string }) => entry.key === (index === 0 ? 'A' : 'B'));
+            if (!snapshotTeam) return team;
+            return {
+              ...team,
+              nameAr: snapshotTeam.name,
+              score: snapshotTeam.score,
+            };
+          }) as typeof previous,
+        );
+
+        setShowAnswer(false);
+        setTimerAExpired(false);
+        setTimerBExpired(false);
+        setQuestionPhase('timerA');
+        setScreen(payload.phase === 'WINNER' ? 'winner' : 'board');
+      })();
+      return;
+    }
+
     const key = `${catIndex}-${qIndex}`;
 
     // Award base points to selected team
@@ -70,6 +134,9 @@ export function QuestionView() {
   };
 
   const handleBack = () => {
+    if (isSpecialMode) {
+      return;
+    }
     setShowBackConfirm(true);
   };
 
@@ -83,7 +150,7 @@ export function QuestionView() {
   };
 
   // Determine active team for timer
-  const activeTimerTeam = questionPhase === 'timerA' ? 0 : 1;
+  const activeTimerTeam = questionPhase === 'timerA' ? displayedCurrentTurn : displayedCurrentTurn === 0 ? 1 : 0;
   const timerDuration = questionPhase === 'timerA' ? 60 : 30;
   const isTimerRunning = (questionPhase === 'timerA' && !timerAExpired) || (questionPhase === 'timerB' && !timerBExpired);
   const currentTimerExpired = questionPhase === 'timerA' ? timerAExpired : timerBExpired;
@@ -96,6 +163,7 @@ export function QuestionView() {
       <div className="flex items-center justify-between p-4">
         <button
           onClick={handleBack}
+          disabled={isSpecialMode}
           className="flex items-center gap-2 px-4 py-2 rounded-xl bg-white/10 hover:bg-white/20 text-white/70 transition-all cursor-pointer"
           style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 600 }}
         >
@@ -107,13 +175,13 @@ export function QuestionView() {
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 rounded-full" style={{ background: teams[0].color }} />
             <span className="text-white" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 700 }}>
-              {teams[0].score}
+              {displayedTeams[0].score}
             </span>
           </div>
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 rounded-full" style={{ background: teams[1].color }} />
             <span className="text-white" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 700 }}>
-              {teams[1].score}
+              {displayedTeams[1].score}
             </span>
           </div>
         </div>
@@ -154,8 +222,8 @@ export function QuestionView() {
             <Timer
               key={questionPhase}
               duration={timerDuration}
-              teamLabel={`وقت ${teams[activeTimerTeam].nameAr}`}
-              teamColor={teams[activeTimerTeam].color}
+              teamLabel={`وقت ${displayedTeams[activeTimerTeam].nameAr}`}
+              teamColor={displayedTeams[activeTimerTeam].color}
               onExpired={questionPhase === 'timerA' ? handleTimerAExpired : handleTimerBExpired}
               running={isTimerRunning}
             />
@@ -168,14 +236,14 @@ export function QuestionView() {
                     onClick={skipToOtherTeam}
                     className="flex items-center gap-2 px-5 py-3 rounded-xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
                     style={{
-                      background: `linear-gradient(135deg, ${teams[1].color}, ${teams[1].color}cc)`,
-                      boxShadow: `0 0 20px ${teams[1].color}30`,
+                          background: `linear-gradient(135deg, ${teams[1].color}, ${teams[1].color}cc)`,
+                          boxShadow: `0 0 20px ${displayedTeams[1].color}30`,
                       fontFamily: 'Cairo, sans-serif',
                       fontWeight: 700,
                     }}
                   >
                     <SkipForward className="w-5 h-5" />
-                    تخطي إلى {teams[1].nameAr}
+                    تخطي إلى {displayedTeams[1].nameAr}
                   </button>
                 )}
                 <button
@@ -208,13 +276,13 @@ export function QuestionView() {
                         className="flex items-center gap-2 px-6 py-3 rounded-xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
                         style={{
                           background: `linear-gradient(135deg, ${teams[1].color}, ${teams[1].color}cc)`,
-                          boxShadow: `0 0 20px ${teams[1].color}40`,
+                          boxShadow: `0 0 20px ${displayedTeams[1].color}40`,
                           fontFamily: 'Cairo, sans-serif',
                           fontWeight: 700,
                         }}
                       >
                         <SkipForward className="w-5 h-5" />
-                        ابدأ وقت {teams[1].nameAr}
+                        ابدأ وقت {displayedTeams[1].nameAr}
                       </button>
                     )}
                     <button
@@ -261,22 +329,22 @@ export function QuestionView() {
                     className="px-6 py-3 rounded-xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
                     style={{
                       background: `linear-gradient(135deg, ${teams[0].color}, ${teams[0].color}cc)`,
-                      boxShadow: `0 0 20px ${teams[0].color}30`,
+                      boxShadow: `0 0 20px ${displayedTeams[0].color}30`,
                       fontFamily: 'Cairo, sans-serif', fontWeight: 700,
                     }}
                   >
-                    {teams[0].nameAr} صحيح
+                    {displayedTeams[0].nameAr} صحيح
                   </button>
                   <button
                     onClick={() => chooseWinnerAndReturn(1)}
                     className="px-6 py-3 rounded-xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
                     style={{
                       background: `linear-gradient(135deg, ${teams[1].color}, ${teams[1].color}cc)`,
-                      boxShadow: `0 0 20px ${teams[1].color}30`,
+                      boxShadow: `0 0 20px ${displayedTeams[1].color}30`,
                       fontFamily: 'Cairo, sans-serif', fontWeight: 700,
                     }}
                   >
-                    {teams[1].nameAr} صحيح
+                    {displayedTeams[1].nameAr} صحيح
                   </button>
                   <button
                     onClick={() => chooseWinnerAndReturn(-1)}

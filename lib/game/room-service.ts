@@ -129,6 +129,46 @@ export function applyAnswerOutcome({
   };
 }
 
+export function assertAbilityTimingAllowed({
+  abilityType,
+  roomPhase,
+  currentTurnTeam,
+  actingTeam,
+}: {
+  abilityType: GameAbilityType;
+  roomPhase: GameRoomPhase;
+  currentTurnTeam: GameTeamKey;
+  actingTeam: GameTeamKey;
+}): void {
+  if (abilityType === "STEAL") {
+    if (roomPhase !== "QUESTION" && roomPhase !== "ANSWER") {
+      throw new RoomRuleError("ABILITY_NOT_ALLOWED_IN_CURRENT_PHASE");
+    }
+
+    if (actingTeam === currentTurnTeam) {
+      throw new RoomRuleError("NOT_YOUR_TURN");
+    }
+
+    return;
+  }
+
+  if (actingTeam !== currentTurnTeam) {
+    throw new RoomRuleError("NOT_YOUR_TURN");
+  }
+
+  if (abilityType === "POINT_THEFT" || abilityType === "SHIELD") {
+    if (roomPhase !== "BOARD") {
+      throw new RoomRuleError("ABILITY_NOT_ALLOWED_IN_CURRENT_PHASE");
+    }
+
+    return;
+  }
+
+  if (roomPhase !== "BOARD" && roomPhase !== "QUESTION" && roomPhase !== "ANSWER") {
+    throw new RoomRuleError("ABILITY_NOT_ALLOWED_IN_CURRENT_PHASE");
+  }
+}
+
 async function generateUniqueRoomCode(): Promise<string> {
   for (let attempt = 0; attempt < 5; attempt += 1) {
     const roomCode = generateRoomCode();
@@ -602,6 +642,13 @@ export async function useRoomAbility({
   if (!team || !opponentTeam || !ability) {
     throw new RoomRuleError("ABILITY_NOT_FOUND");
   }
+
+  assertAbilityTimingAllowed({
+    abilityType,
+    roomPhase: room.phase,
+    currentTurnTeam: room.current_turn_team,
+    actingTeam: participant.team_key,
+  });
 
   const roundField = getTeamRoundField(participant.team_key);
 
