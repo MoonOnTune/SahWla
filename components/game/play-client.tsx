@@ -1,10 +1,10 @@
 "use client";
 
-import { useCallback } from "react";
+import { useCallback, useMemo } from "react";
 import { useRouter } from "next/navigation";
 import { AnimatePresence, motion } from "motion/react";
 import { ShieldAlert, ShoppingCart, ArrowRight, Home } from "lucide-react";
-import { GameProvider, useGame } from "@/components/game/figma/GameContext";
+import { GameProvider, useGame, type Category, type SelectedQuestion, type Team } from "@/components/game/figma/GameContext";
 import { SpecialModeProvider } from "@/components/game/figma/SpecialModeContext";
 import { CategorySetup } from "@/components/game/figma/CategorySetup";
 import { TeamSetup } from "@/components/game/figma/TeamSetup";
@@ -15,6 +15,81 @@ import { WalaKalmaView } from "@/components/game/figma/WalaKalmaView";
 import { WinnerScreen } from "@/components/game/figma/WinnerScreen";
 import type { GameQuestionBankByCategory } from "@/lib/game/picks";
 import type { RoomSnapshot } from "@/lib/game/room-types";
+
+function buildSpecialModeCategories(
+  questionBankByCategory: GameQuestionBankByCategory,
+  activeRoomSnapshot: RoomSnapshot | null | undefined,
+): Category[] {
+  if (!activeRoomSnapshot) {
+    return [];
+  }
+
+  return activeRoomSnapshot.board.map((category) => ({
+    name: category.name,
+    type: category.type,
+    questions: (questionBankByCategory[category.name] ?? []).map((item) => ({
+      question: item.question,
+      answer: item.answer,
+      value: item.value,
+      pickId: item.pickId,
+      questionId: item.questionId,
+    })),
+  }));
+}
+
+function buildSpecialModeTeams(activeRoomSnapshot: RoomSnapshot | null | undefined): [Team, Team] | undefined {
+  if (!activeRoomSnapshot) {
+    return undefined;
+  }
+
+  const teamA = activeRoomSnapshot.teams.find((team) => team.key === "A");
+  const teamB = activeRoomSnapshot.teams.find((team) => team.key === "B");
+
+  if (!teamA || !teamB) {
+    return undefined;
+  }
+
+  return [
+    {
+      name: "Team A",
+      nameAr: teamA.name,
+      score: teamA.score,
+      playerCount: teamA.connectedCount,
+      playerNames: teamA.participants.map((participant) => participant.nickname),
+      color: teamA.color,
+      colorLight: teamA.colorLight,
+    },
+    {
+      name: "Team B",
+      nameAr: teamB.name,
+      score: teamB.score,
+      playerCount: teamB.connectedCount,
+      playerNames: teamB.participants.map((participant) => participant.nickname),
+      color: teamB.color,
+      colorLight: teamB.colorLight,
+    },
+  ];
+}
+
+function findSelectedQuestion(
+  categories: Category[],
+  activeRoomSnapshot: RoomSnapshot | null | undefined,
+): SelectedQuestion | null {
+  const selectedPickId = activeRoomSnapshot?.selectedPickId;
+
+  if (!selectedPickId) {
+    return null;
+  }
+
+  for (const [catIndex, category] of categories.entries()) {
+    const qIndex = category.questions.findIndex((question) => question.pickId === selectedPickId);
+    if (qIndex >= 0) {
+      return { catIndex, qIndex };
+    }
+  }
+
+  return null;
+}
 
 function GameScreens() {
   const { screen, resetGame } = useGame();
@@ -59,6 +134,36 @@ type Props = {
 
 export function PlayClient({ hasActiveSession, activeSessionId, questionBankByCategory, activeRoomSnapshot }: Props) {
   const router = useRouter();
+  const specialModeCategories = useMemo(
+    () => buildSpecialModeCategories(questionBankByCategory ?? {}, activeRoomSnapshot),
+    [activeRoomSnapshot, questionBankByCategory],
+  );
+  const specialModeTeams = useMemo(() => buildSpecialModeTeams(activeRoomSnapshot), [activeRoomSnapshot]);
+  const specialModeSelectedQuestion = useMemo(
+    () => findSelectedQuestion(specialModeCategories, activeRoomSnapshot),
+    [activeRoomSnapshot, specialModeCategories],
+  );
+
+  const initialSpecialScreen = useMemo(() => {
+    if (!activeRoomSnapshot) {
+      return "categories" as const;
+    }
+
+    if (activeRoomSnapshot.phase === "QR") {
+      return "qr" as const;
+    }
+
+    if (activeRoomSnapshot.phase === "QUESTION" && specialModeSelectedQuestion) {
+      const selectedCategory = specialModeCategories[specialModeSelectedQuestion.catIndex];
+      return selectedCategory?.type === "walakalma" ? "walakalma" : "question";
+    }
+
+    if (activeRoomSnapshot.phase === "WINNER") {
+      return "winner" as const;
+    }
+
+    return "board" as const;
+  }, [activeRoomSnapshot, specialModeCategories, specialModeSelectedQuestion]);
 
   if (!hasActiveSession) {
     return (
@@ -110,9 +215,14 @@ export function PlayClient({ hasActiveSession, activeSessionId, questionBankByCa
 
   return (
     <GameProvider
-      initialScreen={activeRoomSnapshot ? (activeRoomSnapshot.phase === "QR" ? "qr" : "board") : "categories"}
+      initialScreen={initialSpecialScreen}
       initialGameMode={activeRoomSnapshot ? "SPECIAL" : "CLASSIC"}
       initialDailyDoubleEnabled={activeRoomSnapshot?.dailyDoubleEnabled ?? true}
+      initialCategories={specialModeCategories}
+      initialTeams={specialModeTeams}
+      initialCurrentTurn={activeRoomSnapshot?.currentTurnTeam === "B" ? 1 : 0}
+      initialSelectedQuestion={specialModeSelectedQuestion}
+      initialQuestionPhase={activeRoomSnapshot?.selectedPickId ? "timerA" : "showing"}
       activeSessionId={activeSessionId ?? ""}
       questionBankByCategory={questionBankByCategory ?? {}}
     >
