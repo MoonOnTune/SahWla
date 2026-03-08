@@ -5,8 +5,10 @@ import { useRouter } from "next/navigation";
 import { AnimatePresence, motion } from "motion/react";
 import { ShieldAlert, ShoppingCart, ArrowRight, Home } from "lucide-react";
 import { GameProvider, useGame } from "@/components/game/figma/GameContext";
+import { SpecialModeProvider } from "@/components/game/figma/SpecialModeContext";
 import { CategorySetup } from "@/components/game/figma/CategorySetup";
 import { TeamSetup } from "@/components/game/figma/TeamSetup";
+import { QrShareScreen } from "@/components/game/figma/QrShareScreen";
 import { GameBoard } from "@/components/game/figma/GameBoard";
 import { QuestionView } from "@/components/game/figma/QuestionView";
 import { WalaKalmaView } from "@/components/game/figma/WalaKalmaView";
@@ -36,6 +38,7 @@ function GameScreens() {
       >
         {screen === "categories" && <CategorySetup />}
         {screen === "teams" && <TeamSetup />}
+        {screen === "qr" && <QrShareScreen />}
         {screen === "board" && <GameBoard />}
         {screen === "question" && <QuestionView />}
         {screen === "walakalma" && <WalaKalmaView />}
@@ -109,20 +112,22 @@ export function PlayClient({ hasActiveSession, activeSessionId, questionBankByCa
       activeSessionId={activeSessionId ?? ""}
       questionBankByCategory={questionBankByCategory ?? {}}
     >
-      <div className="size-full" style={{ fontFamily: "Cairo, sans-serif" }}>
-        <button
-          onClick={() => {
-            router.push("/");
-            router.refresh();
-          }}
-          aria-label="الخروج للقائمة الرئيسية"
-          title="الخروج للقائمة الرئيسية"
-          className="fixed bottom-5 right-5 z-40 w-12 h-12 rounded-full bg-white/10 hover:bg-white/20 text-white/85 transition-all cursor-pointer active:scale-95 flex items-center justify-center"
-        >
-          <Home className="w-5 h-5" />
-        </button>
-        <GameScreens />
-      </div>
+      <SpecialModeProvider>
+        <div className="size-full" style={{ fontFamily: "Cairo, sans-serif" }}>
+          <button
+            onClick={() => {
+              router.push("/");
+              router.refresh();
+            }}
+            aria-label="الخروج للقائمة الرئيسية"
+            title="الخروج للقائمة الرئيسية"
+            className="fixed bottom-5 right-5 z-40 w-12 h-12 rounded-full bg-white/10 hover:bg-white/20 text-white/85 transition-all cursor-pointer active:scale-95 flex items-center justify-center"
+          >
+            <Home className="w-5 h-5" />
+          </button>
+          <GameScreens />
+        </div>
+      </SpecialModeProvider>
     </GameProvider>
   );
 }

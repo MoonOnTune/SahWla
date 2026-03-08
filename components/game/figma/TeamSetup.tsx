@@ -1,13 +1,27 @@
-import { useState, useMemo } from 'react';
+import React, { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { useGame } from './GameContext';
+import { useSpecialMode } from './SpecialModeContext';
 import { Plus, Minus, Play, ChevronDown, Users, Shuffle, X, UserPlus } from 'lucide-react';
 
 export function TeamSetup() {
-  const { setScreen, teams, setTeams } = useGame();
+  const {
+    activeSessionId,
+    categories,
+    setScreen,
+    teams,
+    setTeams,
+    gameMode,
+    setGameMode,
+    dailyDoubleEnabled,
+    setDailyDoubleEnabled,
+  } = useGame();
+  const { setRoomCode, setHostSnapshot, setPendingSuggestedPickId } = useSpecialMode();
   const [dividerOpen, setDividerOpen] = useState(false);
   const [playerInput, setPlayerInput] = useState('');
   const [distributed, setDistributed] = useState<[string[], string[]] | null>(null);
+  const [setupError, setSetupError] = useState('');
+  const [isStartingSpecial, setIsStartingSpecial] = useState(false);
 
   const cairoFont = { fontFamily: 'Cairo, sans-serif' };
 
@@ -43,6 +57,55 @@ export function TeamSetup() {
     setDistributed(null);
   };
 
+  const startSpecialMode = async () => {
+    setSetupError('');
+    setIsStartingSpecial(true);
+
+    try {
+      const response = await fetch('/api/game/rooms', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          gameSessionId: activeSessionId,
+          mode: gameMode,
+          dailyDoubleEnabled,
+          categoryNames: categories.map((category) => category.name),
+          teams: [
+            { key: 'A', name: teams[0].nameAr },
+            { key: 'B', name: teams[1].nameAr },
+          ],
+        }),
+      });
+
+      const payload = await response.json().catch(() => null);
+
+      if (!response.ok || !payload?.roomCode) {
+        setSetupError(payload?.error ?? 'تعذر إنشاء غرفة اللعب الخاصة');
+        return;
+      }
+
+      setRoomCode(payload.roomCode);
+      setHostSnapshot(payload);
+      setPendingSuggestedPickId(payload.pendingSuggestedPickId ?? null);
+      setScreen('qr');
+    } catch {
+      setSetupError('تعذر الاتصال بالخادم لإنشاء الغرفة');
+    } finally {
+      setIsStartingSpecial(false);
+    }
+  };
+
+  const handleStart = async () => {
+    if (gameMode === 'SPECIAL') {
+      await startSpecialMode();
+      return;
+    }
+
+    setScreen('board');
+  };
+
   return (
     <div dir="rtl" className="min-h-screen flex flex-col relative"
       style={{ background: 'linear-gradient(135deg, #0a0a2e 0%, #1a0a3e 50%, #0a0a2e 100%)' }}>
@@ -56,6 +119,81 @@ export function TeamSetup() {
         >
           إعداد الفرق
         </motion.h1>
+
+        <motion.div
+          initial={{ opacity: 0, y: -10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.1 }}
+          className="w-full mb-8 rounded-3xl border border-white/10 p-5 md:p-6"
+          style={{
+            background: 'linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.03))',
+            boxShadow: '0 10px 40px rgba(0,0,0,0.2)',
+          }}
+        >
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
+            <div>
+              <label className="text-white/50 text-sm mb-3 block" style={{ ...cairoFont, fontWeight: 700 }}>
+                وضع اللعب
+              </label>
+              <div className="grid grid-cols-2 gap-3">
+                <button
+                  type="button"
+                  aria-label="الوضع الكلاسيكي"
+                  onClick={() => setGameMode('CLASSIC')}
+                  className={`rounded-2xl border px-4 py-4 text-right transition-all cursor-pointer ${
+                    gameMode === 'CLASSIC'
+                      ? 'border-cyan-400 bg-cyan-500/15'
+                      : 'border-white/10 bg-white/5 hover:bg-white/10'
+                  }`}
+                  style={{ ...cairoFont }}
+                >
+                  <span className="block text-white" style={{ fontWeight: 800 }}>الوضع الكلاسيكي</span>
+                  <span className="block text-white/40 text-sm mt-1">مضيف فقط بدون جوالات فرق</span>
+                </button>
+                <button
+                  type="button"
+                  aria-label="الوضع الخاص"
+                  onClick={() => setGameMode('SPECIAL')}
+                  className={`rounded-2xl border px-4 py-4 text-right transition-all cursor-pointer ${
+                    gameMode === 'SPECIAL'
+                      ? 'border-fuchsia-400 bg-fuchsia-500/15'
+                      : 'border-white/10 bg-white/5 hover:bg-white/10'
+                  }`}
+                  style={{ ...cairoFont }}
+                >
+                  <span className="block text-white" style={{ fontWeight: 800 }}>الوضع الخاص</span>
+                  <span className="block text-white/40 text-sm mt-1">رموز QR ودردشة وقدرات سرية</span>
+                </button>
+              </div>
+            </div>
+
+            <div>
+              <label className="text-white/50 text-sm mb-3 block" style={{ ...cairoFont, fontWeight: 700 }}>
+                ديلي دبل
+              </label>
+              <button
+                type="button"
+                aria-label={dailyDoubleEnabled ? 'ديلي دبل مفعّل' : 'ديلي دبل متوقف'}
+                onClick={() => setDailyDoubleEnabled((previous) => !previous)}
+                className={`w-full rounded-2xl border px-5 py-4 text-right transition-all cursor-pointer ${
+                  dailyDoubleEnabled
+                    ? 'border-amber-400/50 bg-amber-500/15'
+                    : 'border-white/10 bg-white/5 hover:bg-white/10'
+                }`}
+                style={{ ...cairoFont }}
+              >
+                <span className="block text-white" style={{ fontWeight: 800 }}>
+                  {dailyDoubleEnabled ? 'ديلي دبل مفعّل' : 'ديلي دبل متوقف'}
+                </span>
+                <span className="block text-white/40 text-sm mt-1">
+                  {gameMode === 'SPECIAL'
+                    ? 'يطبّق على الوضع الخاص أيضاً'
+                    : 'يبقى ضمن قواعد اللعبة الحالية'}
+                </span>
+              </button>
+            </div>
+          </div>
+        </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full mb-8">
           {teams.map((team, i) => (
@@ -94,29 +232,39 @@ export function TeamSetup() {
                 />
               </div>
 
-              {/* Player count stepper */}
-              <div>
-                <label className="text-white/40 text-sm mb-2 block" style={cairoFont}>
-                  عدد اللاعبين
-                </label>
-                <div className="flex items-center gap-4">
-                  <button
-                    onClick={() => team.playerCount > 1 && updateTeam(i, { playerCount: team.playerCount - 1 })}
-                    className="w-12 h-12 rounded-xl bg-white/10 hover:bg-white/20 text-white flex items-center justify-center transition-all cursor-pointer active:scale-90"
-                  >
-                    <Minus className="w-5 h-5" />
-                  </button>
-                  <span className="text-3xl text-white min-w-[3rem] text-center" style={{ ...cairoFont, fontWeight: 700 }}>
-                    {team.playerCount}
-                  </span>
-                  <button
-                    onClick={() => team.playerCount < 10 && updateTeam(i, { playerCount: team.playerCount + 1 })}
-                    className="w-12 h-12 rounded-xl bg-white/10 hover:bg-white/20 text-white flex items-center justify-center transition-all cursor-pointer active:scale-90"
-                  >
-                    <Plus className="w-5 h-5" />
-                  </button>
+              {gameMode === 'CLASSIC' ? (
+                <div>
+                  <label className="text-white/40 text-sm mb-2 block" style={cairoFont}>
+                    عدد اللاعبين
+                  </label>
+                  <div className="flex items-center gap-4">
+                    <button
+                      onClick={() => team.playerCount > 1 && updateTeam(i, { playerCount: team.playerCount - 1 })}
+                      className="w-12 h-12 rounded-xl bg-white/10 hover:bg-white/20 text-white flex items-center justify-center transition-all cursor-pointer active:scale-90"
+                    >
+                      <Minus className="w-5 h-5" />
+                    </button>
+                    <span className="text-3xl text-white min-w-[3rem] text-center" style={{ ...cairoFont, fontWeight: 700 }}>
+                      {team.playerCount}
+                    </span>
+                    <button
+                      onClick={() => team.playerCount < 10 && updateTeam(i, { playerCount: team.playerCount + 1 })}
+                      className="w-12 h-12 rounded-xl bg-white/10 hover:bg-white/20 text-white flex items-center justify-center transition-all cursor-pointer active:scale-90"
+                    >
+                      <Plus className="w-5 h-5" />
+                    </button>
+                  </div>
                 </div>
-              </div>
+              ) : (
+                <div className="rounded-2xl border border-white/10 bg-white/5 p-4">
+                  <label className="text-white/40 text-sm mb-2 block" style={cairoFont}>
+                    انضمام الجوالات
+                  </label>
+                  <p className="text-white/70 leading-7" style={{ ...cairoFont, fontWeight: 600 }}>
+                    سينضم أعضاء {team.nameAr} لاحقاً عبر رمز QR، وسيتم تعيين أول من يدخل كقائد.
+                  </p>
+                </div>
+              )}
 
               {/* Distributed players list */}
               <AnimatePresence>
@@ -158,115 +306,120 @@ export function TeamSetup() {
           ))}
         </div>
 
-        {/* ─── Collapsible Player Divider Section ─── */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.5 }}
-          className="w-full mb-8"
-        >
-          <button
-            onClick={() => setDividerOpen(!dividerOpen)}
-            className="w-full flex items-center justify-between px-6 py-4 rounded-2xl bg-white/5 hover:bg-white/8 border border-white/10 transition-all cursor-pointer group"
+        {gameMode === 'CLASSIC' && (
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.5 }}
+            className="w-full mb-8"
           >
-            <div className="flex items-center gap-3">
-              <div className="w-9 h-9 rounded-xl flex items-center justify-center"
-                style={{ background: 'linear-gradient(135deg, #8b5cf620, #d946ef20)', border: '1px solid #8b5cf630' }}>
-                <UserPlus className="w-4.5 h-4.5 text-purple-400" />
-              </div>
-              <div className="text-right">
-                <span className="text-white text-base block" style={{ ...cairoFont, fontWeight: 700 }}>
-                  قسم الفريق
-                </span>
-                <span className="text-white/30 text-xs" style={cairoFont}>
-                  أدخل أسماء اللاعبين ووزّعهم عشوائياً
-                </span>
-              </div>
-            </div>
-            <motion.div
-              animate={{ rotate: dividerOpen ? 180 : 0 }}
-              transition={{ duration: 0.2 }}
+            <button
+              onClick={() => setDividerOpen(!dividerOpen)}
+              className="w-full flex items-center justify-between px-6 py-4 rounded-2xl bg-white/5 hover:bg-white/8 border border-white/10 transition-all cursor-pointer group"
             >
-              <ChevronDown className="w-5 h-5 text-white/40 group-hover:text-white/60 transition-colors" />
-            </motion.div>
-          </button>
-
-          <AnimatePresence>
-            {dividerOpen && (
-              <motion.div
-                initial={{ opacity: 0, height: 0 }}
-                animate={{ opacity: 1, height: 'auto' }}
-                exit={{ opacity: 0, height: 0 }}
-                transition={{ duration: 0.25 }}
-                className="overflow-hidden"
-              >
-                <div className="mt-3 rounded-2xl bg-white/5 border border-white/10 p-5 md:p-6"
-                  style={{ boxShadow: '0 10px 40px rgba(0,0,0,0.2)' }}>
-                  <div className="mb-4">
-                    <label className="text-white/50 text-sm mb-2 block flex items-center gap-1.5" style={{ ...cairoFont, fontWeight: 600 }}>
-                      <Users className="w-3.5 h-3.5" />
-                      أسماء اللاعبين
-                      <span className="text-white/25 text-xs mr-1">(اسم في كل سطر)</span>
-                    </label>
-                    <textarea
-                      value={playerInput}
-                      onChange={e => { setPlayerInput(e.target.value); setDistributed(null); }}
-                      placeholder={"أحمد\nسارة\nمحمد\nنورة\nعلي\nفاطمة"}
-                      rows={6}
-                      className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-white/20 outline-none focus:border-purple-500/50 transition-colors resize-none"
-                      style={{ ...cairoFont, fontWeight: 600, lineHeight: 2 }}
-                    />
-                    {playerNames.length > 0 && (
-                      <div className="flex items-center justify-between mt-2">
-                        <span className="text-white/30 text-xs" style={cairoFont}>
-                          {playerNames.length} لاعب
-                        </span>
-                        {playerNames.length < 2 && (
-                          <span className="text-amber-400/60 text-xs" style={cairoFont}>
-                            أدخل لاعبين على الأقل
-                          </span>
-                        )}
-                      </div>
-                    )}
-                  </div>
-
-                  <div className="flex items-center gap-3">
-                    <button
-                      onClick={distributeRandomly}
-                      disabled={playerNames.length < 2}
-                      className="flex-1 flex items-center justify-center gap-2.5 py-3.5 rounded-xl text-white transition-all hover:scale-[1.02] active:scale-95 cursor-pointer disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:scale-100"
-                      style={{
-                        background: playerNames.length >= 2
-                          ? 'linear-gradient(135deg, #8b5cf6, #d946ef)'
-                          : 'rgba(255,255,255,0.1)',
-                        boxShadow: playerNames.length >= 2 ? '0 0 25px rgba(139,92,246,0.3)' : 'none',
-                        ...cairoFont, fontWeight: 700,
-                      }}
-                    >
-                      <Shuffle className="w-5 h-5" />
-                      {distributed ? 'أعد التوزيع' : 'وزّع اللاعبين'}
-                    </button>
-                    {distributed && (
-                      <button
-                        onClick={clearDistribution}
-                        className="w-12 h-12 rounded-xl bg-white/10 hover:bg-white/15 text-white/50 hover:text-white/70 flex items-center justify-center transition-all cursor-pointer active:scale-90"
-                        title="مسح التوزيع"
-                      >
-                        <X className="w-5 h-5" />
-                      </button>
-                    )}
-                  </div>
+              <div className="flex items-center gap-3">
+                <div className="w-9 h-9 rounded-xl flex items-center justify-center"
+                  style={{ background: 'linear-gradient(135deg, #8b5cf620, #d946ef20)', border: '1px solid #8b5cf630' }}>
+                  <UserPlus className="w-4.5 h-4.5 text-purple-400" />
                 </div>
+                <div className="text-right">
+                  <span className="text-white text-base block" style={{ ...cairoFont, fontWeight: 700 }}>
+                    قسم الفريق
+                  </span>
+                  <span className="text-white/30 text-xs" style={cairoFont}>
+                    أدخل أسماء اللاعبين ووزّعهم عشوائياً
+                  </span>
+                </div>
+              </div>
+              <motion.div
+                animate={{ rotate: dividerOpen ? 180 : 0 }}
+                transition={{ duration: 0.2 }}
+              >
+                <ChevronDown className="w-5 h-5 text-white/40 group-hover:text-white/60 transition-colors" />
               </motion.div>
-            )}
-          </AnimatePresence>
-        </motion.div>
+            </button>
+
+            <AnimatePresence>
+              {dividerOpen && (
+                <motion.div
+                  initial={{ opacity: 0, height: 0 }}
+                  animate={{ opacity: 1, height: 'auto' }}
+                  exit={{ opacity: 0, height: 0 }}
+                  transition={{ duration: 0.25 }}
+                  className="overflow-hidden"
+                >
+                  <div className="mt-3 rounded-2xl bg-white/5 border border-white/10 p-5 md:p-6"
+                    style={{ boxShadow: '0 10px 40px rgba(0,0,0,0.2)' }}>
+                    <div className="mb-4">
+                      <label className="text-white/50 text-sm mb-2 block flex items-center gap-1.5" style={{ ...cairoFont, fontWeight: 600 }}>
+                        <Users className="w-3.5 h-3.5" />
+                        أسماء اللاعبين
+                        <span className="text-white/25 text-xs mr-1">(اسم في كل سطر)</span>
+                      </label>
+                      <textarea
+                        value={playerInput}
+                        onChange={e => { setPlayerInput(e.target.value); setDistributed(null); }}
+                        placeholder={"أحمد\nسارة\nمحمد\nنورة\nعلي\nفاطمة"}
+                        rows={6}
+                        className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-white/20 outline-none focus:border-purple-500/50 transition-colors resize-none"
+                        style={{ ...cairoFont, fontWeight: 600, lineHeight: 2 }}
+                      />
+                      {playerNames.length > 0 && (
+                        <div className="flex items-center justify-between mt-2">
+                          <span className="text-white/30 text-xs" style={cairoFont}>
+                            {playerNames.length} لاعب
+                          </span>
+                          {playerNames.length < 2 && (
+                            <span className="text-amber-400/60 text-xs" style={cairoFont}>
+                              أدخل لاعبين على الأقل
+                            </span>
+                          )}
+                        </div>
+                      )}
+                    </div>
+
+                    <div className="flex items-center gap-3">
+                      <button
+                        onClick={distributeRandomly}
+                        disabled={playerNames.length < 2}
+                        className="flex-1 flex items-center justify-center gap-2.5 py-3.5 rounded-xl text-white transition-all hover:scale-[1.02] active:scale-95 cursor-pointer disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:scale-100"
+                        style={{
+                          background: playerNames.length >= 2
+                            ? 'linear-gradient(135deg, #8b5cf6, #d946ef)'
+                            : 'rgba(255,255,255,0.1)',
+                          boxShadow: playerNames.length >= 2 ? '0 0 25px rgba(139,92,246,0.3)' : 'none',
+                          ...cairoFont, fontWeight: 700,
+                        }}
+                      >
+                        <Shuffle className="w-5 h-5" />
+                        {distributed ? 'أعد التوزيع' : 'وزّع اللاعبين'}
+                      </button>
+                      {distributed && (
+                        <button
+                          onClick={clearDistribution}
+                          className="w-12 h-12 rounded-xl bg-white/10 hover:bg-white/15 text-white/50 hover:text-white/70 flex items-center justify-center transition-all cursor-pointer active:scale-90"
+                          title="مسح التوزيع"
+                        >
+                          <X className="w-5 h-5" />
+                        </button>
+                      )}
+                    </div>
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </motion.div>
+        )}
 
         <motion.button
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.6 }}
-          onClick={() => setScreen('board')}
+          aria-label="ابدأ الجولة"
+          onClick={() => {
+            void handleStart();
+          }}
+          disabled={isStartingSpecial}
           className="flex items-center gap-3 px-10 py-5 rounded-2xl text-white transition-all hover:scale-105 active:scale-95 cursor-pointer"
           style={{
             background: 'linear-gradient(135deg, #06b6d4, #8b5cf6)',
@@ -277,8 +430,13 @@ export function TeamSetup() {
           }}
         >
           <Play className="w-6 h-6" />
-          <span>ابدأ الجولة</span>
+          <span>{isStartingSpecial ? 'جارٍ تجهيز الغرفة...' : 'ابدأ الجولة'}</span>
         </motion.button>
+        {setupError && (
+          <p className="text-red-400 text-sm mt-3" style={{ ...cairoFont, fontWeight: 700 }}>
+            {setupError}
+          </p>
+        )}
       </div>
     </div>
   );
