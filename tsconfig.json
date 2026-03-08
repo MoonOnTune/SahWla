@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2022",
+    "baseUrl": ".",
     "lib": [
       "DOM",
       "DOM.Iterable",
@@ -36,6 +37,7 @@
     "middleware.ts",
     "next-env.d.ts",
     "prisma/**/*",
+    "tests/**/*",
     "types/**/*",
     ".next/types/**/*.ts"
   ],
