@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { render, screen, waitFor } from "@testing-library/react";
+import { fireEvent, render, screen, waitFor } from "@testing-library/react";
 import { beforeEach, describe, expect, it, vi } from "vitest";
 import { GameBoard } from "@/components/game/figma/GameBoard";
 import { GameProvider, useGame } from "@/components/game/figma/GameContext";
@@ -169,6 +169,51 @@ describe("host board special mode", () => {
 
     await waitFor(() => {
       expect(screen.getByText("4 متصل")).toBeInTheDocument();
+    });
+  });
+
+  it("confirms the pending suggestion when the host clicks the highlighted tile", async () => {
+    const confirmedSnapshot: RoomSnapshot = {
+      ...snapshot,
+      pendingSuggestedPickId: null,
+      selectedPickId: "pick-1",
+      phase: "QUESTION",
+    };
+
+    const fetchMock = vi.spyOn(global, "fetch").mockImplementation(async (input: RequestInfo | URL) => {
+      const url = String(input);
+
+      if (url.includes("/confirm")) {
+        return {
+          ok: true,
+          json: async () => confirmedSnapshot,
+        } as Response;
+      }
+
+      return {
+        ok: true,
+        json: async () => snapshot,
+      } as Response;
+    });
+
+    render(
+      <GameProvider initialScreen="board" activeSessionId="session-1" questionBankByCategory={{}}>
+        <SpecialModeProvider>
+          <BoardHarness />
+        </SpecialModeProvider>
+      </GameProvider>,
+    );
+
+    const tileButton = await screen.findByRole("button", { name: /اعتماد السؤال 200/i });
+    fireEvent.click(tileButton);
+
+    await waitFor(() => {
+      expect(fetchMock).toHaveBeenCalledWith(
+        "/api/game/rooms/ROOM42/confirm",
+        expect.objectContaining({
+          method: "POST",
+        }),
+      );
     });
   });
 });

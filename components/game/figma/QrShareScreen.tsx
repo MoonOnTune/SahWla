@@ -31,8 +31,8 @@ export function QrShareScreen() {
       className="min-h-screen flex flex-col"
       style={{ background: "linear-gradient(135deg, #0a0a2e 0%, #1a0a3e 50%, #0a0a2e 100%)" }}
     >
-      <div className="flex-1 max-w-6xl mx-auto w-full px-6 py-10">
-        <motion.div initial={{ opacity: 0, y: -16 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-10">
+      <div className="flex-1 max-w-6xl mx-auto w-full px-4 sm:px-6 py-6 sm:py-8">
+        <motion.div initial={{ opacity: 0, y: -16 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-6 sm:mb-8">
           <div className="inline-flex items-center gap-3 px-5 py-2 rounded-full bg-white/8 border border-white/10 mb-4">
             <QrCode className="w-5 h-5 text-cyan-300" />
             <span className="text-white/80" style={{ fontWeight: 700 }}>امسح رمز الفريق للانضمام</span>
@@ -45,7 +45,8 @@ export function QrShareScreen() {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+        <div className="rounded-[34px] border border-white/10 bg-white/5 p-4 sm:p-5 mb-6 sm:mb-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {(["A", "B"] as const).map((teamKey, index) => {
             const team = teams[index];
             const teamLink = buildTeamLink(roomCode, teamKey);
@@ -57,7 +58,7 @@ export function QrShareScreen() {
                 initial={{ opacity: 0, scale: 0.95 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ delay: index * 0.1 }}
-                className="rounded-[32px] border p-6 md:p-8 flex flex-col items-center text-center"
+                className="rounded-[28px] border p-5 md:p-6 flex flex-col items-center text-center"
                 style={{
                   background: `linear-gradient(135deg, ${accent}16, rgba(255,255,255,0.05))`,
                   borderColor: `${accent}38`,
@@ -71,11 +72,11 @@ export function QrShareScreen() {
                   </h2>
                 </div>
 
-                <p className="text-white/55 text-lg leading-8 mb-2">
+                <p className="text-white/55 text-base md:text-lg leading-8 mb-1">
                   امسح الرمز للانضمام إلى فريق {teamKey}
                 </p>
 
-                <p className="text-white/40 text-sm md:text-base leading-7 mb-6">
+                <p className="text-white/40 text-sm md:text-base leading-7 mb-4">
                   يمكن لعدة لاعبين الانضمام من جوالاتهم، وأول لاعب يدخل يصبح القائد تلقائيًا.
                 </p>
 
@@ -83,10 +84,10 @@ export function QrShareScreen() {
                   initial={{ scale: 0.8, opacity: 0 }}
                   animate={{ scale: 1, opacity: 1 }}
                   transition={{ delay: 0.15 + index * 0.1 }}
-                  className="p-6 rounded-3xl border border-white/20 mb-4 w-full max-w-[340px]"
+                  className="p-4 rounded-3xl border border-white/20 mb-3 w-full max-w-[300px]"
                   style={{ background: "linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.03))" }}
                 >
-                  <div className="bg-white p-4 rounded-2xl">
+                  <div className="bg-white p-3 rounded-2xl">
                     <ImageWithFallback
                       src={buildQrUrl(teamLink)}
                       alt={`QR ${team.nameAr}`}
@@ -95,11 +96,11 @@ export function QrShareScreen() {
                   </div>
                 </motion.div>
 
-                <p className="text-white/30 text-sm text-center mb-5">
+                <p className="text-white/30 text-sm text-center mb-4">
                   امسح الرمز بكاميرا الجوال للدخول مباشرة إلى صفحة الفريق
                 </p>
 
-                <div className="w-full rounded-2xl bg-black/20 border border-white/10 p-4 mb-4 text-right">
+                <div className="w-full rounded-2xl bg-black/20 border border-white/10 p-3 mb-3 text-right">
                   <p className="text-white/40 text-sm mb-2">رابط الانضمام</p>
                   <p className="text-white/80 text-sm break-all leading-7">{teamLink}</p>
                 </div>
@@ -117,6 +118,7 @@ export function QrShareScreen() {
               </motion.div>
             );
           })}
+          </div>
         </div>
 
         <motion.div

@@ -114,8 +114,13 @@ export function GameBoard() {
   const usedCount = isSpecialMode ? specialBoardMeta.usedKeys.size : usedTiles.size;
 
   const handleTileClick = (catIndex: number, qIndex: number) => {
-    if (isSpecialMode) return;
     const key = `${catIndex}-${qIndex}`;
+    if (isSpecialMode) {
+      if (specialBoardMeta.pendingKey === key) {
+        void handleConfirmSuggestion();
+      }
+      return;
+    }
     if (usedTiles.has(key)) return;
     setSelectedQuestion({ catIndex, qIndex });
     setQuestionPhase('timerA');
@@ -339,7 +344,7 @@ export function GameBoard() {
                   <p className="text-amber-300" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800 }}>
                     اقتراح معلق
                   </p>
-                  <p className="text-white/60 text-sm mt-1">بانتظار تأكيد المضيف قبل فتح السؤال</p>
+                  <p className="text-white/60 text-sm mt-1">اضغط على المربع المضيء أو استخدم زر التأكيد لفتح السؤال المقترح</p>
                 </div>
               )}
               {specialBoardMeta.lastVisibleEvent && (
@@ -399,6 +404,7 @@ export function GameBoard() {
               }
               const colorClass = valueColors[q.value] || valueColors[200];
               const isPending = isSpecialMode && specialBoardMeta.pendingKey === key;
+              const isHostActionable = isPending && !isConfirmingSuggestion;
 
               return (
                 <motion.button
@@ -407,25 +413,47 @@ export function GameBoard() {
                   animate={{ opacity: 1, scale: 1 }}
                   transition={{ delay: (ci + qIndex * categories.length) * 0.02 }}
                   onClick={() => handleTileClick(ci, qIndex)}
-                  disabled={isUsed || isSpecialMode}
+                  disabled={isUsed || (isSpecialMode && !isHostActionable)}
+                  aria-label={
+                    isPending
+                      ? `اعتماد السؤال ${q.value}`
+                      : isSpecialMode
+                      ? `سؤال ${q.value}`
+                      : `اختر السؤال ${q.value}`
+                  }
                   className={`relative py-5 px-3 rounded-xl border transition-all cursor-pointer ${
                     isUsed
                       ? 'bg-white/3 border-white/5 opacity-30 cursor-not-allowed'
+                      : isPending
+                      ? 'bg-gradient-to-b from-amber-400/30 via-amber-500/18 to-orange-500/10 border-amber-300/70 hover:scale-[1.03] active:scale-[0.98]'
                       : isSpecialMode
-                      ? `bg-gradient-to-b ${colorClass} opacity-90 cursor-default`
+                      ? `bg-gradient-to-b ${colorClass} opacity-80 cursor-not-allowed`
                       : `bg-gradient-to-b ${colorClass} hover:scale-105 active:scale-95`
                   }`}
-                  style={!isUsed ? { boxShadow: '0 4px 20px rgba(0,0,0,0.3)' } : {}}
+                  style={
+                    !isUsed
+                      ? {
+                          boxShadow: isPending
+                            ? '0 0 24px rgba(251,191,36,0.38), 0 8px 30px rgba(0,0,0,0.32)'
+                            : '0 4px 20px rgba(0,0,0,0.3)',
+                        }
+                      : {}
+                  }
                 >
                   {isPending && (
-                    <span className="absolute top-2 right-2 text-[10px] px-2 py-1 rounded-full bg-amber-400 text-slate-900" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800 }}>
-                      اقتراح
+                    <span className="absolute top-2 right-2 text-[10px] px-2 py-1 rounded-full bg-amber-300 text-slate-950" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800 }}>
+                      اضغط للتأكيد
                     </span>
                   )}
                   <span className={`text-2xl ${isUsed ? 'text-white/20' : 'text-white'}`}
                     style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 800 }}>
                     {isUsed ? '✓' : q.value}
                   </span>
+                  {isPending && (
+                    <span className="block mt-2 text-[11px] text-amber-100/90" style={{ fontFamily: 'Cairo, sans-serif', fontWeight: 700 }}>
+                      سؤال الفريق الحالي
+                    </span>
+                  )}
                 </motion.button>
               );
             })
