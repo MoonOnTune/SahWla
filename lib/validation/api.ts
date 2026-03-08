@@ -40,6 +40,7 @@ export const createRoomSchema = z.object({
   gameSessionId: z.string().min(1).max(128),
   mode: gameModeSchema.default("SPECIAL"),
   dailyDoubleEnabled: z.boolean().default(true),
+  categoryNames: z.array(z.string().trim().min(1).max(120)).length(6),
   teams: z
     .tuple([
       z.object({

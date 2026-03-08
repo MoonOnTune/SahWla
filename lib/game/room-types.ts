@@ -47,6 +47,18 @@ export interface RoomEventView {
   createdAt: string;
 }
 
+export interface RoomBoardTileView {
+  pickId: string;
+  value: number;
+  used: boolean;
+}
+
+export interface RoomBoardCategoryView {
+  name: string;
+  type: "normal" | "walakalma";
+  tiles: RoomBoardTileView[];
+}
+
 export interface RoomSnapshot {
   id: string;
   roomCode: string;
@@ -58,6 +70,8 @@ export interface RoomSnapshot {
   currentRound: number;
   pendingSuggestedPickId: string | null;
   selectedPickId: string | null;
+  boardCategories: string[];
+  board: RoomBoardCategoryView[];
   teams: RoomTeamView[];
   visibleEvents: RoomEventView[];
 }

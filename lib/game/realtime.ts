@@ -1,4 +1,5 @@
 import type { GameTeamKey } from "@prisma/client";
+import Pusher from "pusher";
 
 export interface RealtimeProviderConfig {
   provider: "pusher";
@@ -13,6 +14,8 @@ export interface RealtimeEvent {
   event: string;
   payload: unknown;
 }
+
+let cachedServerClient: Pusher | null | undefined;
 
 function readEnv(name: string): string | null {
   const value = process.env[name]?.trim();
@@ -53,5 +56,19 @@ export async function publishRealtimeEvent(_event: RealtimeEvent): Promise<void>
     return;
   }
 
-  // The concrete provider client is added when the room routes are wired.
+  if (cachedServerClient === undefined) {
+    cachedServerClient = new Pusher({
+      appId: config.appId,
+      key: config.key,
+      secret: config.secret,
+      cluster: config.cluster,
+      useTLS: true,
+    });
+  }
+
+  if (!cachedServerClient) {
+    return;
+  }
+
+  await cachedServerClient.trigger(_event.channel, _event.event, _event.payload);
 }

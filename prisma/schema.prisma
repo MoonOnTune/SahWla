@@ -266,6 +266,7 @@ model GameRoom {
   status                    GameRoomStatus    @default(SETUP)
   phase                     GameRoomPhase     @default(QR)
   daily_double_enabled      Boolean           @default(true)
+  board_categories          String[]
   current_turn_team         GameTeamKey       @default(A)
   current_round             Int               @default(1)
   ability_used_by_a_round   Int               @default(0)
