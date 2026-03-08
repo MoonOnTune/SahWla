@@ -1,4 +1,4 @@
-import React, { useCallback, useMemo, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { useGame } from './GameContext';
 import { useSpecialMode } from './SpecialModeContext';
@@ -171,6 +171,14 @@ export function GameBoard() {
     enabled: isSpecialMode,
     onRoomUpdated: refreshHostSnapshot,
   });
+
+  useEffect(() => {
+    if (!isSpecialMode) {
+      return;
+    }
+
+    void refreshHostSnapshot();
+  }, [isSpecialMode, refreshHostSnapshot]);
 
   const handleConfirmSuggestion = async () => {
     if (!roomCode || !hostSnapshot?.pendingSuggestedPickId) {

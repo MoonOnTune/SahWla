@@ -19,32 +19,41 @@ export function TeamBoardView({
         <span className="text-white/40 text-sm">الجولة {snapshot.currentRound}</span>
       </div>
 
-      <div className="grid gap-3" style={{ gridTemplateColumns: `repeat(${snapshot.board.length}, minmax(110px, 1fr))` }}>
-        {snapshot.board.map((category, categoryIndex) => (
-          <React.Fragment key={category.name}>
-            <div className="rounded-2xl border border-white/10 bg-white/6 p-3 text-center">
-              <p className="text-white" style={{ fontFamily: "Cairo, sans-serif", fontWeight: 700 }}>{category.name}</p>
+      <div className="overflow-x-auto pb-2">
+        <div
+          className="grid gap-3 min-w-max"
+          style={{ gridTemplateColumns: `repeat(${snapshot.board.length}, minmax(104px, 1fr))` }}
+          aria-label="لوحة الفريق"
+        >
+          {snapshot.board.map((category, categoryIndex) => (
+            <div key={category.name} className="flex flex-col gap-3">
+              <div className="rounded-2xl border border-white/10 bg-white/6 px-3 py-4 text-center min-h-[72px] flex items-center justify-center">
+                <p className="text-white text-sm leading-6" style={{ fontFamily: "Cairo, sans-serif", fontWeight: 800 }}>
+                  {category.name}
+                </p>
+              </div>
+
+              {category.tiles.map((tile, questionIndex) => (
+                <button
+                  key={tile.pickId}
+                  type="button"
+                  aria-label={canSuggest ? `اقتراح السؤال ${tile.value}` : undefined}
+                  disabled={!canSuggest || tile.used}
+                  onClick={() => onSuggest({ categoryIndex, questionIndex, pickId: tile.pickId })}
+                  className={`rounded-2xl border px-3 py-4 text-center min-h-[68px] transition-all ${
+                    tile.used
+                      ? "bg-white/5 border-white/5 text-white/20 cursor-not-allowed"
+                      : canSuggest
+                        ? "bg-cyan-500/10 border-cyan-400/20 text-white hover:scale-[1.02] cursor-pointer"
+                        : "bg-white/5 border-white/10 text-white/70 cursor-default"
+                  }`}
+                >
+                  <span style={{ fontFamily: "Cairo, sans-serif", fontWeight: 800 }}>{tile.used ? "✓" : tile.value}</span>
+                </button>
+              ))}
             </div>
-            {category.tiles.map((tile, questionIndex) => (
-              <button
-                key={tile.pickId}
-                type="button"
-                aria-label={canSuggest ? `اقتراح السؤال ${tile.value}` : undefined}
-                disabled={!canSuggest || tile.used}
-                onClick={() => onSuggest({ categoryIndex, questionIndex, pickId: tile.pickId })}
-                className={`rounded-2xl border px-3 py-4 text-center transition-all ${
-                  tile.used
-                    ? "bg-white/5 border-white/5 text-white/20 cursor-not-allowed"
-                    : canSuggest
-                    ? "bg-cyan-500/10 border-cyan-400/20 text-white hover:scale-[1.02] cursor-pointer"
-                    : "bg-white/5 border-white/10 text-white/70 cursor-default"
-                }`}
-              >
-                <span style={{ fontFamily: "Cairo, sans-serif", fontWeight: 800 }}>{tile.used ? "✓" : tile.value}</span>
-              </button>
-            ))}
-          </React.Fragment>
-        ))}
+          ))}
+        </div>
       </div>
     </div>
   );

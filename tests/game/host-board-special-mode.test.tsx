@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { render, screen, waitFor } from "@testing-library/react";
-import { describe, expect, it } from "vitest";
+import { beforeEach, describe, expect, it, vi } from "vitest";
 import { GameBoard } from "@/components/game/figma/GameBoard";
 import { GameProvider, useGame } from "@/components/game/figma/GameContext";
 import { SpecialModeProvider, useSpecialMode } from "@/components/game/figma/SpecialModeContext";
@@ -81,6 +81,14 @@ const snapshot: RoomSnapshot = {
   ],
 };
 
+beforeEach(() => {
+  vi.restoreAllMocks();
+  vi.spyOn(global, "fetch").mockResolvedValue({
+    ok: true,
+    json: async () => snapshot,
+  } as Response);
+});
+
 function BoardHarness() {
   const game = useGame();
   const special = useSpecialMode();
@@ -135,6 +143,32 @@ describe("host board special mode", () => {
     await waitFor(() => {
       expect(screen.queryByText("SHIELD")).not.toBeInTheDocument();
       expect(screen.queryByText("DOUBLE_POINTS")).not.toBeInTheDocument();
+    });
+  });
+
+  it("refreshes host snapshot on mount so connected counts do not stay stale", async () => {
+    const refreshedSnapshot: RoomSnapshot = {
+      ...snapshot,
+      teams: snapshot.teams.map((team) =>
+        team.key === "A" ? { ...team, connectedCount: 4 } : team,
+      ),
+    };
+
+    vi.spyOn(global, "fetch").mockResolvedValue({
+      ok: true,
+      json: async () => refreshedSnapshot,
+    } as Response);
+
+    render(
+      <GameProvider initialScreen="board" activeSessionId="session-1" questionBankByCategory={{}}>
+        <SpecialModeProvider>
+          <BoardHarness />
+        </SpecialModeProvider>
+      </GameProvider>,
+    );
+
+    await waitFor(() => {
+      expect(screen.getByText("4 متصل")).toBeInTheDocument();
     });
   });
 });
