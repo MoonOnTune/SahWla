@@ -1,0 +1,15 @@
+{
+  "checks": [
+    {
+      "enabled": true,
+      "code": "CUSTOM_NO_YES_NO",
+      "severity": "low",
+      "dimension": "clarity",
+      "target_field": "question_ar",
+      "regex": "^هل\\s",
+      "reason": "يفضّل تجنب أسئلة نعم/لا إلا عند تقييد الإجابة بوضوح.",
+      "rewrite_hint": "حوّل السؤال إلى صيغة تطلب معلومة محددة بدل نعم/لا.",
+      "confidence": 0.8
+    }
+  ]
+}

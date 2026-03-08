@@ -13,7 +13,15 @@
     "prisma:deploy": "prisma migrate deploy",
     "prisma:seed": "tsx prisma/seed.ts",
     "questions:import": "tsx scripts/import-questions.ts",
-    "questions:verify": "tsx scripts/verify-game-picks.ts"
+    "questions:verify": "tsx scripts/verify-game-picks.ts",
+    "questions:critic": "python3 scripts/question_critic_subagent.py",
+    "questions:critic:pro": "python3 scripts/questions_critic_pro.py",
+    "questions:writer": "python3 scripts/questions_writer_subagent.py",
+    "questions:orchestrate": "python3 scripts/questions_orchestrator.py",
+    "questions:orchestrate:pilot": "python3 scripts/questions_orchestrator.py --mode pilot --output Banks/question-orchestrator-pilot-report.json",
+    "questions:orchestrate:full": "python3 scripts/questions_orchestrator.py --mode full --output Banks/question-orchestrator-full-report.json",
+    "questions:orchestrate:dry": "python3 scripts/questions_orchestrator.py --mode pilot --dry-run --output Banks/question-orchestrator-dry-report.json",
+    "questions:feedback:add": "python3 scripts/questions_memory_add.py"
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.8.0",

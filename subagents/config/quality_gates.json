@@ -1,0 +1,17 @@
+{
+  "max_iterations": 4,
+  "pass_thresholds": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "blocking_codes": [
+    "MISSING_ID",
+    "POINTS",
+    "MISSING_QUESTION",
+    "MISSING_ANSWER",
+    "MISSING_SOURCES",
+    "TIER_COUNT"
+  ]
+}

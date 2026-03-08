@@ -1,0 +1,22 @@
+{
+  "allowed_source_types": [
+    "encyclopedia",
+    "official",
+    "museum",
+    "university",
+    "reputable_media"
+  ],
+  "require_two_sources_for_600": true,
+  "prefer_english_source_metadata_for_non_arab_categories": true,
+  "non_arab_category_ids": [4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 17, 18, 20],
+  "trusted_title_hints": [
+    "Britannica",
+    "UNESCO",
+    "NASA",
+    "WHO",
+    "Olympics",
+    "FIFA",
+    "National Geographic",
+    "Encyclopaedia"
+  ]
+}

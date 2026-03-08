@@ -66,6 +66,16 @@ function firstString(...values: unknown[]): string | null {
   return null;
 }
 
+function firstStringFromArray(value: unknown): string | null {
+  if (!Array.isArray(value)) return null;
+  for (const item of value) {
+    if (typeof item !== "string") continue;
+    const normalized = normalizeText(item);
+    if (normalized.length > 0) return normalized;
+  }
+  return null;
+}
+
 function firstNumber(...values: unknown[]): number | null {
   for (const value of values) {
     if (typeof value === "number" && Number.isFinite(value)) {
@@ -81,6 +91,7 @@ function firstNumber(...values: unknown[]): number | null {
 
 function normalizeQuestionRecord(record: Record<string, unknown>, fallbackValue?: number): Omit<NormalizedQuestion, "categoryName"> | null {
   const questionText = firstString(
+    record.prompt_ar,
     record.question,
     record.question_ar,
     record.q,
@@ -92,6 +103,8 @@ function normalizeQuestionRecord(record: Record<string, unknown>, fallbackValue?
   const answerText = firstString(
     record.answer,
     record.answer_ar,
+    firstStringFromArray(record.accepted_answers_ar),
+    firstStringFromArray(record.acceptable_answers_ar),
     record.a,
     record.solution,
     record.correct,
