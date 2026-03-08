@@ -32,6 +32,44 @@ enum CreditReason {
   BONUS
 }
 
+enum GameMode {
+  CLASSIC
+  SPECIAL
+}
+
+enum GameRoomStatus {
+  SETUP
+  ACTIVE
+  COMPLETED
+  CANCELLED
+}
+
+enum GameRoomPhase {
+  QR
+  BOARD
+  QUESTION
+  ANSWER
+  WINNER
+}
+
+enum GameTeamKey {
+  A
+  B
+}
+
+enum GameParticipantRole {
+  CAPTAIN
+  MEMBER
+}
+
+enum GameAbilityType {
+  STEAL
+  DOUBLE_POINTS
+  SHIELD
+  BONUS_PICK
+  POINT_THEFT
+}
+
 model User {
   id             String         @id @default(cuid())
   name           String?
@@ -174,6 +212,7 @@ model GameSession {
   ended_at   DateTime?
   metadata   Json?
   picks      GameQuestionPick[]
+  room       GameRoom?
 
   user User @relation(fields: [user_id], references: [id], onDelete: Cascade)
 
@@ -207,6 +246,9 @@ model GameQuestionPick {
   used_at         DateTime?
   created_at      DateTime  @default(now())
 
+  pendingForRooms  GameRoom[] @relation("PendingRoomPick")
+  selectedForRooms GameRoom[] @relation("SelectedRoomPick")
+
   gameSession GameSession @relation(fields: [game_session_id], references: [id], onDelete: Cascade)
   question    Question    @relation(fields: [question_id], references: [id], onDelete: Restrict)
 
@@ -214,4 +256,124 @@ model GameQuestionPick {
   @@index([game_session_id])
   @@index([question_id])
   @@index([game_session_id, category_name, value, used_at])
+}
+
+model GameRoom {
+  id                        String            @id @default(cuid())
+  game_session_id           String            @unique
+  mode                      GameMode          @default(SPECIAL)
+  room_code                 String            @unique
+  status                    GameRoomStatus    @default(SETUP)
+  phase                     GameRoomPhase     @default(QR)
+  daily_double_enabled      Boolean           @default(true)
+  board_categories          String[]
+  current_turn_team         GameTeamKey       @default(A)
+  current_round             Int               @default(1)
+  ability_used_by_a_round   Int               @default(0)
+  ability_used_by_b_round   Int               @default(0)
+  pending_suggested_pick_id String?
+  selected_pick_id          String?
+  started_at                DateTime          @default(now())
+  ended_at                  DateTime?
+  created_at                DateTime          @default(now())
+  updated_at                DateTime          @updatedAt
+
+  gameSession          GameSession        @relation(fields: [game_session_id], references: [id], onDelete: Cascade)
+  pendingSuggestedPick GameQuestionPick?  @relation("PendingRoomPick", fields: [pending_suggested_pick_id], references: [id], onDelete: SetNull)
+  selectedPick         GameQuestionPick?  @relation("SelectedRoomPick", fields: [selected_pick_id], references: [id], onDelete: SetNull)
+  teams                GameRoomTeam[]
+  participants         GameRoomParticipant[]
+  chatMessages         GameRoomChatMessage[]
+  abilities            GameRoomAbility[]
+  events               GameRoomEvent[]
+
+  @@index([room_code, status])
+  @@index([game_session_id, status])
+}
+
+model GameRoomTeam {
+  id                    String      @id @default(cuid())
+  room_id               String
+  team_key              GameTeamKey
+  name                  String
+  color                 String
+  color_light           String
+  score                 Int         @default(0)
+  correct_streak        Int         @default(0)
+  captain_participant_id String?
+  pending_double_points Boolean     @default(false)
+  pending_bonus_pick    Boolean     @default(false)
+  pending_steal         Boolean     @default(false)
+  shield_count          Int         @default(0)
+  created_at            DateTime    @default(now())
+  updated_at            DateTime    @updatedAt
+
+  room GameRoom @relation(fields: [room_id], references: [id], onDelete: Cascade)
+
+  @@unique([room_id, team_key])
+  @@index([room_id])
+}
+
+model GameRoomParticipant {
+  id            String              @id @default(cuid())
+  room_id       String
+  team_key      GameTeamKey
+  nickname      String
+  role          GameParticipantRole @default(MEMBER)
+  device_token  String
+  connected_at  DateTime            @default(now())
+  last_seen_at  DateTime            @default(now())
+  disconnected_at DateTime?
+  created_at    DateTime            @default(now())
+  updated_at    DateTime            @updatedAt
+
+  room GameRoom @relation(fields: [room_id], references: [id], onDelete: Cascade)
+
+  @@unique([room_id, device_token])
+  @@index([room_id, team_key])
+  @@index([room_id, role])
+}
+
+model GameRoomChatMessage {
+  id             String      @id @default(cuid())
+  room_id        String
+  team_key       GameTeamKey
+  participant_id String
+  message        String      @db.Text
+  created_at     DateTime    @default(now())
+
+  room GameRoom @relation(fields: [room_id], references: [id], onDelete: Cascade)
+
+  @@index([room_id, team_key, created_at])
+  @@index([participant_id])
+}
+
+model GameRoomAbility {
+  id             String          @id @default(cuid())
+  room_id        String
+  team_key       GameTeamKey
+  ability_type   GameAbilityType
+  unlocked_round Int
+  consumed_at    DateTime?
+  created_at     DateTime        @default(now())
+
+  room GameRoom @relation(fields: [room_id], references: [id], onDelete: Cascade)
+
+  @@index([room_id, team_key, consumed_at])
+  @@index([room_id, unlocked_round])
+}
+
+model GameRoomEvent {
+  id         String      @id @default(cuid())
+  room_id    String
+  team_key   GameTeamKey?
+  event_type String
+  message    String
+  payload    Json?
+  created_at DateTime    @default(now())
+
+  room GameRoom @relation(fields: [room_id], references: [id], onDelete: Cascade)
+
+  @@index([room_id, created_at])
+  @@index([room_id, team_key, created_at])
 }

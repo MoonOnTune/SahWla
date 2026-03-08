@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "weights": {
+    "accuracy": 0.35,
+    "clarity": 0.2,
+    "ambiguity": 0.15,
+    "difficulty_fit": 0.15,
+    "source_quality": 0.15
+  },
+  "score_bands": {
+    "excellent_min": 90,
+    "good_min": 75,
+    "needs_work_min": 60
+  },
+  "penalty_by_code": {
+    "MISSING_ID": 30,
+    "ID_FORMAT": 10,
+    "POINTS": 35,
+    "MISSING_QUESTION": 35,
+    "LONG_QUESTION": 6,
+    "MISSING_ANSWER": 35,
+    "LONG_ANSWER": 8,
+    "ACCEPTABLE_TYPE": 8,
+    "DIFFICULTY_NOTE": 6,
+    "GENERIC_DIFFICULTY": 4,
+    "MISSING_SOURCES": 35,
+    "FEW_SOURCES_600": 10,
+    "SOURCE_TYPE": 10,
+    "SOURCE_FIELDS": 10,
+    "POSSIBLE_MULTI_ANSWER": 10,
+    "SOURCE_LANGUAGE_HEURISTIC": 4,
+    "EXACT_DUP_QUESTION": 18,
+    "NEAR_DUP_QUESTION": 8,
+    "CROSS_FILE_DUP": 12,
+    "TIER_COUNT": 40
+  }
+}

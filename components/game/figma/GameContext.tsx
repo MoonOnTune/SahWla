@@ -13,7 +13,8 @@ import { GAME_CATEGORY_DEFS } from "@/lib/game/catalog";
 import type { GameQuestionBankByCategory } from "@/lib/game/picks";
 
 export type Language = "ar" | "en";
-export type Screen = "welcome" | "categories" | "teams" | "board" | "question" | "walakalma" | "winner";
+export type GameMode = "CLASSIC" | "SPECIAL";
+export type Screen = "welcome" | "categories" | "teams" | "qr" | "board" | "question" | "walakalma" | "winner";
 export type QuestionPhase = "showing" | "timerA" | "timerB" | "answer";
 
 export interface Question {
@@ -40,7 +41,7 @@ export interface Team {
   colorLight: string;
 }
 
-interface SelectedQuestion {
+export interface SelectedQuestion {
   catIndex: number;
   qIndex: number;
 }
@@ -48,6 +49,10 @@ interface SelectedQuestion {
 interface GameContextType {
   activeSessionId: string;
   questionBankByCategory: GameQuestionBankByCategory;
+  gameMode: GameMode;
+  setGameMode: Dispatch<SetStateAction<GameMode>>;
+  dailyDoubleEnabled: boolean;
+  setDailyDoubleEnabled: Dispatch<SetStateAction<boolean>>;
   language: Language;
   setLanguage: Dispatch<SetStateAction<Language>>;
   screen: Screen;
@@ -102,6 +107,8 @@ export function useGame() {
 const STORAGE_KEY = "sah_wala_game_state";
 
 interface SavedGameState {
+  gameMode: GameMode;
+  dailyDoubleEnabled: boolean;
   screen: Screen;
   categories: Category[];
   teams: [Team, Team];
@@ -144,6 +151,13 @@ export const PRESET_CATEGORIES: Category[] = GAME_CATEGORY_DEFS.map((categoryDef
 interface GameProviderProps {
   children: ReactNode;
   initialScreen?: Screen;
+  initialGameMode?: GameMode;
+  initialDailyDoubleEnabled?: boolean;
+  initialCategories?: Category[];
+  initialTeams?: [Team, Team];
+  initialCurrentTurn?: number;
+  initialSelectedQuestion?: SelectedQuestion | null;
+  initialQuestionPhase?: QuestionPhase;
   activeSessionId: string;
   questionBankByCategory: GameQuestionBankByCategory;
 }
@@ -151,6 +165,13 @@ interface GameProviderProps {
 export function GameProvider({
   children,
   initialScreen,
+  initialGameMode,
+  initialDailyDoubleEnabled,
+  initialCategories,
+  initialTeams,
+  initialCurrentTurn,
+  initialSelectedQuestion,
+  initialQuestionPhase,
   activeSessionId,
   questionBankByCategory,
 }: GameProviderProps) {
@@ -161,40 +182,55 @@ export function GameProvider({
     saved.current = loadSavedState();
   }
 
+  const restoredState = initialGameMode === "SPECIAL" ? null : saved.current;
+
   const [language, setLanguage] = useState<Language>("ar");
-  const [screen, setScreen] = useState<Screen>(saved.current?.screen || initialScreen || "categories");
-  const [categories, setCategories] = useState<Category[]>(saved.current?.categories || []);
+  const [gameMode, setGameMode] = useState<GameMode>(restoredState?.gameMode ?? initialGameMode ?? "CLASSIC");
+  const [dailyDoubleEnabled, setDailyDoubleEnabled] = useState(
+    restoredState?.dailyDoubleEnabled ?? initialDailyDoubleEnabled ?? true,
+  );
+  const [screen, setScreen] = useState<Screen>(restoredState?.screen || initialScreen || "categories");
+  const [categories, setCategories] = useState<Category[]>(restoredState?.categories || initialCategories || []);
   const [teams, setTeams] = useState<[Team, Team]>(
-    saved.current?.teams || [{ ...defaultTeams[0] }, { ...defaultTeams[1] }],
+    restoredState?.teams || initialTeams || [{ ...defaultTeams[0] }, { ...defaultTeams[1] }],
   );
-  const [currentTurn, setCurrentTurn] = useState(saved.current?.currentTurn ?? 0);
+  const [currentTurn, setCurrentTurn] = useState(restoredState?.currentTurn ?? initialCurrentTurn ?? 0);
   const [selectedQuestion, setSelectedQuestion] = useState<SelectedQuestion | null>(
-    saved.current?.selectedQuestion ?? null,
+    restoredState?.selectedQuestion ?? initialSelectedQuestion ?? null,
   );
-  const [questionPhase, setQuestionPhase] = useState<QuestionPhase>(saved.current?.questionPhase || "showing");
-  const [usedTiles, setUsedTiles] = useState<Set<string>>(new Set(saved.current?.usedTiles || []));
+  const [questionPhase, setQuestionPhase] = useState<QuestionPhase>(
+    restoredState?.questionPhase || initialQuestionPhase || "showing",
+  );
+  const [usedTiles, setUsedTiles] = useState<Set<string>>(new Set(restoredState?.usedTiles || []));
 
   useEffect(() => {
     if (hasRestored.current) return;
     hasRestored.current = true;
 
-    if (saved.current) {
-      const savedScreen = saved.current.screen;
+    if (restoredState) {
+      const savedScreen = restoredState.screen;
       if (savedScreen === "question" || savedScreen === "walakalma") {
         setScreen("board");
         setSelectedQuestion(null);
         setQuestionPhase("showing");
       }
     }
-  }, []);
+  }, [restoredState]);
 
   useEffect(() => {
+    if (gameMode !== "CLASSIC") {
+      clearSavedState();
+      return;
+    }
+
     if (screen === "winner") {
       clearSavedState();
       return;
     }
 
     saveState({
+      gameMode,
+      dailyDoubleEnabled,
       screen,
       categories,
       teams,
@@ -203,7 +239,7 @@ export function GameProvider({
       questionPhase,
       usedTiles: Array.from(usedTiles),
     });
-  }, [screen, categories, teams, currentTurn, selectedQuestion, questionPhase, usedTiles]);
+  }, [gameMode, dailyDoubleEnabled, screen, categories, teams, currentTurn, selectedQuestion, questionPhase, usedTiles]);
 
   const markTileUsed = useCallback((key: string, pickId?: string) => {
     setUsedTiles((previous) => new Set(previous).add(key));
@@ -229,6 +265,8 @@ export function GameProvider({
 
   const resetGame = useCallback(() => {
     clearSavedState();
+    setGameMode("CLASSIC");
+    setDailyDoubleEnabled(true);
     setScreen("categories");
     setCategories([]);
     setTeams([{ ...defaultTeams[0] }, { ...defaultTeams[1] }]);
@@ -257,6 +295,10 @@ export function GameProvider({
       value={{
         activeSessionId,
         questionBankByCategory,
+        gameMode,
+        setGameMode,
+        dailyDoubleEnabled,
+        setDailyDoubleEnabled,
         language,
         setLanguage,
         screen,
