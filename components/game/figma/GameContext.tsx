@@ -13,7 +13,8 @@ import { GAME_CATEGORY_DEFS } from "@/lib/game/catalog";
 import type { GameQuestionBankByCategory } from "@/lib/game/picks";
 
 export type Language = "ar" | "en";
-export type Screen = "welcome" | "categories" | "teams" | "board" | "question" | "walakalma" | "winner";
+export type GameMode = "CLASSIC" | "SPECIAL";
+export type Screen = "welcome" | "categories" | "teams" | "qr" | "board" | "question" | "walakalma" | "winner";
 export type QuestionPhase = "showing" | "timerA" | "timerB" | "answer";
 
 export interface Question {
@@ -48,6 +49,10 @@ interface SelectedQuestion {
 interface GameContextType {
   activeSessionId: string;
   questionBankByCategory: GameQuestionBankByCategory;
+  gameMode: GameMode;
+  setGameMode: Dispatch<SetStateAction<GameMode>>;
+  dailyDoubleEnabled: boolean;
+  setDailyDoubleEnabled: Dispatch<SetStateAction<boolean>>;
   language: Language;
   setLanguage: Dispatch<SetStateAction<Language>>;
   screen: Screen;
@@ -102,6 +107,8 @@ export function useGame() {
 const STORAGE_KEY = "sah_wala_game_state";
 
 interface SavedGameState {
+  gameMode: GameMode;
+  dailyDoubleEnabled: boolean;
   screen: Screen;
   categories: Category[];
   teams: [Team, Team];
@@ -162,6 +169,8 @@ export function GameProvider({
   }
 
   const [language, setLanguage] = useState<Language>("ar");
+  const [gameMode, setGameMode] = useState<GameMode>(saved.current?.gameMode ?? "CLASSIC");
+  const [dailyDoubleEnabled, setDailyDoubleEnabled] = useState(saved.current?.dailyDoubleEnabled ?? true);
   const [screen, setScreen] = useState<Screen>(saved.current?.screen || initialScreen || "categories");
   const [categories, setCategories] = useState<Category[]>(saved.current?.categories || []);
   const [teams, setTeams] = useState<[Team, Team]>(
@@ -189,12 +198,19 @@ export function GameProvider({
   }, []);
 
   useEffect(() => {
+    if (gameMode !== "CLASSIC") {
+      clearSavedState();
+      return;
+    }
+
     if (screen === "winner") {
       clearSavedState();
       return;
     }
 
     saveState({
+      gameMode,
+      dailyDoubleEnabled,
       screen,
       categories,
       teams,
@@ -203,7 +219,7 @@ export function GameProvider({
       questionPhase,
       usedTiles: Array.from(usedTiles),
     });
-  }, [screen, categories, teams, currentTurn, selectedQuestion, questionPhase, usedTiles]);
+  }, [gameMode, dailyDoubleEnabled, screen, categories, teams, currentTurn, selectedQuestion, questionPhase, usedTiles]);
 
   const markTileUsed = useCallback((key: string, pickId?: string) => {
     setUsedTiles((previous) => new Set(previous).add(key));
@@ -229,6 +245,8 @@ export function GameProvider({
 
   const resetGame = useCallback(() => {
     clearSavedState();
+    setGameMode("CLASSIC");
+    setDailyDoubleEnabled(true);
     setScreen("categories");
     setCategories([]);
     setTeams([{ ...defaultTeams[0] }, { ...defaultTeams[1] }]);
@@ -257,6 +275,10 @@ export function GameProvider({
       value={{
         activeSessionId,
         questionBankByCategory,
+        gameMode,
+        setGameMode,
+        dailyDoubleEnabled,
+        setDailyDoubleEnabled,
         language,
         setLanguage,
         screen,
