@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "motion/react";
 import { Copy, QrCode, Smartphone } from "lucide-react";
+import { ImageWithFallback } from "@/components/figma/image-with-fallback";
 import { useGame } from "./GameContext";
 import { useSpecialMode } from "./SpecialModeContext";
 
@@ -48,33 +49,57 @@ export function QrShareScreen() {
           {(["A", "B"] as const).map((teamKey, index) => {
             const team = teams[index];
             const teamLink = buildTeamLink(roomCode, teamKey);
+            const accent = team.color;
 
             return (
               <motion.div
                 key={teamKey}
-                initial={{ opacity: 0, y: 24 }}
-                animate={{ opacity: 1, y: 0 }}
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
                 transition={{ delay: index * 0.1 }}
-                className="rounded-[28px] border p-6"
+                className="rounded-[32px] border p-6 md:p-8 flex flex-col items-center text-center"
                 style={{
-                  background: `linear-gradient(135deg, ${team.color}18, rgba(255,255,255,0.04))`,
-                  borderColor: `${team.color}45`,
-                  boxShadow: `0 18px 50px ${team.color}18`,
+                  background: `linear-gradient(135deg, ${accent}16, rgba(255,255,255,0.05))`,
+                  borderColor: `${accent}38`,
+                  boxShadow: `0 18px 50px ${accent}18`,
                 }}
               >
-                <div className="flex items-center gap-3 mb-5">
-                  <div className="w-3.5 h-3.5 rounded-full" style={{ background: team.color, boxShadow: `0 0 18px ${team.color}` }} />
-                  <div>
-                    <p className="text-white text-2xl" style={{ fontWeight: 800 }}>{team.nameAr}</p>
-                    <p className="text-white/40 text-sm">فريق {teamKey}</p>
+                <div className="flex items-center gap-2 mb-3" style={{ color: accent }}>
+                  <QrCode className="w-7 h-7" />
+                  <h2 className="text-2xl md:text-3xl text-white" style={{ fontWeight: 800 }}>
+                    {team.nameAr}
+                  </h2>
+                </div>
+
+                <p className="text-white/55 text-lg leading-8 mb-2">
+                  امسح الرمز للانضمام إلى فريق {teamKey}
+                </p>
+
+                <p className="text-white/40 text-sm md:text-base leading-7 mb-6">
+                  يمكن لعدة لاعبين الانضمام من جوالاتهم، وأول لاعب يدخل يصبح القائد تلقائيًا.
+                </p>
+
+                <motion.div
+                  initial={{ scale: 0.8, opacity: 0 }}
+                  animate={{ scale: 1, opacity: 1 }}
+                  transition={{ delay: 0.15 + index * 0.1 }}
+                  className="p-6 rounded-3xl border border-white/20 mb-4 w-full max-w-[340px]"
+                  style={{ background: "linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.03))" }}
+                >
+                  <div className="bg-white p-4 rounded-2xl">
+                    <ImageWithFallback
+                      src={buildQrUrl(teamLink)}
+                      alt={`QR ${team.nameAr}`}
+                      className="w-full h-full rounded-xl"
+                    />
                   </div>
-                </div>
+                </motion.div>
 
-                <div className="rounded-[24px] bg-white p-4 mb-5">
-                  <img src={buildQrUrl(teamLink)} alt={`QR ${team.nameAr}`} className="w-full max-w-[260px] mx-auto rounded-2xl" />
-                </div>
+                <p className="text-white/30 text-sm text-center mb-5">
+                  امسح الرمز بكاميرا الجوال للدخول مباشرة إلى صفحة الفريق
+                </p>
 
-                <div className="rounded-2xl bg-black/20 border border-white/10 p-4 mb-4">
+                <div className="w-full rounded-2xl bg-black/20 border border-white/10 p-4 mb-4 text-right">
                   <p className="text-white/40 text-sm mb-2">رابط الانضمام</p>
                   <p className="text-white/80 text-sm break-all leading-7">{teamLink}</p>
                 </div>
