@@ -16,6 +16,16 @@ services:
       timeout: 5s
       retries: 20
 
+  soketi:
+    image: quay.io/soketi/soketi:latest-16-alpine
+    restart: unless-stopped
+    environment:
+      SOKETI_DEFAULT_APP_ID: ${SOKETI_APP_ID:-sahwla}
+      SOKETI_DEFAULT_APP_KEY: ${SOKETI_APP_KEY:-local-app-key}
+      SOKETI_DEFAULT_APP_SECRET: ${SOKETI_APP_SECRET:-local-app-secret}
+    ports:
+      - "6001:6001"
+
   app:
     build:
       context: .
@@ -25,6 +35,16 @@ services:
       - .env
     environment:
       DATABASE_URL: postgresql://postgres:postgres@db:5432/sahwala?schema=public
+      SOKETI_APP_ID: ${SOKETI_APP_ID:-sahwla}
+      SOKETI_APP_KEY: ${SOKETI_APP_KEY:-local-app-key}
+      SOKETI_APP_SECRET: ${SOKETI_APP_SECRET:-local-app-secret}
+      SOKETI_HOST: soketi
+      SOKETI_PORT: 6001
+      SOKETI_USE_TLS: "false"
+      NEXT_PUBLIC_SOKETI_APP_KEY: ${NEXT_PUBLIC_SOKETI_APP_KEY:-local-app-key}
+      NEXT_PUBLIC_SOKETI_HOST: ${NEXT_PUBLIC_SOKETI_HOST:-localhost}
+      NEXT_PUBLIC_SOKETI_PORT: ${NEXT_PUBLIC_SOKETI_PORT:-6001}
+      NEXT_PUBLIC_SOKETI_TLS: ${NEXT_PUBLIC_SOKETI_TLS:-false}
     volumes:
       - .:/app
       - /app/node_modules
@@ -33,6 +53,8 @@ services:
     depends_on:
       db:
         condition: service_healthy
+      soketi:
+        condition: service_started
 
 volumes:
   postgres_data:

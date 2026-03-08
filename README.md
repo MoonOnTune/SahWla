@@ -6,6 +6,7 @@ Self-hosted web app for the game with wallet credits, UPayments checkout, and se
 - Next.js App Router (TypeScript)
 - Auth.js (NextAuth v5) + Prisma Adapter
 - Postgres + Prisma
+- Soketi (self-hosted Pusher-compatible realtime)
 - UPayments integration (charge + webhook + server-to-server status verification)
 
 ## Implemented Routes
@@ -64,6 +65,28 @@ Copy `.env.example` to `.env` and set values.
 2. Start:
    - `docker compose -f docker-compose.yml -f docker-compose.prod.yml up --build -d`
 3. App listens on port `3000`.
+
+## Realtime For Special Mode
+- `Special Mode` uses a self-hosted `soketi` server for host/team phone sync.
+- Local development:
+  - `docker compose up --build`
+  - app runs on `http://localhost:3000`
+  - soketi runs on `ws://localhost:6001`
+- Production compose:
+  - `web` runs the Next.js app
+  - `app` is an Nginx reverse proxy
+  - `/app/...` websocket requests are proxied to `soketi`
+- Required env vars:
+  - `SOKETI_APP_ID`
+  - `SOKETI_APP_KEY`
+  - `SOKETI_APP_SECRET`
+  - `SOKETI_HOST`
+  - `SOKETI_PORT`
+  - `SOKETI_USE_TLS`
+  - `NEXT_PUBLIC_SOKETI_APP_KEY`
+  - `NEXT_PUBLIC_SOKETI_HOST`
+  - `NEXT_PUBLIC_SOKETI_PORT`
+  - `NEXT_PUBLIC_SOKETI_TLS`
 
 ## Local Dev Without Docker
 1. Ensure Postgres is running and `DATABASE_URL` is valid.
